@@ -1,705 +1,705 @@
 #EXTM3U url-tvg="https://iptv-sniper.herokuapp.com/iptv-sniper.xml.gz"
-#EXTINF:-1 tvg-name="Jeppney TV"tvg-id="JeepneyTV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Jeepneytvnewlogo2015.jpg/512px-Jeepneytvnewlogo2015.jpg"group-title="Local TV",Jeepney TV
+#EXTINF:-1  tvg-name="Jeppney TV" tvg-id="JeepneyTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Jeepneytvnewlogo2015.jpg/512px-Jeepneytvnewlogo2015.jpg" group-title="Local TV",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
-#EXTINF:-1 tvg-name="Kapamilya Channel"tvg-id="KapamilyaChannel.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png"group-title="Local TV",Kapamilya Channel
+#EXTINF:-1  tvg-name="Kapamilya Channel" tvg-id="KapamilyaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="Local TV",Kapamilya Channel
 https://tiny.one/kapchacdn
-#EXTINF:-1 tvg-name="TFC"tvg-id="TheFilipinoChannelAsia.us"tvg-logo="https://i.imgur.com/waE1BeJ.png"group-title="Local TV",TFC
+#EXTINF:-1  tvg-name="TFC" tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Local TV",TFC
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
-#EXTINF:-1 tvg-name="PTV"tvg-id="PTV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/512px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png"group-title="Local TV",PTV
+#EXTINF:-1  tvg-name="PTV" tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/512px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="Local TV",PTV
 https://utube2.fotvnetwork.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
-#EXTINF:-1 tvg-name="Kapatid TV 5"tvg-id="KapatidTV5.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png"group-title="Local TV",Kapatid TV 5
+#EXTINF:-1  tvg-name="Kapatid TV 5" tvg-id="KapatidTV5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="Local TV",Kapatid TV 5
 https://iptv-sniper.herokuapp.com/localtv.php?channel=8
-#EXTINF:-1 tvg-name="GMA Life TV"tvg-id="GMALifeTV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png"group-title="Local TV",GMA Life TV
+#EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMALifeTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Local TV",GMA Life TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=41228&extension=ts&play_token=OtpXkMLTQR
-#EXTINF:-1 tvg-name="GMA Pinoy TV"tvg-id="GMAPinoyTV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png"group-title="Local TV",GMA Pinoy TV
+#EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMAPinoyTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Local TV",GMA Pinoy TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=33269&extension=ts&play_token=o99Hf0NZEo
-#EXTINF:-1 tvg-name="GMA TV"tvg-id="GMATV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png"group-title="Local TV",GMA TV
+#EXTINF:-1  tvg-name="GMA TV" tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="Local TV",GMA TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=5
-#EXTINF:-1 tvg-name="GTV"tvg-id="GTV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png"group-title="Local TV",GTV
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local TV",GTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=7
-#EXTINF:-1 tvg-name="IBC 13"tvg-id="IBC13.ph"tvg-logo="https://www.lyngsat.com/logo/tv/ii/ibc_13_ph.png"group-title="Local TV",IBC 13
+#EXTINF:-1  tvg-name="IBC 13" tvg-id="IBC13.ph" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ibc_13_ph.png" group-title="Local TV",IBC 13
 http://user.scalecdn.co:8080/live/Alicia/Alicia/567720.m3u8
-#EXTINF:-1 tvg-name="INC TV"tvg-id="INCTV.ph"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png"group-title="Local TV",INC TV
+#EXTINF:-1  tvg-name="INC TV" tvg-id="INCTV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png" group-title="Local TV",INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
-#EXTINF:-1 tvg-name="Knowledge Channel"tvg-id="KnowledgeChannel.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knowledge-channel.png/512px-Knowledge-channel.png"group-title="Local TV",Knowledge Channel
+#EXTINF:-1  tvg-name="Knowledge Channel" tvg-id="KnowledgeChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knowledge-channel.png/512px-Knowledge-channel.png" group-title="Local TV",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
-#EXTINF:-1 tvg-name="Net 25"tvg-id="Net25.ph"tvg-logo="https://i.imgur.com/dkDV4UZ.png"group-title="Local TV",Net 25
+#EXTINF:-1  tvg-name="Net 25" tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV",Net 25
 http://ky-iptv.com:25461/live/abc123456/abc123456/1806799.ts
-#EXTINF:-1 tvg-name="One PH"tvg-id="OnePH.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/512px-OnePHCignal.svg.png"group-title="Local TV",One PH
+#EXTINF:-1  tvg-name="One PH" tvg-id="OnePH.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/512px-OnePHCignal.svg.png" group-title="Local TV",One PH
 https://iptv-sniper.herokuapp.com/localtv.php?channel=42
-#EXTINF:-1 tvg-name="Sari Sari Channel"tvg-id="SariSariChannel.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png"group-title="Local TV",Sari Sari Channel
+#EXTINF:-1  tvg-name="Sari Sari Channel" tvg-id="SariSariChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="Local TV",Sari Sari Channel
 http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
-#EXTINF:-1 tvg-name="SMNI"tvg-id="SMNI.ph"tvg-logo="https://i.imgur.com/p3KeNAm.png"group-title="Local TV",SMNI
+#EXTINF:-1  tvg-name="SMNI" tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/p3KeNAm.png" group-title="Local TV",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1 tvg-name="&flix HD"tvg-id="Andflix.in"tvg-logo="https://i.imgur.com/K8FJgai.png"group-title="Movies & Series",&flix HD
+#EXTINF:-1  tvg-name="&flix HD" tvg-id="Andflix.in" tvg-logo="https://i.imgur.com/K8FJgai.png" group-title="Movies & Series",&flix HD
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862616&extension=ts&play_token=s4jLZ6jSzd
-#EXTINF:-1 tvg-name="&privé HD"tvg-id="AndpriveHD.in"tvg-logo="https://i.imgur.com/qyyUlg3.png"group-title="Movies & Series",&privé HD
+#EXTINF:-1  tvg-name="&privé HD" tvg-id="AndpriveHD.in" tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Movies & Series",&privé HD
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862618&extension=ts&play_token=mPp0f8PKx4
-#EXTINF:-1 tvg-name="AMC"tvg-id="AMCEast.us"tvg-logo="https://i.imgur.com/RBKx6Fx.png"group-title="Movies & Series",AMC
+#EXTINF:-1  tvg-name="AMC" tvg-id="AMCEast.us" tvg-logo="https://i.imgur.com/RBKx6Fx.png" group-title="Movies & Series",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-name="Celestial Movies Pinoy"tvg-id="CelestialMoviesPinoy.hk"tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-default.png"group-title="Movies & Series",Celestial Movies Pinoy
+#EXTINF:-1  tvg-name="Celestial Movies Pinoy" tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-default.png" group-title="Movies & Series",Celestial Movies Pinoy
 http://tiny.one/celestialpinoy
-#EXTINF:-1 tvg-name="Cinema One"tvg-id="CinemaOneGlobal.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png"group-title="Movies & Series",Cinema One
+#EXTINF:-1  tvg-name="Cinema One" tvg-id="CinemaOneGlobal.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies & Series",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
-#EXTINF:-1 tvg-name="Cine Mo!"tvg-id="CineMoGlobal.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png"group-title="Movies & Series",Cine Mo!
+#EXTINF:-1  tvg-name="Cine Mo!" tvg-id="CineMoGlobal.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Movies & Series",Cine Mo!
 https://tiny.one/cinemocdn1
-#EXTINF:-1 tvg-name="CineLife"tvg-id="CineLife.us"tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA"group-title="Movies & Series",CineLife
+#EXTINF:-1  tvg-name="CineLife" tvg-id="CineLife.us" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Movies & Series",CineLife
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="Cinemax"tvg-id="CinemaxSingapore.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"group-title="Movies & Series",Cinemax
+#EXTINF:-1  tvg-name="Cinemax" tvg-id="CinemaxSingapore.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies & Series",Cinemax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=16
-#EXTINF:-1 tvg-name="Cinemax"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/N9V9x2VhaswU4kbIECGMCTlFLiYINuOcinemax.jpg"group-title="Movies & Series",Cinemax
+#EXTINF:-1  tvg-name="Cinemax" tvg-id="" tvg-logo="https://iptv4k.tv/images/tv/N9V9x2VhaswU4kbIECGMCTlFLiYINuOcinemax.jpg" group-title="Movies & Series",Cinemax
 http://cdnprox.com:8080/tvprox432/643258/11880
-#EXTINF:-1 tvg-name="HBO"tvg-id="HBOMalaysia.my"tvg-logo="https://i.imgur.com/EnA2RcD.png"group-title="Movies & Series",HBO
+#EXTINF:-1  tvg-name="HBO" tvg-id="HBOMalaysia.my" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Movies & Series",HBO
 https://iptv-sniper.herokuapp.com/localtv.php?channel=15
-#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO2East.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png"group-title="Movies & Series",HBO 2
+#EXTINF:-1  tvg-name="HBO 2" tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies & Series",HBO 2
 http://moontools.me:8080//FNmdP2U7ey/HZQzvGgaPe/28781
-#EXTINF:-1 tvg-name="HBO Family HD"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/BXmumGIfXKMgvSWGHeH7msp18WmkkPfhbo-family.jpg"group-title="Movies & Series",HBO Family HD
+#EXTINF:-1  tvg-name="HBO Family HD" tvg-id="" tvg-logo="https://iptv4k.tv/images/tv/BXmumGIfXKMgvSWGHeH7msp18WmkkPfhbo-family.jpg" group-title="Movies & Series",HBO Family HD
 http://cdnprox.com:8080/tvprox432/643258/11878
-#EXTINF:-1 tvg-name="HBO HD"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/WJvB7rrK8WunMA4lFKzbZiy7TSzpuVnhbo.jpg"group-title="Movies & Series",HBO HD
+#EXTINF:-1  tvg-name="HBO HD" tvg-id="" tvg-logo="https://iptv4k.tv/images/tv/WJvB7rrK8WunMA4lFKzbZiy7TSzpuVnhbo.jpg" group-title="Movies & Series",HBO HD
 http://cdnprox.com:8080/tvprox432/643258/11876
-#EXTINF:-1 tvg-name="HBO HITS HD"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/UtGXSuBO8pbzaJhN8NaCpCQhMcPGycPHbo-hits.jpg"group-title="Movies & Series",HBO HITS HD
+#EXTINF:-1  tvg-name="HBO HITS HD" tvg-id="" tvg-logo="https://iptv4k.tv/images/tv/UtGXSuBO8pbzaJhN8NaCpCQhMcPGycPHbo-hits.jpg" group-title="Movies & Series",HBO HITS HD
 http://cdnprox.com:8080/tvprox432/643258/11877
-#EXTINF:-1 tvg-name="HBO signature HD"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/oJ7Np8UFOWoHeMtt6O66fFeOxe6Q84dHbo-Signature.jpg"group-title="Movies & Series",HBO signature HD
+#EXTINF:-1  tvg-name="HBO signature HD" tvg-id="" tvg-logo="https://iptv4k.tv/images/tv/oJ7Np8UFOWoHeMtt6O66fFeOxe6Q84dHbo-Signature.jpg" group-title="Movies & Series",HBO signature HD
 http://cdnprox.com:8080/tvprox432/643258/11879
-#EXTINF:-1 tvg-name="Hits"tvg-id="Hits.sg"tvg-logo="https://i.imgur.com/YeqyD9W.png"group-title="Movies & Series",Hits
+#EXTINF:-1  tvg-name="Hits" tvg-id="Hits.sg" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies & Series",Hits
 http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/01.m3u8
-#EXTINF:-1 tvg-name="HITS"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/IViPz40fTLALdEeNWNTnFyyzI2CTiwLhit.jpg"group-title="Movies & Series",HITS
+#EXTINF:-1  tvg-name="HITS" tvg-id="" tvg-logo="https://iptv4k.tv/images/tv/IViPz40fTLALdEeNWNTnFyyzI2CTiwLhit.jpg" group-title="Movies & Series",HITS
 http://cdnprox.com:8080/tvprox432/643258/11893
-#EXTINF:-1 tvg-name="Hits Movies"tvg-id="HitsMovies.sg"tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png"group-title="Movies & Series",Hits Movies
+#EXTINF:-1  tvg-name="Hits Movies" tvg-id="HitsMovies.sg" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies & Series",Hits Movies
 https://iptv-sniper.herokuapp.com/localtv.php?channel=22
-#EXTINF:-1 tvg-name="Hits movie"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/GC4qmOCKR9AWud81sKn2N4mN4UFA9bxhitsmovies.jpg"group-title="Movies & Series",Hits Movies
+#EXTINF:-1  tvg-name="Hits Movies" tvg-id="" tvg-logo="https://iptv4k.tv/images/tv/GC4qmOCKR9AWud81sKn2N4mN4UFA9bxhitsmovies.jpg" group-title="Movies & Series",Hits Movies
 http://cdnprox.com:8080/tvprox432/643258/11894
-#EXTINF:-1 tvg-name="MovieSphere"tvg-id="MovieSphere.us"tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png"group-title="Movies & Series",MovieSphere
+#EXTINF:-1  tvg-name="MovieSphere" tvg-id="MovieSphere.us" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies & Series",MovieSphere
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
-#EXTINF:-1 tvg-name="MyTime movie network"tvg-id="MyTimemovienetwork.us"tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png"group-title="Movies & Series",MyTime movie network
+#EXTINF:-1  tvg-name="MyTime movie network" tvg-id="MyTimemovienetwork.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies & Series",MyTime movie network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Paramount Network"tvg-id="ParamountNetworkSingapore.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"group-title="Movies & Series",Paramount Network
+#EXTINF:-1  tvg-name="Paramount Network" tvg-id="ParamountNetworkSingapore.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies & Series",Paramount Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=59
-#EXTINF:-1 tvg-name="PBO"tvg-id="PBO.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png"group-title="Movies & Series",PBO
+#EXTINF:-1  tvg-name="PBO" tvg-id="PBO.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Movies & Series",PBO
 https://iptv-sniper.herokuapp.com/localtv.php?channel=12
-#EXTINF:-1 tvg-name="Rialto"tvg-id="Rialto.nz"tvg-logo="https://i.imgur.com/RnzWT9C.jpg"group-title="Movies & Series",Rialto
+#EXTINF:-1  tvg-name="Rialto" tvg-id="Rialto.nz" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" group-title="Movies & Series",Rialto
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rush by AMC"tvg-id="RushbyAMC.us"tvg-logo="https://i.imgur.com/yngqRL8.png"group-title="Movies & Series",Rush by AMC
+#EXTINF:-1  tvg-name="Rush by AMC" tvg-id="RushbyAMC.us" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies & Series",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="STIRR Movies"tvg-id="STIRRMovies.us"tvg-logo="https://i.imgur.com/ec3yTaI.png"group-title="Movies & Series",STIRR Movies
+#EXTINF:-1  tvg-name="STIRR Movies" tvg-id="STIRRMovies.us" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies & Series",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-name="TMC"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png"group-title="Movies & Series",TMC
+#EXTINF:-1  tvg-name="TMC" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Movies & Series",TMC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=9
-#EXTINF:-1 tvg-name="USA Network"tvg-id="USANetworkEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png"group-title="Movies & Series",USA Network
+#EXTINF:-1  tvg-name="USA Network" tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Movies & Series",USA Network
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/3390
-#EXTINF:-1 tvg-name="Viva"tvg-id="VivaCinema.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg"group-title="Movies & Series",VivaCinema
+#EXTINF:-1  tvg-name="Viva" tvg-id="VivaCinema.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Movies & Series",VivaCinema
 https://iptv-sniper.herokuapp.com/localtv.php?channel=13
-#EXTINF:-1 tvg-name="Warner TV"tvg-id="WarnerTVSoutheastAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"group-title="Movies & Series",Warner TV
+#EXTINF:-1  tvg-name="Warner TV" tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Movies & Series",Warner TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=21
-#EXTINF:-1 tvg-name="Stories by AMC"tvg-id="StoriesbyAMC.us"tvg-logo="https://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png"group-title="Lifestyle & Entertainment",Stories by AMC
+#EXTINF:-1  tvg-name="Stories by AMC" tvg-id="StoriesbyAMC.us" tvg-logo="https://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="Lifestyle & Entertainment",Stories by AMC
 https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
-#EXTINF:-1 tvg-name="Asian Food Network"tvg-id="AsianFoodNetwork.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png"group-title="Lifestyle & Entertainment",Asian Food Network
+#EXTINF:-1  tvg-name="Asian Food Network" tvg-id="AsianFoodNetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png" group-title="Lifestyle & Entertainment",Asian Food Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=63
-#EXTINF:-1 tvg-name="AXN"tvg-id="AXNHongKong.hk"tvg-logo="https://i.imgur.com/OO6mWTx.png"group-title="Lifestyle & Entertainment",AXN
+#EXTINF:-1  tvg-name="AXN" tvg-id="AXNHongKong.hk" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Lifestyle & Entertainment",AXN
 https://iptv-sniper.herokuapp.com/localtv.php?channel=62
-#EXTINF:-1 tvg-name="AXN HD"tvg-id="AXNEastAsia.us"tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/axn-png-4.png"group-title="Lifestyle & Entertainment",AXN HD
+#EXTINF:-1  tvg-name="AXN HD" tvg-id="AXNEastAsia.us" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/axn-png-4.png" group-title="Lifestyle & Entertainment",AXN HD
 http://cdnprox.com:8080/tvprox432/643258/11883
-#EXTINF:-1 tvg-name="Food network"tvg-id="FoodNetworkAsia.sg"tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png"group-title="Lifestyle & Entertainment",Food network
+#EXTINF:-1  tvg-name="Food network" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png" group-title="Lifestyle & Entertainment",Food network
 http://cdnprox.com:8080/tvprox432/643258/11728
-#EXTINF:-1 tvg-name="BLUE ANT ENTERTAINMENT"tvg-id="RockEntertainment.sg"tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/886f43a6-7655-4bdc-a4c2-4824667a980f.png"group-title="Lifestyle & Entertainment",BLUE ANT ENTERTAINMENT
+#EXTINF:-1  tvg-name="BLUE ANT ENTERTAINMENT" tvg-id="RockEntertainment.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/886f43a6-7655-4bdc-a4c2-4824667a980f.png" group-title="Lifestyle & Entertainment",BLUE ANT ENTERTAINMENT
 http://cdnprox.com:8080/tvprox432/643258/11721
-#EXTINF:-1 tvg-name="BLUE ANT EXTREME"tvg-id="RockExtreme.sg"tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f2e16412-98be-40a4-8690-74fd2ba059fc.png"group-title="Lifestyle & Entertainment",BLUE ANT EXTREME
+#EXTINF:-1  tvg-name="BLUE ANT EXTREME" tvg-id="RockExtreme.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f2e16412-98be-40a4-8690-74fd2ba059fc.png" group-title="Lifestyle & Entertainment",BLUE ANT EXTREME
 http://cdnprox.com:8080/tvprox432/643258/11722
-#EXTINF:-1 tvg-name="C31 Melbourne"tvg-id="C31Melbourne.au"tvg-logo="https://i.imgur.com/Ge1EutY.png"group-title="Lifestyle & Entertainment",C31 Melbourne
+#EXTINF:-1  tvg-name="C31 Melbourne" tvg-id="C31Melbourne.au" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Lifestyle & Entertainment",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-name="Crime + Investigation"tvg-id="CrimePlusInvestigationAsia.us"tvg-logo="https://i.imgur.com/KeM5KlR.png"group-title="Lifestyle & Entertainment",Crime + Investigation
+#EXTINF:-1  tvg-name="Crime + Investigation" tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Lifestyle & Entertainment",Crime + Investigation
 https://iptv-sniper.herokuapp.com/localtv.php?channel=35
-#EXTINF:-1 tvg-name="FashionTV"tvg-id="FashionTVAsia.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"group-title="Lifestyle & Entertainment",FashionTV
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="FashionTVAsia.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Entertainment",FashionTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=96
-#EXTINF:-1 tvg-name="Game Show Central"tvg-id="GameShowCentral.us"tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png"group-title="Lifestyle & Entertainment",Game Show Central
+#EXTINF:-1  tvg-name="Game Show Central" tvg-id="GameShowCentral.us" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Lifestyle & Entertainment",Game Show Central
 https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8
-#EXTINF:-1 tvg-name="Gusto TV"tvg-id="GustoTV.au"tvg-logo="https://i.imgur.com/ygVGi3s.png"group-title="Lifestyle & Entertainment",Gusto TV
+#EXTINF:-1  tvg-name="Gusto TV" tvg-id="GustoTV.au" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Lifestyle & Entertainment",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="HGTV"tvg-id="HGTVAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/512px-HGTV_2010.svg.png"group-title="Lifestyle & Entertainment",HGTV
+#EXTINF:-1  tvg-name="HGTV" tvg-id="HGTVAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/512px-HGTV_2010.svg.png" group-title="Lifestyle & Entertainment",HGTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=87
-#EXTINF:-1 tvg-name="Just Fun"tvg-id=""tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113190113justfun.png"group-title="Lifestyle & Entertainment",Just Fun
+#EXTINF:-1  tvg-name="Just Fun" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113190113justfun.png" group-title="Lifestyle & Entertainment",Just Fun
 http://cdnprox.com:8080/tvprox432/643258/37607
-#EXTINF:-1 tvg-name="Lifetime"tvg-id="LifetimeAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"group-title="Lifestyle & Entertainment",Lifetime
+#EXTINF:-1  tvg-name="Lifetime" tvg-id="LifetimeAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Lifestyle & Entertainment",Lifetime
 https://iptv-sniper.herokuapp.com/localtv.php?channel=55
-#EXTINF:-1 tvg-name="Lifetime"tvg-id=""tvg-logo="https://www.iptv4k.tv/images/tv/ZUp6QNgJ6wbRFOVrueXzm4yvyDGsOqsunnamed_(3).jpg"group-title="Lifestyle & Entertainment",Lifetime
+#EXTINF:-1  tvg-name="Lifetime" tvg-id="" tvg-logo="https://www.iptv4k.tv/images/tv/ZUp6QNgJ6wbRFOVrueXzm4yvyDGsOqsunnamed_(3).jpg" group-title="Lifestyle & Entertainment",Lifetime
 http://cdnprox.com:8080/tvprox432/643258/31276
-#EXTINF:-1 tvg-name="Metro Channel"tvg-id="MetroChannel.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Metro_Channel_logo.png"group-title="Lifestyle & Entertainment",Metro Channel
+#EXTINF:-1  tvg-name="Metro Channel" tvg-id="MetroChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Metro_Channel_logo.png" group-title="Lifestyle & Entertainment",Metro Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=58
-#EXTINF:-1 tvg-name="Rock Entertainment"tvg-id="RockEntertainment.sg"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942"group-title="Lifestyle & Entertainment",Rock Entertainment
+#EXTINF:-1  tvg-name="Rock Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942" group-title="Lifestyle & Entertainment",Rock Entertainment
 https://iptv-sniper.herokuapp.com/localtv.php?channel=56
-#EXTINF:-1 tvg-name="Rock Extreme"tvg-id="RockExtreme.sg"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/RockExtreme.png/revision/latest?cb=20210911032825"group-title="Lifestyle & Entertainment",Rock Extreme
+#EXTINF:-1  tvg-name="Rock Extreme" tvg-id="RockExtreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/RockExtreme.png/revision/latest?cb=20210911032825" group-title="Lifestyle & Entertainment",Rock Extreme
 https://iptv-sniper.herokuapp.com/localtv.php?channel=57
-#EXTINF:-1 tvg-name="TLC"tvg-id="TLCSoutheastAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/512px-TLC-Logo_2016.svg.png"group-title="Lifestyle & Entertainment",TLC
+#EXTINF:-1  tvg-name="TLC" tvg-id="TLCSoutheastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/512px-TLC-Logo_2016.svg.png" group-title="Lifestyle & Entertainment",TLC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=47
-#EXTINF:-1 tvg-name="TNT"tvg-id="TNTEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png"group-title="Lifestyle & Entertainment",TNT
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Lifestyle & Entertainment",TNT
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/769
-#EXTINF:-1 tvg-name="Travel Channel"tvg-id="TravelChannelAsia.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/512px-2018_Travel_Channel_logo.svg.png"group-title="Lifestyle & Entertainment",Travel Channel
+#EXTINF:-1  tvg-name="Travel Channel" tvg-id="TravelChannelAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/512px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle & Entertainment",Travel Channel
 http://user.scalecdn.co:8080/live/Alicia/Alicia/567747.m3u8
-#EXTINF:-1 tvg-name="Vice"tvg-id="ViceTV.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png"group-title="Lifestyle & Entertainment",Vice
+#EXTINF:-1  tvg-name="Vice" tvg-id="ViceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Lifestyle & Entertainment",Vice
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC TV"tvg-id="ABCAustraliaAsia.au"tvg-logo="https://i.imgur.com/rLCHYCs.png"group-title="News & Culture",ABC TV
+#EXTINF:-1  tvg-name="ABC TV" tvg-id="ABCAustraliaAsia.au" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="News & Culture",ABC TV
 https://c.mjh.nz/101002510251/
-#EXTINF:-1 tvg-name="Al Jazeera"tvg-id="AlJazeeraEnglish.qa"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"group-title="News & Culture",Al Jazeera
+#EXTINF:-1  tvg-name="Al Jazeera" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News & Culture",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="ANC"tvg-id="ANC.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/512px-ANClogo2014.svg.png"group-title="News & Culture",ANC
+#EXTINF:-1  tvg-name="ANC" tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/512px-ANClogo2014.svg.png" group-title="News & Culture",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
-#EXTINF:-1 tvg-name="Australia Channel"tvg-id="AustraliaChannel.au"tvg-logo="https://i.imgur.com/NI0AeNH.png"group-title="News & Culture",Australia Channel
+#EXTINF:-1  tvg-name="Australia Channel" tvg-id="AustraliaChannel.au" tvg-logo="https://i.imgur.com/NI0AeNH.png" group-title="News & Culture",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-name="BBC World News"tvg-id="BBCWorldNewsAsiaPacific.uk"tvg-logo="https://i.imgur.com/rPzH88J.png"group-title="News & Culture",BBC World News
+#EXTINF:-1  tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="News & Culture",BBC World News
 https://iptv-sniper.herokuapp.com/localtv.php?channel=40
-#EXTINF:-1 tvg-name="Bloomberg TV"tvg-id="BloombergTVAsiaPacific.hk"tvg-logo="https://i.imgur.com/2r7utRt.png"group-title="News & Culture",Bloomberg TV
+#EXTINF:-1  tvg-name="Bloomberg TV" tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="News & Culture",Bloomberg TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=44
-#EXTINF:-1 tvg-name="Cheddar"tvg-id="Cheddar.us"tvg-logo="https://i.imgur.com/YN7O7aI.png"group-title="News & Culture",Cheddar
+#EXTINF:-1  tvg-name="Cheddar" tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/YN7O7aI.png" group-title="News & Culture",Cheddar
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN"tvg-id="CGTN.cn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"group-title="News & Culture",CGTN
+#EXTINF:-1  tvg-name="CGTN" tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News & Culture",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="CNA"tvg-id="CNA.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png"group-title="News & Culture",CNA
+#EXTINF:-1  tvg-name="CNA" tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="News & Culture",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-name="CNBC"tvg-id="CNBCAsia.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png"group-title="News & Culture",CNBC
+#EXTINF:-1  tvg-name="CNBC" tvg-id="CNBCAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="News & Culture",CNBC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=43
-#EXTINF:-1 tvg-name="CNN"tvg-id="CNN.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png"group-title="News & Culture",CNN
+#EXTINF:-1  tvg-name="CNN" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News & Culture",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Philippines"tvg-id="CNNPhilippines.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png"group-title="News & Culture",CNN Philippines
+#EXTINF:-1  tvg-name="CNN Philippines" tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="News & Culture",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="DW"tvg-id="DWEnglish.de"tvg-logo="https://i.imgur.com/1B4XjYf.png"group-title="News & Culture",DW
+#EXTINF:-1  tvg-name="DW" tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/1B4XjYf.png" group-title="News & Culture",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-name="Fox News"tvg-id="FoxNewsChannel.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"group-title="News & Culture",Fox News
+#EXTINF:-1  tvg-name="Fox News" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News & Culture",Fox News
 https://iptv-sniper.herokuapp.com/localtv.php?channel=39
-#EXTINF:-1 tvg-name="France 24"tvg-id="France24English.fr"tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg"group-title="News & Culture",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="France24English.fr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="News & Culture",France 24
 https://iptv-sniper.herokuapp.com/localtv.php?channel=95
-#EXTINF:-1 tvg-name="GMA News TV"tvg-id="GMANewsTV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/512px-GMA_News_TV_Logo_Vector.svg.png"group-title="News & Culture",GMA News TV
+#EXTINF:-1  tvg-name="GMA News TV" tvg-id="GMANewsTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/512px-GMA_News_TV_Logo_Vector.svg.png" group-title="News & Culture",GMA News TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=33270&extension=ts&play_token=wY4LMv3TMk
-#EXTINF:-1 tvg-name="HLN"tvg-id="HLN.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png"group-title="News & Culture",HLN
+#EXTINF:-1  tvg-name="HLN" tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News & Culture",HLN
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="MSNBC"tvg-id="MSNBC.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/512px-MSNBC_2021.svg.png"group-title="News & Culture",MSNBC
+#EXTINF:-1  tvg-name="MSNBC" tvg-id="MSNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/512px-MSNBC_2021.svg.png" group-title="News & Culture",MSNBC
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/406
-#EXTINF:-1 tvg-name="Newsmax TV"tvg-id="NewsmaxTV.us"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Newsmax2021.svg/512px-Newsmax2021.svg.png"group-title="News & Culture",Newsmax TV
+#EXTINF:-1  tvg-name="Newsmax TV" tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Newsmax2021.svg/512px-Newsmax2021.svg.png" group-title="News & Culture",Newsmax TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8
-#EXTINF:-1 tvg-name="NHK World Japan"tvg-id="NHKWorldJapan.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"group-title="News & Culture",NHK World Japan
+#EXTINF:-1  tvg-name="NHK World Japan" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News & Culture",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-name="RT News"tvg-id="RTNews.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png"group-title="News & Culture",RT News
+#EXTINF:-1  tvg-name="RT News" tvg-id="RTNews.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png" group-title="News & Culture",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT World"tvg-id="TRTWorld.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"group-title="News & Culture",TRT World
+#EXTINF:-1  tvg-name="TRT World" tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News & Culture",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="UNTV"tvg-id="UNTV.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/512px-UNTV-Logo-2016.svg.png"group-title="News & Culture",UNTV
+#EXTINF:-1  tvg-name="UNTV" tvg-id="UNTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/512px-UNTV-Logo-2016.svg.png" group-title="News & Culture",UNTV
 https://utube2.fotvnetwork.workers.dev/stream/UC3XaG-7UVi2vD8ZZEMNnnpw/master.m3u8
-#EXTINF:-1 tvg-name="Arirang"tvg-id="ArirangTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png"group-title="Korean Entertainment",Arirang
+#EXTINF:-1  tvg-name="Arirang" tvg-id="ArirangTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="Korean Entertainment",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CJ ENM"tvg-id="KContentbyCJENM.us"tvg-logo="https://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png"group-title="Korean Entertainment",CJ ENM
+#EXTINF:-1  tvg-name="CJ ENM" tvg-id="KContentbyCJENM.us" tvg-logo="https://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png" group-title="Korean Entertainment",CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="KBS World"tvg-id="KBSWorld"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/512px-KBS_World_(2009).svg.png"group-title="Korean Entertainment",KBS World
+#EXTINF:-1  tvg-name="KBS World" tvg-id="KBSWorld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/512px-KBS_World_(2009).svg.png" group-title="Korean Entertainment",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="tvN"tvg-id="TVNAsia.hk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"group-title="Korean Entertainment",tvN
+#EXTINF:-1  tvg-name="tvN" tvg-id="TVNAsia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Korean Entertainment",tvN
 https://iptv-sniper.herokuapp.com/localtv.php?channel=85
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id="AnimalPlanetHongKong.hk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"group-title="Science & Documentaries",Animal Planet
+#EXTINF:-1  tvg-name="Animal Planet" tvg-id="AnimalPlanetHongKong.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Science & Documentaries",Animal Planet
 https://iptv-sniper.herokuapp.com/localtv.php?channel=49
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id="AXNHDThailand.th"tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/sd-animalplanet.png"group-title="Science & Documentaries",Animal Planet
+#EXTINF:-1  tvg-name="Animal Planet" tvg-id="AXNHDThailand.th" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/sd-animalplanet.png" group-title="Science & Documentaries",Animal Planet
 http://cdnprox.com:8080/tvprox432/643258/26991
-#EXTINF:-1 tvg-name="BBC Earth"tvg-id="BBCEarthAsia.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png"group-title="Science & Documentaries",BBC Earth
+#EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Science & Documentaries",BBC Earth
 https://iptv-sniper.herokuapp.com/localtv.php?channel=33
-#EXTINF:-1 tvg-name="BBC Earth"tvg-id="BBCEarthAsia.uk"tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/sd-bbcearth.png"group-title="Science & Documentaries",BBC Earth
+#EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/sd-bbcearth.png" group-title="Science & Documentaries",BBC Earth
 http://cdnprox.com:8080/tvprox432/643258/26981
-#EXTINF:-1 tvg-name="BBC Lifestyle"tvg-id="BBCLifestyleAsia.uk"tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-bbclifestyle.png"group-title="Science & Documentaries",BBC Lifestyle
+#EXTINF:-1  tvg-name="BBC Lifestyle" tvg-id="BBCLifestyleAsia.uk" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-bbclifestyle.png" group-title="Science & Documentaries",BBC Lifestyle
 http://cdnprox.com:8080/tvprox432/643258/26982
-#EXTINF:-1 tvg-name="Discovery Asia"tvg-id="DiscoveryAsiaHongKong.hk"tvg-logo="https://i.imgur.com/l87dZmI.png"group-title="Science & Documentaries",Discovery Asia
+#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://i.imgur.com/l87dZmI.png" group-title="Science & Documentaries",Discovery Asia
 https://iptv-sniper.herokuapp.com/localtv.php?channel=46
-#EXTINF:-1 tvg-name="Discovery Asia"tvg-id="AXNHDThailand.th"tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-discovery.png"group-title="Science & Documentaries",Discovery Asia
+#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="AXNHDThailand.th" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-discovery.png" group-title="Science & Documentaries",Discovery Asia
 http://cdnprox.com:8080/tvprox432/643258/26980
-#EXTINF:-1 tvg-name="Discovery Channel"tvg-id="DiscoveryChannelHongKong.hk"tvg-logo="https://i.imgur.com/t6iJj37.png"group-title="Science & Documentaries",Discovery Channel
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Science & Documentaries",Discovery Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=45
-#EXTINF:-1 tvg-name="Discovery Channel"tvg-id="AXNHDThailand.th"tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/sd-discovery.png"group-title="Science & Documentaries",Discovery Channel
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="AXNHDThailand.th" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/sd-discovery.png" group-title="Science & Documentaries",Discovery Channel
 http://cdnprox.com:8080/tvprox432/643258/26979
-#EXTINF:-1 tvg-name="Discovery Science"tvg-id="DiscoveryScience.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png"group-title="Science & Documentaries",Discovery Science
+#EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScience.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="Science & Documentaries",Discovery Science
 http://moontools.me:8080//FNmdP2U7ey/HZQzvGgaPe/28860
-#EXTINF:-1 tvg-name="DMAX"tvg-id="DMAXAsia.sg"tvg-logo="https://i.ibb.co/3YHs0W9/image-removebg-preview.png"group-title="Science & Documentaries",DMAX
+#EXTINF:-1  tvg-name="DMAX" tvg-id="DMAXAsia.sg" tvg-logo="https://i.ibb.co/3YHs0W9/image-removebg-preview.png" group-title="Science & Documentaries",DMAX
 http://ky-iptv.com:80/Peaches1/Peaches1/2063022.ts
-#EXTINF:-1 tvg-name="History"tvg-id="HistoryAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"group-title="Science & Documentaries",History
+#EXTINF:-1  tvg-name="History" tvg-id="HistoryAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Science & Documentaries",History
 https://iptv-sniper.herokuapp.com/localtv.php?channel=53
-#EXTINF:-1 tvg-name=""tvg-id="LoveNature.ca"tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png"group-title="Science & Documentaries",Love Nature
+#EXTINF:-1  tvg-name="" tvg-id="LoveNature.ca" tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Science & Documentaries",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="Love Nature"tvg-id=""tvg-logo="https://www.iptv4k.tv/images/tv/WLvplOnBvFb9di47oYJgoZgEFocCkCwdownload.jpg"group-title="Science & Documentaries",Love Nature
+#EXTINF:-1  tvg-name="Love Nature" tvg-id="" tvg-logo="https://www.iptv4k.tv/images/tv/WLvplOnBvFb9di47oYJgoZgEFocCkCwdownload.jpg" group-title="Science & Documentaries",Love Nature
 http://cdnprox.com:8080/tvprox432/643258/26990
-#EXTINF:-1 tvg-name="National Geographic Channel"tvg-id="NationalGeographicMalaysia.my"tvg-logo="https://i.imgur.com/vKEqKFS.png"group-title="Science & Documentaries",National Geographic Channel
+#EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="NationalGeographicMalaysia.my" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Science & Documentaries",National Geographic Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=64
-#EXTINF:-1 tvg-name="National Geographic"tvg-id=""tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-natgeo.png"group-title="Science & Documentaries",National Geographic
+#EXTINF:-1  tvg-name="National Geographic" tvg-id="" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-natgeo.png" group-title="Science & Documentaries",National Geographic
 http://cdnprox.com:8080/tvprox432/643258/26985
-#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="NationalGeographicWildMalaysia.my"tvg-logo="https://i.imgur.com/2DIGjSm.png"group-title="Science & Documentaries",Nat Geo Wild
+#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/2DIGjSm.png" group-title="Science & Documentaries",Nat Geo Wild
 https://iptv-sniper.herokuapp.com/localtv.php?channel=51
-#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id=""tvg-logo="https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png"group-title="Science & Documentaries",Nat Geo Wild
+#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="" tvg-logo="https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png" group-title="Science & Documentaries",Nat Geo Wild
 http://cdnprox.com:8080/tvprox432/643258/26986
-#EXTINF:-1 tvg-name="MY SCI"tvg-id=""tvg-logo="https://www.iptv4k.tv/images/tv/8smjZbwM3thB4QShj4npoje9WIzJ1rYmy_sci.png"group-title="Science & Documentaries",MY SCI
+#EXTINF:-1  tvg-name="MY SCI" tvg-id="" tvg-logo="https://www.iptv4k.tv/images/tv/8smjZbwM3thB4QShj4npoje9WIzJ1rYmy_sci.png" group-title="Science & Documentaries",MY SCI
 http://cdnprox.com:8080/tvprox432/643258/26988
-#EXTINF:-1 tvg-name="Outdoor Channel"tvg-id="OutdoorChannel"tvg-logo="https://i.imgur.com/Kh4MWaY.png"group-title="Science & Documentaries",Outdoor Channel
+#EXTINF:-1  tvg-name="Outdoor Channel" tvg-id="OutdoorChannel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Science & Documentaries",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Stories"tvg-id="RealStories.au"tvg-logo="https://i.imgur.com/KOkWP6i.jpg"group-title="Science & Documentaries",Real Stories
+#EXTINF:-1  tvg-name="Real Stories" tvg-id="RealStories.au" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="Science & Documentaries",Real Stories
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RT Documentary"tvg-id="RTDocumentary.ru"tvg-logo="https://i.imgur.com/1Ltaei8.png"group-title="Science & Documentaries",RT Documentary
+#EXTINF:-1  tvg-name="RT Documentary" tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/1Ltaei8.png" group-title="Science & Documentaries",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-name="Smithsonian Channel"tvg-id="SmithsonianChannelAsia.us"tvg-logo="https://i.imgur.com/ZQZwXY0.png"group-title="Science & Documentaries",Smithsonian Channel
+#EXTINF:-1  tvg-name="Smithsonian Channel" tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://i.imgur.com/ZQZwXY0.png" group-title="Science & Documentaries",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TechStorm"tvg-id="TechStorm.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Techstorm-logo.jpg/512px-Techstorm-logo.jpg"group-title="Science & Documentaries",TechStorm
+#EXTINF:-1  tvg-name="TechStorm" tvg-id="TechStorm.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Techstorm-logo.jpg/512px-Techstorm-logo.jpg" group-title="Science & Documentaries",TechStorm
 https://iptv-sniper.herokuapp.com/localtv.php?channel=78
-#EXTINF:-1 tvg-name="Time Line Australia"tvg-id="TimeLineAustralia.au"tvg-logo="https://i.imgur.com/J8qVUjM.png"group-title="Science & Documentaries",Time Line Australia
+#EXTINF:-1  tvg-name="Time Line Australia" tvg-id="TimeLineAustralia.au" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="Science & Documentaries",Time Line Australia
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="True Life"tvg-id=""tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-explife.png"group-title="Science & Documentaries",True Life
+#EXTINF:-1  tvg-name="True Life" tvg-id="" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-explife.png" group-title="Science & Documentaries",True Life
 http://cdnprox.com:8080/tvprox432/643258/26993
-#EXTINF:-1 tvg-name="True Science"tvg-id=""tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/th-expsci.png"group-title="Science & Documentaries",True Science
+#EXTINF:-1  tvg-name="True Science" tvg-id="" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/th-expsci.png" group-title="Science & Documentaries",True Science
 http://cdnprox.com:8080/tvprox432/643258/26995
-#EXTINF:-1 tvg-name="True Wild"tvg-id=""tvg-logo="https://www.ilike-movie.com/uploads/png/sd-expwild.png"group-title="Science & Documentaries",True Wild
+#EXTINF:-1  tvg-name="True Wild" tvg-id="" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-expwild.png" group-title="Science & Documentaries",True Wild
 http://cdnprox.com:8080/tvprox432/643258/26992
-#EXTINF:-1 tvg-name="Xplore"tvg-id="Xplore.us"tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png"group-title="Science & Documentaries",Xplore
+#EXTINF:-1  tvg-name="Xplore" tvg-id="Xplore.us" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Science & Documentaries",Xplore
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8
-#EXTINF:-1 tvg-name="Billiard TV"tvg-id="BilliardTV"tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2021/08/billiardtv-logo-yellow.png"group-title="Sports",Billiard TV
+#EXTINF:-1  tvg-name="Billiard TV" tvg-id="BilliardTV" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2021/08/billiardtv-logo-yellow.png" group-title="Sports",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-name="Box Nation"tvg-id="BoxNation.uk"tvg-logo="https://i.imgur.com/XCIBf7u.png"group-title="Sports",Box Nation
+#EXTINF:-1  tvg-name="Box Nation" tvg-id="BoxNation.uk" tvg-logo="https://i.imgur.com/XCIBf7u.png" group-title="Sports",Box Nation
 http://185.53.88.211:8070/live/ce1eb8b3/fd28c06f6f/4719.ts
-#EXTINF:-1 tvg-name="EDGEsport"tvg-id="EDGEsport.uk"tvg-logo="https://i.imgur.com/zRugmb9.png"group-title="Sports",EDGEsport
+#EXTINF:-1  tvg-name="EDGEsport" tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports",EDGEsport
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-edgesportusa-samsungtv-us/playlist.m3u8
-#EXTINF:-1 tvg-name="eGG Network"tvg-id="eGGNetwork.my"tvg-logo="https://i.ibb.co/0Vbn8Jk/e-GGNetwork-White.png"group-title="Sports",eGG Network
+#EXTINF:-1  tvg-name="eGG Network" tvg-id="eGGNetwork.my" tvg-logo="https://i.ibb.co/0Vbn8Jk/e-GGNetwork-White.png" group-title="Sports",eGG Network
 http://210.210.155.35/uq2663/h/h22/index.m3u8
-#EXTINF:-1 tvg-name="ESPN"tvg-id="ESPN.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"group-title="Sports",ESPN
+#EXTINF:-1  tvg-name="ESPN" tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/747
-#EXTINF:-1 tvg-name="ESPN 2"tvg-id="ESPN2.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png"group-title="Sports",ESPN 2
+#EXTINF:-1  tvg-name="ESPN 2" tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/41918
-#EXTINF:-1 tvg-name="Eurosport 1"tvg-id="Eurosport"tvg-logo="https://epg.eurosport-tv.com/Images/LOGO_H208_TRP.png"group-title="Sports",Eurosport
+#EXTINF:-1  tvg-name="Eurosport 1" tvg-id="Eurosport" tvg-logo="https://epg.eurosport-tv.com/Images/LOGO_H208_TRP.png" group-title="Sports",Eurosport
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
-#EXTINF:-1 tvg-name=""tvg-id="FightSports"tvg-logo="https://i.imgur.com/nV55veq.png"group-title="Sports",Fight Sports
+#EXTINF:-1  tvg-name="" tvg-id="FightSports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",Fight Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=18
-#EXTINF:-1 tvg-name="Fox Sports 1"tvg-id="FoxSports1.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png"group-title="Sports",Fox Sports 1
+#EXTINF:-1  tvg-name="Fox Sports 1" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/150797
-#EXTINF:-1 tvg-name="Fox Sports 2"tvg-id="FoxSports2.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png"group-title="Sports",Fox Sports 2
+#EXTINF:-1  tvg-name="Fox Sports 2" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/757
-#EXTINF:-1 tvg-name="Horse and Country"tvg-id="HorseCountryTV.uk"tvg-logo="https://i.imgur.com/r5Ip3P0.png"group-title="Sports",Horse and Country
+#EXTINF:-1  tvg-name="Horse and Country" tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="Sports",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MLB Network"tvg-id="MLBNetwork.us"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png"group-title="Sports",MLB Network
+#EXTINF:-1  tvg-name="MLB Network" tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
 http://ky-iptv.com:25461/live/abc123456/abc123456/1284154.ts
-#EXTINF:-1 tvg-name="NBA TV"tvg-id="NBATV.us"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"group-title="Sports",NBA TV
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
-#EXTINF:-1 tvg-name="One Sports"tvg-id="OneSports.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png"group-title="Sports",One Sports
+#EXTINF:-1  tvg-name="One Sports" tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="Sports",One Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=50
-#EXTINF:-1 tvg-name="Premier Sports"tvg-id="PremierSports.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png"group-title="Sports",Premier Sports
+#EXTINF:-1  tvg-name="Premier Sports" tvg-id="PremierSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
-#EXTINF:-1 tvg-name="RedBull TV"tvg-id="redbulltv.us"tvg-logo="https://i.imgur.com/7NeBmWX.jpg"group-title="Sports",RedBull TV
+#EXTINF:-1  tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Arena"tvg-id="SkySportsArena.uk"tvg-logo="https://i.imgur.com/XBMm9XT.png"group-title="Sports",Sky Sports Arena
+#EXTINF:-1  tvg-name="Sky Sports Arena" tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/XBMm9XT.png" group-title="Sports",Sky Sports Arena
 http://iptvstream.es:8080/Pilsen/Movicer/506144
-#EXTINF:-1 tvg-name="Sky Sports F1"tvg-id="SkySportsF1.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png"group-title="Sports",Sky Sports F1
+#EXTINF:-1  tvg-name="Sky Sports F1" tvg-id="SkySportsF1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" group-title="Sports",Sky Sports F1
 http://iptvstream.es:8080/Pilsen/Movicer/506145
-#EXTINF:-1 tvg-name="Special Events"tvg-id="SpecialEvents"tvg-logo="https://i.imgur.com/vRlLmha.png"group-title="Sports",Special Events
+#EXTINF:-1  tvg-name="Special Events" tvg-id="SpecialEvents" tvg-logo="https://i.imgur.com/vRlLmha.png" group-title="Sports",Special Events
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-#EXTINF:-1 tvg-name="TAP Sports"tvg-id="TAPSports.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png"group-title="Sports",TAP Sports
+#EXTINF:-1  tvg-name="TAP Sports" tvg-id="TAPSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",TAP Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=31
-#EXTINF:-1 tvg-name="WWE Network"tvg-id="WWENetwork.us"tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png"group-title="Sports",WWE Network
+#EXTINF:-1  tvg-name="WWE Network" tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png" group-title="Sports",WWE Network
 http://185.53.88.211:8070/live/Unplugged83/F75DCxx397DMKop5388mM/2373.ts
-#EXTINF:-1 tvg-name="Breeze TV"tvg-id="BreezeTV.nz"tvg-logo="https://i.imgur.com/3dpH9XF.jpg"group-title="Music",Breeze TV
+#EXTINF:-1  tvg-name="Breeze TV" tvg-id="BreezeTV.nz" tvg-logo="https://i.imgur.com/3dpH9XF.jpg" group-title="Music",Breeze TV
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
-#EXTINF:-1 tvg-name="MTV Biggest Pop"tvg-id="MTVBiggestPop.us"tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=512"group-title="Music",MTV Biggest Pop
+#EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="MTVBiggestPop.us" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=512" group-title="Music",MTV Biggest Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-name="MTV Live"tvg-id="MTVLive.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png"group-title="Music",MTV Live
+#EXTINF:-1  tvg-name="MTV Live" tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="Music",MTV Live
 https://iptv-sniper.herokuapp.com/localtv.php?channel=66
-#EXTINF:-1 tvg-name="MTV Spankin' New"tvg-id="MTVSpankinNew.us"tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png"group-title="Music",MTV Spankin' New
+#EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="MTVSpankinNew.us" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Music",MTV Spankin' New
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 tvg-name="Yo! MTV"tvg-id="YoMTV.us"tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png"group-title="Music",Yo! MTV
+#EXTINF:-1  tvg-name="Yo! MTV" tvg-id="YoMTV.us" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 tvg-name="Myx PH"tvg-id="MyxPhilippines.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png"group-title="Music",Myx PH
+#EXTINF:-1  tvg-name="Myx PH" tvg-id="MyxPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png" group-title="Music",Myx PH
 https://iptv-sniper.herokuapp.com/localtv.php?channel=75
-#EXTINF:-1 tvg-name="Myx USA"tvg-id="MyxUSA.us"tvg-logo="https://i.imgur.com/Bv8iTjn.png"group-title="Music",Myx USA
+#EXTINF:-1  tvg-name="Myx USA" tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/Bv8iTjn.png" group-title="Music",Myx USA
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
-#EXTINF:-1 tvg-name="Animax"tvg-id="AnimaxAsia.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png"group-title="Kids",Animax
+#EXTINF:-1  tvg-name="Animax" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Kids",Animax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=24
-#EXTINF:-1 tvg-name="Anime All Day"tvg-id="AnimeAllDay.us"tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png"group-title="Kids",Anime All Day
+#EXTINF:-1  tvg-name="Anime All Day" tvg-id="AnimeAllDay.us" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="Aniplus"tvg-id="AniplusAsia.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png"group-title="Kids",Aniplus
+#EXTINF:-1  tvg-name="Aniplus" tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Kids",Aniplus
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=115609&extension=ts&play_token=PhWmd1D0if
-#EXTINF:-1 tvg-name="BabyTV"tvg-id="BabyTVAsia.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"group-title="Kids",BabyTV
+#EXTINF:-1  tvg-name="BabyTV" tvg-id="BabyTVAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=86
-#EXTINF:-1 tvg-name="Boomerang"tvg-id="BoomerangSouthEastAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"group-title="Kids",Boomerang
+#EXTINF:-1  tvg-name="Boomerang" tvg-id="BoomerangSouthEastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 https://iptv-sniper.herokuapp.com/localtv.php?channel=30
-#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CartoonNetworkAsia.sg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/512px-Cartoon_Network.svg.png"group-title="Kids",Cartoon Network
+#EXTINF:-1  tvg-name="Cartoon Network" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/512px-Cartoon_Network.svg.png" group-title="Kids",Cartoon Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=29
-#EXTINF:-1 tvg-name="CONtv Anime"tvg-id="CONtvAnime.us"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893"group-title="Kids",CONtv Anime
+#EXTINF:-1  tvg-name="CONtv Anime" tvg-id="CONtvAnime.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",CONtv Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="DreamWorks Channel"tvg-id="DreamWorksChannelAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png"group-title="Kids",DreamWorks Channel
+#EXTINF:-1  tvg-name="DreamWorks Channel" tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids",DreamWorks Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=23
-#EXTINF:-1 tvg-name="Nick"tvg-id="NickelodeonSouthEastAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png"group-title="Kids",Nick
+#EXTINF:-1  tvg-name="Nick" tvg-id="NickelodeonSouthEastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png" group-title="Kids",Nick
 https://iptv-sniper.herokuapp.com/localtv.php?channel=28
-#EXTINF:-1 tvg-name="Nick Jr."tvg-id="NickJrAsia.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/512px-Nick_Jr._Channel_logo.svg.png"group-title="Kids",Nick Jr.
+#EXTINF:-1  tvg-name="Nick Jr." tvg-id="NickJrAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/512px-Nick_Jr._Channel_logo.svg.png" group-title="Kids",Nick Jr.
 https://iptv-sniper.herokuapp.com/localtv.php?channel=27
-#EXTINF:-1 tvg-name="Nick Pluto TV"tvg-id="NickPlutoTV.us"tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png"group-title="Kids",Nick Pluto TV
+#EXTINF:-1  tvg-name="Nick Pluto TV" tvg-id="NickPlutoTV.us" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="Kids",Nick Pluto TV
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
-#EXTINF:-1 tvg-name="PBS Kids"tvg-id="PBSKidsEasternCentral.us"tvg-logo="https://i.imgur.com/ambc9le.png"group-title="Kids",PBS Kids
+#EXTINF:-1  tvg-name="PBS Kids" tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-name="ZooMoo"tvg-id="ZooMooLatinAmerica.nz"tvg-logo="https://i.imgur.com/1wYnA2i.jpg"group-title="Kids",ZooMoo
+#EXTINF:-1  tvg-name="ZooMoo" tvg-id="ZooMooLatinAmerica.nz" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",ZooMoo
 https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Zoomoo/playlist.m3u8
-#EXTINF:-1 tvg-name="Jam 88.3"tvg-id="Jam883.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jam_88.3_logo_2012.png/800px-Jam_88.3_logo_2012.png"group-title="Local Radio",Jam 88.3
+#EXTINF:-1  tvg-name="Jam 88.3" tvg-id="Jam883.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jam_88.3_logo_2012.png/800px-Jam_88.3_logo_2012.png" group-title="Local Radio",Jam 88.3
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/jam883ph
-#EXTINF:-1 tvg-name="90.7 Love Radio"tvg-id="907LoveRadio.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/793px-Love_Radio_%28Philippine_radio_station%29_logo.png"group-title="Local Radio",90.7 Love Radio
+#EXTINF:-1  tvg-name="90.7 Love Radio" tvg-id="907LoveRadio.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/793px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="Local Radio",90.7 Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
-#EXTINF:-1 tvg-name="91.5 Win Radio"tvg-id="915WinRadio.ph"tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg"group-title="Local Radio",91.5 Win Radio
+#EXTINF:-1  tvg-name="91.5 Win Radio" tvg-id="915WinRadio.ph" tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg" group-title="Local Radio",91.5 Win Radio
 https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1uDqRGfyGA&rj-ttl=5&rj-tok=AAABgfs21scAvxjFA2IsU9lIYA
-#EXTINF:-1 tvg-name="Super Radyo DZBB"tvg-id="SuperRadyoDZBB.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/512px-DZBB594.svg.png"group-title="Local Radio",Super Radyo DZBB
+#EXTINF:-1  tvg-name="Super Radyo DZBB" tvg-id="SuperRadyoDZBB.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/512px-DZBB594.svg.png" group-title="Local Radio",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF:-1 tvg-name="TeleRadyo"tvg-id="TeleRadyo.ph"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/512px-TeleRadyo_Logo.svg.png"group-title="Local Radio",TeleRadyo
+#EXTINF:-1  tvg-name="TeleRadyo" tvg-id="TeleRadyo.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/512px-TeleRadyo_Logo.svg.png" group-title="Local Radio",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/ZJx61_4f-200x300.jpg" group-title="PINOY MOVIES",“L” (Liko, Larawan, Lipat): Larawan (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/ZJx61_4f-200x300.jpg" group-title="PINOY MOVIES",Lipat): Larawan (2022)
 https://in73925115.vshcontent.com/mJVkXSU9WJSnd5b/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/03/L-Series-LIPAT-Viva-Films-2022-1-200x300.jpg" group-title="PINOY MOVIES",“L” (Liko, Larawan, Lipat): Lipat (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/03/L-Series-LIPAT-Viva-Films-2022-1-200x300.jpg" group-title="PINOY MOVIES",Lipat): Lipat (2022)
 https://in63079715.vshcontent.com/BPC875BNoB5Jdor/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/kiuTjUk2N8AjbwcOKp7OwTvagJU-200x300.jpg" group-title="PINOY MOVIES",A Hard Day (2021)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/kiuTjUk2N8AjbwcOKp7OwTvagJU-200x300.jpg" group-title="PINOY MOVIES",A Hard Day (2021)
 https://in63079715.vshcontent.com/jpAzM5M00Po2eaF/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/wCW3FtecU0EqOakFDJxvOVCodbr-200x300.jpg" group-title="PINOY MOVIES",Bahay na Pula (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/wCW3FtecU0EqOakFDJxvOVCodbr-200x300.jpg" group-title="PINOY MOVIES",Bahay na Pula (2022)
 https://in73925115.vshcontent.com/Dm4KWBiIVcWDzZF/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/seZtPp9OFX92mN9mD7u6bc3ugUx-200x300.jpg" group-title="PINOY MOVIES",Biyak (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/seZtPp9OFX92mN9mD7u6bc3ugUx-200x300.jpg" group-title="PINOY MOVIES",Biyak (2022)
 https://fo16385215.vshcontent.com/4vyeZJPW21DsryV/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/07/owJV2i9cCqquOmCdvLnIPOPCYhA-225x300.jpg" group-title="PINOY MOVIES",Boboy Salonga: Batang Tondo (1992)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/07/owJV2i9cCqquOmCdvLnIPOPCYhA-225x300.jpg" group-title="PINOY MOVIES",Boboy Salonga: Batang Tondo (1992)
 https://fo72733215.vshcontent.com/vK6WQOtBAl6uolS/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/9L2AaNQ1qd8wO2ANCGqCzafTOPB-200x300.jpg" group-title="PINOY MOVIES",Boy Bastos (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/9L2AaNQ1qd8wO2ANCGqCzafTOPB-200x300.jpg" group-title="PINOY MOVIES",Boy Bastos (2022)
 https://fo72733215.vshcontent.com/zOV9CPicnS2Pdps/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/sFjGwN1zSqYcflBHIcgx1Am00I8-200x300.jpg" group-title="PINOY MOVIES",Doblado (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/sFjGwN1zSqYcflBHIcgx1Am00I8-200x300.jpg" group-title="PINOY MOVIES",Doblado (2022)
 https://in63079715.vshcontent.com/Lvp6UqgVCg5pOG9/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/03/oZc1VbEe6LFs9vL5GgJDUcbd7Ut-200x300.jpg" group-title="PINOY MOVIES",Greed (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/03/oZc1VbEe6LFs9vL5GgJDUcbd7Ut-200x300.jpg" group-title="PINOY MOVIES",Greed (2022)
 https://in63079715.vshcontent.com/2w7pZTkrio8nB9r/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/dl7JIOOmM1pEyTaY4d386ztK8zg-200x300.jpg" group-title="PINOY MOVIES",Habangbuhay (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/dl7JIOOmM1pEyTaY4d386ztK8zg-200x300.jpg" group-title="PINOY MOVIES",Habangbuhay (2022)
 https://in63079715.vshcontent.com/Gv0xe0DbtKbG7xn/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/bjqUANu3GLrkdDWJRoB5806AXv2-200x300.jpg" group-title="PINOY MOVIES",Ikaw Lang Ang Mahal (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/bjqUANu3GLrkdDWJRoB5806AXv2-200x300.jpg" group-title="PINOY MOVIES",Ikaw Lang Ang Mahal (2022)
 https://in63079715.vshcontent.com/XMXNaSYj7OakoYz/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/09/IYO-ANG-HONGKONG-AKIN-ANG-MANILA-Seiko-Films-1994-211x300.jpg" group-title="PINOY MOVIES",Iyo ang Hong Kong, Akin ang Manila (1994)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/09/IYO-ANG-HONGKONG-AKIN-ANG-MANILA-Seiko-Films-1994-211x300.jpg" group-title="PINOY MOVIES",Akin ang Manila (1994)
 https://in63079715.vshcontent.com/rlCiNOfMVi1iKan/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/yY9bJ9mefo52DSx9b1XhHgvIWNa-200x300.jpg" group-title="PINOY MOVIES",Kaliwaan (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/yY9bJ9mefo52DSx9b1XhHgvIWNa-200x300.jpg" group-title="PINOY MOVIES",Kaliwaan (2022)
 https://fo41859615.vshcontent.com/qiuJ6M1oPTr9Pk3/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/mfojMeaUacglVcPlCzeaR1P0foE-200x300.jpg" group-title="PINOY MOVIES",Kinsenas, Katapusan (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/mfojMeaUacglVcPlCzeaR1P0foE-200x300.jpg" group-title="PINOY MOVIES",Katapusan (2022)
 https://in33629415.vshcontent.com/2ZCpjhe8W9KmmjD/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/07/ftRXFcyIJUogcwJUyjWO1MrxALu-200x300.jpg" group-title="PINOY MOVIES",Kitty K7 (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/07/ftRXFcyIJUogcwJUyjWO1MrxALu-200x300.jpg" group-title="PINOY MOVIES",Kitty K7 (2022)
 https://mainhls1.vshcontent.com/Yeawa4DpWOtiMHm/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/03/maG1LXV7W0nC0ZjXUgXJ6qzn4Ns-200x300.jpg" group-title="PINOY MOVIES",Moonlight Butterfly (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/03/maG1LXV7W0nC0ZjXUgXJ6qzn4Ns-200x300.jpg" group-title="PINOY MOVIES",Moonlight Butterfly (2022)
 https://in63079715.vshcontent.com/EkcZtgRYzxhLGIH/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2020/08/cA5nnAEVx0Ya9vVz7Umg4aXj4Tf-200x300.jpg" group-title="PINOY MOVIES",On The Job (2013)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2020/08/cA5nnAEVx0Ya9vVz7Umg4aXj4Tf-200x300.jpg" group-title="PINOY MOVIES",On The Job (2013)
 https://in73925115.vshcontent.com/wMVzG6nS5ihD9HX/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/1j5ENmVTeBPBHnmCooR4gUb1cFg-200x300.jpg" group-title="PINOY MOVIES",Pa-Thirsty (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/1j5ENmVTeBPBHnmCooR4gUb1cFg-200x300.jpg" group-title="PINOY MOVIES",Pa-Thirsty (2022)
 https://in33629415.vshcontent.com/qy2HuixWBxHXLqw/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/bqZdKUGi2xI6YTWGDCek3FecTpP-200x300.jpg" group-title="PINOY MOVIES",Pusoy (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/bqZdKUGi2xI6YTWGDCek3FecTpP-200x300.jpg" group-title="PINOY MOVIES",Pusoy (2022)
 https://in33629415.vshcontent.com/I9CqfoTTAAKyrcl/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/fwPdW3YuEcnsq7XqYVpVVO3TymS-200x300.jpg" group-title="PINOY MOVIES",Putahe (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/05/fwPdW3YuEcnsq7XqYVpVVO3TymS-200x300.jpg" group-title="PINOY MOVIES",Putahe (2022)
 https://in33629415.vshcontent.com/6J5bexHgOqvzV2x/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/hqdefault-300x225.jpg" group-title="PINOY MOVIES",Resbak: Babalikan kita (1999)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/hqdefault-300x225.jpg" group-title="PINOY MOVIES",Resbak: Babalikan kita (1999)
 https://in73925115.vshcontent.com/SQCYOCLqvhIlX1z/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/gxqI0d9BbYSQVG3K87XEX4XsE2P-200x300.jpg" group-title="PINOY MOVIES",Rooftop (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/gxqI0d9BbYSQVG3K87XEX4XsE2P-200x300.jpg" group-title="PINOY MOVIES",Rooftop (2022)
 https://fo16385215.vshcontent.com/2pE63p8SeMYWHJX/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/89aIQTAb19OsO0SBzJiKhO2gUGD-200x300.jpg" group-title="PINOY MOVIES",Secrets (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/89aIQTAb19OsO0SBzJiKhO2gUGD-200x300.jpg" group-title="PINOY MOVIES",Secrets (2022)
 https://fo16385215.vshcontent.com/ZMURJrf0zUDIvE6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/9wMfAYy1zj5XOtr0O8FqW5hdkQ6-207x300.jpg" group-title="PINOY MOVIES",Shake Rattle & Roll XI (2009)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/9wMfAYy1zj5XOtr0O8FqW5hdkQ6-207x300.jpg" group-title="PINOY MOVIES",Shake Rattle & Roll XI (2009)
 https://fo72733215.vshcontent.com/zh6I0NOi0DWZ4ZZ/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/rhG867HYPQNJvLPvPwgcTw4ajla-200x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll 8 (2006)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/rhG867HYPQNJvLPvPwgcTw4ajla-200x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll 8 (2006)
 https://in73925115.vshcontent.com/y2uSfCSzS2urdRj/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/84mhgluf3xc1Zk8WyBUTKMs0o9P-209x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll 12 (2010)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/84mhgluf3xc1Zk8WyBUTKMs0o9P-209x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll 12 (2010)
 https://in73925115.vshcontent.com/PpQy4GBufOP0jPO/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/wip49CRyTE1fznq7Wypbk70zNq-208x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll Fourteen: The Invasion (2012)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/wip49CRyTE1fznq7Wypbk70zNq-208x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll Fourteen: The Invasion (2012)
 https://fo72733215.vshcontent.com/vJquVSIfEcuT1Y7/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/yTzvUqx6erGZIXeGQy3jMIQ7XxQ-200x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll VI (1997)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/yTzvUqx6erGZIXeGQy3jMIQ7XxQ-200x300.jpg" group-title="PINOY MOVIES",Shake Rattle and Roll VI (1997)
 https://in63079715.vshcontent.com/b0y07G2p8w4s6z2/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/02/l2NoHwF9OmrYY8u64xI5SHxIkUN-200x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll 1 (1984)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/02/l2NoHwF9OmrYY8u64xI5SHxIkUN-200x300.jpg" group-title="PINOY MOVIES",Rattle & Roll 1 (1984)
 https://in63079715.vshcontent.com/JRmwKkUeYpAxUBz/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/vc9zYrN4nYEpVwOM5twmhIMLUKY-239x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll 2 (1990)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/vc9zYrN4nYEpVwOM5twmhIMLUKY-239x300.jpg" group-title="PINOY MOVIES",Rattle & Roll 2 (1990)
 https://in63079715.vshcontent.com/pRV2sC8USUZhRZ6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/iF7YqI48tJ2LhxFn08QmptrKdhg-200x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll 2k5 (2005)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/iF7YqI48tJ2LhxFn08QmptrKdhg-200x300.jpg" group-title="PINOY MOVIES",Rattle & Roll 2k5 (2005)
 https://in73925115.vshcontent.com/wFujHkRyV3Rgu1P/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/8Pyu6WQWmdJmtqekgyyajOx7Ke3-200x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll 3 (1991)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/8Pyu6WQWmdJmtqekgyyajOx7Ke3-200x300.jpg" group-title="PINOY MOVIES",Rattle & Roll 3 (1991)
 https://fo41859615.vshcontent.com/r1L7PMZTh7mMY5h/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/3W3s8ttt82FkweP1xUXZUuq3l8g-200x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll 4 (1992)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/3W3s8ttt82FkweP1xUXZUuq3l8g-200x300.jpg" group-title="PINOY MOVIES",Rattle & Roll 4 (1992)
 https://in63079715.vshcontent.com/n6Cwm6bPWG0dIFL/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/xwXb1XPmEmwjZCw9R48QpCagSNE-220x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll 5 (1994)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/04/xwXb1XPmEmwjZCw9R48QpCagSNE-220x300.jpg" group-title="PINOY MOVIES",Rattle & Roll 5 (1994)
 https://in63079715.vshcontent.com/Ao4xAD8zxj8fOFl/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/78AWDd33SZdstAvormKtn1OQzlt-207x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll 13 (2011)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/78AWDd33SZdstAvormKtn1OQzlt-207x300.jpg" group-title="PINOY MOVIES",Rattle & Roll 13 (2011)
 https://in73925115.vshcontent.com/5PIJaPScF7dMqiX/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/l0msiII4WmKnjgKIY9m0XHFf4Ea-200x300.jpg" group-title="PINOY MOVIES",Shake, Rattle & Roll X (2008)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/l0msiII4WmKnjgKIY9m0XHFf4Ea-200x300.jpg" group-title="PINOY MOVIES",Rattle & Roll X (2008)
 https://in73925115.vshcontent.com/c7L9C9K27WPry9V/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/bWzwZMvqYcjCY4VIInzW8pIqzG3-200x300.jpg" group-title="PINOY MOVIES",Shake, Rattle and Roll 9 (2007)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/03/bWzwZMvqYcjCY4VIInzW8pIqzG3-200x300.jpg" group-title="PINOY MOVIES",Rattle and Roll 9 (2007)
 https://fo41859615.vshcontent.com/qNaaBjh7p9FBPhe/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/o1cL2ucgm9P3fQtv6kZLPECVRFk-200x300.jpg" group-title="PINOY MOVIES",Takas (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/02/o1cL2ucgm9P3fQtv6kZLPECVRFk-200x300.jpg" group-title="PINOY MOVIES",Takas (2022)
 https://in33629415.vshcontent.com/8mFWlfEEdxyVLnt/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/4XAaCKdFcCHZ8fqFKgvjzrPpVvI-200x300.jpg" group-title="PINOY MOVIES",The Janitor (2014)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/01/4XAaCKdFcCHZ8fqFKgvjzrPpVvI-200x300.jpg" group-title="PINOY MOVIES",The Janitor (2014)
 https://in33629415.vshcontent.com/b8ZUkbChkWEt6Jf/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/VIRGIN-FOREST-Viva-Films-2022.jpg" group-title="PINOY MOVIES",Virgin Forest (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/06/VIRGIN-FOREST-Viva-Films-2022.jpg" group-title="PINOY MOVIES",Virgin Forest (2022)
 https://fo16385215.vshcontent.com/vUKDya4Xc7wd5aC/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/11/wild-little-love.jpg" group-title="PINOY MOVIES",Wild Little Love (2019)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2019/11/wild-little-love.jpg" group-title="PINOY MOVIES",Wild Little Love (2019)
 https://in33629415.vshcontent.com/1qbVhIgRT74YHcj/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/1Xi6ViPL9basP3f1S3qPaksw8CL-200x300.jpg" group-title="PINOY MOVIES",366 (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2022/04/1Xi6ViPL9basP3f1S3qPaksw8CL-200x300.jpg" group-title="PINOY MOVIES",366 (2022)
 https://in63079715.vshcontent.com/KhTbrUW74MGPMQ1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/9d/d8/9dd898da5ccddd79e0a2d38ff0688b74/9dd898da5ccddd79e0a2d38ff0688b74.jpg" group-title="FOREIGN MOVIES",Abandoned
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/9d/d8/9dd898da5ccddd79e0a2d38ff0688b74/9dd898da5ccddd79e0a2d38ff0688b74.jpg" group-title="FOREIGN MOVIES",Abandoned
 https://c-4.mzzcloud.life/_v8/68a518dc7af613aceec4ad65a6af788629861590f2536f7d96c9f29d345b9b31386751b51d1886a13d1d4feb4243e1bc01a2396c9a871a2cdbb8b494a888a0e238ed2f771acc2036670737b3ebd4ffd66feb5ec9f4e0ca881a05662c9bdc71ca4b8d1d154c82b813dd8c9905847c3c5d1a7d33d3a97113e009c6d058b0495956/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.plus/resize/188x288/ef/7e/ef7e28d5e56c950104c040a695e17258/ef7e28d5e56c950104c040a695e17258.jpg" group-title="FOREIGN MOVIES",Blood In The Water (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.plus/resize/188x288/ef/7e/ef7e28d5e56c950104c040a695e17258/ef7e28d5e56c950104c040a695e17258.jpg" group-title="FOREIGN MOVIES",Blood In The Water (2022)
 https://e-1.mzzcloud.life/_v8/d943e353d13e53079342500905ec1b4a2bed51853520e5035cc07442118e61a180645b3b8de49e146c4606c5b5b00d1606852fb81b23ef9c6507c6c33b7824de6d03cd9cba841d14294c130cde03dd0aca04c9ec6dc1886cd2c0b2bdedfeead14c7e59704b3197d09efd1f97f7eaaf2c09260a8e613210b39d58f6a7abfd9044/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/a9/c8/a9c8ce9767aec54753bb219ee666c321/a9c8ce9767aec54753bb219ee666c321.jpg" group-title="FOREIGN MOVIES",Centauro (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/a9/c8/a9c8ce9767aec54753bb219ee666c321/a9c8ce9767aec54753bb219ee666c321.jpg" group-title="FOREIGN MOVIES",Centauro (2022)
 https://e-4.mzzcloud.life/_v8/3838dbeba9b39ca5c6258f0905c7ef2014f83321595629438b4e68508d5e9b10851b398e1f71332f0db9290060bef68092c46bd45f5eff3064ad0d65567991e7935b1b15fc81167eab05e27f796ae793802f51a11cda3eeff8102c91f42e2370038e5d2e56a81faddea0e9f3df027ecb738ed225def89593870150925cdf54e7/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/b4/0e/b40e5e06b41b3487a49f491c7dfed17c/b40e5e06b41b3487a49f491c7dfed17c.jpg" group-title="FOREIGN MOVIES",Code Name Banshee (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/b4/0e/b40e5e06b41b3487a49f491c7dfed17c/b40e5e06b41b3487a49f491c7dfed17c.jpg" group-title="FOREIGN MOVIES",Code Name Banshee (2022)
 https://e-2.mzzcloud.life/_v8/62039a795bd2631337492e9635c035bb44b8adb4b627dead11b68d85ad4d7993b81dd5d5b293baa0a5d69906b118377ac129baf5765eb863066dc1bbf17c795ad5069dd2d5161259b7ec0740f7c8e56b6288afd49bcc683cbf31c1a2c2b7fe8963c31bca9db172ed90c13f3c469f6c06bcd48b9511b476277b61148023920605/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/50/51/5051064d50910dc50a6b2e892fc14a6d/5051064d50910dc50a6b2e892fc14a6d.jpg" group-title="FOREIGN MOVIES",Day of the Dead (2008)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/50/51/5051064d50910dc50a6b2e892fc14a6d/5051064d50910dc50a6b2e892fc14a6d.jpg" group-title="FOREIGN MOVIES",Day of the Dead (2008)
 https://e-10.mzzcloud.life/_v8/a279ea04c0e8778df6c0ef28ff381921facfaa93c220875e5e5bd14d376e29bd43abb5eb9ef99e18104b509c8e2cfe24503aca4d6cee7d1d324fa6bac2aeb06b753bdf977da62f31d1a49e099d48c7a3f3181386bef458864f8faa1ac0bda068980c4c36056eb254baeb927c0a6fdd3a87c29b90bc277079319190ae78dfb6f2/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/16/e4/16e47d49b2ad0ddad8835e731d841f25/16e47d49b2ad0ddad8835e731d841f25.jpg" group-title="FOREIGN MOVIES",Girl In The Picture (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/16/e4/16e47d49b2ad0ddad8835e731d841f25/16e47d49b2ad0ddad8835e731d841f25.jpg" group-title="FOREIGN MOVIES",Girl In The Picture (2022)
 https://c-2.mzzcloud.life/_v8/ddd823fd5c75410873046fc91894411b86859248a9c1584a4198ae5471f217a01e522bf1dbda38d372ade789232d562ef1993652707de506c04543177c75d0c19a6117d110fd070dd17c0b766e5d1e7273d1fc1578c067350ca811eb568678d55ded42a9782f32f5028540da6928c96fdb1f1e9c3439dbfa4cf7f0236a2cfd25/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/e5/40/e54014c7186e94b9b791271bf326aed4/e54014c7186e94b9b791271bf326aed4.jpg" group-title="FOREIGN MOVIES",Hot Seat (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/e5/40/e54014c7186e94b9b791271bf326aed4/e54014c7186e94b9b791271bf326aed4.jpg" group-title="FOREIGN MOVIES",Hot Seat (2022)
 https://e-6.mzzcloud.life/_v8/5e7c49b53fcddede04c8d9e14659bcc1566f54bc7d3cd1df89d8421d542c74c54770633a3c01b778cb9f33df947c70f54ab7d8d6196d03e67f8e7e6d9010a661fa3d50a010ec21bbbd216a364212ca26fc70fb57d697a4f87744c833a66ced11c693904bc375579f38ed2bacc98708f6c15b18bb8690ddce15bca33204acf308/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/a1/05/a10542ae0f74e69e0a1feffd609e7151/a10542ae0f74e69e0a1feffd609e7151.jpg" group-title="FOREIGN MOVIES",I Am Legend (2007)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/a1/05/a10542ae0f74e69e0a1feffd609e7151/a10542ae0f74e69e0a1feffd609e7151.jpg" group-title="FOREIGN MOVIES",I Am Legend (2007)
 https://e-10.mzzcloud.life/_v8/e784d5f8f16a682b28ee34af47b0ddbf8b967422f1fb021d81bb6e0f88747060f49178c37b056d2dc68ce02454a4dc3a29649bf962ea01ffa87ca006bef859084b9c0e26b1a42923a024b88bb1b974e05dae321e74a5b16123e03fe897a4eb08c176ec4800db7a224559b085153471d93b4d09c012cac663baef18c6d203f3a0/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/77/11/7711ac74e7a162966850a8f07ffa75fe/7711ac74e7a162966850a8f07ffa75fe.jpg" group-title="FOREIGN MOVIES",Ip Man: The Awakening (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/77/11/7711ac74e7a162966850a8f07ffa75fe/7711ac74e7a162966850a8f07ffa75fe.jpg" group-title="FOREIGN MOVIES",Ip Man: The Awakening (2022)
 https://e-10.mzzcloud.life/_v8/e351648692d3dfdb5e4b846f80f766cc5b3b9fd00d1a86c4a218162566d972fa9fa730ca9fc2e494936d76ce1db526ff38011cfc5c1e40f46479e71087939840b86f6a52ea4b664ecda8e0a62e0f977460a484b76fbc1d4da19a538a9189b0df82f10cb3a151af67c36c23fb7e45d15f12337ca2154920dc5c4277301d3c8080/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/5f/54/5f54dbb5f54b346e5f9396638c8d7255/5f54dbb5f54b346e5f9396638c8d7255.jpg" group-title="FOREIGN MOVIES",Jurassic World Dominion (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/5f/54/5f54dbb5f54b346e5f9396638c8d7255/5f54dbb5f54b346e5f9396638c8d7255.jpg" group-title="FOREIGN MOVIES",Jurassic World Dominion (2022)
 https://e-10.mzzcloud.life/_v8/416b37f0473b2b8ba466f6211294852bb1ff266f62f9610aef08a5bd3349a19e5fd564dfd103aa470b553a97ca02f76dfa589b52234a11e9301eab5503c87952dfd5c5bf168329cd5dc8bae66b2ca44244ca19894f0f683946d2bdb5d7985d0970008af771427e7b1ff0b2dd6009fdce3219172776102be605cc6df40324c4b2/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/e0/db/e0dbe88c7ea98378cd25c1f9854ed0a6/e0dbe88c7ea98378cd25c1f9854ed0a6.jpg" group-title="FOREIGN MOVIES",Rubikon (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/e0/db/e0dbe88c7ea98378cd25c1f9854ed0a6/e0dbe88c7ea98378cd25c1f9854ed0a6.jpg" group-title="FOREIGN MOVIES",Rubikon (2022)
 https://e-7.mzzcloud.life/_v8/04c3f965e655ade18d6be41c55b17016d3f548fd39975b36b6486bf8623f3694538df4405c4251edfe7ba684566bbcb8b742a17760a15a1e7e680edf0d8bcffcb413c10d34eda91fd447180f54da7cc5c5924b0fe597d640974fb05709f515ea518c97820b2ed5ade159ddd174e1557679f86f3fd23e229574996a2d58b66cc5/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.plus/resize/188x288/c1/81/c1812a66e9a1b17314c7a18acc8c3afa/c1812a66e9a1b17314c7a18acc8c3afa.jpg" group-title="FOREIGN MOVIES",Spiderhead (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.plus/resize/188x288/c1/81/c1812a66e9a1b17314c7a18acc8c3afa/c1812a66e9a1b17314c7a18acc8c3afa.jpg" group-title="FOREIGN MOVIES",Spiderhead (2022)
 https://e-5.mzzcloud.life/_v8/d2af8708b1e46ed647916faadfec87ea803647a7b282576ff3738240a10b9d7fc73ff7b3a79b5a9aae28f2b714c2a968965794b62a552e2bbb172535a876eb072695da93f3314248653492fd244ad488363a27a67ebcda58e62fd62781aedd1cef08f89e3234a29f8c7b52cf9f093bc86993aac69c500ef914860629c8eb5d53/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/00/2a/002a867d7ac975170d5f73eda60dbdb7/002a867d7ac975170d5f73eda60dbdb7.jpg" group-title="FOREIGN MOVIES",Terror on the Prairie (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/00/2a/002a867d7ac975170d5f73eda60dbdb7/002a867d7ac975170d5f73eda60dbdb7.jpg" group-title="FOREIGN MOVIES",Terror on the Prairie (2022)
 https://c-1.mzzcloud.life/_v8/f5d1d7ea67a85d4514f5486fb90419441883680d49964d0ffb38c6fcd50e962cd3d01fc060c32c7b055e43b1084359374d62d37c04b72157cbe571d96e0442e131dd794fe45977342fc0ac6eb18d09f0f792de40d118e75244ef230c4ba0b53b37bf4ca2732c6d4c9a724e0e27d78be5ae112d8ac7ceb9505a6a2e25136a8009/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/11/3d/113d2bbf1c97a6c9b5f53ce184e28e10/113d2bbf1c97a6c9b5f53ce184e28e10.jpg" group-title="FOREIGN MOVIES",Texas Chainsaw 3D (2013)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/11/3d/113d2bbf1c97a6c9b5f53ce184e28e10/113d2bbf1c97a6c9b5f53ce184e28e10.jpg" group-title="FOREIGN MOVIES",Texas Chainsaw 3D (2013)
 https://c-2.mzzcloud.life/_v8/7605bdb53036dc95f04ac81c261409c7480b0c5e564f430e3061bdbd512d5ddba9f06a580ad18c6d7499302bfb717f60f1554e965b6444699263a257f8cb7ba3ea7653b6c5bc82134c6a8fd9c86714d9cf285a46d002afdf8fc4fd98d470173b0757e066279bc6be2f9277f5a386ad966691cb05ba48e4e3be52e9d8316e8c83/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/01/77/0177ae90c9628df17681a735f9b4880a/0177ae90c9628df17681a735f9b4880a.jpg" group-title="FOREIGN MOVIES",Texas Chainsaw Massacre (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/01/77/0177ae90c9628df17681a735f9b4880a/0177ae90c9628df17681a735f9b4880a.jpg" group-title="FOREIGN MOVIES",Texas Chainsaw Massacre (2022)
 https://c-2.mzzcloud.life/_v8/18e531f321b280e59a692305a7356a912991867d25b744ac905b7d1bc0fd50fc06bd590a9d28b13df90b5a917932f4401b51f990c3fd7fd13085e1ceda81fe663b538a889242cd938bb185d35951ba5530da8c19dfea864e1423bbb5255cf5fa85c2de7c36417666ae16eb51dd0c6a66c95188b2f7dd180c4a6caba4c362a927/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/97/65/976505697f6dc16a246db04dbef15e90/976505697f6dc16a246db04dbef15e90.jpg" group-title="FOREIGN MOVIES",Thar (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/97/65/976505697f6dc16a246db04dbef15e90/976505697f6dc16a246db04dbef15e90.jpg" group-title="FOREIGN MOVIES",Thar (2022)
 https://e-10.mzzcloud.life/_v8/4796e5e7622060498aed2af982f6bfce8c87de61b854e2bd0e9384f477dcd2cb7aed5ba27e9231c8f9eb2d40140ae07a44fe4e3412e9021b75e64d01b1a8e690666738e03cb2212b987d54b4444375740a9bc7f8a4647ede5da663d94ab45bead5a6639ccd8470c1425f331924e25524125d25070abdd1d283fdd987b78fb66e/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/a3/1f/a31f7aaec85f294fa52c62896e590e6d/a31f7aaec85f294fa52c62896e590e6d.jpg" group-title="FOREIGN MOVIES",The Cabin in the Woods (2012)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/a3/1f/a31f7aaec85f294fa52c62896e590e6d/a31f7aaec85f294fa52c62896e590e6d.jpg" group-title="FOREIGN MOVIES",The Cabin in the Woods (2012)
 https://c-2.mzzcloud.life/_v8/c38aee891b519175cacad15374b9c274f4518cb02a1cba7cccd173488a91ea4cf691a8ed83d6742a3ee7a71bfa993a948d455df3c8fd33302d95055764d28bcb834e6286d9c78dba222032b9f4ca9f21d73702f35a401fef7d922f7df0465e0d2af3d179e7bacce6937525a5b602790cc1df7361b2f911e9e0cd2ac5cb5e3046/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/82/1e/821ed9073d271c4948cc9e5d0288281b/821ed9073d271c4948cc9e5d0288281b.jpg" group-title="FOREIGN MOVIES",The Exorcism of God (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/82/1e/821ed9073d271c4948cc9e5d0288281b/821ed9073d271c4948cc9e5d0288281b.jpg" group-title="FOREIGN MOVIES",The Exorcism of God (2022)
 https://e-8.mzzcloud.life/_v8/9add5ea0c5c12e2fc5bebe8ffc4a35f60ee61b2ea21bfb87fccdf917c6323ed656ecd7479f80b19c88f5103da693e1d69aa384b33b333b60b35144e9cc05b61ff51622786e669707478b3dae9a02ff8f03a6f405c6a8ebf023b432bb4ecabf6cce60f33b77ddfc90b1472fc95681691d174a540e051a8f04888856a749b4ec88/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.plus/resize/188x288/68/87/6887e19c1dc055f8176618c06aef6ab7/6887e19c1dc055f8176618c06aef6ab7.jpg" group-title="FOREIGN MOVIES",The Man From Toronto (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.plus/resize/188x288/68/87/6887e19c1dc055f8176618c06aef6ab7/6887e19c1dc055f8176618c06aef6ab7.jpg" group-title="FOREIGN MOVIES",The Man From Toronto (2022)
 https://e-4.mzzcloud.life/_v8/bb1d92e70b207de828ef8f16139794dd517b4c9b0db6f59f94347e582b5c4451220fafbda4f79740560a5426ef8e13909fc36ffbd31eda9fe2f651cb41554833d2c4fd53e6519d3d9afa55c8cd127b63c518bbb3673ad51182f1d5dd73fd6c20d274fd80bbf2a8260155a7874d8a3a0366a84f4702ceef5cdb4940639832494d/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/f7/d9/f7d9fca81b4f68bdaa29c87d86ba66e1/f7d9fca81b4f68bdaa29c87d86ba66e1.jpg" group-title="FOREIGN MOVIES",The Mechanic (2011)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/f7/d9/f7d9fca81b4f68bdaa29c87d86ba66e1/f7d9fca81b4f68bdaa29c87d86ba66e1.jpg" group-title="FOREIGN MOVIES",The Mechanic (2011)
 https://e-2.mzzcloud.life/_v8/07eff5dca09308916e54198efcee7f1a854c13f4ca947d57e53d1ac0d07ff2e9a03d606acb17c882f9f2f2fa08bde3b89c2b4e2a6ac540ac1f42eb546a4a44ff4f1289f2292e51fb8f9acd667741add0bfa03316b266636fccbb9c31524f2dd21df936e3253e51e27a20b7c737eda1b2ef7b23ca65edbb7c212c7d6cc4d8991e/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/a3/05/a305824badd6fbb966b737ecb086806b/a305824badd6fbb966b737ecb086806b.jpg" group-title="FOREIGN MOVIES",The Princess (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/a3/05/a305824badd6fbb966b737ecb086806b/a305824badd6fbb966b737ecb086806b.jpg" group-title="FOREIGN MOVIES",The Princess (2022)
 https://e-9.mzzcloud.life/_v8/d43343fa6e4bff9e12af74f9fc15300101771f05d7ec05aaa79121f59392dc0657201e290905c07fdad302686e245c632ff0753aa8b57134b8a48adf409677beb2857eaa4ac475c742e889a97bc380659183d449f923ddfc02208ace5d0962f6dbf2ba6b4d8f51163084f98df0f1b04e95df6b610b57c10844f9e57bec5df673/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/9b/78/9b789021aeb0c668a46de141a91c24a4/9b789021aeb0c668a46de141a91c24a4.jpg" group-title="FOREIGN MOVIES",The Texas Chainsaw Massacre (2003)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/9b/78/9b789021aeb0c668a46de141a91c24a4/9b789021aeb0c668a46de141a91c24a4.jpg" group-title="FOREIGN MOVIES",The Texas Chainsaw Massacre (2003)
 https://e-6.mzzcloud.life/_v8/509c6c7fb012b84b7ddfde7af6304d6bd305359cda86ea944c3f2cc488b45c9259acf70a7beef2e825709d80081aa07f44a7b2366f10e167a212a9545ebf92cf14bc8b9f7a8973d397832c181c4a804108c237219494cbd1876957f485745a5bb6c2a37ec097edcfd7eb8fd6f5bc5b2da1115f675bec5e9588c1206deffb2127/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/62/db/62db26d8d6fb86ff100acffe9d63ebee/62db26d8d6fb86ff100acffe9d63ebee.jpg" group-title="FOREIGN MOVIES",The Texas Chainsaw Massacre: The Beginning (2006)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/62/db/62db26d8d6fb86ff100acffe9d63ebee/62db26d8d6fb86ff100acffe9d63ebee.jpg" group-title="FOREIGN MOVIES",The Texas Chainsaw Massacre: The Beginning (2006)
 https://e-5.mzzcloud.life/_v8/0f2dacd59fa49cd067e67f2fe65ad6dd5aba28837d3c12b122f3579993fe51957a7d2404edbe68fc96d8db526f9546a18f3323d6907eec8450ee14d4d0d526cd8dc7986413011f1dacee4ba897e8475ac57576cdc449f09f532004ef70e3516758eb1d3a1dc5942ee52f1563621e28fd2df7112f41554c1634de9c866f6251ac/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c4/c1/c4c1182e0d8ca54012c4bd1ec3d166ba/c4c1182e0d8ca54012c4bd1ec3d166ba.jpg" group-title="FOREIGN MOVIES",Thor: God of Thunder (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c4/c1/c4c1182e0d8ca54012c4bd1ec3d166ba/c4c1182e0d8ca54012c4bd1ec3d166ba.jpg" group-title="FOREIGN MOVIES",Thor: God of Thunder (2022)
 https://b-g-ca-5.feetcdn.com:2223/v2-hls-playback/8cd74b02b3cb6c096e52583ee8e1bfd51b0cae0067be81d82d4231d543f5ed91352d1633916effab452fd30a03b2528d29bd2152b0ce1f83dc3be8fb888fc5dd0c1ed8cc7e9e74ac524ad9688cc82476ce784128c7a6cd6b4ff172bff151d66768b94e827795eeacfe450aca52bb9d6796586b700ab34ff3fa9f51d64ec090f63d6cd7453a91e4f6fe4c4bcdb7015b740ac19e598c881d1140764a68f83929713eff8542577f10da658a27a6e35895e5/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/86/5f/865f826f3730f83eb20c5999c1ef27b9/865f826f3730f83eb20c5999c1ef27b9.jpg" group-title="FOREIGN MOVIES",Thor: Love and Thunder (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/86/5f/865f826f3730f83eb20c5999c1ef27b9/865f826f3730f83eb20c5999c1ef27b9.jpg" group-title="FOREIGN MOVIES",Thor: Love and Thunder (2022)
 https://e-4.mzzcloud.life/_v8/06da013af44e75398bc6f14978de3b98053ef69a5e8f60691cb1069ac5bb9e55b1e24075f624ff93df066bf77cc9cdab0550128df5e3a6845fccab2b179182d124476945ab527b4b25ba5f65f5d00e563724588a580de88875727e127b30323d60e01086d74c5221a861d6857d69acf0c1904048bd28b5697d3d2936163ebe3c/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/8c/76/8c76f7ba1f8d85c3c260b7347e1e64cc/8c76f7ba1f8d85c3c260b7347e1e64cc.jpg" group-title="FOREIGN MOVIES",Top Gun: Maverick (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/8c/76/8c76f7ba1f8d85c3c260b7347e1e64cc/8c76f7ba1f8d85c3c260b7347e1e64cc.jpg" group-title="FOREIGN MOVIES",Top Gun: Maverick (2022)
 https://c-1.mzzcloud.life/_v8/d72a853d7c671b6adc71e14041f9f6189ab5b7ff44ab7a7170c69a4bb169762c6e7c49838827f40aba13ba10bd8ae6e67c201f8c450ee7a98ec1abf4447328bf234dbb3e32b9c0c8b1782824fff081972b036fbf5e00d36b53bbb0598ed28518c230157fe668fda30479eda25084d0a702d7b626ff6a868a564de6c4ae244601/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/5d/f0/5df0084cd469df1bce9eda231610ec1d/5df0084cd469df1bce9eda231610ec1d.jpg" group-title="FOREIGN MOVIES",Where The Scary Things Are (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/5d/f0/5df0084cd469df1bce9eda231610ec1d/5df0084cd469df1bce9eda231610ec1d.jpg" group-title="FOREIGN MOVIES",Where The Scary Things Are (2022)
 https://e-6.mzzcloud.life/_v8/475adfc5471f57400c197badb684845c62b79dd4a135374c565d2eccc50ce55838585a9d1b567edd7ac41b54f205090223b5c04d43fcd51eb7ec49bde8c425f8b078d609c08ab82bca3761c386b410a1fa7a15bc086da7f91a8db196e763584c9b059a5421d19409cb9d2329c0fe001bc1a291242461aded99c6748c5cb38eaf/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/01/ee/01ee3400416c73ba2e5a54055c3f92cd/01ee3400416c73ba2e5a54055c3f92cd.jpg" group-title="FOREIGN MOVIES",World War Z (2013)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/01/ee/01ee3400416c73ba2e5a54055c3f92cd/01ee3400416c73ba2e5a54055c3f92cd.jpg" group-title="FOREIGN MOVIES",World War Z (2013)
 https://e-5.mzzcloud.life/_v8/83c5912f06455d5f0db3039de32af47877a31eb55ad0f5ae7681526bc63181b0b1cca4a1eac57526d2f53c4961c5fa1b2ec6b52edcafe1b073301d6d2ad956f16e8cbc9e763797d3876833f6d03910b4680f5dd3c979f3e8493cc06d21a4863f8821ccb690561cad82a4d7a47f2c9e2fbc99c885c41ef4da1dda4b6586470eb8/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/ae/1c/ae1c8277baa924e3622b169461e89a1a/ae1c8277baa924e3622b169461e89a1a.jpg" group-title="ANIMATION MOVIES",Jujutsu Kaisen 0 (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/ae/1c/ae1c8277baa924e3622b169461e89a1a/ae1c8277baa924e3622b169461e89a1a.jpg" group-title="ANIMATION MOVIES",Jujutsu Kaisen 0 (2022)
 https://e-1.mzzcloud.life/_v8/b713d53fc95df1525f3b0adfbd0d8a4f2f02185e0c3afa3f163d4eb890c1ec8b79560b0d83c69785f617e2501cf8a54996f04327212f4e56f20b43872ef32f179acd97a8e28c9e794be9cef3f61392f93b36ea32ca63efde998f49d5f90918af6544a6ed4a160a44f674f58db638ba5ec3870ae55fbb86682959b7c489a7a2ec/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.plus/resize/188x288/ee/3f/ee3fb134ed58c461f8c4a948492e88a3/ee3fb134ed58c461f8c4a948492e88a3.jpg" group-title="ANIMATION MOVIES",Lightyear (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.plus/resize/188x288/ee/3f/ee3fb134ed58c461f8c4a948492e88a3/ee3fb134ed58c461f8c4a948492e88a3.jpg" group-title="ANIMATION MOVIES",Lightyear (2022)
 https://e-4.mzzcloud.life/_v8/d05310b799d4f6928314cdaf8f2cfdef91f565642cfe900a6e4897c337f3d5084e073d0c8faec01ef66b59406a2f8b5b0b32aea5eecbe4e3b52cdbf5a319573e44e0ead7cba4404471293e972d05b3e3c93f500506794b207c0f604fe077378462dd43b4ff12264a648ed87fcf51b3e57cb507037720320593aa2444a17c5b2d/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/25/18/251888549f5ae476d08db67ad576c63e/251888549f5ae476d08db67ad576c63e.jpg" group-title="ANIMATION MOVIES",Minions: The Rise of Gru (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/25/18/251888549f5ae476d08db67ad576c63e/251888549f5ae476d08db67ad576c63e.jpg" group-title="ANIMATION MOVIES",Minions: The Rise of Gru (2022)
 https://e-7.mzzcloud.life/_v8/c967265ac6997c290cdcdff01ad5b5d8c71b68ddd3285fdbb58e9e28bcb79d9ee1f37237ad844c228d1523ff73202213d6b5536c6fa7e0db8a96db922f79bc3b1c49b2e7848e71be801a0970148bd30233bdda1c8e7bd55de8d2c3d3dedbc7c6d5c67176118264afe02ca7acb799b70209bbc61449cf131aea2c6e982b001ffa/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/cd/2a/cd2a074557614c85e775d797be01630e/cd2a074557614c85e775d797be01630e.jpg" group-title="ANIMATION MOVIES",The Bad Guys (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/cd/2a/cd2a074557614c85e775d797be01630e/cd2a074557614c85e775d797be01630e.jpg" group-title="ANIMATION MOVIES",The Bad Guys (2022)
 https://e-1.mzzcloud.life/_v8/025b0acd1eff36877d39d5d87fa15838068527e299e7890285704a08688c398dc34f45b4af4cc8d5673cd5988fec86d17b9977f748531a912bed7d0081ea5e57f94ce7fb4d7ce954cc485881effb9f970c4792b24fc6edd141b402dff9abf31bd670a11373d230cb190de8edf01b0874a23e5204f6e725a0ebfcf8f82fc1c0d8/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/e6/96/e6968d82e755200b13caa4ae32f80895/e6968d82e755200b13caa4ae32f80895.jpg" group-title="ANIMATION MOVIES",The Ice Age Adventures of Buck Wild (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/e6/96/e6968d82e755200b13caa4ae32f80895/e6968d82e755200b13caa4ae32f80895.jpg" group-title="ANIMATION MOVIES",The Ice Age Adventures of Buck Wild (2022)
 https://e-2.mzzcloud.life/_v8/ad05c6b43b4be09450ae886f5467426c7caf8f713a1fe9d25d708db4d4268be1bd3b4745ebad926491f877f2fed529c9d071d15d8f37c639e31e7640411c777ffe07c7faf05079d20b795ed85e3c58a839c3facc043a8c9419f4bd2e223a330e30c1876af78a394bac943eade962c45abecf6d9fb16d51d1526073cfd8f722f1/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/17/c5/17c5082bf7ee2d0c9240d4d0a4056acf/17c5082bf7ee2d0c9240d4d0a4056acf.jpg" group-title="ANIMATION MOVIES",The Sea Beast (2022)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/17/c5/17c5082bf7ee2d0c9240d4d0a4056acf/17c5082bf7ee2d0c9240d4d0a4056acf.jpg" group-title="ANIMATION MOVIES",The Sea Beast (2022)
 https://e-6.mzzcloud.life/_v8/5a3b748ef7d4acb666dab70b660509a8a7341ae68a31794fcea91dad0799a58bf4f4952bb15710f5a3332ebe9474d3a1b677fc1c620fdebc9673aca0628eef09b30aea9373338ecffc7a3dd6d85752030e60f86a12dd3393d35e7c35560425d5c81e3264e19f369d29509fdfffb17295957128d48c55011fe16a0e7e89aa9b67/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/fapXd3v9qTcNBTm39ZC4KUVQDNf-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Angel Has Fallen
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/fapXd3v9qTcNBTm39ZC4KUVQDNf-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Angel Has Fallen
 https://in73925115.vshcontent.com/7aVTFxmuOY1auVo/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/gCZ0RHifBxZGedde7WPWSgjpyZt-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Ashfall
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/gCZ0RHifBxZGedde7WPWSgjpyZt-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Ashfall
 https://in73925115.vshcontent.com/u7UCTrEM87lKF7G/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/caYipV8vKfj628YKpEk3cHDc2jv-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Battle of Jangsari
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/caYipV8vKfj628YKpEk3cHDc2jv-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Battle of Jangsari
 https://in73925115.vshcontent.com/FBVny5893fqFCSf/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/8WUVHemHFH2ZIP6NWkwlHWsyrEL-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Bloodshot
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/8WUVHemHFH2ZIP6NWkwlHWsyrEL-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Bloodshot
 https://in33629415.vshcontent.com/A0j89i2NInBoUiW/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/zf16eomhCB13cwMb4iFEbBT0Tsr-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Exit
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/zf16eomhCB13cwMb4iFEbBT0Tsr-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Exit
 https://in33629415.vshcontent.com/5eboP9O9DsYeL5T/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/nMNVfz2bmcgj9Du0wywVHjbRIsz-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Fall in Love at First Kiss
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/nMNVfz2bmcgj9Du0wywVHjbRIsz-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Fall in Love at First Kiss
 https://fo72733215.vshcontent.com/VaiaJ8kwFgjzSoh/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/bk8LyaMqUtaQ9hUShuvFznQYQKR-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Hellboy
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/bk8LyaMqUtaQ9hUShuvFznQYQKR-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Hellboy
 https://in73925115.vshcontent.com/KMzIPb2J7XMb98m/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/3FUJT82YKY1EJ1dmunQhW5PUZAT-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Mechanic: Resurrection
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/3FUJT82YKY1EJ1dmunQhW5PUZAT-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Mechanic: Resurrection
 https://fo72733215.vshcontent.com/Zd4rXkrpc33dTUQ/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/12/dAO5QphbeP5PsBT71cYcpXHY9i4-210x300.jpg" group-title="MOVIES TAGALOG DUBBED",Necromancer
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/12/dAO5QphbeP5PsBT71cYcpXHY9i4-210x300.jpg" group-title="MOVIES TAGALOG DUBBED",Necromancer
 https://in63079715.vshcontent.com/uHvOTKW4NgCjirl/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/hBNuRQRtet1THfMS0hohQnyRgzW-210x300.jpg" group-title="MOVIES TAGALOG DUBBED",No Mercy
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/hBNuRQRtet1THfMS0hohQnyRgzW-210x300.jpg" group-title="MOVIES TAGALOG DUBBED",No Mercy
 https://in33629415.vshcontent.com/2yrlrRJ0KpMghzN/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/7IiTTgloJzvGI1TAYymCfbfl3vT-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Parasite
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/7IiTTgloJzvGI1TAYymCfbfl3vT-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Parasite
 https://in33629415.vshcontent.com/CSUo1oCwF53DEIH/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/kTQ3J8oTTKofAVLYnds2cHUz9KO-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Rambo: Last Blood
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/kTQ3J8oTTKofAVLYnds2cHUz9KO-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Rambo: Last Blood
 https://in33629415.vshcontent.com/AbaRr48ZFB2zKcB/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/2C4osqxk83jtpwMMaLIF9C44PYs-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",School-Live!
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/2C4osqxk83jtpwMMaLIF9C44PYs-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",School-Live!
 https://in73925115.vshcontent.com/CcNGpAkofD4qZCB/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/nxxuWC32Y6TULj4VnVwMPUFLIpK-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Seobok
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/nxxuWC32Y6TULj4VnVwMPUFLIpK-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Seobok
 https://in33629415.vshcontent.com/rgaSVpP8slQetAp/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/fl9VBbIGHUoBY6Ixzt9lEGjhxzs-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Take Point
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/fl9VBbIGHUoBY6Ixzt9lEGjhxzs-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Take Point
 https://in73925115.vshcontent.com/itLjWmBhX9bovvu/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/qNdlXHg0J2vRVGMe2uoaM13zEgF-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",The Bad Guys: Reign of Chaos
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/qNdlXHg0J2vRVGMe2uoaM13zEgF-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",The Bad Guys: Reign of Chaos
 https://in73925115.vshcontent.com/p1VeqPavgWEzPeM/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/zZGUXiaGH9Nk6uebfRuASPSJoPo-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",The Rescue
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/zZGUXiaGH9Nk6uebfRuASPSJoPo-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",The Rescue
 https://in33629415.vshcontent.com/JCOygtIxuQiNNR3/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/2uNW4WbgBXL25BAbXGLnLqX71Sw-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Venom
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/2uNW4WbgBXL25BAbXGLnLqX71Sw-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",Venom
 https://in73925115.vshcontent.com/OOcqNWeLCC92A6m/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/1SWBSYJsnyhdNRfLI1T6RsCxAQ4-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",World War Z
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2022/04/1SWBSYJsnyhdNRfLI1T6RsCxAQ4-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",World War Z
 https://in73925115.vshcontent.com/M8LYcTyRJH5IjxW/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/lKr93lCNP7NHvSiLduHly61wn5f-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",0.0MHz
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tagalogdubbed.com/wp-content/uploads/2021/11/lKr93lCNP7NHvSiLduHly61wn5f-200x300.jpg" group-title="MOVIES TAGALOG DUBBED",0.0MHz
 https://in33629415.vshcontent.com/h4zLSSes4bDjIYB/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 1 - Multo
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 1 - Multo
 https://in73925115.vshcontent.com/nCWLogTkuikzcT6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 2 - Kulam
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 2 - Kulam
 https://in73925115.vshcontent.com/CHs6OWeY1aSZDjn/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 3 - Aswang
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 3 - Aswang
 https://in73925115.vshcontent.com/PvyfnsuFWlsirfV/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 4 - Yaya
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 4 - Yaya
 https://in73925115.vshcontent.com/nLRO1hQxJSBXPMg/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 5 - Ate
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 5 - Ate
 https://in73925115.vshcontent.com/5x7lOmMQhjhGJQ7/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 6 - Nanay
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 6 - Nanay
 https://in73925115.vshcontent.com/1fNhtqHwqoUAgBg/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 7 - Guro
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 7 - Guro
 https://in73925115.vshcontent.com/nKSjuXMwWKBNWtE/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 8 - Kapitbahay
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 8 - Kapitbahay
 https://in73925115.vshcontent.com/nKSjuXMwWKBNWtE/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 9 - Madre
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 9 - Madre
 https://in73925115.vshcontent.com/HGemdHjmpTwYfpV/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 10 - Maligno
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 10 - Maligno
 https://in73925115.vshcontent.com/HGemdHjmpTwYfpV/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 11 - Anino
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 11 - Anino
 https://in73925115.vshcontent.com/C4aNMeyY87R49E2/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 12 - Impakto
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 12 - Impakto
 https://in73925115.vshcontent.com/37w9OgSg55NaQtw/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 13 - Telebisyon
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 13 - Telebisyon
 https://in73925115.vshcontent.com/3y7pX3ntc8txKao/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 14 - Tulay
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 14 - Tulay
 https://in73925115.vshcontent.com/ahSXMGU2ALiZV4z/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 15 - Ang Buwan
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 15 - Ang Buwan
 https://in73925115.vshcontent.com/GwewlMddnGiCKDb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 16 - Poso
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 16 - Poso
 https://in73925115.vshcontent.com/gBIpD7AvKcEgBlb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 17 - Aquarium
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 17 - Aquarium
 https://in73925115.vshcontent.com/bKlQ1F8cHv1108K/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 18 - Lihim Ng San Joaquin
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 18 - Lihim Ng San Joaquin
 https://in73925115.vshcontent.com/MCD6YkzTunV29pw/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 19 - 13th Floor
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 19 - 13th Floor
 https://in73925115.vshcontent.com/B6DuzXsU47Grq2p/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 20 - Yaya
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 20 - Yaya
 https://in73925115.vshcontent.com/xmUN48aIvtL2LDq/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 21 - LRT
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 21 - LRT
 https://fo72733215.vshcontent.com/vrXHIOy6RYudrox/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 22 - Christmas Tree
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 22 - Christmas Tree
 https://in73925115.vshcontent.com/jPBLIzI34nNcBKH/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 23 - Bangungot
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 23 - Bangungot
 https://in73925115.vshcontent.com/KqMG6q2SVYuKUl6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 24 - Engkanto
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 24 - Engkanto
 https://in73925115.vshcontent.com/kRRRzOXzCwm7d8T/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 25 - Emergency
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 25 - Emergency
 https://in73925115.vshcontent.com/hySJb2n698WSfon/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 26 - Class Picture
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 26 - Class Picture
 https://in73925115.vshcontent.com/89PPXipgE8nFNqU/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 27 - Nieves
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 27 - Nieves
 https://in73925115.vshcontent.com/ckCXFLMKiHiZvZm/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 28 - Diablo
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 28 - Diablo
 https://in73925115.vshcontent.com/RjIy6ij3Zj3gSgq/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 29 - Ukay-Ukay
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 29 - Ukay-Ukay
 https://in73925115.vshcontent.com/3H5IaTT0oXKVDo6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 30 - Lamang-Lupa
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 30 - Lamang-Lupa
 https://fo72733215.vshcontent.com/VxiNyXLN1BP7hIq/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 31 - Mamanyaka
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 31 - Mamanyaka
 https://fo72733215.vshcontent.com/zahMhHeRa9On0jS/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 32 - Isla
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 32 - Isla
 https://in73925115.vshcontent.com/KPSWiXFZjDvdw63/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 33 - Punerarya
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 33 - Punerarya
 https://in73925115.vshcontent.com/6ebyljOnMAHbtYe/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 34 - Tamawo
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 34 - Tamawo
 https://fo72733215.vshcontent.com/zMMJQAH26CLM6ZQ/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 35 - Parola
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 35 - Parola
 https://in73925115.vshcontent.com/5MfJiOCLICF2tJ3/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 36 - Rain Rain Go Away
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 36 - Rain Rain Go Away
 https://in73925115.vshcontent.com/bgAXyygmcRfcAiM/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 37 - Pamana
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 37 - Pamana
 https://in73925115.vshcontent.com/JcjwIktTRj212qF/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 38 - The Lost Command
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 38 - The Lost Command
 https://in73925115.vshcontent.com/woZcCAJ7302vSzS/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 39 - Unwanted
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 39 - Unwanted
 https://in73925115.vshcontent.com/Tyj1pNahKETwu95/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 40 - Ahas
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 40 - Ahas
 https://in73925115.vshcontent.com/llHkUdez9hrZRvM/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 41 - Ulam
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 41 - Ulam
 https://fo72733215.vshcontent.com/zQKyEppuqO6RgOk/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 42 - Flight 666
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pinoyflix.to/wp-content/uploads/2021/01/shake-rattle-and-roll-208x300.png" group-title="SHAKE, RATTLE & ROLL (SERIES 2021)",Episode 42 - Flight 666
 https://in73925115.vshcontent.com/8Bz7AF02blb2GCW/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 1
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 1
 https://e-10.mzzcloud.life/_v8/e64d5ab12afdd28462b51d56bb94004b0d9fa19a6de6a57033e90ca9c566f4b51848d2eb8c2963c9d0d8b9af22fb21e53dcca033b44d59975e81c997bb759bd5820fc9cdd9d7478ab0633fa2edcd240c834c4a51a44ff32b6af9d9dc9b5d66521d7aa891f2501d89505a3615a696c1f143fec092babcc1bb1ae595e5c4b14435/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 2
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 2
 https://e-7.mzzcloud.life/_v8/2a6f0e21332d6761fc31c3835bafef0bf059e48976b13179247f7b3cdd256b1dfe88d9002a5fb6c13713b0e7469403d858ea198ad1d79ed59152f855eaa3a405385b220bfa2a4486842f1dccb2bb91e3d8e956fd5bc2c4d6e77f29a075d3b2703d989c08fb5e1a8ddbf8105857a1f12eea418e826c7f7504b9d877f8cd9db4c4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 3
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 3
 https://e-3.mzzcloud.life/_v8/e45340182f7f0241d4d5f3f91c0fd2f071f02c6aa9aa4b528812dc670f9d276030cfcd25391652440f9f9881f1410d1635c031e86e3c5c98943ffbd0004d3604231237ed0b87060febf79d3af28462ec1c54c20fc8eda9958318d92a065cf32cc8e924473172079b00519e21494f8685b3f0f383a221829d92d2e0f1f231076a/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 4
 https://c-2.mzzcloud.life/_v8/d4c03867d60ae03b253b801a77126016b2b2be1f99cd7fa32aa6f80276cc6faa1459467d732579580acdfd13549050e7796c6a6580cb71558a9a2b92c803c46fcfdcb447cd6cbc5b67ac6124ed2b4bc1977833819bc6ec1ca5356c73d1310f1418dc910b3d9c0c32b442a7fe0bdb9a3d456096b4581e10702da312149e5fe4e5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 5
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 5
 https://e-9.mzzcloud.life/_v8/f1df55945a09c0a18320e3a0ba8dc8cf6c8ebe4e37015165e5196e695ccb5f44607c6feef23b86a910ed8bdf5d06f8acf38cd4a3198a0da2f5686217be1df49929aa34991ff9ec7ae52971ab29c1584237e8a0d6781c9eaed57f30c1be5ba29ae00722ef28720c0107bd7af00e9e66f4d3f38dfd674fb12b623db3771751f0b1/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 6
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 6
 https://e-1.mzzcloud.life/_v8/06be5413621b5a7a0f8f584704c4a06b5a77861a6e0b01c0ef5db1caceb2f99ade501f2a448d963e8db644555fa50c40e27387509d1780b40d4b6570f5cec785796a63b391ad655e96df35bc53861cecbaaa4b5239b204bed907fd31976adee5f3af86b7227578f120eec694a97f3cfce4d8901bce2357eedd72893f468cb5a9/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 7
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 7
 https://c-2.mzzcloud.life/_v8/555d69e5f9a16c63a95abc52ab370d86bc3c1a00202e252f96f40b58f6607f34b02b4721e3201cf164ff270e3089cd13932ebda81cb290772ac95f2bf1267873fd980c7e76cc060dd33968dee9267d7e5dc84c42e8ddf106811d5e12186bc5447f807082954ec942a90e5b672d88c29908a13d8e3ba0671fb0f602340efe0b79/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 8
 https://e-5.mzzcloud.life/_v8/778976f94862d07b56d07a1910b83403bd859fa4d1604e84b8390655fa96df33736c0ed3a2e93b659ab06078bc8274ade6974696826a87e56d40f2216175230442269071147b44b90978a2c27f0643eaf09bc6d5123ddca2d862681fdc4a0eb252c698fa6630d0e6655b6e27d57ee71e566ba5354cc45e903b865bc70c109840/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 9
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 9
 https://e-3.mzzcloud.life/_v8/69d169992d90c85e9195ab0943a56cbb450b431b79d2b9dfcf6b69231e61bea44c07cee12e3a88fa407ea7fa428809095d7143807f582a83f3c5b3b3352fe765341faa88e3c2eb4e64ede519bbf4327ae6d6d4ddb6928427cee39c6d3a9fe6ffc30f2b5ef0d43fb9f432041a707f842ff745ece79077673a98d6f7486f3bd3f2/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 10
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 10
 https://e-3.mzzcloud.life/_v8/69d169992d90c85e9195ab0943a56cbb450b431b79d2b9dfcf6b69231e61bea44c07cee12e3a88fa407ea7fa428809095d7143807f582a83f3c5b3b3352fe765341faa88e3c2eb4e64ede519bbf4327ae6d6d4ddb6928427cee39c6d3a9fe6ffc30f2b5ef0d43fb9f432041a707f842ff745ece79077673a98d6f7486f3bd3f2/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 11
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 11
 https://e-2.mzzcloud.life/_v8/c9b63b200f43177fcc3258b95cf6096a316bbd275af175da0261811cd574e9f99d9e616098c4e26f6042b8b98b96d24dffd8e75b83d6568ed2ae816d51f4ddf46a6bf98adb73ea42970e7ab66cecc7df2abc251174d0ec0d0a1e11800c9c5ac5099ac5bd728956cbb46b9373793a99ade5291a6985a1a8395c1bd239f398eb69/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 12
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/bf/96/bf96aedacca353012039fa983e6c73ab/bf96aedacca353012039fa983e6c73ab.jpg" group-title="ALL OF US ARE DEAD (SEASON 1)",Episode 12
 https://e-9.mzzcloud.life/_v8/1ff30ac89f34a965ee88010ae9c8433684a6cdc839240babd8bad25511cca402ee9725625f71d15caaf9d9e9912f9fd2b6271e44d2f66e037a6c2cc2bae954f42e253c8b82aaa865a0824586e0fd37f283b3ec0affb9dd82fa74ab8b698325d9100356cb00ff3980e00ae397e60b9dcb7428312989755615295d1b89868b121d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 1
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 1
 https://c-3.mzzcloud.life/_v8/737468cdc60a4530fc37b79ac3b0b8d69498c6f1d5fa8661f6ea23c0536ab100fe7d8817349b40ab4354e46046a8ca7944d21d1227f702d8ca83d748f9323f1cb9f5872826ef5d7236885d88b78c50e438f58bf1b16277355b13673c1027aa5f854e395c3ed598e0c1613a94a327596db44f417f79d406a0ad9448e3eaaddc31/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 2
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 2
 https://e-10.mzzcloud.life/_v8/cd1559b0350c8078b7d04a6f787847c100fc3061e954d3e5daa7f61871c2efddcadcd1a01075db637425434581a02483730cbbbbc828d8364e1eef4fbba8ca76f2b50cdfc6f42e09a3885558a9e91342c6dd3d401f949ca906683d3fce71ca774e39ae2e3b8dba1db2631b2e51fc20867a1080aecdf3aa28a1ee5ee89d535c74/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 3
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 3
 https://c-3.mzzcloud.life/_v8/b7842bdadab800ad4f8d1a6fc56a1e48728fa9186d9d1db012801cf691f171badae88cf83b3c278c9224768e4140890b6c16fd7c0b91b7f9160452d286aef380a90cd986207cf11a31c6df84892164a2946925255040088afe54897523b5497bd53b58c1ddc0ba6117f8331d83587850619cc0346b6ab9f690455d2b9b0bafed/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 4
 https://c-1.mzzcloud.life/_v8/bf0fc5a18002e6222f2c8ed4f66fe1aa4d8027500ab35515aae0b057e986ad10c2be298fddfe4f141c57db378ef97ac07ee39aa7122cd40182b18966cd6f2c390eeb83123886dc93316cea9dda0d2ac5125818145277f83706040eacf3e549b68955c60ea0514475f06229b2d8e81389e8c00e7494ffb6200090aaf0dcc173b0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 5
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 5
 https://e-6.mzzcloud.life/_v8/d859074ccd6e5e92918767eca4e868d2d8122f0b2103860e68544ec577c23bb1bef0939992cea2057a8eb58d309a9fdbf291117d65c62cc4b038729fc8788a66aa3efc612a4d9d12d73e3b67dac83658fa5bb9394cd14e71d1a864437657ad5ce8ce62f201b44039073c6b0931708c46e62e904a097301a6edc4b21fc26b9770/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 6
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 6
 https://c-1.mzzcloud.life/_v8/8451eb22b64da68fdc081066e77a2412ef259f1788a2e9c96f461a0038e140b49c9152396a266b571bc3b8ca07cb0748eaeca21c6a88869bc88900575d0e77de1732860e371959f57bae36a04a2281b9e113f7622c1b5bff61ef517a65fe125fd2c3b9800acd5856cf443e2e882425d07a4034dab7354108296f0b7e59c5b395/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 7
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 7
 https://e-1.mzzcloud.life/_v8/b3ed8910fec34a59d4c7764b1a7404cb307ba32a4b4a840f7f939e75fa0bda0be7587e37c2cbada56c6a54d781bd8f1526fefc2d33a8d631b3dd3ce3e7436b4996e9f2c7d77fe5cd3b731dc88e99640af642eec5587c3edcad8c427790b39905219d82c1e25b173e7df8051724eaed34f36b770c086018763d477b21a965d1e2/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/81/9a/819a4aea309cc46a8d032c478b7da2aa/819a4aea309cc46a8d032c478b7da2aa.jpg" group-title="STRANGER THINGS (SEASON 1)",S1 Episode 8
 https://c-1.mzzcloud.life/_v8/af9dac3979bd7e638c58f834fb336b19d6b486efd2c1290b3b7584b46b13900088f88b39709f0e158ae46db9e509b870ea7fc548bfbb30aba61f6bd9f76f67cf4447c60ee2e516370c71fc6ef18e56281fb1245444c936224d1d65c224b8ec185fa253a9dabaf5cde3938453333950772aa0705e6449411c224051a6ff08eac5/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 1
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 1
 https://e-7.mzzcloud.life/_v8/bd3ee49183f6ea268d2098607fe4129e5757b4bc23020213aeda7a2222343b2a27a30a60486c1de8c9ef65118e51d3e612fcb09c88f94c2767661283034fa7afebc6616425b3a9065e67cf3312a99e7f30c44d40b7d1ba8ed3706aec81c4d73230226daf2ecdf2700dbdeb5d650fa23afe119765e0d9d56de11ab0cbb815cb01/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 2
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 2
 https://e-7.mzzcloud.life/_v8/a4334f0c29cc40d187fa02d2754c0f23d8e814061515ae7981e9235d30a197ec25c14280bca8012599e792d45c04e601ff60fa0a08e3ba9fb41a00a3d619a40a3e5864387546440b16fe18253117ccd3717f194a3df9c85557c227ddf5100c64e1cbde8c4a75c3084ad1156615b2522b1cc7fce76ba1c6107b45008992525b29/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 3
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 3
 https://e-6.mzzcloud.life/_v8/4dc2dae1f2bd267179cc8da6525b1da5ce2fdd76499ef4806764e789049f394f501665b943e7b4ee797907880b5d3a878555227de4ef8837b3ef7d9fe4d9fa71207228a813de8ab99fe356f6091515ffe0a5b81bb526de3a9bd318088b44a9a9ccf2399a2a45aa44031f185ded44baa1513ce795526665b0d3640598e837314d/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 4
 https://e-7.mzzcloud.life/_v8/737ffe88b656972580119d92b558329fa553992ced242b9b41f60b648137fba2411cfb026dea73a2053d68e5d032b636aa12a5220f1e4ca22d548563442956dc8bc60f25f4971730631a14b36a42834d53489486c3e4faa19621fcb3f4ca17df9d698074f7a3fbb3c763005a848dda79384c0868585cd9e8dd15282fbec63f14/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 5
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 5
 https://e-10.mzzcloud.life/_v8/e0f0fe903479fe0b95001adc83302013370523c9ecffbc62b04abb4461564206d7b0917fe9b90932dcfa048a242ce53b0712bdfcbd82e1c792af0dab810a5eb3630430f1626044e8d6d048ae54a489a7006b524c756aba95e3274459f2d63cb6797ace917e80dd66857a87423ebc55f1f1c2bcd3de53c39b35aa89689e06cf9b/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 6
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 6
 https://c-2.mzzcloud.life/_v8/e73f0c9fb811a71c31859a59e2d3068eee0be8bc24470a265413cc08d5541489ec4664302fd246baefb24a6592c309aba1c7129abee62005a1633808371bd769fe3c525514f0766d504f56fd4e5bff6c67682462df01aa2f6227ca4d8a3c27cca2657e6bddcf57ff0d5c833fdc22e5465f7a60d6662f553aac7b6d6173fcf609/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 7
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 7
 https://e-9.mzzcloud.life/_v8/8db88fae9131768530b45611babe8e08d24d23db3d7f1c5b39f268c224c85410532b3bae2d09822421bcdf7a43bc27b2a4c0f74d96ca12ca1b9b6681612eabe4e07ed700c40ce8149fc9209ff32e30ae1d724aee878287b3e480a473956074592a1f5cb20bd76e4ffeff09f55c3eaafe636fc9954c4a780f6320421415c0e4ea/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 8
 https://e-8.mzzcloud.life/_v8/d28bf58ea5ba715728a94e1d565cdd58dc3b1db01ff79a137f5c8792a4cb424aab78edc1118637d55c8c12fe5ba2264fb01c16726960e73986f27bc7883ecee6a0c5936b99b39034b37550d3c3b825fdbaeb25a9a723c81176573a53f3b7403f038ca55bac6f9c9c030709f5f9d006501128f65c1b6ffb408dd0855b7927f2ff/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 9
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 9
 https://e-3.mzzcloud.life/_v8/196296764d98fbe86941e051cca71fd662993dc6af5967dfafab84a1332aa3852dd258ed1726e7289ce0bd9e64bb2637ea4af03370f5931b1fa2b764da1bb665b7d89b41ce6882016559cd7cfdb408902ecfafba122321163d8ff0f5e18fa092b06db3bbe2c5456c97cefb8293b8a8131f4dfd7aeb0fa25f6acc42cdd4c2ef27/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 10
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 10
 https://c-2.mzzcloud.life/_v8/5865edbcfeaf0de5e0035fd5e6a21c4f4b91f797c901dd78704cc4f285f02ba8051d90c5b0fb336e520d8308f84109b674d43cd5de3ee9c4fc3f5236bd001a4974fdd1c3a61e70b87a550e4af837326a90d0d563b4913df00cd6f2e9a63cb55e45e6dd307f066a9974f629f9036e6f2b2d2bbecc44b5bfbe0389c9acc043a909/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 11
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 11
 https://e-9.mzzcloud.life/_v8/89b7df87c044395b76cd5c49e230bb67f4db3019d5c438d8b1966669dfaa126488591f1e5c9768828142fc4838301fbba2bff9f1aa7eeb0a730e1e09546efc525756da09af44306a634a6ad9eac86347f22dd320cb0ed5ebcffffa7f574bacc52ee381e2a432a02d3be1b2f3d8aa18dd005badd2acce512d6dd5a14497e559ba/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 12
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 12
 https://e-5.mzzcloud.life/_v8/89b7df87c044395b76cd5c49e230bb67f4db3019d5c438d8b1966669dfaa126488591f1e5c9768828142fc4838301fbba2bff9f1aa7eeb0a730e1e09546efc525756da09af44306a634a6ad9eac86347f22dd320cb0ed5ebcffffa7f574bacc52ee381e2a432a02d3be1b2f3d8aa18dd005badd2acce512d6dd5a14497e559ba/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 13
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 13
 https://c-1.mzzcloud.life/_v8/d34310edf1ef102055e02da4f7a7330c3883cbc48cb5268fc115ff606dd8471dad982c6f84f9226cd633a6734f0fa6c20043ab7a4eef97555165579274bd8eda9fed6b6fc8d09638cd06c9e3b538dd01b72fd697d945b0f8b6907c55abd188f05e97c2d06e1d8774e27f64bb076275dc952f727bb7c54800bbfd44cf93c3d10f/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 14
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 14
 https://e-10.mzzcloud.life/_v8/08f3eebe48876642514b0438c336d81aa0d3fcae807b9224254bdc1fc3c993b1f538ba883a1ece736efa245717c4a9ccce2bb41c0a0e85ecec0cfebde8070cff16edd1f5f262bea5c5fd8c3305a733e2835dbe682515a6b5f6c4ff31cfdda63c1fec3138105fa30e454cf381b3cf6aac2f1325c2123c34c652dfee416f1922bc/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 15
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 15
 https://c-1.mzzcloud.life/_v8/400dd19b992c62f304d18aee20cb33c13e2466624a575116d966288c0f2420885f75da9cfcb76990037b7b6cb524628549b3a311a43a64fd33bc22bdfb06fdf6b7d31ab38c60d6b47ebf72faf9c5e006f730cb20d6020e5b2f4c976f6d76847d5cf08f079ed5cfdd529b90142107f5d38fc79f602dec67a058807d9bffd1a842/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 16
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 16
 https://e-5.mzzcloud.life/_v8/5e8be28a6effd8618ed3285aab0fc069b09fc40dbad33ec98feb54231848de080c685b2ca01e14e1ff64e95407cd1e302f3e65aa80ad4619dbb4550a3ca25f0ed2acf6216c2d233b7a70775fd5d5f14bfb3d3034647c5e1c57738e725806172e8584f2c548e3446c6bdcd732b613541c62f0c8c561552b7c641c4d100a4c00db/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 17
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 17
 https://e-2.mzzcloud.life/_v8/3bc56f63df4414dd7a31261f7868ba0ef85ff9246269a9ca394e459dd606b7b660ae8afcd04ff1b6ed3307a1ac986d0732a1fd3e136faee30aa264d69a4006b3a391677c501b2227b06670745287a4864e681c15683866ea4a65060c35f515f858e9baa97f7d7cba023803e9a7243e923a65503d0f99b14a18341390bca745e7/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 18
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 18
 https://e-8.mzzcloud.life/_v8/5b77a8a254445cd67c082536f09803504da6c003a44c5f285b703b283f7b31be5ce3b74d40d5ace47bf931e265d67e177569e43933638aaa1c47ab03f542b236a18f0039284b13eeeb83f6e6b02aa26224b660769d3a14dc88adbc3619acf434d95e7bb4b76b77b30decd999a1b677d2c3e27cd77b00f3d4cfa5a2cff5ae5a09/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 19
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 19
 https://e-6.mzzcloud.life/_v8/dc2d4537d4cf2f0ec67f76447ae7127bd322b8c8e76477f14d26d51be4e2225f51e88e397959caf9f9941d3d4bc7834b19de02e9f2b58dbb0d33b45a9386008aa9dc6e1e16714f76db714829a1f10249ab8b86aa3f8a887253961d963d06e9032e70ce47ef151628ca75f2cff9970c75ce92f98cb773206ab920f4362efc2e4f/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 20
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 20
 https://e-2.mzzcloud.life/_v8/8c50f41a01c004a23d1a10f2b77657180fa5817662096040b3418f3d87322ed3952731b400d00cfb0c68c916550068ac6ce2a20df8e2e0c7cc67337b1c2ab6cb3e059187d1e71c2d8674b2231c95c032e8d0b9d42e909af5d8fbd4d9f0f307bcf6f247280a53fa4d8c19311794c3faf61f0f317f99f3269a04b654b844443507/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 21
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 21
 https://c-4.mzzcloud.life/_v8/6dc67dd29119503fb7f727d0328928dd7834b705bd909d7d56e80ef3eb30263e6aa4dbf4eeb719ae9b20bc2478531d9bc355969eae7e88b3c1b9e4ee0cf0443b132aa741766bfe8b5a735c5d4ba15a03d154458209a10d1b38221378d548ce896920be42c665d2a4d051c8e6ab80422f670be4779a2d7c0df3debafc9fdcfc1b/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 22
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.moviesjoy.to/resize/188x288/c3/11/c311666650559ab8c07d37ebea167563/c311666650559ab8c07d37ebea167563.jpg" group-title="YOUNG SHELDON (SEASON 1)",Episode 22
 https://e-3.mzzcloud.life/_v8/c65d87ade1ce1a3aff0153c2f3e3abc50dd10576d24a1fa6b6d4a96f72bb72ce052c9e068097fcdeb1278e7034c503122318aed2f3e444cd6b873a8eb859e827c1c41504b57202b897376ed489695b67862ffacc30eb6d48456bbcd23c2f8872348deac6ec02d13342cb0a54626ceedeb78d94682e4fe2f4642d6dcedd0c426e/720/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/NGJmPbVy/1.png" group-title="VOD Full Movies (Foreign)",The Witch: Part 2. The Other One (2022)
 https://stream07.melchorphc.workers.dev/0:/The%20Witch:%20Part%202.%20The%20Other%20One%20(2022)/The.Witch.Part.2.The.Other.One.2022.720p.WEB-DL.x264.AAC-EmEsKyu.mkv
@@ -2635,6 +2635,3 @@ https://onedrive.live.com/download?cid=369A88711393B929&resid=369A88711393B929%2
 https://onedrive.live.com/download?cid=369A88711393B929&resid=369A88711393B929%21106&authkey=AONCcUmjfW1gepU
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/6KKqal4.png" group-title="VOD Full Movies (Pinoy)",LSS (2019)
 https://onedrive.live.com/download?cid=D6B39FE8922913A7&resid=D6B39FE8922913A7%21112&authkey=AD6_CGN7HdgfIpo
-
-
-
