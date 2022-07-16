@@ -63,11 +63,11 @@ http://cdnprox.com:8080/tvprox432/643258/11877
 http://cdnprox.com:8080/tvprox432/643258/11879
 #EXTINF:-1 tvg-name="Hits"tvg-id="Hits.sg"tvg-logo="https://i.imgur.com/YeqyD9W.png"group-title="Movies & Series",Hits
 http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/01.m3u8
-#EXTINF:-1 tvg-name="HITS"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/IViPz40fTLALdEeNWNTnFyyzI2CTiwLhit.jpg"group-title="Movies",HITS
+#EXTINF:-1 tvg-name="HITS"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/IViPz40fTLALdEeNWNTnFyyzI2CTiwLhit.jpg"group-title="Movies & Series",HITS
 http://cdnprox.com:8080/tvprox432/643258/11893
 #EXTINF:-1 tvg-name="Hits Movies"tvg-id="HitsMovies.sg"tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png"group-title="Movies & Series",Hits Movies
 https://iptv-sniper.herokuapp.com/localtv.php?channel=22
-#EXTINF:-1 tvg-name="Hits movie"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/GC4qmOCKR9AWud81sKn2N4mN4UFA9bxhitsmovies.jpg"group-title="Movies",Hits movie
+#EXTINF:-1 tvg-name="Hits movie"tvg-id=""tvg-logo="https://iptv4k.tv/images/tv/GC4qmOCKR9AWud81sKn2N4mN4UFA9bxhitsmovies.jpg"group-title="Movies & Series",Hits Movies
 http://cdnprox.com:8080/tvprox432/643258/11894
 #EXTINF:-1 tvg-name="MovieSphere"tvg-id="MovieSphere.us"tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png"group-title="Movies & Series",MovieSphere
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
