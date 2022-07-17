@@ -1,0 +1,183 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/in/startv.com.epg.xml, https://iptv-org.github.io/epg/guides/ye-en/osn.com.epg.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml"
+#EXTINF:-1  tvg-name="COMMUNITY CH6" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",COMMUNITY CH6
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/3.m3u8
+#EXTINF:-1  tvg-name="CCTN 47 CEBU" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/4.png" group-title="Local Cable TV",CCTN 47 CEBU
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/4.m3u8
+#EXTINF:-1  tvg-name="GMA 7 MANILA" tvg-id="GMATV.ph" tvg-logo="https://fp.visualsec.net:8445/logo/5.png" group-title="Local Cable TV",GMA 7 MANILA
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/5.m3u8
+#EXTINF:-1  tvg-name="ONE PH" tvg-id="OnePH.ph" tvg-logo="https://fp.visualsec.net:8445/logo/19.png" group-title="Local Cable TV",ONE PH
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/6.m3u8
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://fp.visualsec.net:8445/logo/35.png" group-title="Local Cable TV",GTV
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/7.m3u8
+#EXTINF:-1  tvg-name="TV5" tvg-id="TV5.ph" tvg-logo="https://fp.visualsec.net:8445/logo/36.png" group-title="Local Cable TV",TV5
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/8.m3u8
+#EXTINF:-1  tvg-name="RESERVED" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",RESERVED
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/9.m3u8
+#EXTINF:-1  tvg-name="CNN PHILIPPINES" tvg-id="CNNPhilippines.ph" tvg-logo="https://fp.visualsec.net:8445/logo/38.png" group-title="Local Cable TV",CNN PHILIPPINES
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/10.m3u8
+#EXTINF:-1  tvg-name="KAPAMILYA CHANNEL" tvg-id="KapamilyaChannel.ph" tvg-logo="https://fp.visualsec.net:8445/logo/111.png" group-title="Local Cable TV",KAPAMILYA CHANNEL
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/11.m3u8
+#EXTINF:-1  tvg-name="PBO" tvg-id="PBO.ph" tvg-logo="https://fp.visualsec.net:8445/logo/39.png" group-title="Local Cable TV",PBO
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/12.m3u8
+#EXTINF:-1  tvg-name="VIVA" tvg-id="VivaCinema.ph" tvg-logo="https://fp.visualsec.net:8445/logo/40.png" group-title="Local Cable TV",VIVA
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/13.m3u8
+#EXTINF:-1  tvg-name="CINEMA ONE" tvg-id="CinemaOneGlobal.ph" tvg-logo="https://fp.visualsec.net:8445/logo/41.png" group-title="Local Cable TV",CINEMA ONE
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/14.m3u8
+#EXTINF:-1  tvg-name="HBO" tvg-id="HBOSingapore.sg" tvg-logo="https://fp.visualsec.net:8445/logo/44.png" group-title="Local Cable TV",HBO
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/15.m3u8
+#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CinemaxSingapore.sg" tvg-logo="https://fp.visualsec.net:8445/logo/8.png" group-title="Local Cable TV",CINEMAX
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/16.m3u8
+#EXTINF:-1  tvg-name="FOX MOVIES" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/94.png" group-title="Local Cable TV",FOX MOVIES
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/17.m3u8
+#EXTINF:-1  tvg-name="FOX ACTION MOVIES" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/103.png" group-title="Local Cable TV",FOX ACTION MOVIES
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/18.m3u8
+#EXTINF:-1  tvg-name="FOX FAMILY MOVIES" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/43.png" group-title="Local Cable TV",FOX FAMILY MOVIES
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/19.m3u8
+#EXTINF:-1  tvg-name="RED BY HBO" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/44.png" group-title="Local Cable TV",RED BY HBO
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/20.m3u8
+#EXTINF:-1  tvg-name="WARNER TV" tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://fp.visualsec.net:8445/logo/45.png" group-title="Local Cable TV",WARNER TV
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/21.m3u8
+#EXTINF:-1  tvg-name="HITS MOVIES HD" tvg-id="HitsMovies.sg" tvg-logo="https://fp.visualsec.net:8445/logo/113.png" group-title="Local Cable TV",HITS MOVIES HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/22.m3u8
+#EXTINF:-1  tvg-name="DREAMWORKS" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/116.png" group-title="Local Cable TV",DREAMWORKS
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/23.m3u8
+#EXTINF:-1  tvg-name="ANIMAX" tvg-id="AnimaxPhilippines.ph" tvg-logo="https://fp.visualsec.net:8445/logo/47.png" group-title="Local Cable TV",ANIMAX
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/24.m3u8
+#EXTINF:-1  tvg-name="DISNEY CHANNEL" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/89.png" group-title="Local Cable TV",DISNEY CHANNEL
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/25.m3u8
+#EXTINF:-1  tvg-name="DISNEY JUNIOR" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/109.png" group-title="Local Cable TV",DISNEY JUNIOR
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/26.m3u8
+#EXTINF:-1  tvg-name="NICK JR." tvg-id="NickJrAsia.us" tvg-logo="https://fp.visualsec.net:8445/logo/91.png" group-title="Local Cable TV",NICK JR.
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/27.m3u8
+#EXTINF:-1  tvg-name="NICKELODEON HD" tvg-id="NickelodeonPhilippines.ph" tvg-logo="https://fp.visualsec.net:8445/logo/12.png" group-title="Local Cable TV",NICKELODEON HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/28.m3u8
+#EXTINF:-1  tvg-name="CARTOON NETWORK HD" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://fp.visualsec.net:8445/logo/13.png" group-title="Local Cable TV",CARTOON NETWORK HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/29.m3u8
+#EXTINF:-1  tvg-name="BOOMERANG" tvg-id="BoomerangSouthEastAsia.us" tvg-logo="https://fp.visualsec.net:8445/logo/48.png" group-title="Local Cable TV",BOOMERANG
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/30.m3u8
+#EXTINF:-1  tvg-name="FOX SPORTS 2 HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/108.png" group-title="Local Cable TV",FOX SPORTS 2 HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/31.m3u8
+#EXTINF:-1  tvg-name="ESPN PACIFIC RIM" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/49.png" group-title="Local Cable TV",ESPN PACIFIC RIM
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/32.m3u8
+#EXTINF:-1  tvg-name="BBC EARTH HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/15.png" group-title="Local Cable TV",BBC EARTH HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/33.m3u8
+#EXTINF:-1  tvg-name="SOLAR LEARNING" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/50.png" group-title="Local Cable TV",SOLAR LEARNING
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/34.m3u8
+#EXTINF:-1  tvg-name="CI" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/96.png" group-title="Local Cable TV",CI
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/35.m3u8
+#EXTINF:-1  tvg-name="FOX SPORTS 1 HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/107.png" group-title="Local Cable TV",FOX SPORTS 1 HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/36.m3u8
+#EXTINF:-1  tvg-name="ANC" tvg-id="ANC.ph" tvg-logo="https://fp.visualsec.net:8445/logo/105.png" group-title="Local Cable TV",ANC
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/37.m3u8
+#EXTINF:-1  tvg-name="CNN HD" tvg-id="CNN.us" tvg-logo="https://fp.visualsec.net:8445/logo/104.png" group-title="Local Cable TV",CNN HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/38.m3u8
+#EXTINF:-1  tvg-name="FOX NEWS HD" tvg-id="FoxNewsChannel.us" tvg-logo="https://fp.visualsec.net:8445/logo/18.png" group-title="Local Cable TV",FOX NEWS HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/39.m3u8
+#EXTINF:-1  tvg-name="BBC WORLD NEWS" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://fp.visualsec.net:8445/logo/53.png" group-title="Local Cable TV",BBC WORLD NEWS
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/40.m3u8
+#EXTINF:-1  tvg-name="TELERADYO" tvg-id="TeleRadyo.ph" tvg-logo="https://fp.visualsec.net:8445/logo/114.png" group-title="Local Cable TV",TELERADYO
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/41.m3u8
+#EXTINF:-1  tvg-name="ONE PH HD" tvg-id="OnePH.ph" tvg-logo="https://fp.visualsec.net:8445/logo/19.png" group-title="Local Cable TV",ONE PH HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/42.m3u8
+#EXTINF:-1  tvg-name="CNBC" tvg-id="CNBCAsia.sg" tvg-logo="https://fp.visualsec.net:8445/logo/55.png" group-title="Local Cable TV",CNBC
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/43.m3u8
+#EXTINF:-1  tvg-name="BLOOMBERG" tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://fp.visualsec.net:8445/logo/95.png" group-title="Local Cable TV",BLOOMBERG
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/44.m3u8
+#EXTINF:-1  tvg-name="DISCOVERY HD" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="https://fp.visualsec.net:8445/logo/20.png" group-title="Local Cable TV",DISCOVERY HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/45.m3u8
+#EXTINF:-1  tvg-name="DISCOVERY ASIA" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://fp.visualsec.net:8445/logo/93.png" group-title="Local Cable TV",DISCOVERY ASIA
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/46.m3u8
+#EXTINF:-1  tvg-name="TLC HD" tvg-id="TLCSoutheastAsia.us" tvg-logo="https://fp.visualsec.net:8445/logo/31.png" group-title="Local Cable TV",TLC HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/47.m3u8
+#EXTINF:-1  tvg-name="EUROSPORT" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/97.png" group-title="Local Cable TV",EUROSPORT
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/48.m3u8
+#EXTINF:-1  tvg-name="ANIMAL PLANET" tvg-id="AnimalPlanetHongKong.hk" tvg-logo="https://fp.visualsec.net:8445/logo/21.png" group-title="Local Cable TV",ANIMAL PLANET
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/49.m3u8
+#EXTINF:-1  tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NationalGeographicPhilippines.ph" tvg-logo="https://fp.visualsec.net:8445/logo/106.png" group-title="Local Cable TV",NATIONAL GEOGRAPHIC
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/50.m3u8
+#EXTINF:-1  tvg-name="NATGEO WILD HD" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://fp.visualsec.net:8445/logo/32.png" group-title="Local Cable TV",NATGEO WILD HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/51.m3u8
+#EXTINF:-1  tvg-name="NATGEO PEOPLE HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/22.png" group-title="Local Cable TV",NATGEO PEOPLE HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/52.m3u8
+#EXTINF:-1  tvg-name="HISTORY HD" tvg-id="HistoryPhilippines.ph" tvg-logo="https://fp.visualsec.net:8445/logo/99.png" group-title="Local Cable TV",HISTORY HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/53.m3u8
+#EXTINF:-1  tvg-name="KNOWLEDGE CHANNEL" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/61.png" group-title="Local Cable TV",KNOWLEDGE CHANNEL
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/54.m3u8
+#EXTINF:-1  tvg-name="LIFETIME" tvg-id="LifetimeAsia.us" tvg-logo="https://fp.visualsec.net:8445/logo/62.png" group-title="Local Cable TV",LIFETIME
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/55.m3u8
+#EXTINF:-1  tvg-name="BLUE ANT ENT HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/64.png" group-title="Local Cable TV",BLUE ANT ENT HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/56.m3u8
+#EXTINF:-1  tvg-name="BLUE ANT EXTREME HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/63.png" group-title="Local Cable TV",BLUE ANT EXTREME HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/57.m3u8
+#EXTINF:-1  tvg-name="METRO" tvg-id="MetroChannel.ph" tvg-logo="https://fp.visualsec.net:8445/logo/65.png" group-title="Local Cable TV",METRO
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/58.m3u8
+#EXTINF:-1  tvg-name="COMEDY CENTRAL HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/33.png" group-title="Local Cable TV",COMEDY CENTRAL HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/59.m3u8
+#EXTINF:-1  tvg-name="ETC" tvg-id="ETC.ph" tvg-logo="https://fp.visualsec.net:8445/logo/66.png" group-title="Local Cable TV",ETC
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/60.m3u8
+#EXTINF:-1  tvg-name="FOX LIFE" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/67.png" group-title="Local Cable TV",FOX LIFE
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/61.m3u8
+#EXTINF:-1  tvg-name="AXN PHILIPPINES" tvg-id="AXN.ph" tvg-logo="https://fp.visualsec.net:8445/logo/102.png" group-title="Local Cable TV",AXN PHILIPPINES
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/62.m3u8
+#EXTINF:-1  tvg-name="FOX CRIME HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/25.png" group-title="Local Cable TV",FOX CRIME HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/63.m3u8
+#EXTINF:-1  tvg-name="FX CHANNEL HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/26.png" group-title="Local Cable TV",FX CHANNEL HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/64.m3u8
+#EXTINF:-1  tvg-name="KBS WORLD HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/72.png" group-title="Local Cable TV",KBS WORLD HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/65.m3u8
+#EXTINF:-1  tvg-name="MTV LIVE HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/27.png" group-title="Local Cable TV",MTV LIVE HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/66.m3u8
+#EXTINF:-1  tvg-name="COMMUNITY BILLBOARD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/6.png" group-title="Local Cable TV",COMMUNITY BILLBOARD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/67.m3u8
+#EXTINF:-1  tvg-name="RESERVED" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",RESERVED
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/72.m3u8
+#EXTINF:-1  tvg-name="MYX" tvg-id="MyxPhilippines.ph" tvg-logo="https://fp.visualsec.net:8445/logo/73.png" group-title="Local Cable TV",MYX
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/75.m3u8
+#EXTINF:-1  tvg-name="JEEPNEY TV" tvg-id="JeepneyTV.ph" tvg-logo="https://fp.visualsec.net:8445/logo/42.png" group-title="Local Cable TV",JEEPNEY TV
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/76.m3u8
+#EXTINF:-1  tvg-name="VIDEOKE" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/74.png" group-title="Local Cable TV",VIDEOKE
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/77.m3u8
+#EXTINF:-1  tvg-name="TECHSTORM" tvg-id="TechStorm.sg" tvg-logo="https://fp.visualsec.net:8445/logo/112.png" group-title="Local Cable TV",TECHSTORM
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/78.m3u8
+#EXTINF:-1  tvg-name="PINOY XTREME" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/51.png" group-title="Local Cable TV",PINOY XTREME
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/79.m3u8
+#EXTINF:-1  tvg-name="DYWC TELERADYO" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/115.png" group-title="Local Cable TV",DYWC TELERADYO
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/80.m3u8
+#EXTINF:-1  tvg-name="FOX CHANNEL" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/70.png" group-title="Local Cable TV",FOX CHANNEL
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/81.m3u8
+#EXTINF:-1  tvg-name="ABC AUSTRALIA" tvg-id="ABCTV.au" tvg-logo="https://fp.visualsec.net:8445/logo/92.png" group-title="Local Cable TV",ABC AUSTRALIA
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/82.m3u8
+#EXTINF:-1  tvg-name="TVE" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/77.png" group-title="Local Cable TV",TVE
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/83.m3u8
+#EXTINF:-1  tvg-name="FORMOSA" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/80.png" group-title="Local Cable TV",FORMOSA
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/84.m3u8
+#EXTINF:-1  tvg-name="TVN" tvg-id="TVNAsia.hk" tvg-logo="https://fp.visualsec.net:8445/logo/81.png" group-title="Local Cable TV",TVN
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/85.m3u8
+#EXTINF:-1  tvg-name="BABY TV HD" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/86.png" group-title="Local Cable TV",BABY TV HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/86.m3u8
+#EXTINF:-1  tvg-name="CELESTIAL MOVIES PINOY" tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://fp.visualsec.net:8445/logo/59.png" group-title="Local Cable TV",CELESTIAL MOVIES PINOY
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/87.m3u8
+#EXTINF:-1  tvg-name="RESERVED" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",RESERVED
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/88.m3u8
+#EXTINF:-1  tvg-name="RESERVED" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",RESERVED
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/89.m3u8
+#EXTINF:-1  tvg-name="RAI ITALIA" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/79.png" group-title="Local Cable TV",RAI ITALIA
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/90.m3u8
+#EXTINF:-1  tvg-name="LOTUS MACAU" tvg-id="(no tvg-id)" tvg-logo="https://fp.visualsec.net:8445/logo/85.png" group-title="Local Cable TV",LOTUS MACAU
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/91.m3u8
+#EXTINF:-1  tvg-name="NHK WORLD" tvg-id="NHKWorldJapan.jp" tvg-logo="https://fp.visualsec.net:8445/logo/82.png" group-title="Local Cable TV",NHK WORLD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/92.m3u8
+#EXTINF:-1  tvg-name="RT" tvg-id="RTNews.ru" tvg-logo="https://fp.visualsec.net:8445/logo/83.png" group-title="Local Cable TV",RT
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/93.m3u8
+#EXTINF:-1  tvg-name="RESERVED" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",RESERVED
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/94.m3u8
+#EXTINF:-1  tvg-name="FRANCE 24" tvg-id="France24English.fr" tvg-logo="https://fp.visualsec.net:8445/logo/78.png" group-title="Local Cable TV",FRANCE 24
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/95.m3u8
+#EXTINF:-1  tvg-name="FASHION TV HD" tvg-id="FashionTVAsia.fr" tvg-logo="https://fp.visualsec.net:8445/logo/100.png" group-title="Local Cable TV",FASHION TV HD
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/96.m3u8
+#EXTINF:-1  tvg-name="RESERVED" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",RESERVED
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/97.m3u8
+#EXTINF:-1  tvg-name="FP MOSAIC" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",FP MOSAIC
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/98.m3u8
+#EXTINF:-1  tvg-name="TMC" tvg-id="(no tvg-id)" tvg-logo="null" group-title="Local Cable TV",TMC
+http://fp.visualsec.net:8443/live/UOvYDsUuLZC3iR57vHOBRw/1658140709/99.m3u8
