@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-sniper.herokuapp.com/iptv-sniper.xml.gz"
+#EXTM3U url-tvg="https://iptv-sniper.herokuapp.com/adoboTV.php"
 #EXTINF:-1  tvg-name="Jeppney TV" tvg-id="JeepneyTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Jeepneytvnewlogo2015.jpg/512px-Jeepneytvnewlogo2015.jpg" group-title="Local TV",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 #EXTINF:-1  tvg-name="Kapamilya Channel" tvg-id="KapamilyaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="Local TV",Kapamilya Channel
@@ -2643,10 +2643,10 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181950.ts
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181975.ts
 #EXTINF:-1  tvg-name="UK Food Network" tvg-id="foodnetwork.uk" tvg-logo="http://ky-iptv.com:80/images/a975eb8e90525ca0b6f4e5e02e3259e3.png" group-title="Lifestyle & Entertainment",UK Food Network
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189947.ts
-#EXTINF:-1  tvg-name="|Platinium| Travel" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment",|Platinium| Travel
-http://red.ipfox.org:8080/osama2022/osama2023/47147
+#EXTINF:-1  tvg-name="beIN Travel" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment",beIN Travel
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/7634
 #EXTINF:-1  tvg-name="|Platinium| Travel XP" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment",|Platinium| Travel XP
-http://red.ipfox.org:8080/osama2022/osama2023/47146
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/12243
 #EXTINF:-1  tvg-name="Asian Food Channel" tvg-id="AsianFoodNetwork.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png" group-title="Lifestyle & Entertainment",Asian Food Channel
 http://cdnprox.com:8080/tvprox432/643258/11727
 #EXTINF:-1  tvg-name="CA HBO 1" tvg-id="hbo.ca" tvg-logo="http://ky-iptv.com:80/images/8e81af9034032420e0abe0b3c782a6b0.png" group-title="Movies & Series",CA HBO 1
@@ -2654,15 +2654,15 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181971.ts
 #EXTINF:-1  tvg-name="CA HBO 2" tvg-id="hbo2.ca" tvg-logo="http://ky-iptv.com:80/images/ce281c1775c2cc48a0bc1fd6ad24a75a.png" group-title="Movies & Series",CA HBO 2
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181972.ts
 #EXTINF:-1  tvg-name="beIN Movies Action" tvg-id="" tvg-logo="" group-title="Movies & Series",beIN Movies Action
-http://red.ipfox.org:8080/osama2022/osama2023/47202
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22990
 #EXTINF:-1  tvg-name="OSN Movies Action" tvg-id="" tvg-logo="" group-title="Movies & Series",OSN Movies Action
-http://red.ipfox.org:8080/osama2022/osama2023/47187
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22990
 #EXTINF:-1  tvg-name="OSN FOX Action Movies" tvg-id="" tvg-logo="" group-title="Movies & Series",OSN FOX Action Movies
-http://red.ipfox.org:8080/osama2022/osama2023/47162
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/7020
 #EXTINF:-1  tvg-name="OSN FOX Family Movies" tvg-id="" tvg-logo="" group-title="Movies & Series",OSN FOX Family Movies
-http://red.ipfox.org:8080/osama2022/osama2023/47161
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/6843
 #EXTINF:-1  tvg-name="OSN FOX Movies" tvg-id="" tvg-logo="" group-title="Movies & Series",OSN FOX Movies
-http://red.ipfox.org:8080/osama2022/osama2023/47164
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/7499
 #EXTINF:-1  tvg-name="CA BBC Earth HD" tvg-id="bbcearth.ca" tvg-logo="http://ky-iptv.com:80/images/090280886f3f38ac1212b93dbfe51e24.png" group-title="Science & Documentaries",CA BBC Earth HD
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181824.ts
 #EXTINF:-1  tvg-name="CA Discovery Channel" tvg-id="discoverychannel.ca" tvg-logo="http://ky-iptv.com:80/images/029355f719ac07c7694b7accaa583b87.jpg" group-title="Science & Documentaries",CA Discovery Channel
@@ -2689,19 +2689,19 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189944.ts
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189979.ts
 #EXTINF:-1  tvg-name="UK Travel Channel" tvg-id="92news.uk" tvg-logo="http://ky-iptv.com:80/images/bef668b336c4be3c0c8c931092cffa33.png" group-title="Science & Documentaries",UK Travel Channel
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/190018.ts
-#EXTINF:-1  tvg-name="IN: BBC EARTH HD" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/7bc995b0e58bc57b886cf96cdb30545c.png" group-title="Science & Documentaries",IN: BBC EARTH HD
-http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1121967.ts
+#EXTINF:-1  tvg-name="beIN BBC EARTH HD" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/7bc995b0e58bc57b886cf96cdb30545c.png" group-title="Science & Documentaries",beIN BBC EARTH HD
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22970
 #EXTINF:-1  tvg-name="IN: Sony BBC Earth HD" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/c4ce64afa376d1be749a5e5a0178a7a0.png" group-title="Science & Documentaries",IN: Sony BBC Earth HD
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1122220.ts
 #EXTINF:-1  tvg-name="PH: Discovery World" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/0a2cda69dc117c988931ac83f49e2e72.png" group-title="Science & Documentaries",PH: Discovery World
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1806766.ts
 #EXTINF:-1  tvg-name="OSN Animal Planet" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Science & Documentaries",OSN Animal Planet
-http://red.ipfox.org:8080/osama2022/osama2023/47150
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/4300
 #EXTINF:-1  tvg-name="OSN| Nat Geo" tvg-id="" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Science & Documentaries",OSN Nat Geo
-http://red.ipfox.org:8080/osama2022/osama2023/47145
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/15881
 #EXTINF:-1  tvg-name="OSN Nat Geo Wild" tvg-id="" tvg-logo="https://i.imgur.com/2DIGjSm.png" group-title="Science & Documentaries",OSN Nat Geo Wild
-http://red.ipfox.org:8080/osama2022/osama2023/47144
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/12548
 #EXTINF:-1  tvg-name="OSN Discovery Channel" tvg-id="" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Science & Documentaries",OSN Discovery Channel
-http://red.ipfox.org:8080/osama2022/osama2023/47143
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22972
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="Science & Documentaries",OSN Discovery Science
-http://red.ipfox.org:8080/osama2022/osama2023/47142
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22973
