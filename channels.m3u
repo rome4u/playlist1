@@ -2645,8 +2645,6 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181975.ts
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189947.ts
 #EXTINF:-1  tvg-name="beIN Travel" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment",beIN Travel
 http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/7634
-#EXTINF:-1  tvg-name="|Platinium| Travel XP" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment",|Platinium| Travel XP
-http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/12243
 #EXTINF:-1  tvg-name="Asian Food Channel" tvg-id="AsianFoodNetwork.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png" group-title="Lifestyle & Entertainment",Asian Food Channel
 http://cdnprox.com:8080/tvprox432/643258/11727
 #EXTINF:-1  tvg-name="CA HBO 1" tvg-id="hbo.ca" tvg-logo="http://ky-iptv.com:80/images/8e81af9034032420e0abe0b3c782a6b0.png" group-title="Movies & Series",CA HBO 1
@@ -2698,10 +2696,10 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1806766.ts
 #EXTINF:-1  tvg-name="OSN Animal Planet" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Science & Documentaries",OSN Animal Planet
 http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/4300
 #EXTINF:-1  tvg-name="OSN| Nat Geo" tvg-id="" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Science & Documentaries",OSN Nat Geo
-http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/15881
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22982
 #EXTINF:-1  tvg-name="OSN Nat Geo Wild" tvg-id="" tvg-logo="https://i.imgur.com/2DIGjSm.png" group-title="Science & Documentaries",OSN Nat Geo Wild
-http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/12548
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22985
 #EXTINF:-1  tvg-name="OSN Discovery Channel" tvg-id="" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Science & Documentaries",OSN Discovery Channel
-http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22972
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/13782
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="Science & Documentaries",OSN Discovery Science
-http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22973
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/13782
