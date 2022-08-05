@@ -9,10 +9,14 @@ https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 https://utube2.fotvnetwork.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
 #EXTINF:-1  tvg-name="TV5" tvg-id="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] TV5
 https://iptv-sniper.herokuapp.com/localtv.php?channel=8
+#EXTINF:-1  tvg-name="" tvg-id="TV5" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="Local TV" catchup="" catchup-source="http://ky-iptv.com/adaml/adaml/2021709.ts",TV5
+http://user.scalecdn.co:8080/live/Ron/Ron/567748.ts
 #EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMAPinoyTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Local TV" catchup="" catchup-source="",[✓] GMA Pinoy TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=33269&extension=ts&play_token=o99Hf0NZEo
 #EXTINF:-1  tvg-name="GMA" tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] GMA
 https://iptv-sniper.herokuapp.com/localtv.php?channel=5
+#EXTINF:-1  tvg-name="" tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/w14QgTQ.png" group-title="Local TV" catchup="http://103.105.213.251:8443/live/r0RU_x5kbvqB1qvbSOGpXQ/1658937834/5.m3u8" catchup-source="",GMA 7
+https://bit.ly/kapuso-7
 #EXTINF:-1  tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] GTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 #EXTINF:-1  tvg-name="IBC 13" tvg-id="IBC13.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b6/IBC_13_Logo_2021.png" group-title="Local TV" catchup="" catchup-source="",[✓] IBC 13
@@ -35,10 +39,16 @@ http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1Dtgs
 http://tiny.one/celestialpinoy
 #EXTINF:-1  tvg-name="Cinema One" tvg-id="CINEMAONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Local Movies" catchup="" catchup-source="",[✖] Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="CinemaOneGlobal.ph" tvg-logo="https://i.imgur.com/IvzLdLO.png" group-title="Local Movies" catchup="" catchup-source="",Cinema One
+https://bit.ly/cinema-one
 #EXTINF:-1  tvg-name="Cine Mo!" tvg-id="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Local Movies" catchup="" catchup-source="",[✖] Cine Mo!
 https://tiny.one/cinemocdn1
+#EXTINF:-1  tvg-name="" tvg-id="CINEMO" tvg-logo="https://i.imgur.com/Cs2bVeW_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Local Movies" catchup="" catchup-source="",Cine Mo!
+https://bit.ly/cinemo-3
 #EXTINF:-1  tvg-name="PBO" tvg-id="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Local Movies" catchup="" catchup-source="",[✓] PBO
 https://iptv-sniper.herokuapp.com/localtv.php?channel=12
+#EXTINF:-1  tvg-name="" tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/4Bz3YkI.png" group-title="Local Movies" catchup="" catchup-source="",PBO
+https://bit.ly/pbo-ph
 #EXTINF:-1  tvg-name="SolarFlix" tvg-id="SOLARFLIX" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/05/Solar_Flix_Logo_2022.png" group-title="Local Movies" catchup="" catchup-source="",[✓] SolarFlix
 http://user.scalecdn.co:8080/live/movie/movie/567710.m3u8
 #EXTINF:-1  tvg-name="VivaCinema" tvg-id="VivaCinema.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Local Movies" catchup="" catchup-source="",[✓] VivaCinema
@@ -53,16 +63,24 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  tvg-name="Cinemax" tvg-id="CinemaxSingapore.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies" catchup="" catchup-source="",[✓] Cinemax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=16
+#EXTINF:-1  tvg-name="" tvg-id="CinemaxMalaysia.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies" catchup="" catchup-source="https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8",Cinemax Asia
+http://188.241.218.6:8070/live/Jonsno/jv5DR53f7EG3Ajvx65/157519.ts
 #EXTINF:-1  tvg-name="FX" tvg-id="FXEast.us" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/73681/s73681_h5_aa.png" group-title="Movies" catchup="" catchup-source="",[✓] FX
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860084&extension=ts&play_token=7rU1sOt0HK
 #EXTINF:-1  tvg-name="HBO" tvg-id="HBOMalaysia.my" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO
 https://iptv-sniper.herokuapp.com/localtv.php?channel=15
+#EXTINF:-1  tvg-name="" tvg-id="HBOEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Movies" catchup="" catchup-source="",HBO
+http://ky-iptv.com:25461/live/theruler/theruler/176044.ts
 #EXTINF:-1  tvg-name="HBO 2" tvg-id="HBO2Bulgaria.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO 2
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=863195&extension=ts&play_token=yg7L52QpeM
+#EXTINF:-1  tvg-name="" tvg-id="HBOMalaysia.my" tvg-logo="https://i.imgur.com/V7y0rcS.png" group-title="Movies" catchup="" catchup-source="http://ip2121.com:8081/web1/hbo/playlist.m3u8",HBO Asia
+http://188.241.218.174:8070/live/Jonsno/jv5DR53f7EG3Ajvx65/157518.ts
 #EXTINF:-1  tvg-name="HBO Family" tvg-id="HBOFamilyEast.us" tvg-logo="https://i.imgur.com/sDFfNjo.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO Family
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860109&extension=ts&play_token=xlchl3dFfk
 #EXTINF:-1  tvg-name="Hits Movies" tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies" catchup="" catchup-source="",[✓] Hits Movies
 https://iptv-sniper.herokuapp.com/localtv.php?channel=22
+#EXTINF:-1  tvg-name="" tvg-id="HitsMovies.sg" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies" catchup="" catchup-source="",Hits Movies
+http://188.241.218.14:8070/live/Jonsno/jv5DR53f7EG3Ajvx65/285605.ts
 #EXTINF:-1  tvg-name="MovieSphere" tvg-id="MovieSphere.us" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies" catchup="" catchup-source="",[✓] MovieSphere
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
 #EXTINF:-1  tvg-name="MyTime movie network" tvg-id="MyTimemovienetwork.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies" catchup="" catchup-source="",[✖] MyTime movie network
@@ -203,6 +221,8 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=85
 https://iptv-sniper.herokuapp.com/localtv.php?channel=49
 #EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentaries" catchup="" catchup-source="",[✓] BBC Earth
 https://iptv-sniper.herokuapp.com/localtv.php?channel=33
+#EXTINF:-1  tvg-name="" tvg-id="SonyBBCEarth.in" tvg-logo="https://i.imgur.com/hKjBpO1.png" group-title="Documentaries" catchup="" catchup-source="",Sony BBC Earth
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:5B:99&stream=862716&extension=ts
 #EXTINF:-1  tvg-name="Discovery Asia" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://i.imgur.com/l87dZmI.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Discovery Asia
 https://iptv-sniper.herokuapp.com/localtv.php?channel=46
 #EXTINF:-1  tvg-name="Discovery Channel" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Discovery Channel
