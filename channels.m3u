@@ -2933,3 +2933,223 @@ http://tv.trexiptv.com:80/P1234/P1234/926201
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1806766.ts
 #EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="Documentaries" catchup="" catchup-source="",UK| DISCOVERY SCIENCE
 http://tv.trexiptv.com:80/P1234/P1234/45281
+#EXTINF:-1  tvg-name="A2Z" tvg-id="A2ZChannel11.ph" tvg-logo="https://i.ibb.co/2yjP2Yj/A2-Z-Channel-11.png" group-title="Local TV" catchup="" catchup-source="",A2Z
+http://tv.trexiptv.com:80/P1234/P1234/926206
+#EXTINF:-1  tvg-name="BUKO CHANNEL" tvg-id="" tvg-logo="" group-title="Local TV" catchup="" catchup-source="",BUKO CHANNEL
+http://tv.trexiptv.com:80/P1234/P1234/926198
+#EXTINF:-1  tvg-name="GMA7" tvg-id="GMATV.ph" tvg-logo="http://logo.protv.cc/picons/logos/GMA7.png" group-title="Local TV" catchup="" catchup-source="",GMA7
+http://tv.trexiptv.com:80/P1234/P1234/731837
+#EXTINF:-1  tvg-name="PTV4" tvg-id="PTV.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Local TV" catchup="" catchup-source="",PTV4
+http://tv.trexiptv.com:80/P1234/P1234/731809
+#EXTINF:-1  tvg-name="IBC13" tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/IBC13.jpeg" group-title="Local TV" catchup="" catchup-source="",IBC13
+http://tv.trexiptv.com:80/P1234/P1234/731830
+#EXTINF:-1  tvg-name="NET25" tvg-id="Net25.ph" tvg-logo="http://logo.protv.cc/picons/logos/NET25.jpeg" group-title="Local TV" catchup="" catchup-source="",NET25
+http://tv.trexiptv.com:80/P1234/P1234/731818
+#EXTINF:-1  tvg-name="Asian Food Channel" tvg-id="AsianFoodNetwork.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Asian Food Channel
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22597
+#EXTINF:-1  tvg-name="BBC Lifestyle" tvg-id="BBCLifestyleAsia.uk" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-bbclifestyle.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",BBC Lifestyle
+http://cdnprox.com:8080/tvprox432/643258/26982
+#EXTINF:-1  tvg-name="CA COOKING CHANNEL" tvg-id="cookingchannel.ca" tvg-logo="http://ky-iptv.com:80/images/93afeeac04b69e6a9d492930dd1215d5.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA COOKING CHANNEL
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181885.ts
+#EXTINF:-1  tvg-name="CA Food Network" tvg-id="foodnetwork.ca" tvg-logo="http://ky-iptv.com:80/images/344f1c3d7f5a15843fefad1ef7edbd35.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA Food Network
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181950.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Crackle (XUMO) (1080p)
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Deal or No Deal (720p)
+https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/uwBpm1Y.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Family Feud (XUMO) (360p)
+https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Family Flix (720p)
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-name="Food network" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Food network
+http://cdnprox.com:8080/tvprox432/643258/11728
+#EXTINF:-1  tvg-name="CA HGTV" tvg-id="hgtv.ca" tvg-logo="http://ky-iptv.com:80/images/e30b1e8353e1a26d7955f3db07ba4d3a.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA HGTV
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181975.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/uwBpm1Y.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Family Feud (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+#EXTINF:-1  tvg-name="UK Food Network" tvg-id="foodnetwork.uk" tvg-logo="http://ky-iptv.com:80/images/a975eb8e90525ca0b6f4e5e02e3259e3.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK Food Network
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189947.ts
+#EXTINF:-1  tvg-name="beIN Travel" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",beIN Travel
+http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/7634
+#EXTINF:-1  tvg-name="Just Fun" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113190113justfun.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Just Fun
+http://cdnprox.com:8080/tvprox432/643258/37607
+#EXTINF:-1  tvg-name="UK| FOOD NETWORK" tvg-id="FoodNetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK| FOOD NETWORK
+http://tv.trexiptv.com:80/P1234/P1234/45275
+#EXTINF:-1  tvg-name="UK| GOOD FOOD FHD" tvg-id="uk.Good Food" tvg-logo="http://logo.protv.cc/picons/logos/goodfoodhd.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK| GOOD FOOD FHD
+http://tv.trexiptv.com:80/P1234/P1234/30536
+#EXTINF:-1  tvg-name="UK| TRAVEL CHANNEL" tvg-id="TravelChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK| TRAVEL CHANNEL
+http://tv.trexiptv.com:80/P1234/P1234/79718
+#EXTINF:-1  tvg-name="PH| TRAVEL CHANNEL" tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.jpg" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",PH| TRAVEL CHANNEL
+http://tv.trexiptv.com:80/P1234/P1234/731794
+#EXTINF:-1  tvg-name="Osn MOVIES HD" tvg-id="osnmovies.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies" catchup="" catchup-source="",Osn MOVIES HD
+http://1tv1.net:8080/nazha2021/123456/55939
+#EXTINF:-1  tvg-name="Osn MOVIES ACTION HD" tvg-id="mbcactionen.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies" catchup="" catchup-source="",Osn MOVIES ACTION HD
+http://1tv1.net:8080/nazha2021/123456/55940
+#EXTINF:-1  tvg-name="STAR MOVIES.HD" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="http://176.9.70.149/logo1/STM.png" group-title="Movies" catchup="" catchup-source="",STAR MOVIES.HD
+http://1tv1.net:8080/nazha2021/123456/55956
+#EXTINF:-1  tvg-name="FOX ACTION MOVIES" tvg-id="" tvg-logo="http://176.9.70.149/logo1/445566.png" group-title="Movies" catchup="" catchup-source="",FOX ACTION MOVIES
+http://box20.co:80/nidal82/nidal82/7399
+#EXTINF:-1  tvg-name="STAR. WORLD HD" tvg-id="StarWorldMiddleEast.hk" tvg-logo="http://176.9.70.149/logo2/Star_World.jpg" group-title="Movies" catchup="" catchup-source="",STAR. WORLD HD
+http://1tv1.net:8080/nazha2021/123456/100368
+#EXTINF:-1  tvg-name="beIN Fox Movies FHD" tvg-id="foxar.qa" tvg-logo="http://logo.smart-iptvpro.info/139.hr.png" group-title="Movies" catchup="" catchup-source="",beIN Fox Movies FHD
+http://1tv1.net:8080/nazha2021/123456/132007
+#EXTINF:-1  tvg-name="beIN Fox Action Movies FHD" tvg-id="foxmoviesactionar.qa" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" group-title="Movies" catchup="" catchup-source="",beIN Fox Action Movies FHD
+http://1tv1.net:8080/nazha2021/123456/132001
+#EXTINF:-1  tvg-name="beIN Star World FHD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="Movies" catchup="" catchup-source="",beIN Star World FHD
+http://box20.co:80/nidal82/nidal82/123118
+#EXTINF:-1  tvg-name="beIN Star Movies FHD" tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/435-4354313_star-movies-logo-star-movies-logo-png-transparent.png" group-title="Movies" catchup="" catchup-source="",beIN Star Movies FHD
+http://1tv1.net:8080/nazha2021/123456/132006
+#EXTINF:-1  tvg-name="CINEMA ONE GLOBAL" tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-ONE-GLOBAL.jpg" group-title="Movies" catchup="" catchup-source="",PH| CINEMA ONE GLOBAL
+http://tv.trexiptv.com:80/P1234/P1234/223018
+#EXTINF:-1  tvg-name="US: Nat Geo Wild" tvg-id="" tvg-logo="http://stariptv.org:80/logo/us.png" group-title="Documentaries" catchup="" catchup-source="",US: Nat Geo Wild
+http://1tv1.net:8080/nazha2021/123456/148476
+#EXTINF:-1  tvg-name="CA BBC Earth HD" tvg-id="bbcearth.ca" tvg-logo="http://ky-iptv.com:80/images/090280886f3f38ac1212b93dbfe51e24.png" group-title="Documentaries" catchup="" catchup-source="",CA BBC Earth HD
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181824.ts
+#EXTINF:-1  tvg-name="CA Discovery Channel" tvg-id="discoverychannel.ca" tvg-logo="http://ky-iptv.com:80/images/029355f719ac07c7694b7accaa583b87.jpg" group-title="Documentaries" catchup="" catchup-source="",CA Discovery Channel
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181933.ts
+#EXTINF:-1  tvg-name="CA DISCOVERY SCIENCE" tvg-id="discoveryscience.ca" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries" catchup="" catchup-source="",CA DISCOVERY SCIENCE
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181934.ts
+#EXTINF:-1  tvg-name="CA National Geographic" tvg-id="natgeo.ca" tvg-logo="http://ky-iptv.com:80/images/520ac951a7b37ca494c6b6d558f990ed.jpg" group-title="Documentaries" catchup="" catchup-source="",CA National Geographic
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182023.ts
+#EXTINF:-1  tvg-name="CA Nat Geo Wild" tvg-id="natgeowild.ca" tvg-logo="http://ky-iptv.com:80/images/bcbbba616ee55dd1c7953736c062a6ca.jpeg" group-title="Documentaries" catchup="" catchup-source="",CA Nat Geo Wild
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182024.ts
+#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="Amarin34HD.th" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-discovery.png" group-title="Documentaries" catchup="" catchup-source="",Discovery Asia
+http://cdnprox.com:8080/tvprox432/643258/26980
+#EXTINF:-1  tvg-name="Osn Discovery Sc hd" tvg-id="" tvg-logo="http://176.9.70.149/logo1/S333CI.png" group-title="Documentaries" catchup="" catchup-source="",Osn Discovery Sc hd
+http://1tv1.net:8080/nazha2021/123456/55930
+#EXTINF:-1  tvg-name="Osn DISCOVERY" tvg-id="discovery.ae" tvg-logo="http://176.9.70.149/logo1/DSC.png" group-title="Documentaries" catchup="" catchup-source="",Osn DISCOVERY
+http://1tv1.net:8080/nazha2021/123456/55927
+#EXTINF:-1  tvg-name="NAT GEO HD" tvg-id="" tvg-logo="http://176.9.70.149/logo1/NGO.png" group-title="Documentaries" catchup="" catchup-source="",NAT GEO HD
+http://1tv1.net:8080/nazha2021/123456/55945
+#EXTINF:-1  tvg-name="NAT GEO WILD" tvg-id="" tvg-logo="http://176.9.70.149/logo1/NHD.png" group-title="Documentaries" catchup="" catchup-source="",NAT GEO WILD
+http://1tv1.net:8080/nazha2021/123456/55948
+#EXTINF:-1  tvg-name="UK Nat Geo Wild" tvg-id="natgeowild.uk" tvg-logo="http://ky-iptv.com:80/images/84b23a5c1422885695b2bbd82bea2a57.jpg" group-title="Documentaries" catchup="" catchup-source="",UK Nat Geo Wild
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189980.ts
+#EXTINF:-1  tvg-name="UK ANIMAL PLANET" tvg-id="animalplanet.uk" tvg-logo="http://ky-iptv.com:80/images/34c5a04eec6b4c303be86e1a81c3a117.png" group-title="Documentaries" catchup="" catchup-source="",UK ANIMAL PLANET
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/391170.ts
+#EXTINF:-1  tvg-name="UK Discovery" tvg-id="discoverychannel.uk" tvg-logo="http://ky-iptv.com:80/images/b79c435ba64d9d78afe74110a72725a7.png" group-title="Documentaries" catchup="" catchup-source="",UK Discovery
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189932.ts
+#EXTINF:-1  tvg-name="UK Discovery History" tvg-id="discoveryhistory.uk" tvg-logo="http://ky-iptv.com:80/images/4091586e9f0c02c074c3e50f5d21633f.jpg" group-title="Documentaries" catchup="" catchup-source="",UK Discovery History
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189933.ts
+#EXTINF:-1  tvg-name="UK Discovery Science" tvg-id="discoveryscience.uk" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries" catchup="" catchup-source="",UK Discovery Science
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189934.ts
+#EXTINF:-1  tvg-name="UK EDEN HD" tvg-id="eden.uk" tvg-logo="http://ky-iptv.com:80/images/59f423a214df4942795b136a2ff82c43.jpg" group-title="Documentaries" catchup="" catchup-source="",UK EDEN HD
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189944.ts
+#EXTINF:-1  tvg-name="UK Nat Geo" tvg-id="natgeo.uk" tvg-logo="http://ky-iptv.com:80/images/a9d5251011ef88783688d8f0578363c3.png" group-title="Documentaries" catchup="" catchup-source="",UK Nat Geo
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189979.ts
+#EXTINF:-1  tvg-name="UK Travel Channel" tvg-id="92news.uk" tvg-logo="http://ky-iptv.com:80/images/bef668b336c4be3c0c8c931092cffa33.png" group-title="Documentaries" catchup="" catchup-source="",UK Travel Channel
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/190018.ts
+#EXTINF:-1  tvg-name="beIN BBC EARTH HD" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/7bc995b0e58bc57b886cf96cdb30545c.png" group-title="Documentaries" catchup="" catchup-source="",beIN BBC EARTH HD
+http://1tv1.net:8080/nazha2021/123456/131994
+#EXTINF:-1  tvg-name="IN: Sony BBC Earth HD" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/c4ce64afa376d1be749a5e5a0178a7a0.png" group-title="Documentaries" catchup="" catchup-source="",IN: Sony BBC Earth HD
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1122220.ts
+#EXTINF:-1  tvg-name="CA BBC Earth HD" tvg-id="bbcearth.ca" tvg-logo="http://ky-iptv.com:80/images/090280886f3f38ac1212b93dbfe51e24.png" group-title="Documentaries" catchup="" catchup-source="",CA BBC Earth HD
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181824.ts
+#EXTINF:-1  tvg-name="PH| BBC EARTH HD" tvg-id="BBCEarthAsia.uk" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="Documentaries" catchup="" catchup-source="",PH| BBC EARTH HD
+http://tv.trexiptv.com:80/P1234/P1234/926201
+#EXTINF:-1  tvg-name="PH: Discovery World" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/0a2cda69dc117c988931ac83f49e2e72.png" group-title="Documentaries" catchup="" catchup-source="",PH: Discovery World
+http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1806766.ts
+#EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="Documentaries" catchup="" catchup-source="",UK| DISCOVERY SCIENCE
+http://tv.trexiptv.com:80/P1234/P1234/45281
+#EXTINF:-1  tvg-name="UK| Food Network" tvg-id="foodnetwork.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/entertainment/entertainment-foodnetworkhd.png" group-title="Documentaries" catchup="" catchup-source="",UK| Food Network
+http://tv.nlt.wtf:24561/live/Ashley689/673175/523.ts
+#EXTINF:-1  tvg-name="UK| Animal Planet" tvg-id="animalplanet.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/documentaries/documentaries-animalplanethd.jpg" group-title="Documentaries" catchup="" catchup-source="",UK| Animal Planet
+http://tv.nlt.wtf:24561/live/Ashley689/673175/434.ts
+#EXTINF:-1  tvg-name="UK| Discovery Channel HD" tvg-id="discoverychannel.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/documentaries/documentaries-discoverychannelhd.jpg" group-title="Documentaries" catchup="" catchup-source="",UK| Discovery Channel HD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/383.ts
+#EXTINF:-1  tvg-name="UK| Discovery Science" tvg-id="discoveryscience.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/documentaries/documentaries-discoveryscience.png" group-title="Documentaries" catchup="" catchup-source="",UK| Discovery Science
+http://tv.nlt.wtf:24561/live/Ashley689/673175/372.ts
+#EXTINF:-1  tvg-name="UK| National Geographic FHD" tvg-id="natgeo.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/documentaries/documentaries-nationalgeographicchannelhd.jpg" group-title="Documentaries" catchup="" catchup-source="",UK| National Geographic FHD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/283.ts
+#EXTINF:-1  tvg-name="UK| Nat Geo Wild FHD" tvg-id="natgeowild.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/documentaries/oldnew/natgeowildhd.png" group-title="Documentaries" catchup="" catchup-source="",UK| Nat Geo Wild FHD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/282.ts
+#EXTINF:-1  tvg-name="US| Food Network FHD" tvg-id="foodnetwork.us" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usa-entertainment/usaentertainment-foodnetworkeast.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",US| Food Network FHD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/58.ts
+#EXTINF:-1  tvg-name="US| Travel Channel FHD" tvg-id="travelchannel.us" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usa-documentariesn/usadocumentaries-travelchannel.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",US| Travel Channel FHD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/3910.ts
+#EXTINF:-1  tvg-name="US| Animal Planet FHD" tvg-id="animalplanet.us" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usadocumentaries/usadocumentaries-animalplanethd.png" group-title="Documentaries" catchup="" catchup-source="",US| Animal Planet FHD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/1128.ts
+#EXTINF:-1  tvg-name="US| Discovery Channel FHD" tvg-id="discoverychannel.us" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usadocumentaries/usadocumentaries-discoveryhd.png" group-title="Documentaries" catchup="" catchup-source="",US| Discovery Channel FHD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/904.ts
+#EXTINF:-1  tvg-name="US| Discovery Science HD" tvg-id="discoveryscience.us" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usa-documentariesn/usadocumentaries-discoveryscience.png" group-title="Documentaries" catchup="" catchup-source="",US| Discovery Science HD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/8946.ts
+#EXTINF:-1  tvg-name="US| NAT GEO HD" tvg-id="natgeo.us" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usadocumentaries/usadocumentaries-nationalgeographichd.png" group-title="Documentaries" catchup="" catchup-source="",US| NAT GEO HD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/45397.ts
+#EXTINF:-1  tvg-name="US| Nat Geo Wild HD" tvg-id="natgeowild.us" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usadocumentaries/usadocumentaries-natgeowild.png" group-title="Documentaries" catchup="" catchup-source="",US| Nat Geo Wild HD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
+#EXTINF:-1  tvg-name="CA| BBC Earth" tvg-id="bbcearth.ca" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/canada/canada-bbcearthhd.png" group-title="Documentaries" catchup="" catchup-source="",CA| BBC Earth
+http://tv.nlt.wtf:24561/live/Ashley689/673175/104595.ts
+#EXTINF:-1  tvg-name="CA| Cooking Channel" tvg-id="cookingchannel.ca" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/canada/canada-cookingchannel.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA| Cooking Channel
+http://tv.nlt.wtf:24561/live/Ashley689/673175/103677.ts
+#EXTINF:-1  tvg-name="CA| Discovery Channel" tvg-id="discoverychannel.ca" tvg-logo="https://i.ytimg.com/vi/_WB7jMs_iyU/hqdefault.jpg" group-title="Documentaries" catchup="" catchup-source="",CA| Discovery Channel
+http://tv.nlt.wtf:24561/live/Ashley689/673175/89137.ts
+#EXTINF:-1  tvg-name="CA| Food Network HD" tvg-id="foodnetwork.ca" tvg-logo="https://dianafaria.files.wordpress.com/2015/09/foodnetworkcanadasymbol.jpg" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA| Food Network HD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/3842.ts
+#EXTINF:-1  tvg-name="CA| NAT GEO HD" tvg-id="natgeo.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ngeog-copy.png" group-title="Documentaries" catchup="" catchup-source="",CA| NAT GEO HD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/959.ts
+#EXTINF:-1  tvg-name="CA| NAT GEO WILD HD" tvg-id="natgeowild.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="Documentaries" catchup="" catchup-source="",CA| NAT GEO WILD HD
+http://tv.nlt.wtf:24561/live/Ashley689/673175/958.ts
+#EXTINF:-1  tvg-name="UK| DISCOVERY SCIENCE" tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="Documentaries" catchup="" catchup-source="",UK| DISCOVERY SCIENCE
+http://tv.trexiptv.com:80/P1234/P1234/45281
+#EXTINF:-1  tvg-name="UK| FOOD NETWORK" tvg-id="FoodNetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK| FOOD NETWORK
+http://tv.trexiptv.com:80/P1234/P1234/45275
+#EXTINF:-1  tvg-name="UK| NAT GEO WILD FHD" tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="Documentaries" catchup="" catchup-source="",UK| NAT GEO WILD FHD
+http://tv.trexiptv.com:80/P1234/P1234/30525
+#EXTINF:-1  tvg-name="UK| DISCOVERY FHD" tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="Documentaries" catchup="" catchup-source="",UK| DISCOVERY FHD
+http://tv.trexiptv.com:80/P1234/P1234/30549
+#EXTINF:-1  tvg-name="UK| TRAVEL CHANNEL" tvg-id="TravelChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK| TRAVEL CHANNEL
+http://tv.trexiptv.com:80/P1234/P1234/79718
+#EXTINF:-1  tvg-name="PH| ANIMAL PLANET" tvg-id="" tvg-logo="" group-title="Documentaries" catchup="" catchup-source="",PH| ANIMAL PLANET
+http://tv.trexiptv.com:80/P1234/P1234/926204
+#EXTINF:-1  tvg-name="PH| BBC EARTH HD" tvg-id="" tvg-logo="" group-title="Documentaries" catchup="" catchup-source="",PH| BBC EARTH HD
+http://tv.trexiptv.com:80/P1234/P1234/926201
+#EXTINF:-1  tvg-name="PH| FOOD NETWORK HD" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",PH| FOOD NETWORK HD
+http://tv.trexiptv.com:80/P1234/P1234/926181
+#EXTINF:-1  tvg-name="PH| NAT GEO WILD" tvg-id="" tvg-logo="" group-title="Documentaries" catchup="" catchup-source="",PH| NAT GEO WILD
+http://tv.trexiptv.com:80/P1234/P1234/926166
+#EXTINF:-1  tvg-name="PH| NHK WORLD" tvg-id="" tvg-logo="" group-title="News" catchup="" catchup-source="",PH| NHK WORLD
+http://tv.trexiptv.com:80/P1234/P1234/926209
+#EXTINF:-1  tvg-name="UK| ANIMAL PLANET FHD" tvg-id="AnimalPlanet.uk" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="Documentaries" catchup="" catchup-source="",UK| ANIMAL PLANET FHD
+http://tv.trexiptv.com:80/P1234/P1234/30582
+#EXTINF:-1  tvg-name="ABS-CBN" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/1200px-ABS-CBN_%282013%29.svg.png" group-title="Local TV" catchup="" catchup-source="",ABS-CBN
+http://tv.nlt.wtf:24561/live/Ashley689/673175/96666.ts
+#EXTINF:-1  tvg-name="ANC" tvg-id="anc.ph" tvg-logo="http://img.abs-cbnnews.com/assets/ancx/images/ancx-og.png" group-title="Local TV" catchup="" catchup-source="",ANC
+http://tv.nlt.wtf:24561/live/Ashley689/673175/98015.ts
+#EXTINF:-1  tvg-name="CNN" tvg-id="cnnphilippines.ph" tvg-logo="https://the1995blog.files.wordpress.com/2015/01/cnn-logo.png" group-title="Local TV" catchup="" catchup-source="",CNN
+http://tv.nlt.wtf:24561/live/Ashley689/673175/95330.ts
+#EXTINF:-1  tvg-name="Cinema One" tvg-id="cinemaonelobal.ph" tvg-logo="https://pbs.twimg.com/profile_images/3761432955/dc4de45da440765f17e98092e15581ec.png" group-title="Local Movies" catchup="" catchup-source="",Cinema One
+http://tv.nlt.wtf:24561/live/Ashley689/673175/103793.ts
+#EXTINF:-1  tvg-name="Cinemo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/270px-Cinema_One_2013_logo.svg.png" group-title="Local Movies" catchup="" catchup-source="",Cinemo
+http://tv.nlt.wtf:24561/live/Ashley689/673175/98009.ts
+#EXTINF:-1  tvg-name="Cinema One Global" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/3761432955/dc4de45da440765f17e98092e15581ec.png" group-title="Local Movies" catchup="" catchup-source="",Cinema One Global
+http://tv.nlt.wtf:24561/live/Ashley689/673175/98007.ts
+#EXTINF:-1  tvg-name="DZMM" tvg-id="dzmmteleradyo.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DZMM.svg/320px-DZMM.svg.png" group-title="Local Radio" catchup="" catchup-source="",DZMM
+http://tv.nlt.wtf:24561/live/Ashley689/673175/98021.ts
+#EXTINF:-1  tvg-name="Kapatid TV5" tvg-id="kapatidtv5.ph" tvg-logo="https://assets.cdn.iinet.net.au/assets/iptv/channel-logos/filipino/kapatid-tv5.png" group-title="Local TV" catchup="" catchup-source="",Kapatid TV5
+http://tv.nlt.wtf:24561/live/Ashley689/673175/96664.ts
+#EXTINF:-1  tvg-name="ONE PH" tvg-id="tv5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/180px-TV5_%28Philippines%29_logo.svg.png" group-title="Local TV" catchup="" catchup-source="",ONE PH
+http://tv.nlt.wtf:24561/live/Ashley689/673175/97998.ts
+#EXTINF:-1  tvg-name="US : DISCOVERY CHANNEL FHD 1080" tvg-id="discoverychannel.us" tvg-logo="http://n2086.securepoint.io:25461/images/45e838eba9fd9f28718e732b683d3f6f.png" group-title="Documentaries" catchup="" catchup-source="",US : DISCOVERY CHANNEL FHD 1080
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53435
+#EXTINF:-1  tvg-name="US : DISCOVERY SCIENCE" tvg-id="discoveryscience.us" tvg-logo="http://n2086.securepoint.io:25461/images/8eb8de396990449443bc96990430b613.png" group-title="Documentaries" catchup="" catchup-source="",US : DISCOVERY SCIENCE
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53326
+#EXTINF:-1  tvg-name="US : NATIONAL GEOGRAPHIC FHD 1080" tvg-id="natgeo.us" tvg-logo="http://wayforward.xyz:25461/images/72ff2fd91d37dc1bb59d28a56383a5bd.png" group-title="Documentaries" catchup="" catchup-source="",US : NATIONAL GEOGRAPHIC FHD 1080
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53362
+#EXTINF:-1  tvg-name="US : NATIONAL GEOGRAPHIC WILD" tvg-id="natgeowild.us" tvg-logo="http://wayforward.xyz:25461/images/757a717ee2ade661c665276734c83b16.png" group-title="Documentaries" catchup="" catchup-source="",US : NATIONAL GEOGRAPHIC WILD
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/54889
+#EXTINF:-1  tvg-name="GB : DISCOVERY SCIENCE" tvg-id="discoveryscience.uk" tvg-logo="http://n2086.securepoint.io:25461/images/83b21d648d01c10d2cb698f7c86e196d.png" group-title="Documentaries" catchup="" catchup-source="",GB : DISCOVERY SCIENCE
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53879
+#EXTINF:-1  tvg-name="GB : DISCOVERY CHANNEL" tvg-id="discoverychannel.uk" tvg-logo="http://wayforward.xyz:25461/images/40c62aa5d09cb17e0686d48133313e86.png" group-title="Documentaries" catchup="" catchup-source="",GB : DISCOVERY CHANNEL
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53876
+#EXTINF:-1  tvg-name="GB : NAT GEO" tvg-id="natgeo.uk" tvg-logo="http://wayforward.xyz:25461/images/3a62855fe97c60df4559058b266d0dd9.png" group-title="Documentaries" catchup="" catchup-source="",GB : NAT GEO
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53928
+#EXTINF:-1  tvg-name="GB : NAT GEO WILD" tvg-id="natgeowild.uk" tvg-logo="http://hostengine.live:25461/images/c98acd6a62b24c1d6105405f987a51f5.png" group-title="Documentaries" catchup="" catchup-source="",GB : NAT GEO WILD
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53929
+#EXTINF:-1  tvg-name="CA : BBC EARTH" tvg-id="bbcearth.ca" tvg-logo="http://n2086.securepoint.io:25461/images/47a237477be305b497eeeda4bac1693f.png" group-title="Documentaries" catchup="" catchup-source="",CA : BBC EARTH
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53607
+#EXTINF:-1  tvg-name="CA : DISCOVERY CHANNEL" tvg-id="discoverychannel.ca" tvg-logo="http://wayforward.xyz:25461/images/307808888bcb1a33d70d43279f820a87.png" group-title="Documentaries" catchup="" catchup-source="",CA : DISCOVERY CHANNEL
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53669
+#EXTINF:-1  tvg-name="CA : DISCOVERY SCIENCE" tvg-id="discoveryscience.ca" tvg-logo="http://n2086.securepoint.io:25461/images/d3152b5653c1b42ad4dc991d8486db3f.png" group-title="Documentaries" catchup="" catchup-source="",CA : DISCOVERY SCIENCE
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53670
+#EXTINF:-1  tvg-name="CA : FOOD NETWORK" tvg-id="foodnetwork.ca" tvg-logo="http://n2086.securepoint.io:25461/images/292d4723270ea670871d3c8892bc1552.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA : FOOD NETWORK
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53685
