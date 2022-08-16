@@ -1,400 +1,456 @@
 #EXTM3U url-tvg="https://iptv-sniper.herokuapp.com/epg/adoboTV.php,https://iptv-sniper.herokuapp.com/epg/skycable.php"
-#EXTINF:-1  tvg-name="AdoboTV" tvg-id="AdoboTV" tvg-logo="https://i.imgur.com/sHOKkGi.jpg" group-title="Local TV" catchup="" catchup-source="",[✖] AdoboTV
+#EXTINF:-1  tvg-name="AdoboTV" tvg-id="AdoboTV" tvg-logo="https://i.imgur.com/sHOKkGi.jpg" group-title="Local TV" catchup="" catchup-source="",[✓] AdoboTV
 https://raw.githubusercontent.com/jmvbambico/adoboTV_splash/master/welcome.m3u
-#EXTINF:-1  tvg-name="Jeepney TV" tvg-id="JeepneyTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/24/Jeepney_TV_Logo_2015.png" group-title="Local TV" catchup="" catchup-source="",[✖] Jeepney TV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=76
-#EXTINF:-1  tvg-name="Kapamilya Channel" tvg-id="KapamilyaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="Local TV" catchup="" catchup-source="",[✓] Kapamilya Channel
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/1280x720_1241375/index.m3u8
-#EXTINF:-1  tvg-name="PTV" tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/512px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] PTV
+#EXTINF:-1  tvg-name="Jeepney TV" tvg-id="JeepneyTV.ph" tvg-logo="https://i.imgur.com/3yzbJE5.png" group-title="Local TV" catchup="" catchup-source="",[✓] Jeepney TV
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=76
+#EXTINF:-1  tvg-name="Kapamilya Channel" tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/7btCRNw.png" group-title="Local TV" catchup="" catchup-source="",[✓] Kapamilya Channel
+https://tiny.one/kapchacdn
+#EXTINF:-1  tvg-name="TFC" tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Local TV" catchup="" catchup-source="",[✓] TFC
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
+#EXTINF:-1  tvg-name="PTV" tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/cBqnYNM.png" group-title="Local TV" catchup="" catchup-source="",[✓] PTV
 https://utube2.fotvnetwork.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
-#EXTINF:-1  tvg-name="TV5" tvg-id="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] TV5
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=8
-#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] GTV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=7
-#EXTINF:-1  tvg-name="IBC 13" tvg-id="IBC13.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b6/IBC_13_Logo_2021.png" group-title="Local TV" catchup="" catchup-source="",[✓] IBC 13
+#EXTINF:-1  tvg-name="TV5" tvg-id="TV5" tvg-logo="https://i.imgur.com/hM5MFrz.png" group-title="Local TV" catchup="" catchup-source="",[✖] TV5
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=8
+#EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMALifeTV.ph" tvg-logo="https://i.imgur.com/tmUW88u.png" group-title="Local TV" catchup="" catchup-source="",[✖] GMA Life TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=41228&extension=ts&play_token=OtpXkMLTQR
+#EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMAPinoyTV.ph" tvg-logo="https://i.imgur.com/NhQsULA.png" group-title="Local TV" catchup="" catchup-source="",[✖] GMA Pinoy TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=33269&extension=ts&play_token=o99Hf0NZEo
+#EXTINF:-1  tvg-name="GMA" tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Local TV" catchup="" catchup-source="",[✓] GMA
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=5
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Local TV" catchup="" catchup-source="",[✓] GTV
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=7
+#EXTINF:-1  tvg-name="IBC 13" tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/LaqSPsM.png" group-title="Local TV" catchup="" catchup-source="",[✖] IBC 13
 http://user.scalecdn.co:8080/live/Alicia/Alicia/567720.m3u8
-#EXTINF:-1  tvg-name="INC TV" tvg-id="INCTV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png" group-title="Local TV" catchup="" catchup-source="",[✓] INC TV
+#EXTINF:-1  tvg-name="INC TV" tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/9FVabCJ.png" group-title="Local TV" catchup="" catchup-source="",[✖] INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
-#EXTINF:-1  tvg-name="Knowledge Channel" tvg-id="KNOWLEDGECHANNEL" tvg-logo="https://images.squarespace-cdn.com/content/v1/61236a89ddeb4615e347e1c3/f0f477fa-5c26-473f-8e6c-45e0bafd2f42/logo-hori-nobg-channel.png" group-title="Local TV" catchup="" catchup-source="",[✓] Knowledge Channel
+#EXTINF:-1  tvg-name="Knowledge Channel" tvg-id="KNOWLEDGECHANNEL" tvg-logo="https://i.imgur.com/9ROZkXn.png" group-title="Local TV" catchup="" catchup-source="",[✖] Knowledge Channel
 http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73682
-#EXTINF:-1  tvg-name="Net 25" tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV" catchup="" catchup-source="",[✓] Net 25
-http://ky-iptv.com:25461/live/Mouse/Mouse/1806799.ts
-#EXTINF:-1  tvg-name="One PH" tvg-id="OnePH.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/512px-OnePHCignal.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] One PH
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=42
+#EXTINF:-1  tvg-name="One PH" tvg-id="OnePH.ph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Local TV" catchup="" catchup-source="",[✓] One PH
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=42
 #EXTINF:-1  tvg-name="Sari Sari Channel" tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="Local TV" catchup="" catchup-source="",[✓] Sari Sari Channel
 http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
-#EXTINF:-1  tvg-name="Pinoy Xtreme" tvg-id="PinoyXtremeChannel.ph" tvg-logo="https://i.imgur.com/tr39IIt.png" group-title="Local TV" catchup="" catchup-source="",[✓] Pinoy Xtreme
-http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73677
-#EXTINF:-1  tvg-name="SMNI" tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/p3KeNAm.png" group-title="Local TV" catchup="" catchup-source="",[✖] SMNI
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1  tvg-name="TAPTV" tvg-id="TAPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Local TV" catchup="" catchup-source="",[✓] TAPTV
+#EXTINF:-1  tvg-name="TAP TV" tvg-id="TAPTV" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Local TV" catchup="" catchup-source="",[✓] TAP TV
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z9PO9TCic3B5l9MHq_sxtP84_sW68HkifQU8uV7M8do3MoiFLDKnUZOYzD8Y7qOXZo
-#EXTINF:-1  tvg-name="Telenovela Channel" tvg-id="TeleNovelaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Telenovela_Channel.png" group-title="Local TV" catchup="" catchup-source="",[✓] Telenovela Channel
+#EXTINF:-1  tvg-name="Telenovela Channel" tvg-id="TeleNovelaChannel.ph" tvg-logo="https://i.imgur.com/QSGN1mZ.png" group-title="Local TV" catchup="" catchup-source="",[✓] Telenovela Channel
 http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73720
-#EXTINF:-1  tvg-name="Celestial Movies Pinoy" tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-default.png" group-title="Local Movies" catchup="" catchup-source="",[✖] Celestial Movies Pinoy
+#EXTINF:-1  tvg-name="Celestial Movies Pinoy" tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://i.imgur.com/EUlYIWv.png" group-title="Local Movies" catchup="" catchup-source="",[✓] Celestial Movies Pinoy
 http://tiny.one/celestialpinoy
-#EXTINF:-1  tvg-name="Cinema One" tvg-id="CINEMAONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Local Movies" catchup="" catchup-source="",[✖] Cinema One
+#EXTINF:-1  tvg-name="Cinema One" tvg-id="CINEMAONE" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Local Movies" catchup="" catchup-source="",[✓] Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
-#EXTINF:-1  tvg-name="Cine Mo!" tvg-id="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Local Movies" catchup="" catchup-source="",[✖] Cine Mo!
+#EXTINF:-1  tvg-name="Cine Mo!" tvg-id="CINEMO" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Local Movies" catchup="" catchup-source="",[✓] Cine Mo!
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/1280x720_2891636/index.m3u8
-#EXTINF:-1  tvg-name="SolarFlix" tvg-id="SOLARFLIX" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/05/Solar_Flix_Logo_2022.png" group-title="Local Movies" catchup="" catchup-source="",[✓] SolarFlix
+#EXTINF:-1  tvg-name="PBO" tvg-id="PBO" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="Local Movies" catchup="" catchup-source="",[✖] PBO
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=12
+#EXTINF:-1  tvg-name="SolarFlix" tvg-id="SOLARFLIX" tvg-logo="https://i.imgur.com/LrU01cL.png" group-title="Local Movies" catchup="" catchup-source="",[✓] SolarFlix
 http://user.scalecdn.co:8080/live/movie/movie/567710.m3u8
-#EXTINF:-1  tvg-name="AMC" tvg-id="AMCEast.us" tvg-logo="https://i.imgur.com/RBKx6Fx.png" group-title="Movies" catchup="" catchup-source="",[✓] AMC
+#EXTINF:-1  tvg-name="VivaCinema" tvg-id="VivaCinema.ph" tvg-logo="https://i.imgur.com/5jn4U88.png" group-title="Local Movies" catchup="" catchup-source="",[✓] VivaCinema
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=13
+#EXTINF:-1  tvg-name="&flix HD" tvg-id="Andflix.in" tvg-logo="https://i.imgur.com/3BU6Wsg.png" group-title="Movies" catchup="" catchup-source="",[✖] &flix HD
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=862616&extension=ts&play_token=v9YGqpC24p
+#EXTINF:-1  tvg-name="&privé HD" tvg-id="AndpriveHD.in" tvg-logo="https://i.imgur.com/lhSTeZk.png" group-title="Movies" catchup="" catchup-source="",[✖] &privé HD
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:8f:0e:3c&stream=862618&extension=m3u8
+#EXTINF:-1  tvg-name="AMC" tvg-id="AMCEast.us" tvg-logo="https://i.imgur.com/OMER1D3.png" group-title="Movies" catchup="" catchup-source="",[✖] AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1  tvg-name="CineLife" tvg-id="CineLife.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/6116dd95ac570853a3a7eb02/1629235069546-WGIX0E1UKHM93G1AWXOC/cinelife.png" group-title="Movies" catchup="" catchup-source="",[✓] CineLife
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  tvg-name="Cinemax" tvg-id="CinemaxSingapore.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies" catchup="" catchup-source="",[✓] Cinemax
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=16
-#EXTINF:-1  tvg-name="Hallmark Channel" tvg-id="HallmarkChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Hallmark Channel
-https://iptv-sniper.herokuapp.com/redboxtv.php?server=charlie0ne.rbtvnw.com:21190/ceres&channel=hallmark
+#EXTINF:-1  tvg-name="AntennaTV" tvg-id="AntennaTV.us" tvg-logo="https://i.imgur.com/htOEAeV.png" group-title="Movies" catchup="" catchup-source="",[✖] AntennaTV
+http://v-pi.theus6tv.duckdns.org/hls/17.2/playlist.m3u8
+#EXTINF:-1  tvg-name="Bounce" tvg-id="Bounce.us" tvg-logo="https://i.imgur.com/sTROooq.png" group-title="Movies" catchup="" catchup-source="",[✖] Bounce
+http://v-ny.theus6tv.duckdns.org/hls/31.2/playlist.m3u8
+#EXTINF:-1  tvg-name="FXX" tvg-id="FXXEast.us" tvg-logo="https://i.imgur.com/QSvHPIS.png" group-title="Movies" catchup="" catchup-source="",[✓] FXX
+https://iptv-sniper.herokuapp.com/player/redboxtv.php?server=betatw0.rbtvnw.com:21190/ceres&channel=fxxhd
 #EXTINF:-1  tvg-name="HBO" tvg-id="HBOMalaysia.my" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=15
-#EXTINF:-1  tvg-name="HBO 2" tvg-id="HBO2Bulgaria.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO 2
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=15
+#EXTINF:-1  tvg-name="HBO 2" tvg-id="HBO2Bulgaria.bg" tvg-logo="https://i.imgur.com/OXLXjBg.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO 2
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=863195&extension=ts&play_token=yg7L52QpeM
-#EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBOComedyEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO Comedy
-https://iptv-sniper.herokuapp.com/redboxtv.php?server=betatw0.rbtvnw.com:21190/ceres&channel=hbocomedy
-#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBOFamilyEast.us" tvg-logo="https://i.imgur.com/sDFfNjo.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO Family
-http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860109&extension=ts&play_token=xlchl3dFfk
-#EXTINF:-1  tvg-name="Hits" tvg-id="Hits.sg" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies" catchup="" catchup-source="",[✓] Hits
-http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/01.m3u8
-#EXTINF:-1  tvg-name="Hits Movies" tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies" catchup="" catchup-source="",[✓] Hits Movies
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=22
-#EXTINF:-1  tvg-name="MovieSphere" tvg-id="MovieSphere.us" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies" catchup="" catchup-source="",[✓] MovieSphere
+#EXTINF:-1  tvg-name="HBO Signature" tvg-id="HBOSignatureAsia.sg" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Movies" catchup="" catchup-source="",[✖] HBO Signature
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=221
+#EXTINF:-1  tvg-name="Hits" tvg-id="HITS" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies" catchup="" catchup-source="",[✓] Hits
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=207
+#EXTINF:-1  tvg-name="Hits Movies" tvg-id="HITSMovies" tvg-logo="https://i.imgur.com/5FRdMCx.png" group-title="Movies" catchup="" catchup-source="",[✓] Hits Movies
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=22
+#EXTINF:-1  tvg-name="MovieSphere" tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/5qoPxJG.png" group-title="Movies" catchup="" catchup-source="",[✓] MovieSphere
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
-#EXTINF:-1  tvg-name="MyTime movie network" tvg-id="MyTimemovienetwork.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies" catchup="" catchup-source="",[✓] MyTime movie network
+#EXTINF:-1  tvg-name="My Cinema Europe" tvg-id="MyCinemaEurope.ch" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" group-title="Movies" catchup="" catchup-source="",[✓] My Cinema Europe
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=223
+#EXTINF:-1  tvg-name="MyTime movie network" tvg-id="MyTimemovienetwork.us" tvg-logo="https://i.imgur.com/QyWsytf.png" group-title="Movies" catchup="" catchup-source="",[✓] MyTime movie network
 https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Paramount Network" tvg-id="ParamountNetworkSingapore.sg" tvg-logo="https://i.imgur.com/KjMPeOd.png" group-title="Movies" catchup="" catchup-source="",[✓] Paramount Network
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=59
+#EXTINF:-1  tvg-name="Pixl" tvg-id="Pixl.us" tvg-logo="https://i.imgur.com/FtH4w3E.png" group-title="Movies" catchup="" catchup-source="",[✓] Pixl
+https://iptv.arkina1234.repl.co/frndly/4.php/playlist.m3u8
+#EXTINF:-1  tvg-name="Pop TV" tvg-id="PopTV.us" tvg-logo="https://i.imgur.com/w0qSFJc.png" group-title="Movies" catchup="" catchup-source="",[✓] Pop TV
+http://n1.klowdtv.net/live2/pop_360p/chunks.m3u8
 #EXTINF:-1  tvg-name="Rush by AMC" tvg-id="RushbyAMC.us" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies" catchup="" catchup-source="",[✓] Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-name="ScreamFlix" tvg-id="ScreamFlix.us" tvg-logo="https://celebrityworldph.files.wordpress.com/2021/08/scream-flix.jpg" group-title="Movies" catchup="" catchup-source="",[✓] ScreamFlix
+#EXTINF:-1  tvg-name="ScreamFlix" tvg-id="ScreamFlix.us" tvg-logo="https://i.imgur.com/fyxFqTW.png" group-title="Movies" catchup="" catchup-source="",[✓] ScreamFlix
 https://live-lunaott.akamaized.net/screamflix_ottera/playlist.m3u8
-#EXTINF:-1  tvg-name="Showtime" tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Movies" catchup="" catchup-source="",[✖] Showtime
+#EXTINF:-1  tvg-name="Showtime" tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Movies" catchup="" catchup-source="",[✓] Showtime
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860283&extension=ts&play_token=3bJyPI6B9a
-#EXTINF:-1  tvg-name="Star Movies" tvg-id="StarMoviesIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] Star Movies
+#EXTINF:-1  tvg-name="Star Movies" tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movies" catchup="" catchup-source="",[✖] Star Movies
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=136629&extension=ts&play_token=I0DMNLsHGF
-#EXTINF:-1  tvg-name="Star Movies Select" tvg-id="StarMoviesSelectHD.in" tvg-logo="https://i.imgur.com/9nfdMUO.png" group-title="Movies" catchup="" catchup-source="",[✓] Star Movies Select
+#EXTINF:-1  tvg-name="Star Movies Select" tvg-id="StarMoviesSelectHD.in" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movies" catchup="" catchup-source="",[✓] Star Movies Select
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862741&extension=ts&play_token=7797Sud1VB
 #EXTINF:-1  tvg-name="STIRR Movies" tvg-id="STIRRMovies.us" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies" catchup="" catchup-source="",[✓] STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1  tvg-name="Syfy" tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies" catchup="" catchup-source="",[✖] Syfy
+#EXTINF:-1  tvg-name="Syfy" tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/U7o3O7W.png" group-title="Movies" catchup="" catchup-source="",[✖] Syfy
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860317&extension=ts&play_token=qUFDgWsenK
-#EXTINF:-1  tvg-name="TAP Edge" tvg-id="TAPEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TapEdge-ph.png/380px-TapEdge-ph.png" group-title="Movies" catchup="" catchup-source="",[✓] TAP Edge
+#EXTINF:-1  tvg-name="Tap Action Flix" tvg-id="TapActionFlixHD" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="Movies" catchup="" catchup-source="",[✓] Tap Action Flix
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-yzuDBLoj2eYOq9kWdCCcdBVg2Ur67La_RqtQRtF0l2BvT5zqs1ll9gYCyCVKloEE
+#EXTINF:-1  tvg-name="TAP Edge" tvg-id="TAPEDGE" tvg-logo="https://i.imgur.com/rIGW7z4.png" group-title="Movies" catchup="" catchup-source="",[✓] TAP Edge
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z_pRVr-aYBr73zWXnVoxl1-Q8i7nLZ-GnOTPKXLZ1vvvWuat6N5VgvqZOjz4VqCVJc
-#EXTINF:-1  tvg-name="Tap Movies" tvg-id="TAPMOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/220px-TapMovies-ph.png" group-title="Movies" catchup="" catchup-source="",[✓] Tap Movies
+#EXTINF:-1  tvg-name="Tap Movies" tvg-id="TAPMOVIES" tvg-logo="https://i.imgur.com/lQ4sNF5.png" group-title="Movies" catchup="" catchup-source="",[✓] Tap Movies
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-tOdmAY7pwSOITecJ_pWPJNGm3NqZBjTk84Ow6O7peR6OOmN3Wre8Hd1lpX3N8ZZ4
-#EXTINF:-1  tvg-name="[VPN Needed:USA] TCM East" tvg-id="TCMTurnerClassicMoviesEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] [VPN Needed:USA] TCM East
+#EXTINF:-1  tvg-name="[VPN Needed:USA] TCM East" tvg-id="TCMTurnerClassicMoviesEast.us" tvg-logo="https://i.imgur.com/XvaRVwf.png" group-title="Movies" catchup="" catchup-source="",[✓] [VPN Needed:USA] TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1  tvg-name="[VPN Needed:USA] TCM West" tvg-id="TCMTurnerClassicMoviesWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] [VPN Needed:USA] TCM West
+#EXTINF:-1  tvg-name="[VPN Needed:USA] TCM West" tvg-id="TCMTurnerClassicMoviesWest.us" tvg-logo="https://i.imgur.com/XvaRVwf.png" group-title="Movies" catchup="" catchup-source="",[✓] [VPN Needed:USA] TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1  tvg-name="Thrill" tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies" catchup="" catchup-source="",[✖] Thrill
 http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73669
-#EXTINF:-1  tvg-name="USA Network" tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] USA Network
+#EXTINF:-1  tvg-name="USA Network" tvg-id="USANetworkEast.us" tvg-logo="https://i.imgur.com/51K9kTu.png" group-title="Movies" catchup="" catchup-source="",[✓] USA Network
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/3390
-#EXTINF:-1  tvg-name="ABC" tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] ABC
-http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=605019&extension=ts&play_token=yItKhn6D2l
+#EXTINF:-1  tvg-name="ABC" tvg-id="ABCEast.us" tvg-logo="https://i.imgur.com/2WXAh5B.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] ABC
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
 #EXTINF:-1  tvg-name="Stories by AMC" tvg-id="StoriesbyAMC.us" tvg-logo="https://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Stories by AMC
 https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
 #EXTINF:-1  tvg-name="AXN" tvg-id="AXNHongKong.hk" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] AXN
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=62
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=62
+#EXTINF:-1  tvg-name="BBC Lifestyle" tvg-id="BBCLifestyle" tvg-logo="https://i.imgur.com/uoLLkjm.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] BBC Lifestyle
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=205
+#EXTINF:-1  tvg-name="Bravo" tvg-id="BravoEast.us" tvg-logo="https://i.imgur.com/mXrYHXF.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Bravo
+https://iptv-sniper.herokuapp.com/player/redboxtv.php?server=charlie0ne.rbtvnw.com:21190/ceres&channel=bravohd
 #EXTINF:-1  tvg-name="C31 Melbourne" tvg-id="C31Melbourne.au" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1  tvg-name="CBS" tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] CBS
+#EXTINF:-1  tvg-name="CBS" tvg-id="CBSEast.us" tvg-logo="https://i.imgur.com/wxGbfd0.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] CBS
 http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-#EXTINF:-1  tvg-name="E!" tvg-id="EEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/512px-E!_Logo.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] E!
-https://iptv-sniper.herokuapp.com/redboxtv.php?server=alphatw0.rbtvnw.com:21190/ceres&channel=eentertainment
-#EXTINF:-1  tvg-name="FashionTV" tvg-id="FashionTVAsia.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] FashionTV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=96
-#EXTINF:-1  tvg-name="Game Show Central" tvg-id="GameShowCentral.us" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Game Show Central
+#EXTINF:-1  tvg-name="Crime + Investigation" tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Crime + Investigation
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=35
+#EXTINF:-1  tvg-name="Dabl" tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/0EbItrr.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Dabl
+http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="FashionTVAsia.fr" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] FashionTV
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=96
+#EXTINF:-1  tvg-name="Game Show Central" tvg-id="GameShowCentral.us" tvg-logo="https://i.imgur.com/JBYAgpT.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Game Show Central
 https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8
-#EXTINF:-1  tvg-name="Gusto TV" tvg-id="GustoTV.au" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Gusto TV
+#EXTINF:-1  tvg-name="Gusto TV" tvg-id="GustoTV.au" tvg-logo="https://i.imgur.com/NG8hVoI.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-name="HGTV" tvg-id="HGTVAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/512px-HGTV_2010.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] HGTV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=87
-#EXTINF:-1  tvg-name="Lifetime" tvg-id="LifetimeAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Lifetime
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=55
-#EXTINF:-1  tvg-name="Metro Channel" tvg-id="METROCHANNELSD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Metro_Channel_logo.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Metro Channel
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=58
-#EXTINF:-1  tvg-name="Rock Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Rock Entertainment
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=56
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=87
+#EXTINF:-1  tvg-name="Metro Channel" tvg-id="METROCHANNELSD" tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Metro Channel
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=58
+#EXTINF:-1  tvg-name="NBC" tvg-id="NBCEast.us" tvg-logo="https://i.imgur.com/EIrJDkt.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] NBC
+http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+#EXTINF:-1  tvg-name="OWN" tvg-id="OprahWinfreyNetwork.us" tvg-logo="https://i.imgur.com/zs6lSxN.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] OWN
+https://iptv-sniper.herokuapp.com/player/redboxtv.php?server=betatw0.rbtvnw.com:21190/ceres&channel=ownhd
+#EXTINF:-1  tvg-name="Rock Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://i.imgur.com/U8IxzwO.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Rock Entertainment
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=56
+#EXTINF:-1  tvg-name="Rock Extreme" tvg-id="RockExtreme.sg" tvg-logo="https://i.imgur.com/mWp0Ixk.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Rock Extreme
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=57
 #EXTINF:-1  tvg-name="The CW East" tvg-id="WPIXDT1.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] The CW East
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
-#EXTINF:-1  tvg-name="The CW West" tvg-id="KTLADT1.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] The CW West
+#EXTINF:-1  tvg-name="The CW West" tvg-id="KTLADT1.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] The CW West
 https://v-la.mybtv.net/live/164.m3u8
-#EXTINF:-1  tvg-name="[VPN Needed:USA] TBS East" tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] [VPN Needed:USA] TBS East
+#EXTINF:-1  tvg-name="[VPN Needed:USA] TBS East" tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/aYAZt5J.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] [VPN Needed:USA] TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-name="[VPN Needed:USA] TBS East" tvg-id="TBSWest.us" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] [VPN Needed:USA] TBS East
+#EXTINF:-1  tvg-name="[VPN Needed:USA] TBS East" tvg-id="TBSWest.us" tvg-logo="https://i.imgur.com/aYAZt5J.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] [VPN Needed:USA] TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-name="TLC" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/512px-TLC-Logo_2016.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] TLC
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=47
-#EXTINF:-1  tvg-name="TMC" tvg-id="TMCTAGALIZEDMOVIECHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Movies" catchup="" catchup-source="",[✖] TMC
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=9
-#EXTINF:-1  tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] TNT
+#EXTINF:-1  tvg-name="TLC" tvg-id="TLC" tvg-logo="https://i.imgur.com/eVWucpL.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] TLC
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=47
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] TNT
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=605021&extension=ts&play_token=4oQODlVlQI
-#EXTINF:-1  tvg-name="Travel Channel" tvg-id="TRAVELCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/512px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Travel Channel
+#EXTINF:-1  tvg-name="Travel Channel" tvg-id="TRAVELCHANNEL" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Travel Channel
 http://user.scalecdn.co:8080/live/movie/movie/567747.m3u8
-#EXTINF:-1  tvg-name="Vice" tvg-id="ViceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Vice
+#EXTINF:-1  tvg-name="Vice" tvg-id="ViceTV.us" tvg-logo="https://i.imgur.com/gmWjd4v.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Vice
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8
 #EXTINF:-1  tvg-name="ABC TV" tvg-id="ABC.au" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="News" catchup="" catchup-source="",[✖] ABC TV
 https://c.mjh.nz/101002510251/
-#EXTINF:-1  tvg-name="ABC News Live" tvg-id="ABCNewsLive.us" tvg-logo="https://image.roku.com/developer_channels/prod/13f5273bb1c445828b50dd4239d525c104f0d120acdc0494af3b1f5edef94a4a.png" group-title="News" catchup="" catchup-source="",[✓] ABC News Live
+#EXTINF:-1  tvg-name="ABC News Live" tvg-id="ABCNewsLive.us" tvg-logo="https://i.imgur.com/k4oQek7.png" group-title="News" catchup="" catchup-source="",[✖] ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1  tvg-name="Al Jazeera" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News" catchup="" catchup-source="",[✖] Al Jazeera
+#EXTINF:-1  tvg-name="Al Jazeera" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/Mf4zQuL.png" group-title="News" catchup="" catchup-source="",[✖] Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1  tvg-name="ANC" tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/512px-ANClogo2014.svg.png" group-title="News" catchup="" catchup-source="",[✓] ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
-#EXTINF:-1  tvg-name="Australia Channel" tvg-id="AustraliaChannel.au" tvg-logo="https://i.imgur.com/NI0AeNH.png" group-title="News" catchup="" catchup-source="",[✖] Australia Channel
+#EXTINF:-1  tvg-name="Australia Channel" tvg-id="AustraliaChannel.au" tvg-logo="https://i.imgur.com/NI0AeNH.png" group-title="News" catchup="" catchup-source="",[✓] Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1  tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="News" catchup="" catchup-source="",[✖] BBC World News
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=40
-#EXTINF:-1  tvg-name="Bloomberg TV" tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="News" catchup="" catchup-source="",[✖] Bloomberg TV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=44
-#EXTINF:-1  tvg-name="CBS News" tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="News" catchup="" catchup-source="",[✖] CBS News
+#EXTINF:-1  tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/VUBzYN5.png" group-title="News" catchup="" catchup-source="",[✖] BBC World News
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=40
+#EXTINF:-1  tvg-name="Bloomberg TV" tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="News" catchup="" catchup-source="",[✓] Bloomberg TV
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=44
+#EXTINF:-1  tvg-name="CBS News" tvg-id="CBSNews.us" tvg-logo="https://i.imgur.com/TtzvhdV.png" group-title="News" catchup="" catchup-source="",[✖] CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1  tvg-name="Cheddar" tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/YN7O7aI.png" group-title="News" catchup="" catchup-source="",[✓] Cheddar
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8
 #EXTINF:-1  tvg-name="CGTN" tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News" catchup="" catchup-source="",[✓] CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1  tvg-name="CNA" tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="News" catchup="" catchup-source="",[✓] CNA
+#EXTINF:-1  tvg-name="CNA" tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="News" catchup="" catchup-source="",[✓] CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1  tvg-name="CNBC" tvg-id="CNBCAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="News" catchup="" catchup-source="",[✓] CNBC
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=43
-#EXTINF:-1  tvg-name="CNN" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News" catchup="" catchup-source="",[✓] CNN
+#EXTINF:-1  tvg-name="CNBC" tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/BfAIco6.png" group-title="News" catchup="" catchup-source="",[✖] CNBC
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=43
+#EXTINF:-1  tvg-name="CNN" tvg-id="CNN.us" tvg-logo="https://i.imgur.com/QbK8ixD.jpg" group-title="News" catchup="" catchup-source="",[✓] CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-name="CNN Philippines" tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="News" catchup="" catchup-source="",[✖] CNN Philippines
+#EXTINF:-1  tvg-name="CNN Philippines" tvg-id="CNNPhilippines.ph" tvg-logo="https://i.imgur.com/TSWvNdx.png" group-title="News" catchup="" catchup-source="",[✓] CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1  tvg-name="DW" tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/1B4XjYf.png" group-title="News" catchup="" catchup-source="",[✓] DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  tvg-name="FOX 5" tvg-id="WNYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/240px-Fts-new-york-a.svg.png" group-title="News" catchup="" catchup-source="",[✓] FOX 5
+#EXTINF:-1  tvg-name="FOX 5" tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/Qa3r2NA.png" group-title="News" catchup="" catchup-source="",[✓] FOX 5
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-#EXTINF:-1  tvg-name="FOX 10" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/200px-Fts-phoenix-a.svg.png" group-title="News" catchup="" catchup-source="",[✓] FOX 10
+#EXTINF:-1  tvg-name="FOX 10" tvg-id="KSAZDT1.us" tvg-logo="https://i.imgur.com/6gJR8BF.png" group-title="News" catchup="" catchup-source="",[✖] FOX 10
 https://v-px.mybtv.net/live/14.m3u8
-#EXTINF:-1  tvg-name="FOX 11" tvg-id="KTTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/240px-Fts-los-angeles-a.svg.png" group-title="News" catchup="" catchup-source="",[✓] FOX 11
+#EXTINF:-1  tvg-name="FOX 11" tvg-id="KTTVDT1.us" tvg-logo="https://i.imgur.com/mr8inlU.png" group-title="News" catchup="" catchup-source="",[✓] FOX 11
 https://v-la.mybtv.net/live/166.m3u8
-#EXTINF:-1  tvg-name="FOX 29" tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/240px-Fts-philadelphia-a.svg.png" group-title="News" catchup="" catchup-source="",[✓] FOX 29
+#EXTINF:-1  tvg-name="FOX 29" tvg-id="WTXFDT1.us" tvg-logo="https://i.imgur.com/LZxAS3b.png" group-title="News" catchup="" catchup-source="",[✓] FOX 29
 http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 #EXTINF:-1  tvg-name="Fox News" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News" catchup="" catchup-source="",[✓] Fox News
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=39
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=39
 #EXTINF:-1  tvg-name="France 24" tvg-id="France24English.fr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="News" catchup="" catchup-source="",[✓] France 24
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=95
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=95
 #EXTINF:-1  tvg-name="GMA News TV" tvg-id="GMANewsTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/512px-GMA_News_TV_Logo_Vector.svg.png" group-title="News" catchup="" catchup-source="",[✓] GMA News TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=33270&extension=ts&play_token=wY4LMv3TMk
 #EXTINF:-1  tvg-name="HLN" tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News" catchup="" catchup-source="",[✓] HLN
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-name="LiveNOW from Fox" tvg-id="LiveNOWfromFox.us" tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" group-title="News" catchup="" catchup-source="",[✓] LiveNOW from Fox
+#EXTINF:-1  tvg-name="LiveNOW from Fox" tvg-id="LiveNOWfromFox.us" tvg-logo="https://i.imgur.com/DGXT1Rl.png" group-title="News" catchup="" catchup-source="",[✓] LiveNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="MSNBC" tvg-id="MSNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/512px-MSNBC_2021.svg.png" group-title="News" catchup="" catchup-source="",[✓] MSNBC
+#EXTINF:-1  tvg-name="MSNBC" tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/2D5G8sY.png" group-title="News" catchup="" catchup-source="",[✓] MSNBC
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860150&extension=ts&play_token=sCDJ0MU30D
-#EXTINF:-1  tvg-name="NBCLX" tvg-id="NBCLX.us" tvg-logo="https://ots.nbcwpshield.com/wp-content/uploads/2022/06/LXNews-logo-1260x630-1.png" group-title="News" catchup="" catchup-source="",[✓] NBCLX
+#EXTINF:-1  tvg-name="NBCLX" tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/WbsuRSe.png" group-title="News" catchup="" catchup-source="",[✖] NBCLX
 https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/master.m3u8?ads.channelId=9999651
-#EXTINF:-1  tvg-name="NBC News Now" tvg-id="NBCNewsNow.us" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/NBCNewsNOW-Logo-White-241x300.png" group-title="News" catchup="" catchup-source="",[✓] NBC News Now
+#EXTINF:-1  tvg-name="NBC News Now" tvg-id="NBCNewsNow.us" tvg-logo="https://i.imgur.com/MrEOwf5.png" group-title="News" catchup="" catchup-source="",[✓] NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1  tvg-name="Newsmax TV" tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Newsmax2021.svg/512px-Newsmax2021.svg.png" group-title="News" catchup="" catchup-source="",[✓] Newsmax TV
+#EXTINF:-1  tvg-name="Newsmax TV" tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/H7GoQ8y.png" group-title="News" catchup="" catchup-source="",[✓] Newsmax TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8
-#EXTINF:-1  tvg-name="Newsy" tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png" group-title="News" catchup="" catchup-source="",[✓] Newsy
+#EXTINF:-1  tvg-name="Newsy" tvg-id="Newsy.us" tvg-logo="https://i.imgur.com/uRVKZ7o.png" group-title="News" catchup="" catchup-source="",[✓] Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1  tvg-name="NHK World Japan" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News" catchup="" catchup-source="",[✓] NHK World Japan
+#EXTINF:-1  tvg-name="NHK World Japan" tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/NVkSoOe.png" group-title="News" catchup="" catchup-source="",[✓] NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1  tvg-name="RT News" tvg-id="RTNews.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png" group-title="News" catchup="" catchup-source="",[✓] RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1  tvg-name="TRT World" tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News" catchup="" catchup-source="",[✓] TRT World
+#EXTINF:-1  tvg-name="TRT World" tvg-id="TRTWorld.tr" tvg-logo="https://i.imgur.com/gUtly7f.png" group-title="News" catchup="" catchup-source="",[✓] TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="UNTV" tvg-id="UNTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/512px-UNTV-Logo-2016.svg.png" group-title="News" catchup="" catchup-source="",[✓] UNTV
+#EXTINF:-1  tvg-name="UNTV" tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/1ncf78P.png" group-title="News" catchup="" catchup-source="",[✓] UNTV
 https://utube2.fotvnetwork.workers.dev/stream/UC3XaG-7UVi2vD8ZZEMNnnpw/master.m3u8
-#EXTINF:-1  tvg-name="Arirang" tvg-id="ArirangTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] Arirang
+#EXTINF:-1  tvg-name="Arirang" tvg-id="ArirangTV" tvg-logo="https://i.imgur.com/spsqFNP.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="CJ ENM" tvg-id="KContentbyCJENM.us" tvg-logo="https://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] CJ ENM
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-#EXTINF:-1  tvg-name="KBS World" tvg-id="KBSWorld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/512px-KBS_World_(2009).svg.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] KBS World
+#EXTINF:-1  tvg-name="KBS World" tvg-id="KBSWorld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/512px-KBS_World_(2009).svg.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✖] KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="tvN" tvg-id="TVNAsia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] tvN
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=85
-#EXTINF:-1  tvg-name="Animal Planet" tvg-id="AnimalPlanetHongKong.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Animal Planet
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=49
-#EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentaries" catchup="" catchup-source="",[✓] BBC Earth
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=33
+#EXTINF:-1  tvg-name="tvN" tvg-id="TVNAsia.hk" tvg-logo="https://i.imgur.com/lY1BAUH.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] tvN
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=85
+#EXTINF:-1  tvg-name="Asian Crush" tvg-id="AsianCrush" tvg-logo="https://i.imgur.com/rOlQmU7.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] Asian Crush
+https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=o4SANy4zS5bvgRz4Niq-&ads.plex_id=5eea605474085f0040ddc767&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1  tvg-name="New K-Movies" tvg-id="NewK-Movies" tvg-logo="https://i.imgur.com/b0a6O6p.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✓] New K-Movies
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=9wJVZ6XTrMyogM7-sX4y&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries" catchup="" catchup-source="",[✓] BBC Earth
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=33
 #EXTINF:-1  tvg-name="Discovery Asia" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://i.imgur.com/l87dZmI.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Discovery Asia
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=46
-#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Discovery Channel
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=45
-#EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Discovery Science
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=46
+#EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://i.imgur.com/kjI19Gn.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Discovery Science
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=253170&extension=ts&play_token=2jcjaEkUPQ
-#EXTINF:-1  tvg-name="DMAX" tvg-id="DMAXUK.uk" tvg-logo="https://i.ibb.co/3YHs0W9/image-removebg-preview.png" group-title="Documentaries" catchup="" catchup-source="",[✖] DMAX
+#EXTINF:-1  tvg-name="Discovery Turbo" tvg-id="DiscoveryTurboUK.uk" tvg-logo="https://i.imgur.com/QfyjIcA.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Discovery Turbo
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=930&extension=ts&play_token=n2hmJEmGpc
+#EXTINF:-1  tvg-name="DMAX" tvg-id="DMAXUK.uk" tvg-logo="https://i.imgur.com/T2rGObN.png" group-title="Documentaries" catchup="" catchup-source="",[✓] DMAX
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=253167&extension=ts&play_token=lT0kvyR7TK
-#EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="NationalGeographicMalaysia.my" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Documentaries" catchup="" catchup-source="",[✓] National Geographic Channel
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=64
-#EXTINF:-1  tvg-name="Outdoor Channel" tvg-id="OutdoorChannel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-name="Real Stories" tvg-id="RealStories.au" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="Documentaries" catchup="" catchup-source="",[✓] Real Stories
-https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="History" tvg-id="HistoryAsia.us" tvg-logo="https://i.imgur.com/TEk8rRQ.png" group-title="Documentaries" catchup="" catchup-source="",[✓] History
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=53
+#EXTINF:-1  tvg-name="Love Nature" tvg-id="LoveNature.ca" tvg-logo="https://i.imgur.com/p4WBLG1.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1  tvg-name="NASA TV" tvg-id="NASATV.us" tvg-logo="https://i.imgur.com/77xyH5z.png" group-title="Documentaries" catchup="" catchup-source="",[✓] NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="NationalGeographicMalaysia.my" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Documentaries" catchup="" catchup-source="",[✖] National Geographic Channel
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=64
+#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/2DIGjSm.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Nat Geo Wild
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=51
+#EXTINF:-1  tvg-name="Outdoor Channel" tvg-id="OutdoorChannel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Outdoor Channel
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=222
 #EXTINF:-1  tvg-name="RT Documentary" tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/1Ltaei8.png" group-title="Documentaries" catchup="" catchup-source="",[✓] RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1  tvg-name="Smithsonian Channel" tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://i.imgur.com/ZQZwXY0.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="TechStorm" tvg-id="TECHSTORM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Techstorm-logo.jpg/512px-Techstorm-logo.jpg" group-title="Documentaries" catchup="" catchup-source="",[✓] TechStorm
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=78
 #EXTINF:-1  tvg-name="Time Line Australia" tvg-id="TimeLineAustralia.au" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Time Line Australia
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="Xplore" tvg-id="Xplore.us" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Xplore
+#EXTINF:-1  tvg-name="Xplore" tvg-id="Xplore.us" tvg-logo="https://i.imgur.com/t0aMffA.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Xplore
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8
-#EXTINF:-1  tvg-name="Billiard TV" tvg-id="BilliardTV" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2021/08/billiardtv-logo-yellow.png" group-title="Sports" catchup="" catchup-source="",[✖] Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1  tvg-name="EDGEsport" tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports" catchup="" catchup-source="",[✓] EDGEsport
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-edgesportusa-samsungtv-us/playlist.m3u8
-#EXTINF:-1  tvg-name="Eurosport" tvg-id="Eurosport" tvg-logo="https://epg.eurosport-tv.com/Images/LOGO_H208_TRP.png" group-title="Sports" catchup="" catchup-source="",[✓] Eurosport
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
-#EXTINF:-1  tvg-name="Fight Sports" tvg-id="FightSports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports" catchup="" catchup-source="",[✓] Fight Sports
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=18
-#EXTINF:-1  tvg-name="TFC" tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Local TV" catchup="" catchup-source="",[✖] TFC
-https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
-#EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMALifeTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Local TV" catchup="" catchup-source="",[✓] GMA Life TV
-http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=41228&extension=ts&play_token=OtpXkMLTQR
-#EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMAPinoyTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Local TV" catchup="" catchup-source="",[✓] GMA Pinoy TV
-http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=33269&extension=ts&play_token=o99Hf0NZEo
-#EXTINF:-1  tvg-name="GMA" tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="Local TV" catchup="" catchup-source="",[✓] GMA
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=5
-#EXTINF:-1  tvg-name="PBO" tvg-id="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Local Movies" catchup="" catchup-source="",[✓] PBO
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=12
-#EXTINF:-1  tvg-name="VivaCinema" tvg-id="VivaCinema.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Local Movies" catchup="" catchup-source="",[✓] VivaCinema
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=13
-#EXTINF:-1  tvg-name="&flix HD" tvg-id="Andflix.in" tvg-logo="https://i.imgur.com/K8FJgai.png" group-title="Movies" catchup="" catchup-source="",[✓] &flix HD
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862616&extension=ts&play_token=s4jLZ6jSzd
-#EXTINF:-1  tvg-name="&privé HD" tvg-id="AndpriveHD.in" tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Movies" catchup="" catchup-source="",[✓] &privé HD
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862618&extension=ts&play_token=mPp0f8PKx4
-#EXTINF:-1  tvg-name="FX" tvg-id="FXEast.us" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/73681/s73681_h5_aa.png" group-title="Movies" catchup="" catchup-source="",[✓] FX
-http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860084&extension=ts&play_token=7rU1sOt0HK
-#EXTINF:-1  tvg-name="FXX" tvg-id="FXXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] FXX
-https://iptv-sniper.herokuapp.com/redboxtv.php?server=betatw0.rbtvnw.com:21190/ceres&channel=fxxhd
-#EXTINF:-1  tvg-name="Paramount Network" tvg-id="ParamountNetworkSingapore.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies" catchup="" catchup-source="",[✓] Paramount Network
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=59
-#EXTINF:-1  tvg-name="Tap Action Flix" tvg-id="TapActionFlixHD" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="Movies" catchup="" catchup-source="",[✓] Tap Action Flix
-http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-yzuDBLoj2eYOq9kWdCCcdBVg2Ur67La_RqtQRtF0l2BvT5zqs1ll9gYCyCVKloEE
-#EXTINF:-1  tvg-name="Warner TV" tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Movies" catchup="" catchup-source="",[✓] Warner TV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=21
-#EXTINF:-1  tvg-name="Asian Food Network" tvg-id="AFN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Asian Food Network
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=63
-#EXTINF:-1  tvg-name="Crime + Investigation" tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Crime + Investigation
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=35
-#EXTINF:-1  tvg-name="NBC" tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/NBC_2013_fixed_logo.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] NBC
-http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-#EXTINF:-1  tvg-name="Rock Extreme" tvg-id="RockExtreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/RockExtreme.png/revision/latest?cb=20210911032825" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Rock Extreme
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=57
-#EXTINF:-1  tvg-name="Discovery Turbo" tvg-id="DiscoveryTurboUK.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb2409.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Discovery Turbo
-http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=930&extension=ts&play_token=n2hmJEmGpc
-#EXTINF:-1  tvg-name="History" tvg-id="HistoryAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentaries" catchup="" catchup-source="",[✓] History
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=53
-#EXTINF:-1  tvg-name="Love Nature" tvg-id="LoveNature.ca" tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  tvg-name="NASA TV" tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Documentaries" catchup="" catchup-source="",[✖] NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/2DIGjSm.png" group-title="Documentaries" catchup="" catchup-source="",[✖] Nat Geo Wild
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=51
 #EXTINF:-1  tvg-name="Box Nation" tvg-id="BoxNation.uk" tvg-logo="https://i.imgur.com/XCIBf7u.png" group-title="Sports" catchup="" catchup-source="",[✓] Box Nation
 http://185.53.88.211:8070/live/ce1eb8b3/fd28c06f6f/4719.ts
+#EXTINF:-1  tvg-name="Net 25" tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV" catchup="" catchup-source="",[✓] Net 25
+http://ky-iptv.com:25461/live/Mouse/Mouse/1806799.ts
+#EXTINF:-1  tvg-name="Pinoy Xtreme" tvg-id="PinoyXtremeChannel.ph" tvg-logo="https://i.imgur.com/NOBlLVC.png" group-title="Local TV" catchup="" catchup-source="",[✓] Pinoy Xtreme
+http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73677
+#EXTINF:-1  tvg-name="SMNI" tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/p3KeNAm.png" group-title="Local TV" catchup="" catchup-source="",[✓] SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1  tvg-name="CineLife" tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/M4SNibs.png" group-title="Movies" catchup="" catchup-source="",[✓] CineLife
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1  tvg-name="Cinemax" tvg-id="CinemaxSingapore.sg" tvg-logo="https://i.imgur.com/d3uZYcY.png" group-title="Movies" catchup="" catchup-source="",[✓] Cinemax
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=16
+#EXTINF:-1  tvg-name="Freeform" tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BCTkmBQ.png" group-title="Movies" catchup="" catchup-source="",[✓] Freeform
+https://iptv-sniper.herokuapp.com/player/redboxtv.php?server=charlie0ne.rbtvnw.com:21190/ceres&channel=freeform
+#EXTINF:-1  tvg-name="FX Movies" tvg-id="FXEast.us" tvg-logo="https://i.imgur.com/LKhCkvn.png" group-title="Movies" catchup="" catchup-source="",[✓] FX Movies
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860084&extension=ts&play_token=7rU1sOt0HK
+#EXTINF:-1  tvg-name="Hallmark Channel" tvg-id="HallmarkChannelEast.us" tvg-logo="https://i.imgur.com/9IZrAbS.png" group-title="Movies" catchup="" catchup-source="",[✓] Hallmark Channel
+https://iptv-sniper.herokuapp.com/player/redboxtv.php?server=charlie0ne.rbtvnw.com:21190/ceres&channel=hallmark
+#EXTINF:-1  tvg-name="Hallmark Drama" tvg-id="HallmarkDrama.us" tvg-logo="https://i.imgur.com/K8R2IMh.png" group-title="Movies" catchup="" catchup-source="",[✓] Hallmark Drama
+https://iptv.arkina1234.repl.co/frndly/3.php/playlist.m3u8
+#EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBOComedyEast.us" tvg-logo="https://i.imgur.com/l4EBKxX.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO Comedy
+https://iptv-sniper.herokuapp.com/player/redboxtv.php?server=betatw0.rbtvnw.com:21190/ceres&channel=hbocomedy
+#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBOFamilyEast.us" tvg-logo="https://i.imgur.com/uoOU6C2.png" group-title="Movies" catchup="" catchup-source="",[✓] HBO Family
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860109&extension=ts&play_token=xlchl3dFfk
+#EXTINF:-1  tvg-name="HBO Hits" tvg-id="HBOHits.id" tvg-logo="https://i.imgur.com/K52zUFR.png" group-title="Movies" catchup="" catchup-source="",[✖] HBO Hits
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=228
+#EXTINF:-1  tvg-name="Warner TV" tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://i.imgur.com/33QyRzo.png" group-title="Movies" catchup="" catchup-source="",[✓] Warner TV
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=232
+#EXTINF:-1  tvg-name="Asian Food Network" tvg-id="AFN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Asian Food Network
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=63
+#EXTINF:-1  tvg-name="E!" tvg-id="EEast.us" tvg-logo="https://i.imgur.com/wZb10vP.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] E!
+https://iptv-sniper.herokuapp.com/player/redboxtv.php?server=alphatw0.rbtvnw.com:21190/ceres&channel=eentertainment
+#EXTINF:-1  tvg-name="Game Show Network" tvg-id="GameShowNetwork.us" tvg-logo="https://i.imgur.com/QGlCYBq.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✖] Game Show Network
+http://n1.klowdtv.net/live2/gsn_360p/chunks.m3u8
+#EXTINF:-1  tvg-name="Lifetime" tvg-id="LifetimeAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",[✓] Lifetime
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=55
+#EXTINF:-1  tvg-name="TMC" tvg-id="TMCTAGALIZEDMOVIECHANNEL" tvg-logo="https://i.imgur.com/VvrQGR2.png" group-title="Movies" catchup="" catchup-source="",[✓] TMC
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=9
+#EXTINF:-1  tvg-name="ANC" tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/XzVYXaV.png" group-title="News" catchup="" catchup-source="",[✓] ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1  tvg-name="RT News" tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/SE4ZoBV.png" group-title="News" catchup="" catchup-source="",[✓] RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1  tvg-name="CJ ENM" tvg-id="KContentbyCJENM.us" tvg-logo="https://i.imgur.com/GSCJbMH.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✖] CJ ENM
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+#EXTINF:-1  tvg-name="New K-POP" tvg-id="NewK-POP" tvg-logo="https://i.imgur.com/YbN7N5F.png" group-title="Korean Entertainment" catchup="" catchup-source="",[✖] New K-POP
+https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/playlist.m3u8?ads.wurl_channel=698&ads.wurl_name=NewKID&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=o4SANy4zS5bvgRz4Niq-&ads.plex_id=60d4edd7b2fdec002c14112d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1  tvg-name="Animal Planet" tvg-id="AnimalPlanetHongKong.hk" tvg-logo="https://i.imgur.com/zRbq9e5.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Animal Planet
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=49
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Discovery Channel
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=45
+#EXTINF:-1  tvg-name="Real Stories" tvg-id="RealStories.au" tvg-logo="https://i.imgur.com/1VzUjDC.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="TechStorm" tvg-id="TECHSTORM" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" group-title="Documentaries" catchup="" catchup-source="",[✓] TechStorm
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=78
+#EXTINF:-1  tvg-name="Magellan TV NOW" tvg-id="MagellanTVNOW" tvg-logo="https://i.imgur.com/YUELhUE.png" group-title="Documentaries" catchup="" catchup-source="",[✓] Magellan TV NOW
+https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=o4SANy4zS5bvgRz4Niq-&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1  tvg-name="Billiard TV" tvg-id="BilliardTV" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="Sports" catchup="" catchup-source="",[✓] Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1  tvg-name="EDGEsport" tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/NaJOJH0.png" group-title="Sports" catchup="" catchup-source="",[✓] EDGEsport
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-edgesportusa-samsungtv-us/playlist.m3u8
 #EXTINF:-1  tvg-name="eGG Network" tvg-id="eGGNetwork.my" tvg-logo="https://i.ibb.co/0Vbn8Jk/e-GGNetwork-White.png" group-title="Sports" catchup="" catchup-source="",[✓] eGG Network
 http://210.210.155.35/uq2663/h/h22/index.m3u8
-#EXTINF:-1  tvg-name="ESPN" tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] ESPN
-http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=605022&extension=ts&play_token=2TOa1TBQv3
-#EXTINF:-1  tvg-name="ESPN 2" tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] ESPN 2
+#EXTINF:-1  tvg-name="ESPN" tvg-id="ESPN.us" tvg-logo="https://i.imgur.com/G1A5f9n.png" group-title="Sports" catchup="" catchup-source="",[✓] ESPN
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=235
+#EXTINF:-1  tvg-name="ESPN 2" tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/2Er81xM.png" group-title="Sports" catchup="" catchup-source="",[✓] ESPN 2
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860020&extension=ts&play_token=xGKhVGt3IM
-#EXTINF:-1  tvg-name="Fite" tvg-id="Fite.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/2560px-FITE_TV.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] Fite
+#EXTINF:-1  tvg-name="Eurosport" tvg-id="Eurosport" tvg-logo="https://i.imgur.com/IdyF5p0.png" group-title="Sports" catchup="" catchup-source="",[✓] Eurosport
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
+#EXTINF:-1  tvg-name="Fight Sports" tvg-id="FightSports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports" catchup="" catchup-source="",[✓] Fight Sports
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=18
+#EXTINF:-1  tvg-name="Fite" tvg-id="Fite.us" tvg-logo="https://i.imgur.com/GKF2r4V.png" group-title="Sports" catchup="" catchup-source="",[✓] Fite
 https://rpn1.bozztv.com/36bay2/gusa-fite/index.m3u8
-#EXTINF:-1  tvg-name="Fox Sports 1" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] Fox Sports 1
+#EXTINF:-1  tvg-name="Fox Sports 1" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/o7z4LSt.png" group-title="Sports" catchup="" catchup-source="",[✓] Fox Sports 1
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860061&extension=ts&play_token=329zFNX3So
-#EXTINF:-1  tvg-name="Fox Sports 2" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] Fox Sports 2
+#EXTINF:-1  tvg-name="Fox Sports 2" tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/ib4o2X7.png" group-title="Sports" catchup="" catchup-source="",[✓] Fox Sports 2
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860062&extension=ts&play_token=InkGFQ4vVN
-#EXTINF:-1  tvg-name="Horse and Country" tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="Sports" catchup="" catchup-source="",[✓] Horse and Country
+#EXTINF:-1  tvg-name="Golf Channel" tvg-id="GolfChannel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Sports" catchup="" catchup-source="",[✓] Golf Channel
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=234
+#EXTINF:-1  tvg-name="Horse and Country" tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/9RThOrN.png" group-title="Sports" catchup="" catchup-source="",[✓] Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Horse Racing" tvg-id="HorseRacing.ph" tvg-logo="https://i.imgur.com/DdVul6b.png" group-title="Sports" catchup="" catchup-source="",[✓] Horse Racing
 http://live.lordstreams.co:8080/live/Barnes1/Barnes1/567718.m3u8
-#EXTINF:-1  tvg-name="MLB Network" tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] MLB Network
+#EXTINF:-1  tvg-name="MLB Network" tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/2agsNi7.png" group-title="Sports" catchup="" catchup-source="",[✓] MLB Network
 http://ky-iptv.com:25461/live/abc123456/abc123456/1284154.ts
-#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/gSUFG5w.png" group-title="Sports" catchup="" catchup-source="",[✓] NBA TV
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/hflxPGb.png" group-title="Sports" catchup="" catchup-source="",[✓] NBA TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
-#EXTINF:-1  tvg-name="NFL Channel" tvg-id="PlutoTVNFLChannel.us" tvg-logo="https://latenightparents.com/wp-content/uploads/2020/07/NFL-channel.jpg" group-title="Sports" catchup="" catchup-source="",[✓] NFL Channel
+#EXTINF:-1  tvg-name="NFL Channel" tvg-id="PlutoTVNFLChannel.us" tvg-logo="https://i.imgur.com/Qj39dMd.png" group-title="Sports" catchup="" catchup-source="",[✓] NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=5d083def-5c0b-4245-a7f6-967a25557dd8&userId=&serverSideAds=true
-#EXTINF:-1  tvg-name="One Sports" tvg-id="ONESPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] One Sports
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=50
-#EXTINF:-1  tvg-name="One Sports+" tvg-id="OneSportsPlus.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/512px-OneSportsPlus_logo.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] One Sports+
+#EXTINF:-1  tvg-name="One Sports" tvg-id="ONESPORTS" tvg-logo="https://i.imgur.com/FJfuQDi.png" group-title="Sports" catchup="" catchup-source="",[✓] One Sports
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=50
+#EXTINF:-1  tvg-name="One Sports+" tvg-id="OneSportsPlus.ph" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports" catchup="" catchup-source="",[✓] One Sports+
 http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73740
-#EXTINF:-1  tvg-name="Premier Sports" tvg-id="PremierSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports" catchup="" catchup-source="",[✓] Premier Sports
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=36
-#EXTINF:-1  tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Sports" catchup="" catchup-source="",[✓] RedBull TV
+#EXTINF:-1  tvg-name="Premier Sports" tvg-id="PremierSports" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="Sports" catchup="" catchup-source="",[✓] Premier Sports
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=36
+#EXTINF:-1  tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="Sports" catchup="" catchup-source="",[✓] RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  tvg-name="Sky Sports Arena" tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/XBMm9XT.png" group-title="Sports" catchup="" catchup-source="",[✓] Sky Sports Arena
+#EXTINF:-1  tvg-name="Sky Sports Arena" tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/vYi43PV.png" group-title="Sports" catchup="" catchup-source="",[✓] Sky Sports Arena
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=623584&extension=ts&play_token=dP3nma5LZ5
-#EXTINF:-1  tvg-name="Sky Sports F1" tvg-id="SkySportsF1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" group-title="Sports" catchup="" catchup-source="",[✖] Sky Sports F1
+#EXTINF:-1  tvg-name="Sky Sports F1" tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/5Fp29ws.png" group-title="Sports" catchup="" catchup-source="",[✓] Sky Sports F1
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=623586&extension=ts&play_token=qda82ecDLx
-#EXTINF:-1  tvg-name="SPOTV" tvg-id="SPOTVAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/800px-SPOTV_logo.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] SPOTV
+#EXTINF:-1  tvg-name="SPOTV" tvg-id="SPOTVAsia" tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="Sports" catchup="" catchup-source="",[✓] SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-#EXTINF:-1  tvg-name="SPOTV2" tvg-id="SPOTV2" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="Sports" catchup="" catchup-source="",[✓] SPOTV2
+#EXTINF:-1  tvg-name="SPOTV2" tvg-id="SPOTV2" tvg-logo="https://i.imgur.com/VKnk9aG.png" group-title="Sports" catchup="" catchup-source="",[✓] SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-name="Special Events" tvg-id="SpecialEvents" tvg-logo="https://i.imgur.com/vRlLmha.png" group-title="Sports" catchup="" catchup-source="",[✓] Special Events
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1  tvg-name="TAP Sports" tvg-id="TAPSPORTSHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports" catchup="" catchup-source="",[✓] TAP Sports
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=31
-#EXTINF:-1  tvg-name="Tennis Channel" tvg-id="TennisChannel.us" tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png" group-title="Sports" catchup="" catchup-source="",[✓] Tennis Channel
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=31
+#EXTINF:-1  tvg-name="Tennis Channel" tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/fWs5tap.png" group-title="Sports" catchup="" catchup-source="",[✓] Tennis Channel
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1  tvg-name="World Poker Tour" tvg-id="WorldPokerTour.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/World_Poker_Tour_Logo.svg/1200px-World_Poker_Tour_Logo.svg.png" group-title="Sports" catchup="" catchup-source="",[✓] World Poker Tour
+#EXTINF:-1  tvg-name="World Poker Tour" tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/NhWC8fO.png" group-title="Sports" catchup="" catchup-source="",[✓] World Poker Tour
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-name="WWE Network" tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png" group-title="Sports" catchup="" catchup-source="",[✓] WWE Network
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1018&extension=ts&play_token=dqykqcwyUG
-#EXTINF:-1  tvg-name="Breeze TV" tvg-id="BreezeTV.nz" tvg-logo="https://i.imgur.com/3dpH9XF.jpg" group-title="Music" catchup="" catchup-source="",[✓] Breeze TV
+#EXTINF:-1  tvg-name="IGN1" tvg-id="IGN1" tvg-logo="https://i.imgur.com/Kdi79vV.png" group-title="Sports" catchup="" catchup-source="",[✓] IGN1
+https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=o4SANy4zS5bvgRz4Niq-&channelId=5eea605474085f0040ddc77c&uid=1g9an6qmq-8h6g-vm8-75zh-468sibfit4u/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+#EXTINF:-1  tvg-name="Breeze TV" tvg-id="BreezeTV.nz" tvg-logo="https://i.imgur.com/DYS8DcF.png" group-title="Music" catchup="" catchup-source="",[✓] Breeze TV
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
-#EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="MTVBiggestPop.us" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=512" group-title="Music" catchup="" catchup-source="",[✓] MTV Biggest Pop
+#EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/vD27uh8.png" group-title="Music" catchup="" catchup-source="",[✓] MTV Biggest Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1  tvg-name="MTV Live" tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="Music" catchup="" catchup-source="",[✓] MTV Live
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=66
-#EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="MTVSpankinNew.us" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Music" catchup="" catchup-source="",[✓] MTV Spankin' New
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=66
+#EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="MTVSpankinNew.us" tvg-logo="https://i.imgur.com/onlZOvG.png" group-title="Music" catchup="" catchup-source="",[✓] MTV Spankin' New
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1  tvg-name="Yo! MTV" tvg-id="YoMTV.us" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music" catchup="" catchup-source="",[✓] Yo! MTV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1  tvg-name="Myx PH" tvg-id="MYX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png" group-title="Music" catchup="" catchup-source="",[✓] Myx PH
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=75
-#EXTINF:-1  tvg-name="Myx USA" tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/Bv8iTjn.png" group-title="Music" catchup="" catchup-source="",[✓] Myx USA
+#EXTINF:-1  tvg-name="Myx PH" tvg-id="MYX" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Music" catchup="" catchup-source="",[✓] Myx PH
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=75
+#EXTINF:-1  tvg-name="Myx USA" tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/t2ZVXlJ.png" group-title="Music" catchup="" catchup-source="",[✓] Myx USA
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1  tvg-name="Animax" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Animax
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=24
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=24
 #EXTINF:-1  tvg-name="Anime All Day" tvg-id="AnimeAllDay.us" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids" catchup="" catchup-source="",[✓] Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="ANIPLUSSD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Kids" catchup="" catchup-source="",[✓] Aniplus
 https://tiny.one/FEI-ANIPLUS
-#EXTINF:-1  tvg-name="BabyTV" tvg-id="BabyTVAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids" catchup="" catchup-source="",[✓] BabyTV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=86
+#EXTINF:-1  tvg-name="BabyTV" tvg-id="BabyTVAsia.uk" tvg-logo="https://i.imgur.com/U9dqsy0.png" group-title="Kids" catchup="" catchup-source="",[✓] BabyTV
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=86
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="BoomerangSouthEastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Boomerang
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=30
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=30
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/512px-Cartoon_Network.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Cartoon Network
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=29
-#EXTINF:-1  tvg-name="Cartoonito" tvg-id="CartoonitoUK.uk" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/6/66/Cartoonito_-_Logo_2021.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Cartoonito
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=29
+#EXTINF:-1  tvg-name="Cartoonito" tvg-id="CartoonitoUK.uk" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Kids" catchup="" catchup-source="",[✓] Cartoonito
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1000&extension=ts&play_token=m1nLMNgNjP
+#EXTINF:-1  tvg-name="CBeebies" tvg-id="CBeebiesAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/512px-CBeebies.png" group-title="Kids" catchup="" catchup-source="",[✓] CBeebies
+https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=206
 #EXTINF:-1  tvg-name="CONtv Anime" tvg-id="CONtvAnime.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids" catchup="" catchup-source="",[✓] CONtv Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1  tvg-name="Disney Channel" tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Disney Channel
+#EXTINF:-1  tvg-name="Disney Channel" tvg-id="DisneyChannelEast.us" tvg-logo="https://i.imgur.com/RNfYJb2.png" group-title="Kids" catchup="" catchup-source="",[✓] Disney Channel
 http://ky-iptv.com:80/live/Peaches1/Peaches1/176246.ts
-#EXTINF:-1  tvg-name="Disney Junior" tvg-id="DisneyJuniorEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Disney Junior
+#EXTINF:-1  tvg-name="Disney Junior" tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.imgur.com/C9IYfga.png" group-title="Kids" catchup="" catchup-source="",[✓] Disney Junior
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
-#EXTINF:-1  tvg-name="DreamWorks Channel" tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] DreamWorks Channel
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=23
+#EXTINF:-1  tvg-name="DreamWorks Channel" tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids" catchup="" catchup-source="",[✓] DreamWorks Channel
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=23
 #EXTINF:-1  tvg-name="Nick" tvg-id="NickelodeonSouthEastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Nick
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=28
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=28
 #EXTINF:-1  tvg-name="Nick Jr." tvg-id="NickJrAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/512px-Nick_Jr._Channel_logo.svg.png" group-title="Kids" catchup="" catchup-source="",[✓] Nick Jr.
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=27
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=27
 #EXTINF:-1  tvg-name="Nick Pluto TV" tvg-id="NickPlutoTV.us" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="Kids" catchup="" catchup-source="",[✓] Nick Pluto TV
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 #EXTINF:-1  tvg-name="PBS Kids" tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids" catchup="" catchup-source="",[✓] PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1  tvg-name="ZooMoo" tvg-id="ZooMooLatinAmerica.nz" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids" catchup="" catchup-source="",[✓] ZooMoo
+#EXTINF:-1  tvg-name="ZooMoo" tvg-id="ZooMooLatinAmerica.nz" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="Kids" catchup="" catchup-source="",[✓] ZooMoo
 https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Zoomoo/playlist.m3u8
-#EXTINF:-1  tvg-name="Jam 88.3" tvg-id="Jam883.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jam_88.3_logo_2012.png/800px-Jam_88.3_logo_2012.png" group-title="Local Radio" catchup="" catchup-source="",[✓] Jam 88.3
+#EXTINF:-1  tvg-name="Jam 88.3" tvg-id="Jam883.ph" tvg-logo="https://i.imgur.com/s8kYBvU.png" group-title="Local Radio" catchup="" catchup-source="",[✖] Jam 88.3
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/jam883ph
-#EXTINF:-1  tvg-name="90.7 Love Radio" tvg-id="907LoveRadio.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/793px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="Local Radio" catchup="" catchup-source="",[✓] 90.7 Love Radio
+#EXTINF:-1  tvg-name="90.7 Love Radio" tvg-id="907LoveRadio.ph" tvg-logo="https://i.imgur.com/vWX11CO.png" group-title="Local Radio" catchup="" catchup-source="",[✖] 90.7 Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
-#EXTINF:-1  tvg-name="91.5 Win Radio" tvg-id="915WinRadio.ph" tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg" group-title="Local Radio" catchup="" catchup-source="",[✓] 91.5 Win Radio
+#EXTINF:-1  tvg-name="91.5 Win Radio" tvg-id="915WinRadio.ph" tvg-logo="https://i.imgur.com/TByuVNW.png" group-title="Local Radio" catchup="" catchup-source="",[✖] 91.5 Win Radio
 https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1uDqRGfyGA&rj-ttl=5&rj-tok=AAABgfs21scAvxjFA2IsU9lIYA
-#EXTINF:-1  tvg-name="DZRH News TV" tvg-id="DZRHNewsTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png" group-title="Local Radio" catchup="" catchup-source="",[✓] DZRH News TV
+#EXTINF:-1  tvg-name="DZRH News TV" tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/fSYs17Y.png" group-title="Local Radio" catchup="" catchup-source="",[✓] DZRH News TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision
-#EXTINF:-1  tvg-name="Super Radyo DZBB" tvg-id="SuperRadyoDZBB.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/512px-DZBB594.svg.png" group-title="Local Radio" catchup="" catchup-source="",[✓] Super Radyo DZBB
+#EXTINF:-1  tvg-name="DZBB Super Radyo" tvg-id="SuperRadyoDZBB.ph" tvg-logo="https://i.imgur.com/SqOdnx2.png" group-title="Local Radio" catchup="" catchup-source="",[✖] DZBB Super Radyo
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF:-1  tvg-name="TeleRadyo" tvg-id="DZMMTELERADYO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/512px-TeleRadyo_Logo.svg.png" group-title="Local Radio" catchup="" catchup-source="",[✖] TeleRadyo
+#EXTINF:-1  tvg-name="DZMM TeleRadyo" tvg-id="DZMMTELERADYO" tvg-logo="https://i.imgur.com/pwHUrVL.png" group-title="Local Radio" catchup="" catchup-source="",[✓] DZMM TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/9QVNH0tQ/01.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Batman v Superman: Dawn Of Justice (2016)
+https://emeskyu26.emeskyu.workers.dev/0:/Batman.v.Superman.Dawn.of.Justice.2016.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/N0m4K4j7/01.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",The Dark Knight (2008)
+https://emeskyu26.emeskyu.workers.dev/0:/The.Dark.Knight.2008.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/N0BtndS5/01.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Batman Begins (2005)
+https://emeskyu26.emeskyu.workers.dev/0:/Batman.Begins.2005.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/Y2m6X8H6/01.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Batman & Robin (1997)
+https://emeskyu26.emeskyu.workers.dev/0:/Batman.and.Robin.1997.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/mDjcPzfg/01.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Batman Forever (1995)
+https://emeskyu26.emeskyu.workers.dev/0:/Batman.Forever.1995.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/yYB6SY6M/01.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Batman Returns (1992)
+https://emeskyu26.emeskyu.workers.dev/0:/Batman.Returns.1992.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/9fYLxbHX/01.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Batman (1989)
+https://emeskyu26.emeskyu.workers.dev/0:/Batman.1989.mkv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/PkqlChs.png" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Day Shift (2022)
 https://archive.org/download/labintatlong-buhay/Diy.Ship.2022.mp4
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/R8Asis4.jpg" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Assassin's Creed (2016)
@@ -619,8 +675,8 @@ https://emeskyu17.emeskyu.workers.dev/0:/Pirates.of.the.Caribbean.Dead.Mans.Ches
 https://emeskyu17.emeskyu.workers.dev/0:/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.mkv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/xh308IK.png" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",The Exorcism of Emily Rose (2005)
 https://emeskyu17.emeskyu.workers.dev/0:/The.Exorcism.Of.Emily.Rose.2005.mkv
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/TxKY7Q8.png" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Hachi: A Dog's Tale (2009)
-https://emeskyu17.emeskyu.workers.dev/0:/Hachi.A.Dogs.Tale.2009.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/TxKY7Q8.png" group-title="VOD Full Movies (Foreign)" catchup="https://emeskyu17.emeskyu.workers.dev/0:/Hachi.A.Dogs.Tale.2009.mkv" catchup-source="",Hachi: A Dog's Tale (2009)
+https://onedrive.live.com/download?cid=8038B12A8E848552&resid=8038B12A8E848552%21106&authkey=AFPHYo1FyA0xU4M
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/tk9YQxh.png" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Constantine (2005)
 https://emeskyu17.emeskyu.workers.dev/0:/Constantine.2005.mkv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/zWD2B96.png" group-title="VOD Full Movies (Foreign)" catchup="" catchup-source="",Harry Potter and the Deathly Hallows: Part 2 (2011)
@@ -1547,12 +1603,22 @@ https://emeskyu16.emeskyu.workers.dev/0:/Rurouni.Kenshin.The.Legend.Ends.2014.mk
 https://dl.dropboxusercontent.com/s/zmyp3y1q1butm6c/Ang.Panghabangbuhay.Na.Purga.2021.mkv?dl=0
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/Hcm9UEd.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",The Influencer (2022)
 https://archive.org/download/labintatlong-buhay/Da.Inpluencer.2022.720.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/QOwhHBX.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Ang Boyfriend Kong Gamol (1993)
+https://onedrive.live.com/download?cid=F900BC32B1173657&resid=F900BC32B1173657%21109&authkey=AGLsgQh0edCse-Y
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/oIcuKV4.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Bingwit (2022)
 https://archive.org/download/labintatlong-buhay/VVingwit.2022.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/TwPes3t.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Mariposa: Sa Hawla Ng Gabi (2012)
+https://onedrive.live.com/download?cid=F900BC32B1173657&resid=F900BC32B1173657%21108&authkey=ANf2fQcialbnlsc
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/swKDCIt.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",La Traidora (2022)
+https://onedrive.live.com/download?cid=F900BC32B1173657&resid=F900BC32B1173657%21107&authkey=AKaIo__SPqFAa-A
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/wvt3XM99/1.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Nelia (2021)
 https://archive.org/download/labintatlong-buhay/Neylya.2021.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/gUwJ14b.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Huling Lamay (2022)
+https://onedrive.live.com/download?cid=F900BC32B1173657&resid=F900BC32B1173657%21106&authkey=AFAYUnfqrxP5HNE
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/wMx6GQG7/01.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Oo Na Sige Na (1994)
 https://stream07.emeskyu.workers.dev/0:/02.%20Pinoy%20Movies/Oo.Na.Sige.Na.1994.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/q0RD0P1.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Adonis X  (2022)
+https://onedrive.live.com/download?cid=F900BC32B1173657&resid=F900BC32B1173657%21105&authkey=ALB7XX4mxs00iyc
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/3xYZb4Kz/01.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Kamagong (1986)
 https://archive.org/download/labintatlong-buhay/Khamagoong.1986.mp4
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/FHH9ZpJq/01.jpg" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",Hataw Na (1995)
@@ -2545,22 +2611,20 @@ https://onedrive.live.com/download?cid=369A88711393B929&resid=369A88711393B929%2
 https://onedrive.live.com/download?cid=369A88711393B929&resid=369A88711393B929%21106&authkey=AONCcUmjfW1gepU
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/6KKqal4.png" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",LSS (2019)
 https://onedrive.live.com/download?cid=D6B39FE8922913A7&resid=D6B39FE8922913A7%21112&authkey=AD6_CGN7HdgfIpo
-#EXTINF:-1  tvg-name="GMA 7" tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/w14QgTQ.png" group-title="Local TV" catchup="http://103.105.213.251:8443/live/r0RU_x5kbvqB1qvbSOGpXQ/1658937834/5.m3u8" catchup-source="",GMA 7
-https://rebrand.ly/kapuso
-#EXTINF:-1  tvg-name="GMA7" tvg-id="GMATV.ph" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/84d57430589f73cff44938ec097e38f6.png" group-title="Local TV" catchup="" catchup-source="",GMA7
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/295310
+#EXTINF:-1  tvg-name="GMA 7" tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/w14QgTQ.png" group-title="Local TV" catchup="http://103.105.213.251:8443/live/wbs7PvRfKbycwFFmB1JOqw/1660370802/5.m3u8http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/295310.ts" catchup-source="",GMA 7
+http://103.105.213.251:8443/live/SumY3FCilUnQMFBDLvvzDw/1660725200/5.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="TV5" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="Local TV" catchup="" catchup-source="http://ky-iptv.com/adaml/adaml/2021709.ts",TV5
-https://rebrand.ly/kapatid
+http://103.105.213.251:8443/live/SumY3FCilUnQMFBDLvvzDw/1660725200/8.m3u8
 #EXTINF:-1  tvg-name="PTV4" tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Local TV" catchup="" catchup-source="",PTV4
 https://stream.emeskyu.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
 #EXTINF:-1  tvg-name="NET25" tvg-id="Net25.ph" tvg-logo="http://logo.protv.cc/picons/logos/NET25.jpeg" group-title="Local TV" catchup="" catchup-source="",NET25
 http://live.lordstreams.co:8080/david1/david1/567730
 #EXTINF:-1  tvg-name="" tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/4Bz3YkI.png" group-title="Local TV" catchup="" catchup-source="",PBO
-https://rebrand.ly/pbo
+http://103.105.213.251:8443/live/SumY3FCilUnQMFBDLvvzDw/1660725200/12.m3u8
 #EXTINF:-1  tvg-name="Asian Food Channel" tvg-id="AsianFoodNetwork.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Asian Food Channel
 http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22597
 #EXTINF:-1  tvg-name="BBC Lifestyle" tvg-id="BBCLifestyleAsia.uk" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-bbclifestyle.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",BBC Lifestyle
-http://cdnprox.com:8080/tvprox432/643258/26982
+http://eaglevision.visualsec.net:8443/live/39fSLgEfy9CFG7Wp59bZZA/1660683579/205.m3u8
 #EXTINF:-1  tvg-name="CA COOKING CHANNEL" tvg-id="cookingchannel.ca" tvg-logo="http://ky-iptv.com:80/images/93afeeac04b69e6a9d492930dd1215d5.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA COOKING CHANNEL
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181885.ts
 #EXTINF:-1  tvg-name="CA Food Network" tvg-id="foodnetwork.ca" tvg-logo="http://ky-iptv.com:80/images/344f1c3d7f5a15843fefad1ef7edbd35.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA Food Network
@@ -2574,7 +2638,7 @@ https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Family Flix (720p)
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-name="Food network" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Food network
-http://cdnprox.com:8080/tvprox432/643258/11728
+http://user.scalecdn.co:8080/live/Alfred/Alfred/2575.ts
 #EXTINF:-1  tvg-name="CA HGTV" tvg-id="hgtv.ca" tvg-logo="http://ky-iptv.com:80/images/e30b1e8353e1a26d7955f3db07ba4d3a.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",CA HGTV
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181975.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/uwBpm1Y.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Family Feud (720p)
@@ -2582,7 +2646,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u
 #EXTINF:-1  tvg-name="UK Food Network" tvg-id="foodnetwork.uk" tvg-logo="http://ky-iptv.com:80/images/a975eb8e90525ca0b6f4e5e02e3259e3.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK Food Network
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189947.ts
 #EXTINF:-1  tvg-name="beIN Travel" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",beIN Travel
-http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/7634
+http://2mtv.net:8080/mahmoudaswa/26887329/117
 #EXTINF:-1  tvg-name="Just Fun" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113190113justfun.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Just Fun
 http://cdnprox.com:8080/tvprox432/643258/37607
 #EXTINF:-1  tvg-name="UK| FOOD NETWORK" tvg-id="FoodNetwork.uk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8e2efdee6ab760a91c7d0ffb80bbab1.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",UK| FOOD NETWORK
@@ -2603,8 +2667,6 @@ http://1tv1.net:8080/nazha2021/123456/132007
 http://1tv1.net:8080/nazha2021/123456/132001
 #EXTINF:-1  tvg-name="beIN Star Movies FHD" tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/435-4354313_star-movies-logo-star-movies-logo-png-transparent.png" group-title="Movies" catchup="" catchup-source="",beIN Star Movies FHD
 http://1tv1.net:8080/nazha2021/123456/132006
-#EXTINF:-1  tvg-name="CINEMA ONE GLOBAL" tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-ONE-GLOBAL.jpg" group-title="Movies" catchup="" catchup-source="",PH| CINEMA ONE GLOBAL
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/225357
 #EXTINF:-1  tvg-name="US: Nat Geo Wild" tvg-id="" tvg-logo="http://stariptv.org:80/logo/us.png" group-title="Documentaries" catchup="" catchup-source="",US: Nat Geo Wild
 http://1tv1.net:8080/nazha2021/123456/148476
 #EXTINF:-1  tvg-name="CA BBC Earth HD" tvg-id="bbcearth.ca" tvg-logo="http://ky-iptv.com:80/images/090280886f3f38ac1212b93dbfe51e24.png" group-title="Documentaries" catchup="" catchup-source="",CA BBC Earth HD
@@ -2654,7 +2716,7 @@ http://iptv12k.com:35461/80301070602/456776/3059
 #EXTINF:-1  tvg-name="PH: Discovery World" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/0a2cda69dc117c988931ac83f49e2e72.png" group-title="Documentaries" catchup="" catchup-source="",PH: Discovery World
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1806766.ts
 #EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScience.uk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" group-title="Documentaries" catchup="" catchup-source="",UK| DISCOVERY SCIENCE
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/713
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/925
 #EXTINF:-1  tvg-name="UK| Food Network" tvg-id="foodnetwork.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/entertainment/entertainment-foodnetworkhd.png" group-title="Documentaries" catchup="" catchup-source="",UK| Food Network
 http://tv.nlt.wtf:24561/live/Ashley689/673175/523.ts
 #EXTINF:-1  tvg-name="UK| Animal Planet" tvg-id="animalplanet.uk" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/documentaries/documentaries-animalplanethd.jpg" group-title="Documentaries" catchup="" catchup-source="",UK| Animal Planet
@@ -2700,15 +2762,11 @@ http://5gfksa.ltd:2052/991155/551199/80815
 #EXTINF:-1  tvg-name="UK| NAT GEO WILD FHD" tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="Documentaries" catchup="" catchup-source="",UK| NAT GEO WILD FHD
 http://5gfksa.ltd:2052/991155/551199/80906
 #EXTINF:-1  tvg-name="UK| DISCOVERY FHD" tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="Documentaries" catchup="" catchup-source="",UK| DISCOVERY FHD
-http://iptv12k.com:35461/80301070602/456776/5327
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/917
 #EXTINF:-1  tvg-name="BEIN NATIONAL GEOGRAPHIC WILD 4K" tvg-id="natgeo.sa" tvg-logo="http://62.182.85.43/poster/NationalGeographicWild.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",BEIN NATIONAL GEOGRAPHIC WILD 4K
 http://5gfksa.ltd:2052/991155/551199/12986
 #EXTINF:-1  tvg-name="BEIN BBC EARTH HD" tvg-id="" tvg-logo="" group-title="Documentaries" catchup="" catchup-source="",BEIN BBC EARTH HD
-http://5gfksa.ltd:2052/991155/551199/12976
-#EXTINF:-1  tvg-name="PH| FOOD NETWORK HD" tvg-id="" tvg-logo="" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",PH| FOOD NETWORK HD
-http://iptv12k.com:35461/80301070602/456776/3025
-#EXTINF:-1  tvg-name="PH| NAT GEO WILD" tvg-id="" tvg-logo="" group-title="Documentaries" catchup="" catchup-source="",PH| NAT GEO WILD
-http://iptv12k.com:35461/80301070602/456776/2947
+http://darkteam.vip:25461/treeiptv32023o/jhdkjs/178
 #EXTINF:-1  tvg-name="PH| NHK WORLD" tvg-id="" tvg-logo="" group-title="News" catchup="" catchup-source="",PH| NHK WORLD
 http://iptv12k.com:35461/80301070602/456776/2968
 #EXTINF:-1  tvg-name="UK| ANIMAL PLANET FHD" tvg-id="AnimalPlanet.uk" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="Documentaries" catchup="" catchup-source="",UK| ANIMAL PLANET FHD
