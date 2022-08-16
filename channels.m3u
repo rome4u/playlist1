@@ -2680,7 +2680,7 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182023.ts
 #EXTINF:-1  tvg-name="CA Nat Geo Wild" tvg-id="natgeowild.ca" tvg-logo="http://ky-iptv.com:80/images/bcbbba616ee55dd1c7953736c062a6ca.jpeg" group-title="Documentaries" catchup="" catchup-source="",CA Nat Geo Wild
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182024.ts
 #EXTINF:-1  tvg-name="Discovery Asia" tvg-id="Amarin34HD.th" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-discovery.png" group-title="Documentaries" catchup="" catchup-source="",Discovery Asia
-http://cdnprox.com:8080/tvprox432/643258/26980
+http://eaglevision.visualsec.net:8443/live/y_ruHajGV3odQMNYXke_Cw/1660760003/224.m3u8
 #EXTINF:-1  tvg-name="Osn Discovery Sc hd" tvg-id="" tvg-logo="http://176.9.70.149/logo1/S333CI.png" group-title="Documentaries" catchup="" catchup-source="",Osn Discovery Sc hd
 http://1tv1.net:8080/nazha2021/123456/55930
 #EXTINF:-1  tvg-name="Osn DISCOVERY" tvg-id="discovery.ae" tvg-logo="http://176.9.70.149/logo1/DSC.png" group-title="Documentaries" catchup="" catchup-source="",Osn DISCOVERY
