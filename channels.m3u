@@ -2685,8 +2685,12 @@ http://vplay.club:8888/RESTREAMVPLAY/9RESTREAMVPLAY1/130613
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14587&extension=ts&play_token=bx246H8BwA
 #EXTINF:-1  tvg-name="Osn MOVIES HD" tvg-id="osnmovies.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies" catchup="" catchup-source="",Osn MOVIES HD
 http://1tv1.net:8080/nazha2021/123456/55939
+#EXTINF:-1  tvg-name="Osn MOVIES HD" tvg-id="osnmovies.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies" catchup="" catchup-source="",Osn MOVIES HD
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/43
 #EXTINF:-1  tvg-name="Osn MOVIES ACTION HD" tvg-id="mbcactionen.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies" catchup="" catchup-source="",Osn MOVIES ACTION HD
 http://1tv1.net:8080/nazha2021/123456/55940
+#EXTINF:-1  tvg-name="Osn MOVIES ACTION HD" tvg-id="mbcactionen.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies" catchup="" catchup-source="",Osn MOVIES ACTION HD
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/46
 #EXTINF:-1  tvg-name="STAR MOVIES.HD" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="http://176.9.70.149/logo1/STM.png" group-title="Movies" catchup="" catchup-source="",STAR MOVIES.HD
 http://1tv1.net:8080/nazha2021/123456/55956
 #EXTINF:-1  tvg-name="STAR. WORLD HD" tvg-id="StarWorldMiddleEast.hk" tvg-logo="http://176.9.70.149/logo2/Star_World.jpg" group-title="Movies" catchup="" catchup-source="",STAR. WORLD HD
@@ -2713,6 +2717,10 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182024.ts
 http://cdnprox.com:8080/tvprox432/643258/26980
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="discoveryscience.ae" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries" catchup="" catchup-source="",OSN Discovery Science
 http://1tv1.net:8080/nazha2021/123456/55930
+#EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="discoveryscience.ae" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries" catchup="" catchup-source="",OSN Discovery Science
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50849
+#EXTINF:-1  tvg-name="Osn DISCOVERY" tvg-id="discovery.ae" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/DISCOVERYHD.png" group-title="Documentaries" catchup="" catchup-source="",Osn DISCOVERY
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50852
 #EXTINF:-1  tvg-name="Osn DISCOVERY" tvg-id="discovery.ae" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/DISCOVERYHD.png" group-title="Documentaries" catchup="" catchup-source="",Osn DISCOVERY
 http://1tv1.net:8080/nazha2021/123456/55927
 #EXTINF:-1  tvg-name="NAT GEO HD" tvg-id="natgeo.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/NATGEOUSA.png" group-title="Documentaries" catchup="" catchup-source="",NAT GEO HD
@@ -2797,6 +2805,8 @@ http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/917
 http://5gfksa.ltd:2052/991155/551199/12986
 #EXTINF:-1  tvg-name="BEIN BBC EARTH HD" tvg-id="bbcearth.sa" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/bbc_earth_uk.png" group-title="Documentaries" catchup="" catchup-source="",BEIN BBC EARTH HD
 http://darkteam.vip:25461/treeiptv32023o/jhdkjs/178
+#EXTINF:-1  tvg-name="BEIN BBC EARTH HD" tvg-id="bbcearth.sa" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/bbc_earth_uk.png" group-title="Documentaries" catchup="" catchup-source="",BEIN BBC EARTH HD
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52786
 #EXTINF:-1  tvg-name="PH| NHK WORLD" tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/NVkSoOe.png" group-title="News" catchup="" catchup-source="",PH| NHK WORLD
 http://iptv12k.com:35461/80301070602/456776/2968
 #EXTINF:-1  tvg-name="UK| ANIMAL PLANET FHD" tvg-id="AnimalPlanet.uk" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="Documentaries" catchup="" catchup-source="",UK| ANIMAL PLANET FHD
