@@ -2640,15 +2640,15 @@ https://onedrive.live.com/download?cid=369A88711393B929&resid=369A88711393B929%2
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/6KKqal4.png" group-title="VOD Full Movies (Pinoy)" catchup="" catchup-source="",LSS (2019)
 https://onedrive.live.com/download?cid=D6B39FE8922913A7&resid=D6B39FE8922913A7%21112&authkey=AD6_CGN7HdgfIpo
 #EXTINF:-1  tvg-name="GMA 7" tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/w14QgTQ.png" group-title="Local TV" catchup="http://103.105.213.251:8443/live/wbs7PvRfKbycwFFmB1JOqw/1660370802/5.m3u8http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/295310.ts" catchup-source="",GMA 7
-http://fp.visualsec.net:8443/live/HskvJJiXnvc9bBR13pWkRQ/1661202464/5.m3u8
+http://fp.visualsec.net:8443/live/hbFowfUIQ1g1nmFHS-YrJw/1661368516/5.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="TV5" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="Local TV" catchup="" catchup-source="http://ky-iptv.com/adaml/adaml/2021709.ts",TV5
-http://fp.visualsec.net:8443/live/HskvJJiXnvc9bBR13pWkRQ/1661202464/8.m3u8
+http://fp.visualsec.net:8443/live/hbFowfUIQ1g1nmFHS-YrJw/1661368516/8.m3u8
 #EXTINF:-1  tvg-name="PTV4" tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Local TV" catchup="" catchup-source="",PTV4
 http://user.scalecdn.co:8080/Alicia/Alicia/567738
 #EXTINF:-1  tvg-name="NET25" tvg-id="Net25.ph" tvg-logo="http://logo.protv.cc/picons/logos/NET25.jpeg" group-title="Local TV" catchup="" catchup-source="",NET25
 http://live.lordstreams.co:8080/david1/david1/567730
 #EXTINF:-1  tvg-name="" tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/4Bz3YkI.png" group-title="Local TV" catchup="" catchup-source="",PBO
-http://fp.visualsec.net:8443/live/HskvJJiXnvc9bBR13pWkRQ/1661202464/12.m3u8
+http://fp.visualsec.net:8443/live/hbFowfUIQ1g1nmFHS-YrJw/1661368516/12.m3u8
 #EXTINF:-1  tvg-name="Asian Food Channel" tvg-id="AsianFoodNetwork.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",Asian Food Channel
 http://geostream.me:8080/Q8pknKa1m6/Vd3GwsyG2F/22597
 #EXTINF:-1  tvg-name="BBC Lifestyle" tvg-id="BBCLifestyleAsia.uk" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-bbclifestyle.png" group-title="Lifestyle & Entertainment" catchup="" catchup-source="",BBC Lifestyle 1
@@ -2810,7 +2810,7 @@ http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52786
 #EXTINF:-1  tvg-name="PH| NHK WORLD" tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/NVkSoOe.png" group-title="News" catchup="" catchup-source="",PH| NHK WORLD
 http://iptv12k.com:35461/80301070602/456776/2968
 #EXTINF:-1  tvg-name="UK| ANIMAL PLANET FHD" tvg-id="AnimalPlanet.uk" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="Documentaries" catchup="" catchup-source="",UK| ANIMAL PLANET FHD
-http://toxic-panel.com:8080/LisiTech/tqAN4d33aG/137275
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14590&extension=ts&play_token=aOKg5AyVQi
 #EXTINF:-1  tvg-name="ABS-CBN" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/1200px-ABS-CBN_%282013%29.svg.png" group-title="Local TV" catchup="" catchup-source="",ABS-CBN
 http://tv.nlt.wtf:24561/live/Ashley689/673175/96666.ts
 #EXTINF:-1  tvg-name="ANC" tvg-id="anc.ph" tvg-logo="http://img.abs-cbnnews.com/assets/ancx/images/ancx-og.png" group-title="Local TV" catchup="" catchup-source="",ANC
@@ -2827,8 +2827,6 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/98007.ts
 http://tv.nlt.wtf:24561/live/Ashley689/673175/98021.ts
 #EXTINF:-1  tvg-name="Kapatid TV5" tvg-id="kapatidtv5.ph" tvg-logo="https://assets.cdn.iinet.net.au/assets/iptv/channel-logos/filipino/kapatid-tv5.png" group-title="Local TV" catchup="" catchup-source="",Kapatid TV5
 http://tv.nlt.wtf:24561/live/Ashley689/673175/96664.ts
-#EXTINF:-1  tvg-name="ONE PH" tvg-id="tv5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/180px-TV5_%28Philippines%29_logo.svg.png" group-title="Local TV" catchup="" catchup-source="",ONE PH
-http://tv.nlt.wtf:24561/live/Ashley689/673175/97998.ts
 #EXTINF:-1  tvg-name="US : DISCOVERY CHANNEL FHD 1080" tvg-id="discoverychannel.us" tvg-logo="http://n2086.securepoint.io:25461/images/45e838eba9fd9f28718e732b683d3f6f.png" group-title="Documentaries" catchup="" catchup-source="",US : DISCOVERY CHANNEL FHD 1080
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53435
 #EXTINF:-1  tvg-name="US : DISCOVERY SCIENCE" tvg-id="discoveryscience.us" tvg-logo="http://n2086.securepoint.io:25461/images/8eb8de396990449443bc96990430b613.png" group-title="Documentaries" catchup="" catchup-source="",US : DISCOVERY SCIENCE
