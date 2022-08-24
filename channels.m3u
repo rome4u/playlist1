@@ -2713,8 +2713,8 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181934.ts
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182023.ts
 #EXTINF:-1  tvg-name="CA Nat Geo Wild" tvg-id="natgeowild.ca" tvg-logo="http://ky-iptv.com:80/images/bcbbba616ee55dd1c7953736c062a6ca.jpeg" group-title="Documentaries" catchup="" catchup-source="",CA Nat Geo Wild
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182024.ts
-#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="Amarin34HD.th" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-discovery.png" group-title="Documentaries" catchup="" catchup-source="",Discovery Asia
-http://cdnprox.com:8080/tvprox432/643258/26980
+#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-discovery.png" group-title="Documentaries" catchup="" catchup-source="",Discovery Asia
+http://eaglevision.visualsec.net:8443/live/R7kYVmW1PsFPLi8AHLJenA/1661427798/224.m3u8
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="discoveryscience.ae" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries" catchup="" catchup-source="",OSN Discovery Science
 http://1tv1.net:8080/nazha2021/123456/55930
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="discoveryscience.ae" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries" catchup="" catchup-source="",OSN Discovery Science
