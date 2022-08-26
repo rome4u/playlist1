@@ -149,8 +149,8 @@ http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50849
 https://iptv-sniper.herokuapp.com/player/eaglevision.php?channel=222
 #EXTINF:-1  tvg-name="PH: Discovery World" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/0a2cda69dc117c988931ac83f49e2e72.png" group-title="Documentaries",PH: Discovery World
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/1806766.ts
-#EXTINF:-1  tvg-name="PH| BBC EARTH HD" tvg-id="BBCEarthAsia.uk" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="Documentaries",PH| BBC EARTH HD
-http://iptv12k.com:35461/80301070602/456776/3059
+#EXTINF:-1  tvg-name="Sony BBC Earth" tvg-id="SonyBBCEarth.in" tvg-logo="https://i.imgur.com/hKjBpO1.png" group-title="Documentaries",Sony BBC Earth
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1a:79:b0:e5:9b&stream=862716&extension=ts
 #EXTINF:-1  tvg-name="Real Stories" tvg-id="RealStories.au" tvg-logo="https://i.imgur.com/1VzUjDC.png" group-title="Documentaries",Real Stories
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="RT Documentary" tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/1Ltaei8.png" group-title="Documentaries",RT Documentary
