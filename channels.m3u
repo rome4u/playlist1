@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://iptv-sniper.herokuapp.com/epg/adoboTV.php,https://iptv-sniper.herokuapp.com/epg/skycable.php"
 #EXTINF:-1  tvg-name="ABS-CBN" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/1200px-ABS-CBN_%282013%29.svg.png" group-title="Local TV",ABS-CBN
-http://tv.nlt.wtf:24561/live/Ashley689/673175/96666.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/225345
 #EXTINF:-1  tvg-name="ANC" tvg-id="anc.ph" tvg-logo="http://img.abs-cbnnews.com/assets/ancx/images/ancx-og.png" group-title="Local TV",ANC
-http://tv.nlt.wtf:24561/live/Ashley689/673175/98015.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/225349
 #EXTINF:-1  tvg-name="CNN" tvg-id="cnnphilippines.ph" tvg-logo="https://the1995blog.files.wordpress.com/2015/01/cnn-logo.png" group-title="Local TV",CNN
-http://tv.nlt.wtf:24561/live/Ashley689/673175/95330.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/225364
 #EXTINF:-1  tvg-name="GMA 7" tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/w14QgTQ.png" group-title="Local TV",GMA 7
 http://103.105.213.251:8443/live/w3gzlnyfsyZd_PTDArL4KA/1661632652/5.m3u8
 #EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMALifeTV.ph" tvg-logo="https://i.imgur.com/tmUW88u.png" group-title="Local TV",GMA Life TV
@@ -23,8 +23,6 @@ http://103.105.213.251:8443/live/5w3vToxG98iKVVupNbxOqw/1661601076/76.m3u8
 https://tiny.one/kapchacdn
 #EXTINF:-1  tvg-name="Kapatid 5" tvg-id="KapatidTV5.ph" tvg-logo="https://i.imgur.com/ZqH2Rw8.png" group-title="Local TV",Kapatid 5
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AD:7A:B6&stream=31052&extension=ts
-#EXTINF:-1  tvg-name="Kapatid 5" tvg-id="kapatidtv5.ph" tvg-logo="https://assets.cdn.iinet.net.au/assets/iptv/channel-logos/filipino/kapatid-tv5.png" group-title="Local TV",Kapatid 5
-http://tv.nlt.wtf:24561/live/Ashley689/673175/96664.ts
 #EXTINF:-1  tvg-name="Knowledge Channel" tvg-id="KNOWLEDGECHANNEL" tvg-logo="https://i.imgur.com/9ROZkXn.png" group-title="Local TV",Knowledge Channel
 http://live.lordstreams.co:8080/david1/david1/567725
 #EXTINF:-1  tvg-name="Net 25" tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV",Net 25
@@ -96,9 +94,9 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182023.ts
 #EXTINF:-1  tvg-name="CA| BBC Earth" tvg-id="bbcearth.ca" tvg-logo="http://51.158.145.100/picons/logos/bbcearthhd.png" group-title="Documentaries",CA| BBC Earth
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104595.ts
 #EXTINF:-1  tvg-name="CA| Discovery Channel" tvg-id="discoverychannel.ca" tvg-logo="https://i.ytimg.com/vi/_WB7jMs_iyU/hqdefault.jpg" group-title="Documentaries",CA| Discovery Channel
-http://tv.nlt.wtf:24561/live/Ashley689/673175/89137.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/263195
 #EXTINF:-1  tvg-name="CA| NAT GEO HD" tvg-id="natgeo.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ngeog-copy.png" group-title="Documentaries",CA| NAT GEO HD
-http://tv.nlt.wtf:24561/live/Ashley689/673175/959.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/197430
 #EXTINF:-1  tvg-name="CA| NAT GEO WILD HD" tvg-id="natgeowild.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="Documentaries",CA| NAT GEO WILD HD
 http://tv.nlt.wtf:24561/live/Ashley689/673175/958.ts
 #EXTINF:-1  tvg-name="Discovery Asia" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://i.imgur.com/l87dZmI.png" group-title="Documentaries",Discovery Asia
@@ -256,9 +254,9 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181950.ts
 #EXTINF:-1  tvg-name="CA HGTV" tvg-id="hgtv.ca" tvg-logo="http://ky-iptv.com:80/images/e30b1e8353e1a26d7955f3db07ba4d3a.png" group-title="Lifestyle & Entertainment",CA HGTV
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181975.ts
 #EXTINF:-1  tvg-name="CA| Cooking Channel" tvg-id="cookingchannel.ca" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/canada/canada-cookingchannel.png" group-title="Lifestyle & Entertainment",CA| Cooking Channel
-http://tv.nlt.wtf:24561/live/Ashley689/673175/103677.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/263171
 #EXTINF:-1  tvg-name="CA| Food Network HD" tvg-id="foodnetwork.ca" tvg-logo="https://dianafaria.files.wordpress.com/2015/09/foodnetworkcanadasymbol.jpg" group-title="Lifestyle & Entertainment",CA| Food Network HD
-http://tv.nlt.wtf:24561/live/Ashley689/673175/3842.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/263213
 #EXTINF:-1  tvg-name="CBS" tvg-id="CBSEast.us" tvg-logo="https://i.imgur.com/wxGbfd0.png" group-title="Lifestyle & Entertainment",CBS
 http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Lifestyle & Entertainment",Crackle (XUMO) (1080p)
@@ -314,7 +312,7 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189947.ts
 #EXTINF:-1  tvg-name="UK| FOOD NETWORK" tvg-id="FoodNetwork.uk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8e2efdee6ab760a91c7d0ffb80bbab1.png" group-title="Lifestyle & Entertainment",UK| FOOD NETWORK
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14587&extension=ts&play_token=bx246H8BwA
 #EXTINF:-1  tvg-name="UK| Food Network" tvg-id="foodnetwork.uk" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/food_network_uk.png" group-title="Lifestyle & Entertainment",UK| Food Network
-http://tv.nlt.wtf:24561/live/Ashley689/673175/523.ts
+http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/15026
 #EXTINF:-1  tvg-name="UK| FOOD NETWORK" tvg-id="FoodNetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="Lifestyle & Entertainment",UK| FOOD NETWORK
 http://5gfksa.ltd:2052/991155/551199/80815
 #EXTINF:-1  tvg-name="US| Food Network FHD" tvg-id="foodnetwork.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/food_network_uk.png" group-title="Lifestyle & Entertainment",US| Food Network FHD
