@@ -67,8 +67,8 @@ http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/41.m3u8
 http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/49.m3u8
 #EXTINF:-1  tvg-name="BBC Earth (ev)" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries",BBC Earth (ev)
 http://eaglevision.visualsec.net:8443/live/hTMvd8c5VRyXjtNol_dE4g/1663156048/230.m3u8
-#EXTINF:-1  tvg-name="BBC Earth (fp)" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries",BBC Earth (fp)
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/33.m3u8
+#EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries",BBC Earth
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/22445.ts
 #EXTINF:-1  tvg-name="BBC Earth (sm)" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/YfndqZA.png" group-title="Documentaries",BBC Earth (sm)
 http://103.152.216.26:8443/live/pyQuOSppmkjcOoqrbKF4nw/1663155880/158.m3u8
 #EXTINF:-1  tvg-name="BEIN BBC EARTH" tvg-id="bbcearth.sa" tvg-logo="http://51.158.145.100/picons/logos/bbcearthhd.png" group-title="Documentaries",BEIN BBC EARTH
@@ -184,19 +184,19 @@ https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="UK ANIMAL PLANET" tvg-id="animalplanet.uk" tvg-logo="http://ky-iptv.com:80/images/34c5a04eec6b4c303be86e1a81c3a117.png" group-title="Documentaries",UK ANIMAL PLANET
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/391170.ts
 #EXTINF:-1  tvg-name="UK Discovery" tvg-id="discoverychannel.uk" tvg-logo="http://ky-iptv.com:80/images/b79c435ba64d9d78afe74110a72725a7.png" group-title="Documentaries",UK Discovery
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2040
+http://lionboxiptv.xyz:80/Babarbugti12/8FCviJDxZ0/917
 #EXTINF:-1  tvg-name="UK Discovery History" tvg-id="discoveryhistory.uk" tvg-logo="http://ky-iptv.com:80/images/4091586e9f0c02c074c3e50f5d21633f.jpg" group-title="Documentaries",UK Discovery History
-http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189933.ts
+http://lionboxiptv.xyz:80/Babarbugti12/8FCviJDxZ0/922
 #EXTINF:-1  tvg-name="UK Discovery Science" tvg-id="discoveryscience.uk" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries",UK Discovery Science
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2037
 #EXTINF:-1  tvg-name="UK EDEN HD" tvg-id="eden.uk" tvg-logo="http://ky-iptv.com:80/images/59f423a214df4942795b136a2ff82c43.jpg" group-title="Documentaries",UK EDEN HD
-http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189944.ts
+http://lionboxiptv.xyz:80/Babarbugti12/8FCviJDxZ0/954
 #EXTINF:-1  tvg-name="UK Nat Geo" tvg-id="natgeo.uk" tvg-logo="http://ky-iptv.com:80/images/a9d5251011ef88783688d8f0578363c3.png" group-title="Documentaries",UK Nat Geo
-http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189979.ts
+http://lionboxiptv.xyz:80/Babarbugti12/8FCviJDxZ0/934
 #EXTINF:-1  tvg-name="UK Nat Geo Wild" tvg-id="natgeowild.uk" tvg-logo="http://ky-iptv.com:80/images/84b23a5c1422885695b2bbd82bea2a57.jpg" group-title="Documentaries",UK Nat Geo Wild
 http://ky-iptv.com:80/ANNABELLE/ANNABELLE/189980.ts
 #EXTINF:-1  tvg-name="UK Travel Channel" tvg-id="92news.uk" tvg-logo="http://ky-iptv.com:80/images/bef668b336c4be3c0c8c931092cffa33.png" group-title="Documentaries",UK Travel Channel
-http://ky-iptv.com:80/ANNABELLE/ANNABELLE/190018.ts
+http://lionboxiptv.xyz:80/Babarbugti12/8FCviJDxZ0/953
 #EXTINF:-1  tvg-name="UK| Animal Planet" tvg-id="animalplanet.uk" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/ANIMALPLANETHD.png" group-title="Documentaries",UK| Animal Planet
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1130
 #EXTINF:-1  tvg-name="UK| ANIMAL PLANET FHD" tvg-id="AnimalPlanet.uk" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="Documentaries",UK| ANIMAL PLANET FHD
@@ -248,7 +248,7 @@ http://vplay.club:8888/RESTREAMVPLAY/9RESTREAMVPLAY1/130614
 #EXTINF:-1  tvg-name="Asian Food Channel" tvg-id="AsianFoodNetwork.sg" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png" group-title="Lifestyle & Entertainment",Asian Food Channel
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157549
 #EXTINF:-1  tvg-name="Asian Food Network" tvg-id="AFN" tvg-logo="https://i.imgur.com/4VYSHyH.png" group-title="Lifestyle & Entertainment",Asian Food Network
-http://103.105.213.251:8443/live/5w3vToxG98iKVVupNbxOqw/1661601076/63.m3u8
+http://nordicstream.xyz:2095/qZyd7bZJ/xnQ6sped/141593
 #EXTINF:-1  tvg-name="AXN" tvg-id="AXNHongKong.hk" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Lifestyle & Entertainment",AXN
 http://103.152.216.26:8443/live/pyQuOSppmkjcOoqrbKF4nw/1663155880/165.m3u8
 #EXTINF:-1  tvg-name="BBC Lifestyle" tvg-id="BBCLifestyle" tvg-logo="https://i.imgur.com/uoLLkjm.png" group-title="Lifestyle & Entertainment",BBC Lifestyle
@@ -272,7 +272,7 @@ http://ky-iptv.com:80/ANNABELLE/ANNABELLE/181975.ts
 #EXTINF:-1  tvg-name="CA| Cooking Channel" tvg-id="cookingchannel.ca" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/canada/canada-cookingchannel.png" group-title="Lifestyle & Entertainment",CA| Cooking Channel
 http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/263171
 #EXTINF:-1  tvg-name="CA| Food Network HD" tvg-id="foodnetwork.ca" tvg-logo="https://dianafaria.files.wordpress.com/2015/09/foodnetworkcanadasymbol.jpg" group-title="Lifestyle & Entertainment",CA| Food Network HD
-http://maxhd.org:8080/shdsv4Cmfx/78YQzJrQHt/263213
+http://nordicstream.xyz:2095/qZyd7bZJ/xnQ6sped/17388
 #EXTINF:-1  tvg-name="CBS" tvg-id="CBSEast.us" tvg-logo="https://i.imgur.com/wxGbfd0.png" group-title="Lifestyle & Entertainment",CBS
 http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Lifestyle & Entertainment",Crackle (XUMO) (1080p)
