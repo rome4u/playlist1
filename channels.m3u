@@ -64,7 +64,7 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-telerad
 #EXTINF:-1  tvg-name="DZMM" tvg-id="dzmmteleradyo.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DZMM.svg/320px-DZMM.svg.png" group-title="Local Radio",DZMM
 http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/41.m3u8
 #EXTINF:-1  tvg-name="Animal Planet" tvg-id="AnimalPlanetHongKong.hk" tvg-logo="https://i.imgur.com/zRbq9e5.png" group-title="Documentaries",Animal Planet
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/49.m3u8
+http://103.73.58.238:8443/live/VlAdJPDYPu-BwHsH-p3N-g/1663081779/394.m3u8
 #EXTINF:-1  tvg-name="BBC Earth (ev)" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries",BBC Earth (ev)
 http://eaglevision.visualsec.net:8443/live/hTMvd8c5VRyXjtNol_dE4g/1663156048/230.m3u8
 #EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries",BBC Earth
@@ -128,7 +128,7 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53928
 #EXTINF:-1  tvg-name="GB : NAT GEO WILD" tvg-id="natgeowild.uk" tvg-logo="http://hostengine.live:25461/images/c98acd6a62b24c1d6105405f987a51f5.png" group-title="Documentaries",GB : NAT GEO WILD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53929
 #EXTINF:-1  tvg-name="History (fp)" tvg-id="HistoryAsia.us" tvg-logo="https://i.imgur.com/TEk8rRQ.png" group-title="Documentaries",History (fp)
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/53.m3u8
+http://103.73.58.238:8443/live/VlAdJPDYPu-BwHsH-p3N-g/1663081779/412.m3u8
 #EXTINF:-1  tvg-name="HISTORY (sm)" tvg-id="HistoryPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentaries",HISTORY (sm)
 http://103.152.216.26:8443/live/pyQuOSppmkjcOoqrbKF4nw/1663155880/153.m3u8
 #EXTINF:-1  tvg-name="IN: Sony BBC Earth HD" tvg-id="bbcearth.in" tvg-logo="http://ky-iptv.com:80/images/c4ce64afa376d1be749a5e5a0178a7a0.png" group-title="Documentaries",IN: Sony BBC Earth HD
@@ -142,11 +142,11 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1  tvg-name="NATGEO (sm)" tvg-id="NationalGeographicPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentaries",NATGEO (sm)
 http://103.152.216.26:8443/live/pyQuOSppmkjcOoqrbKF4nw/1663155880/154.m3u8
 #EXTINF:-1  tvg-name="NATGEO (fp)" tvg-id="NationalGeographicMalaysia.my" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Documentaries",NATGEO (fp)
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/64.m3u8
+http://103.73.58.238:8443/live/VlAdJPDYPu-BwHsH-p3N-g/1663081779/398.m3u8
 #EXTINF:-1  tvg-name="NAT GEO HD" tvg-id="natgeo.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/NATGEOUSA.png" group-title="Documentaries",NAT GEO HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 #EXTINF:-1  tvg-name="Nat Geo Wild (fp)" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Documentaries",Nat Geo Wild (fp)
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/51.m3u8
+http://103.73.58.238:8443/live/VlAdJPDYPu-BwHsH-p3N-g/1663081779/403.m3u8
 #EXTINF:-1  tvg-name="Nat Geo Wild (sm)" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Documentaries",Nat Geo Wild (sm)
 http://103.152.216.26:8443/live/pyQuOSppmkjcOoqrbKF4nw/1663155880/160.m3u8
 #EXTINF:-1  tvg-name="NAT GEO WILD" tvg-id="natgeowild.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/NATGEOWILDFHD.png" group-title="Documentaries",NAT GEO WILD
@@ -406,7 +406,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="ANIPLUSSD" tvg-logo="https://i.imgur.com/kBB4Amt.png" group-title="Kids",Aniplus
 https://tiny.one/FEI-ANIPLUS
 #EXTINF:-1  tvg-name="BabyTV" tvg-id="BabyTVAsia.uk" tvg-logo="https://i.imgur.com/Z8EH1qD.png" group-title="Kids",BabyTV
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/86.m3u8
+http://103.73.58.238:8443/live/VlAdJPDYPu-BwHsH-p3N-g/1663081779/368.m3u8
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="BoomerangSouthEastAsia.us" tvg-logo="https://i.imgur.com/J6l3ilY.png" group-title="Kids",Boomerang
 http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/30.m3u8
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/YA86w8Q.png" group-title="Kids",Cartoon Network
@@ -508,7 +508,7 @@ http://103.152.216.26:8443/live/pyQuOSppmkjcOoqrbKF4nw/1663155880/136.m3u8
 #EXTINF:-1  tvg-name="One Sports+" tvg-id="OneSportsPlus.ph" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports",One Sports+
 http://eaglevision.visualsec.net:8443/live/hTMvd8c5VRyXjtNol_dE4g/1663156048/236.m3u8
 #EXTINF:-1  tvg-name="Premier Sports" tvg-id="PremierSports" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="Sports",Premier Sports
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/36.m3u8
+http://103.73.58.238:8443/live/VlAdJPDYPu-BwHsH-p3N-g/1663081779/450.m3u8
 #EXTINF:-1  tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1  tvg-name="SPOTV" tvg-id="SPOTVAsia" tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="Sports",SPOTV
@@ -624,7 +624,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20222&extension=ts&
 #EXTINF:-1  tvg-name="Osn MOVIES HD" tvg-id="osnmovies.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies",Osn MOVIES HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/43
 #EXTINF:-1  tvg-name="Paramount Network" tvg-id="ParamountNetworkSingapore.sg" tvg-logo="https://i.imgur.com/KjMPeOd.png" group-title="Movies",Paramount Network
-http://103.105.213.251:8443/live/5w3vToxG98iKVVupNbxOqw/1661601076/59.m3u8
+http://103.73.58.238:8443/live/VlAdJPDYPu-BwHsH-p3N-g/1663081779/435.m3u8
 #EXTINF:-1  tvg-name="Pixl" tvg-id="Pixl.us" tvg-logo="https://i.imgur.com/FtH4w3E.png" group-title="Movies",Pixl
 https://iptv.arkina1234.repl.co/frndly/4.php/playlist.m3u8
 #EXTINF:-1  tvg-name="Pop TV" tvg-id="PopTV.us" tvg-logo="https://i.imgur.com/w0qSFJc.png" group-title="Movies",Pop TV
