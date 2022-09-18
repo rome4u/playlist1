@@ -94,11 +94,11 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51106
 #EXTINF:-1  tvg-name="CA DISCOVERY SCIENCE" tvg-id="discoveryscience.ca" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries",CA DISCOVERY SCIENCE
 http://op.web24.live:8080/jokertv/streaming@2021/1208
 #EXTINF:-1  tvg-name="CA Nat Geo Wild" tvg-id="natgeowild.ca" tvg-logo="http://ky-iptv.com:80/images/bcbbba616ee55dd1c7953736c062a6ca.jpeg" group-title="Documentaries",CA Nat Geo Wild
-http://ky-iptv.com:80/ANNABELLE/ANNABELLE/182024.ts
+http://ky-iptv.com:80/jfink/jfink/182024.ts
 #EXTINF:-1  tvg-name="CA National Geographic" tvg-id="natgeo.ca" tvg-logo="http://ky-iptv.com:80/images/520ac951a7b37ca494c6b6d558f990ed.jpg" group-title="Documentaries",CA National Geographic
 http://odenfull.co:2086/NATALY4334/20TORRE50s/81147
 #EXTINF:-1  tvg-name="CA| BBC Earth" tvg-id="bbcearth.ca" tvg-logo="http://51.158.145.100/picons/logos/bbcearthhd.png" group-title="Documentaries",CA| BBC Earth
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/19910
+http://ky-iptv.com:80/jfink/jfink/181824.ts
 #EXTINF:-1  tvg-name="CA| Discovery Channel" tvg-id="discoverychannel.ca" tvg-logo="https://i.ytimg.com/vi/_WB7jMs_iyU/hqdefault.jpg" group-title="Documentaries",CA| Discovery Channel
 http://nv1connect.com:80/SGinieXYZ!/e8Sp4qwaZa/13395
 #EXTINF:-1  tvg-name="CA| NAT GEO HD" tvg-id="natgeo.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ngeog-copy.png" group-title="Documentaries",CA| NAT GEO HD
@@ -108,9 +108,9 @@ http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/457
 #EXTINF:-1  tvg-name="Discovery Asia" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://i.imgur.com/l87dZmI.png" group-title="Documentaries",Discovery Asia
 http://eaglevision.visualsec.net:8443/live/XJGJGVzVFFElaTMMSWTmFg/1663527892/224.m3u8
 #EXTINF:-1  tvg-name="Discovery Asia" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-discovery.png" group-title="Documentaries",Discovery Asia
-http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/411731
+http://syok.tv:2082/Eroll/Eroll/1547
 #EXTINF:-1  tvg-name="Discovery Channel (fp)" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Documentaries",Discovery Channel (fp)
-http://103.105.213.251:8443/live/9q9IJZvxlCWgQkk5dV5zdA/1662115695/45.m3u8
+http://syok.tv:2082/Eroll/Eroll/4965
 #EXTINF:-1  tvg-name="Discovery Channel (sm)" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Documentaries",Discovery Channel (sm)
 http://103.152.216.26:8443/live/p9vIrDdkej3Kwr2i0m2GGQ/1663527952/155.m3u8
 #EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://i.imgur.com/bNeDt6M.png" group-title="Documentaries",Discovery Science
