@@ -18,21 +18,21 @@ http://eaglevision.visualsec.net:8443/live/XGMtonfyx_HHlu1ge9QfQg/1664366027/209
 #EXTINF:-1  tvg-name="GMA 7" tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/w14QgTQ.png" group-title="Local TV",GMA 7 (SM)
 http://103.152.216.26:8443/live/byP0oKYnWDFdLgJcUzFXsg/1664367704/101.m3u8
 #EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMALifeTV.ph" tvg-logo="https://i.imgur.com/tmUW88u.png" group-title="Local TV",GMA Life TV (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=223021&extension=ts&play_token=418U6jGGSZ
+http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=223021&extension=ts&play_token=418U6jGGSZ
 #EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMAPinoyTV.ph" tvg-logo="https://i.imgur.com/NhQsULA.png" group-title="Local TV",GMA Pinoy TV (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=223027&extension=ts&play_token=5d4Z0ugRNe
+http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=223027&extension=ts&play_token=5d4Z0ugRNe
 #EXTINF:-1  tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Local TV",GTV (SM)
 http://103.152.216.26:8443/live/byP0oKYnWDFdLgJcUzFXsg/1664367704/103.m3u8
 #EXTINF:-1  tvg-name="IBC 13" tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/LaqSPsM.png" group-title="Local TV",IBC 13 (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=731830&extension=ts&play_token=4dWzoMrhgS
+http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=731830&extension=ts&play_token=4dWzoMrhgS
 #EXTINF:-1  tvg-name="INC TV" tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/s8rpeKu.png" group-title="Local TV",INC TV (SM)
 http://103.152.216.26:8443/live/byP0oKYnWDFdLgJcUzFXsg/1664367704/202.m3u8
 #EXTINF:-1  tvg-name="Jeepney TV" tvg-id="JeepneyTV.ph" tvg-logo="https://i.imgur.com/3yzbJE5.png" group-title="Local TV",Jeepney TV (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=926173&extension=ts&play_token=pqnDY1NeNX
+http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=926173&extension=ts&play_token=pqnDY1NeNX
 #EXTINF:-1  tvg-name="Kapamilya Channel" tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/7btCRNw.png" group-title="Local TV",Kapamilya Channel (SM)
 http://103.152.216.26:8443/live/byP0oKYnWDFdLgJcUzFXsg/1664367704/98.m3u8
 #EXTINF:-1  tvg-name="Kapatid 5" tvg-id="KapatidTV5.ph" tvg-logo="https://i.imgur.com/ZqH2Rw8.png" group-title="Local TV",Kapatid 5 (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=223020&extension=ts&play_token=aYo6dJ41Wp
+http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=223020&extension=ts&play_token=aYo6dJ41Wp
 #EXTINF:-1  tvg-name="Knowledge Channel" tvg-id="KNOWLEDGECHANNEL" tvg-logo="https://i.imgur.com/9ROZkXn.png" group-title="Local TV",Knowledge Channel (SM)
 http://103.152.216.26:8443/live/byP0oKYnWDFdLgJcUzFXsg/1664367704/159.m3u8
 #EXTINF:-1  tvg-name="Net 25" tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="Local TV",Net 25 (SM)
@@ -46,7 +46,7 @@ http://103.152.216.26:8443/live/byP0oKYnWDFdLgJcUzFXsg/1664367704/100.m3u8
 #EXTINF:-1  tvg-name="PTV4" tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Local TV",PTV4 (BZ)
 http://103.73.58.238:8443/live/sZvibonK0sTLr6nSYNFS5A/1664345523/436.m3u8
 #EXTINF:-1  tvg-name="Sari Sari Channel" tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="Local TV",Sari Sari Channel (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=731807&extension=ts&play_token=t0CSa0YabV
+http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=731807&extension=ts&play_token=t0CSa0YabV
 #EXTINF:-1  tvg-name="SMNI" tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/kTLLxuV.png" group-title="Local TV",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1  tvg-name="TAP TV" tvg-id="TAPTV" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Local TV",TAP TV
@@ -80,11 +80,11 @@ http://iptvstream.es:8080/julen0003/zUHcdLH8om/502715
 #EXTINF:-1  tvg-name="BEIN BBC EARTH" tvg-id="bbcearth.sa" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/bbc_earth_uk.png" group-title="Documentaries",BEIN BBC EARTH
 http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63903
 #EXTINF:-1  tvg-name="BEIN BBC EARTH" tvg-id="bbcearth.sa" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/bbc_earth_uk.png" group-title="Documentaries",BEIN BBC EARTH (ss123)
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=504949&extension=ts&play_token=0tA8X7uZyt
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:76:28:2E&stream=504949&extension=ts&play_token=0tA8X7uZyt
 #EXTINF:-1  tvg-name="BEIN NATIONAL GEOGRAPHIC WILD 4K" tvg-id="natgeo.sa" tvg-logo="http://62.182.85.43/poster/NationalGeographicWild.png" group-title="Documentaries",BEIN NATIONAL GEOGRAPHIC WILD (5gfksa)
 http://5gfksa.ltd:2052/991155/551199/12986
 #EXTINF:-1  tvg-name="BEIN NATIONAL GEOGRAPHIC WILD 4K" tvg-id="natgeowild.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="Documentaries",BEIN NATIONAL GEOGRAPHIC WILD (ss123)
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=504973&extension=ts&play_token=BENprWbM1h
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:76:28:2E&stream=504973&extension=ts&play_token=BENprWbM1h
 #EXTINF:-1  tvg-name="CA : BBC EARTH" tvg-id="BBCEarthCanada.ca" tvg-logo="http://n2086.securepoint.io:25461/images/47a237477be305b497eeeda4bac1693f.png" group-title="Documentaries",CA : BBC EARTH (ss123)
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:76:28:2e&stream=176867&extension=ts&play_token=adzF9tUK3v
 #EXTINF:-1  tvg-name="CA BBC Earth HD" tvg-id="BBCEarthCanada.ca" tvg-logo="http://ky-iptv.com:80/images/090280886f3f38ac1212b93dbfe51e24.png" group-title="Documentaries",CA BBC Earth HD
@@ -162,13 +162,13 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50852
 #EXTINF:-1  tvg-name="Osn DISCOVERY" tvg-id="discovery.ae" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/DISCOVERYHD.png" group-title="Documentaries",Osn DISCOVERY
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101340
 #EXTINF:-1  tvg-name="Osn DISCOVERY" tvg-id="discovery.ae" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/DISCOVERYHD.png" group-title="Documentaries",Osn DISCOVERY (ss123)
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=925284&extension=ts&play_token=EFjLr3THCR
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:76:28:2E&stream=925284&extension=ts&play_token=EFjLr3THCR
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="discoveryscience.ae" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries",OSN Discovery Science
 http://venomtt.com:8000/kdcxxD1U/543545/86639
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="discoveryscience.ae" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries",OSN Discovery Science
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101342
 #EXTINF:-1  tvg-name="OSN Discovery Science" tvg-id="discoveryscience.ae" tvg-logo="http://ky-iptv.com:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="Documentaries",OSN Discovery Science (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1a:79:6e:31:5d&stream=925285&extension=ts&play_token=wIPjKwTET0
+http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=925285&extension=ts&play_token=wIPjKwTET0
 #EXTINF:-1  tvg-name="Outdoor Channel" tvg-id="OutdoorChannel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Documentaries",Outdoor Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
 #EXTINF:-1  tvg-name="PH: Discovery World" tvg-id="" tvg-logo="http://ky-iptv.com:80/images/0a2cda69dc117c988931ac83f49e2e72.png" group-title="Documentaries",PH: Discovery World
