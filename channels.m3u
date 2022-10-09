@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-name="ABS-CBN" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/1200px-ABS-CBN_%282013%29.svg.png" group-title="Local TV",ABS-CBN
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2ZChannel11.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/A2Z_Channel_11.png/512px-A2Z_Channel_11.png" group-title="Local TV",A2Z (BZ)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/353.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/353.m3u8
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2ZChannel11.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/A2Z_Channel_11.png/512px-A2Z_Channel_11.png" group-title="Local TV",A2Z (ss123)
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:76:28:2E&stream=926206&extension=ts&play_token=cXu7SxVrmW
 #EXTINF:-1  tvg-name="ALLTV" tvg-id="" tvg-logo="https://i.imgur.com/94clGgs.jpg" group-title="Local TV",ALLTV
@@ -44,7 +44,7 @@ http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=731811&extension=
 #EXTINF:-1  tvg-name="PTV4" tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/cBqnYNM.png" group-title="Local TV",PTV4 (ss123)
 http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2e&stream=926144&extension=ts&play_token=I9mzE8PMZV
 #EXTINF:-1  tvg-name="PTV4" tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Local TV",PTV4 (BZ)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/436.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/436.m3u8
 #EXTINF:-1  tvg-name="Sari Sari Channel" tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="Local TV",Sari Sari Channel (ss123)
 http://ss123.pro:80/play/live.php?mac=00:1A:79:76:28:2E&stream=731807&extension=ts&play_token=t0CSa0YabV
 #EXTINF:-1  tvg-name="SMNI" tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/kTLLxuV.png" group-title="Local TV",SMNI
@@ -68,7 +68,7 @@ http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701
 #EXTINF:-1  tvg-name="DZMM TeleRadyo" tvg-id="dzmmteleradyo.ph" tvg-logo="https://i.imgur.com/pwHUrVL.png" group-title="Local Radio",DZMM TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1  tvg-name="Animal Planet" tvg-id="AnimalPlanetHongKong.hk" tvg-logo="https://i.imgur.com/zRbq9e5.png" group-title="Documentaries",Animal Planet (BZ)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/394.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/394.m3u8
 #EXTINF:-1  tvg-name="BBC Earth (ev)" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries",BBC Earth (ev)
 http://eaglevision.visualsec.net:8443/live/0KzR5xAPBXWHT63KJqdEvA/1665402687/230.m3u8
 #EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/QMB9sFW.png" group-title="Documentaries",BBC Earth
@@ -148,11 +148,11 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1  tvg-name="NATGEO (YS)" tvg-id="NationalGeographicPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentaries",NATGEO (ss123)
 http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=926167&extension=ts&play_token=n8vlG1owLS
 #EXTINF:-1  tvg-name="NATGEO (BZ)" tvg-id="NationalGeographicMalaysia.my" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Documentaries",NATGEO (BZ)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/398.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/398.m3u8
 #EXTINF:-1  tvg-name="NAT GEO HD" tvg-id="natgeo.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/NATGEOUSA.png" group-title="Documentaries",NAT GEO HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 #EXTINF:-1  tvg-name="Nat Geo Wild (fp)" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Documentaries",Nat Geo Wild (BZ)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/403.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/403.m3u8
 #EXTINF:-1  tvg-name="Nat Geo Wild (YS)" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Documentaries",Nat Geo Wild (SM)
 http://103.152.216.26:8443/live/vR-pvwXEkVRNpG4uKFQ1jA/1665402334/160.m3u8
 #EXTINF:-1  tvg-name="NAT GEO WILD" tvg-id="natgeowild.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/NATGEOWILDFHD.png" group-title="Documentaries",NAT GEO WILD
@@ -408,7 +408,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="ANIPLUSSD" tvg-logo="https://i.imgur.com/kBB4Amt.png" group-title="Kids",Aniplus
 https://tiny.one/FEI-ANIPLUS
 #EXTINF:-1  tvg-name="BabyTV" tvg-id="BabyTVAsia.uk" tvg-logo="https://i.imgur.com/Z8EH1qD.png" group-title="Kids",BabyTV (BZ)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/368.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/368.m3u8
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="BoomerangSouthEastAsia.us" tvg-logo="https://i.imgur.com/J6l3ilY.png" group-title="Kids",Boomerang
 http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=926199&extension=ts&play_token=RSe069hlSK
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/YA86w8Q.png" group-title="Kids",Cartoon Network (ss123)
@@ -510,7 +510,7 @@ http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=731814&extension=
 #EXTINF:-1  tvg-name="One Sports+" tvg-id="OneSportsPlus.ph" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports",One Sports+ (EV)
 http://eaglevision.visualsec.net:8443/live/0KzR5xAPBXWHT63KJqdEvA/1665402687/236.m3u8
 #EXTINF:-1  tvg-name="Premier Sports" tvg-id="PremierSports" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="Sports",Premier Sports (SM)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/450.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/450.m3u8
 #EXTINF:-1  tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1  tvg-name="SPOTV" tvg-id="SPOTVAsia" tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="Sports",SPOTV
@@ -626,7 +626,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20222&extension=ts&
 #EXTINF:-1  tvg-name="Osn MOVIES HD" tvg-id="osnmovies.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies",Osn MOVIES HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/43
 #EXTINF:-1  tvg-name="Paramount Network" tvg-id="ParamountNetworkSingapore.sg" tvg-logo="https://i.imgur.com/KjMPeOd.png" group-title="Movies",Paramount Network (BZ)
-http://103.73.58.238:8443/live/lKDl6DdjjhUkom84gD-RzQ/1664719684/435.m3u8
+http://103.73.58.238:8443/live/7mUFKeeydm5qhBB5sYKQsg/1665271121/435.m3u8
 #EXTINF:-1  tvg-name="Pixl" tvg-id="Pixl.us" tvg-logo="https://i.imgur.com/FtH4w3E.png" group-title="Movies",Pixl
 https://iptv.arkina1234.repl.co/frndly/4.php/playlist.m3u8
 #EXTINF:-1  tvg-name="Pop TV" tvg-id="PopTV.us" tvg-logo="https://i.imgur.com/w0qSFJc.png" group-title="Movies",Pop TV
