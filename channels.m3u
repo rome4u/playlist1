@@ -148,11 +148,11 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1  tvg-name="NATGEO (YS)" tvg-id="NationalGeographicPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentaries",NATGEO (ss123)
 http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=926167&extension=ts&play_token=n8vlG1owLS
 #EXTINF:-1  tvg-name="NATGEO (BZ)" tvg-id="NationalGeographicMalaysia.my" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Documentaries",NATGEO (BZ)
-http://103.73.58.238:8443/live/2P7nwSZ52tYo7wJIjf7x_A/1667835846/398.m3u8
+http://103.73.58.238:8443/live/ob63jJmafnmP_IPqkcJD4A/1668545063/398.m3u8
 #EXTINF:-1  tvg-name="NAT GEO HD" tvg-id="natgeo.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/NATGEOUSA.png" group-title="Documentaries",NAT GEO HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 #EXTINF:-1  tvg-name="Nat Geo Wild (fp)" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Documentaries",Nat Geo Wild (BZ)
-http://103.73.58.238:8443/live/2P7nwSZ52tYo7wJIjf7x_A/1667835846/403.m3u8
+http://103.73.58.238:8443/live/ob63jJmafnmP_IPqkcJD4A/1668545063/403.m3u8
 #EXTINF:-1  tvg-name="Nat Geo Wild (YS)" tvg-id="NationalGeographicWildMalaysia.my" tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="Documentaries",Nat Geo Wild (SM)
 http://103.152.216.26:8443/live/RCr_3tHut1_d7soGY1TUoQ/1668544304/160.m3u8
 #EXTINF:-1  tvg-name="NAT GEO WILD" tvg-id="natgeowild.us" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/NATGEOWILDFHD.png" group-title="Documentaries",NAT GEO WILD
@@ -408,7 +408,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="ANIPLUSSD" tvg-logo="https://i.imgur.com/kBB4Amt.png" group-title="Kids",Aniplus
 https://tiny.one/FEI-ANIPLUS
 #EXTINF:-1  tvg-name="BabyTV" tvg-id="BabyTVAsia.uk" tvg-logo="https://i.imgur.com/Z8EH1qD.png" group-title="Kids",BabyTV (BZ)
-http://103.73.58.238:8443/live/2P7nwSZ52tYo7wJIjf7x_A/1667835846/368.m3u8
+http://103.73.58.238:8443/live/ob63jJmafnmP_IPqkcJD4A/1668545063/368.m3u8
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="BoomerangSouthEastAsia.us" tvg-logo="https://i.imgur.com/J6l3ilY.png" group-title="Kids",Boomerang
 http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=926199&extension=ts&play_token=RSe069hlSK
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/YA86w8Q.png" group-title="Kids",Cartoon Network (ss123)
@@ -510,7 +510,7 @@ http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=731814&extension=
 #EXTINF:-1  tvg-name="One Sports+" tvg-id="OneSportsPlus.ph" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports",One Sports+ (EV)
 http://eaglevision.visualsec.net:8443/live/AnsHkgCaIVltbexkCAJD2g/1668544247/236.m3u8
 #EXTINF:-1  tvg-name="Premier Sports" tvg-id="PremierSports" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="Sports",Premier Sports (SM)
-http://103.73.58.238:8443/live/2P7nwSZ52tYo7wJIjf7x_A/1667835846/450.m3u8
+http://103.73.58.238:8443/live/ob63jJmafnmP_IPqkcJD4A/1668545063/450.m3u8
 #EXTINF:-1  tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1  tvg-name="SPOTV" tvg-id="SPOTVAsia" tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="Sports",SPOTV
@@ -626,7 +626,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20222&extension=ts&
 #EXTINF:-1  tvg-name="Osn MOVIES HD" tvg-id="osnmovies.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="Movies",Osn MOVIES HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/43
 #EXTINF:-1  tvg-name="Paramount Network" tvg-id="ParamountNetworkSingapore.sg" tvg-logo="https://i.imgur.com/KjMPeOd.png" group-title="Movies",Paramount Network (BZ)
-http://103.73.58.238:8443/live/2P7nwSZ52tYo7wJIjf7x_A/1667835846/435.m3u8
+http://103.73.58.238:8443/live/ob63jJmafnmP_IPqkcJD4A/1668545063/435.m3u8
 #EXTINF:-1  tvg-name="Pixl" tvg-id="Pixl.us" tvg-logo="https://i.imgur.com/FtH4w3E.png" group-title="Movies",Pixl
 https://iptv.arkina1234.repl.co/frndly/4.php/playlist.m3u8
 #EXTINF:-1  tvg-name="Pop TV" tvg-id="PopTV.us" tvg-logo="https://i.imgur.com/w0qSFJc.png" group-title="Movies",Pop TV
