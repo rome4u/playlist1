@@ -1,149 +1,149 @@
 #EXTM3U
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",KBS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",KBS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=3
-#EXTINF:-1  group-title="CCTN 47" tvg-logo="https://i.imgur.com/bN2R2se.png" tvg-id="" tvg-name="LOCAL CABLE TV",CCTN 47
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/bN2R2se.png" group-title="LOCAL CABLE TV",CCTN 47
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=4
-#EXTINF:-1  group-title="GMA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" tvg-id="gma7.ph" tvg-name="LOCAL CABLE TV",GMA 7
+#EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="LOCAL CABLE TV",GMA 7
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=5
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/BKPsyQV.png" tvg-id="" tvg-name="LOCAL CABLE TV",ONE PH
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/BKPsyQV.png" group-title="LOCAL CABLE TV",ONE PH
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=6
-#EXTINF:-1  group-title="GTV" tvg-logo="https://i.imgur.com/o3YtMvf.png" tvg-id="gmapinoytv.ph" tvg-name="LOCAL CABLE TV",GTV
+#EXTINF:-1  tvg-id="gmapinoytv.ph" tvg-logo="https://i.imgur.com/o3YtMvf.png" group-title="LOCAL CABLE TV",GTV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=7
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/tJVw6hq.png" tvg-id="tv5.ph" tvg-name="LOCAL CABLE TV",TV5
+#EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=8
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/C20Yym6.png" tvg-id="" tvg-name="LOCAL CABLE TV",TMC
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/C20Yym6.png" group-title="LOCAL CABLE TV",TMC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=9
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/UxLdflg.png" tvg-id="" tvg-name="LOCAL CABLE TV",CNN PH
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/UxLdflg.png" group-title="LOCAL CABLE TV",CNN PH
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=10
-#EXTINF:-1  group-title="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" tvg-id="kapamilyachannel.ph" tvg-name="LOCAL CABLE TV",KAPAMILYA
+#EXTINF:-1  tvg-id="kapamilyachannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="LOCAL CABLE TV",KAPAMILYA
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=11
-#EXTINF:-1  group-title="PBO" tvg-logo="https://i.imgur.com/EPZexd1.png" tvg-id="pbo.ph" tvg-name="LOCAL CABLE TV",PBO
+#EXTINF:-1  tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/EPZexd1.png" group-title="LOCAL CABLE TV",PBO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=12
-#EXTINF:-1  group-title="VIVA CINEMA" tvg-logo="https://i.imgur.com/B2tSHap.png" tvg-id="vivacinema.ph" tvg-name="LOCAL CABLE TV",VIVA CINEMA
+#EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/B2tSHap.png" group-title="LOCAL CABLE TV",VIVA CINEMA
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=13
-#EXTINF:-1  group-title="CINEMA ONE" tvg-logo="https://i.imgur.com/bY6A0bc.png" tvg-id="cinemaone.ph" tvg-name="LOCAL CABLE TV",CINEMA ONE
+#EXTINF:-1  tvg-id="cinemaone.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="LOCAL CABLE TV",CINEMA ONE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=14
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/yOisynC.png" tvg-id="" tvg-name="LOCAL CABLE TV",HBO
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/yOisynC.png" group-title="LOCAL CABLE TV",HBO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
-#EXTINF:-1  group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" tvg-id="" tvg-name="LOCAL CABLE TV",CINEMAX
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="LOCAL CABLE TV",CINEMAX
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",FIGHT SPORTS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",FIGHT SPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",TBN INSPIRE
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",TBN INSPIRE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=19
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",WARNER BROS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",WARNER BROS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/JLFjN7m.png" tvg-id="" tvg-name="LOCAL CABLE TV",HITS MOVIES
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/JLFjN7m.png" group-title="LOCAL CABLE TV",HITS MOVIES
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/l59A9P0.png" tvg-id="" tvg-name="LOCAL CABLE TV",DREAMWORKS
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/l59A9P0.png" group-title="LOCAL CABLE TV",DREAMWORKS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=23
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/fqUH9EX.jpg" tvg-id="" tvg-name="LOCAL CABLE TV",ANIMAX
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/fqUH9EX.jpg" group-title="LOCAL CABLE TV",ANIMAX
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=24
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/38Ah9Dg.png" tvg-id="" tvg-name="LOCAL CABLE TV",NICK JR
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/38Ah9Dg.png" group-title="LOCAL CABLE TV",NICK JR
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=27
-#EXTINF:-1  group-title="" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-3d-png-13.png" tvg-id="" tvg-name="LOCAL CABLE TV",NICKELODEON
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-3d-png-13.png" group-title="LOCAL CABLE TV",NICKELODEON
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=28
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/2DGX8N7.png" tvg-id="" tvg-name="LOCAL CABLE TV",CARTOON NETWORK
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/2DGX8N7.png" group-title="LOCAL CABLE TV",CARTOON NETWORK
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" tvg-id="" tvg-name="LOCAL CABLE TV",BOOMERANG
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" group-title="LOCAL CABLE TV",BOOMERANG
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",TAP SPORTS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",TAP SPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",ESPN
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",ESPN
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",BBC EARTH
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",BBC EARTH
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",FP INFORMATION
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",FP INFORMATION
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=34
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/NNWRcgJ.png" tvg-id="" tvg-name="LOCAL CABLE TV",CRIME INVESTIGATION
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/NNWRcgJ.png" group-title="LOCAL CABLE TV",CRIME INVESTIGATION
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=35
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/mmbjFjS.png" tvg-id="" tvg-name="LOCAL CABLE TV",PREMIERE SPORTS
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/mmbjFjS.png" group-title="LOCAL CABLE TV",PREMIERE SPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=36
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",ANC
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",ANC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=37
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",CNN
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",CNN
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=38
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",FOXNEWS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",FOXNEWS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",BBC WORLDNEWS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",BBC WORLDNEWS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40
-#EXTINF:-1  group-title="TELERADYO" tvg-logo="https://inqlifestyle.files.wordpress.com/2015/08/dzmm-teleradyo.jpg" tvg-id="teleradyo.ph" tvg-name="LOCAL CABLE TV",TELERADYO
+#EXTINF:-1  tvg-id="teleradyo.ph" tvg-logo="https://inqlifestyle.files.wordpress.com/2015/08/dzmm-teleradyo.jpg" group-title="LOCAL CABLE TV",TELERADYO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=41
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",ONEPH
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",ONEPH
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=42
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",CNBC
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",CNBC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43
-#EXTINF:-1  group-title="" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izJbM.zx_eGg/v0/-1x-1.png" tvg-id="" tvg-name="LOCAL CABLE TV",BLOOMBERG
+#EXTINF:-1  tvg-id="" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izJbM.zx_eGg/v0/-1x-1.png" group-title="LOCAL CABLE TV",BLOOMBERG
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
-#EXTINF:-1  group-title="" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" tvg-id="" tvg-name="LOCAL CABLE TV",DISCOVERY
+#EXTINF:-1  tvg-id="" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="LOCAL CABLE TV",DISCOVERY
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45
-#EXTINF:-1  group-title="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" tvg-id="" tvg-name="LOCAL CABLE TV",DISCOVERY ASIA
+#EXTINF:-1  tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="LOCAL CABLE TV",DISCOVERY ASIA
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=46
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",TLC
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",TLC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=47
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",EUROSPORTS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",EUROSPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/QF3FRDl.png" tvg-id="" tvg-name="LOCAL CABLE TV",ANIMAL PLANET
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/QF3FRDl.png" group-title="LOCAL CABLE TV",ANIMAL PLANET
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=49
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",ONE SPORTS
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",ONE SPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=50
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",NATGEO WILD
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",NATGEO WILD
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=51
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",HISTORY
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",HISTORY
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=53
-#EXTINF:-1  group-title="" tvg-logo="https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX" tvg-id="" tvg-name="LOCAL CABLE TV",LIFETIME
+#EXTINF:-1  tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX" group-title="LOCAL CABLE TV",LIFETIME
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=55
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",ROCK EXTREME
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",ROCK EXTREME
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=56
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/x7CmyAf.png" tvg-id="" tvg-name="LOCAL CABLE TV",ROCK ENTERTAINMENT
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/x7CmyAf.png" group-title="LOCAL CABLE TV",ROCK ENTERTAINMENT
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=57
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",METRO CHANNEL
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",METRO CHANNEL
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=58
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",AXN
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",AXN
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=62
-#EXTINF:-1  group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/800px-Asian_Food_Network.svg.png" tvg-id="" tvg-name="LOCAL CABLE TV",ASIAN FOOD CHANNEL
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/800px-Asian_Food_Network.svg.png" group-title="LOCAL CABLE TV",ASIAN FOOD CHANNEL
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",NATIONAL GEOGRAPHIC
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",NATIONAL GEOGRAPHIC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=64
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",MTV LIVE
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",MTV LIVE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",MYX
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",MYX
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=75
-#EXTINF:-1  group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" tvg-id="" tvg-name="LOCAL CABLE TV",JEEPNEY TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="LOCAL CABLE TV",JEEPNEY TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=76
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/lcAKYem.png" tvg-id="" tvg-name="LOCAL CABLE TV",VIDEOKE
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/lcAKYem.png" group-title="LOCAL CABLE TV",VIDEOKE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=77
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",TECHSTORM
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",TECHSTORM
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=78
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",PINOY EXTREME
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",PINOY EXTREME
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=79
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",DYWC TELERADYO
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",DYWC TELERADYO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=80
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",NBA TV
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",NBA TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",TVE
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",TVE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=83
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",FORMOSA
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",FORMOSA
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=84
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/K7Kq99h.png" tvg-id="" tvg-name="LOCAL CABLE TV",TVN
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/K7Kq99h.png" group-title="LOCAL CABLE TV",TVN
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=85
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",BABY TV
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",BABY TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=86
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/GkqXZWH.png" tvg-id="" tvg-name="LOCAL CABLE TV",HGTV
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/GkqXZWH.png" group-title="LOCAL CABLE TV",HGTV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=87
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",RAI ITALIA
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",RAI ITALIA
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=90
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",LOTUS MACAU
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",LOTUS MACAU
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=91
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",NHK WORLD
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",NHK WORLD
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=92
-#EXTINF:-1  group-title="" tvg-logo="https://i.imgur.com/2i4ewDo.png" tvg-id="" tvg-name="LOCAL CABLE TV",INC TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/2i4ewDo.png" group-title="LOCAL CABLE TV",INC TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=93
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",FRANCE 24
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",FRANCE 24
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=95
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",FASHION TV
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",FASHION TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=96
-#EXTINF:-1  group-title="" tvg-logo="" tvg-id="" tvg-name="LOCAL CABLE TV",DUBAI TV
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",DUBAI TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=98
 #EXTINF:-1  tvg-id="beINMovies1.qa" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviespremierehd.png" group-title="BEIN",MOVIES HD 1
 http://ss123.pro/play/live.php?mac=00:1A:79:22:03:50&stream=504991&extension=ts
