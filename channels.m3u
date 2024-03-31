@@ -279,14 +279,14 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=87
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=92
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/2i4ewDo.png" group-title="LOCAL CABLE TV",INC TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=93
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",FRANCE 24
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="LOCAL CABLE TV",FRANCE 24
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=95
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",DUBAI TV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dubaione.png" group-title="LOCAL CABLE TV",DUBAI TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=98
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="BEIN",ANIMAL PLANET
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862835&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="BEIN",ANIMAL PLANET
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:73:1f:16&stream=77012&extension=ts&play_token=0Bj8GQMcQk
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=77012&extension=ts&play_token=0Bj8GQMcQk
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="BEIN",DISCOVERY SCIENCE
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:C1:59&stream=493900&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="BEIN",DISCOVERY SCIENCE
@@ -308,23 +308,23 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862850&
 #EXTINF:-1  tvg-id="foxmovies.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="BEIN",FOX MOVIES
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862841&extension=ts
 #EXTINF:-1  tvg-id="foxmovies.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="BEIN",FOX MOVIES
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=1643&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=1643&extension=ts
 #EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862840&extension=ts
 #EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=31713&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=31713&extension=ts
 #EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
 http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97991&extension=ts
 #EXTINF:-1  tvg-id="GourmetAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/beingurmehd.png" group-title="BEIN",GOURMET
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141575&extension=ts
 #EXTINF:-1  tvg-id="gourmet.qa" tvg-logo="http://logo.protv.cc/picons/logos/beingurmehd.png" group-title="BEIN",GOURMET
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=254325&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=254325&extension=ts
 #EXTINF:-1  tvg-id="BabyTVAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/babytv.png" group-title="BEIN",BABY
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141560&extension=ts
 #EXTINF:-1  tvg-id="FoxLife.ar" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="BEIN",FOX LIFE
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141572&extension=ts
 #EXTINF:-1  tvg-id="FoxLife.ar" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="BEIN",FOX LIFE
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=59460&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=59460&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/foxcrimehd.png" group-title="BEIN",FOX CRIME
 http://uniontvs.com:8080/SJfACdWhcH/M2UMV6uqqm/117166
 #EXTINF:-1  tvg-id="NatGeo.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="BEIN",NAT GEO
@@ -333,7 +333,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862834&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141564&extension=ts
 #EXTINF:-1  tvg-id="NatGeo.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="BEIN",NAT GEO
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862834&extension=ts&play_token=E1Kx6ttUzn
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BEIN",NAT GEO PEOPLE
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/natgeopeople.png" group-title="BEIN",NAT GEO PEOPLE
 http://worldsportiptv.com:2082/live/new-dreamstar/srdetysdfghxcf/92997.ts
 #EXTINF:-1  tvg-id="NatGeoWild.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="BEIN",NAT GEO WILD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862833&extension=ts
@@ -348,13 +348,13 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141568&exte
 #EXTINF:-1  tvg-id="StarWorld.sa" tvg-logo="http://logo.protv.cc/picons/logos/starworldhd.png" group-title="BEIN",STAR WORLD
 http://server.sibfungold.info:8080/gazi2po2/@sq1zpg7B9Rpo2@/1768
 #EXTINF:-1  tvg-id="StarWorld.sa" tvg-logo="http://logo.protv.cc/picons/logos/starworldhd.png" group-title="BEIN",STAR WORLD
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=120308&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=120308&extension=ts
 #EXTINF:-1  tvg-id="StarMovies.sa" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="BEIN",STAR MOVIES
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1356722&extension=ts
 #EXTINF:-1  tvg-id="StarMovies.sa" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="BEIN",STAR MOVIES
 http://server.sibfungold.info:8080/gazi2po2/@sq1zpg7B9Rpo2@/1768
 #EXTINF:-1  tvg-id="StarMovies.sa" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="BEIN",STAR MOVIES
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=623499&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=623499&extension=ts
 #EXTINF:-1  tvg-id="OutdoorChannelAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/outdoorhd.png" group-title="BEIN",OUTDOOR
 http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=98004&extension=ts
 #EXTINF:-1  tvg-id="FoodNetwork.qa" tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="BEIN",FOOD NETWORK
@@ -362,11 +362,11 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1356724&exte
 #EXTINF:-1  tvg-id="FoodNetwork.qa" tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="BEIN",FOOD NETWORK
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:c4:24:38&stream=862846&extension=ts&play_token=JRRp8tr6cu
 #EXTINF:-1  tvg-id="FoodNetwork.qa" tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="BEIN",FOOD NETWORK
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=1644&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=1644&extension=ts
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141567&extension=ts
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:73:1f:16&stream=14552&extension=ts&play_token=FDMorhZoGi
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=14552&extension=ts&play_token=FDMorhZoGi
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://server.sibfungold.info:8080/gazi2po2/@sq1zpg7B9Rpo2@/52786
 #EXTINF:-1  tvg-id="bbcearthenglish.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
@@ -396,7 +396,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724268&
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_2_uk.png" group-title="OSN",HISTORY 2
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925277&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_2_uk.png" group-title="OSN",HISTORY 2
-http://dream4k.co:2082/play/live.php?mac=00:1A:79:ED:12:01&stream=60919&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=60919&extension=ts
 #EXTINF:-1  tvg-id="history.sa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6b57b06e70829b1d9aed1d7a04dcc28d.png" group-title="OSN",HISTORY
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925276&extension=ts
 #EXTINF:-1  tvg-id="OSNKidzone.ae" tvg-logo="https://i.imgur.com/daWpHrl.png" group-title="OSN",KID ZONE
@@ -437,7 +437,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925260&exten
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724245&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://content.osn.com/logo/channel/cropped/STW.png" group-title="OSN",STAR WORLD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724244&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/OSN.png" group-title="OSN",TLC
+#EXTINF:-1  tvg-id="tlc.ae" tvg-logo="http://logo.protv.cc/picons/logos/OSN.png" group-title="OSN",TLC
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925256&extension=ts
 #EXTINF:-1  tvg-id="sonybbcearthhd.in" tvg-logo="http://b1g.fun/logos2/sony_bbc_earthhd.jpg" group-title="INDIA",SONY BBC EARTH
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161913&extension=ts
@@ -447,9 +447,9 @@ http://livetvbox.live:8080/live/Carlos/Carlos/174.ts
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161851&extension=ts
 #EXTINF:-1  tvg-id="discoveryhd.in" tvg-logo="http://b1g.fun/logos2/discoveryhd.jpg" group-title="INDIA",DISCOVERY
 http://livetvbox.live:8080/live/Carlos/Carlos/156.ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://b1g.fun/logos2/discovery_turbo.jpg" group-title="INDIA",DISCOVERY TURBO
+#EXTINF:-1  tvg-id="discoveryturbohd.in" tvg-logo="http://b1g.fun/logos2/discovery_turbo.jpg" group-title="INDIA",DISCOVERY TURBO
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161863&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://b1g.fun/logos2/discovery_science.jpg" group-title="INDIA",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="discoverysciencehd.in" tvg-logo="http://b1g.fun/logos2/discovery_science.jpg" group-title="INDIA",DISCOVERY SCIENCE
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161862&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://b1g.fun/logos2/investigation_discovery.jpg" group-title="INDIA",INVESTIGATION DISCOVERY
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=166306&extension=ts
@@ -469,13 +469,13 @@ http://livetvbox.live:8080/live/Carlos/Carlos/180.ts
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=9063&extension=ts
 #EXTINF:-1  tvg-id="animalplanethd.in" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="INDIA",ANIMAL PLANET
 http://livetvbox.live:8080/live/Carlos/Carlos/182.ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://b1g.fun/logos2/tlc_hd.jpg" group-title="INDIA",TLC FHD
+#EXTINF:-1  tvg-id="tlchd.in" tvg-logo="http://b1g.fun/logos2/tlc_hd.jpg" group-title="INDIA",TLC FHD
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161946&extension=ts
 #EXTINF:-1  tvg-id="foxlifehd.in" tvg-logo="http://b1g.fun/logos2/fox_lifehd.jpg" group-title="INDIA",FOX LIFE
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=161869&extension=ts
 #EXTINF:-1  tvg-id="foxlifehd.in" tvg-logo="http://b1g.fun/logos2/fox_lifehd.jpg" group-title="INDIA",FOX LIFE
 http://livetvbox.live:8080/live/Carlos/Carlos/98876.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDIA",TRAVELXP
+#EXTINF:-1  tvg-id="travelxphd.in" tvg-logo="http://logo.protv.cc/picons/logos/travelxp.png" group-title="INDIA",TRAVELXP
 http://livetvbox.live:8080/live/Carlos/Carlos/143205.ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/af/jazeera.png" group-title="DSTV",AL JAZEERA HD
 http://rayantv.org:80/play/live.php?mac=00:1A:79:2b:5f:9d&stream=241880&extension=ts
@@ -485,33 +485,33 @@ http://livetvbox.live:8080/live/Carlos/Carlos/170651.ts
 http://rayantv.org:80/play/live.php?mac=00:1A:79:2b:5f:9d&stream=249541&extension=ts
 #EXTINF:-1  tvg-id="cnninternational.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CNN.png" group-title="DSTV",CNN INTERNATIONAL
 http://livetvbox.live:8080/live/Carlos/Carlos/158078.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/af/boomrang.png" group-title="DSTV",BLOOMBERG
+#EXTINF:-1  tvg-id="bloomberg.za" tvg-logo="https://lo1.in/af/boomrang.png" group-title="DSTV",BLOOMBERG
 http://rayantv.org:80/play/live.php?mac=00:1A:79:2b:5f:9d&stream=131085&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/af/boomrang.png" group-title="DSTV",BLOOMBERG
+#EXTINF:-1  tvg-id="bloomberg.za" tvg-logo="https://lo1.in/af/boomrang.png" group-title="DSTV",BLOOMBERG
 http://livetvbox.live:8080/live/Carlos/Carlos/170654.ts
-#EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BBL.png?width=50" group-title="DSTV",BBC LIFESTYLE HD
+#EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
 http://livetvbox.live:8080/live/Carlos/Carlos/23363.ts
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:73:1f:16&stream=265783&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=265783&extension=ts
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300100&extension=ts
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
 http://rayantv.org:80/play/live.php?mac=00:1A:79:2b:5f:9d&stream=249543&extension=ts
-#EXTINF:-1  tvg-id="bbcbrit.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B26.png" group-title="DSTV",BBC BRIT
+#EXTINF:-1  tvg-id="bbcbrit.za" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="DSTV",BBC BRIT
 http://livetvbox.live:8080/live/Carlos/Carlos/23844.ts
 #EXTINF:-1  tvg-id="bbcbrit.za" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="DSTV",BBC BRIT
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300085&extension=ts
-#EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ETH.png?width=50" group-title="DSTV",BBC EARTH
+#EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
 http://livetvbox.live:8080/live/Carlos/Carlos/23367.ts
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:73:1f:16&stream=265780&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=265780&extension=ts
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300062&extension=ts
-#EXTINF:-1  tvg-id="history.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H23.png?width=50" group-title="DSTV",HISTORY
+#EXTINF:-1  tvg-id="history.za" tvg-logo="https://lo1.in/it/his.png" group-title="DSTV",HISTORY
 http://livetvbox.live:8080/live/Carlos/Carlos/23368.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/it/his.png" group-title="DSTV",HISTORY
+#EXTINF:-1  tvg-id="history.za" tvg-logo="https://lo1.in/it/his.png" group-title="DSTV",HISTORY
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300067&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/sp/drmwrk.png" group-title="DSTV",DREAMWORKS
+#EXTINF:-1  tvg-id="dreamworks.za" tvg-logo="https://lo1.in/sp/drmwrk.png" group-title="DSTV",DREAMWORKS
 http://livetvbox.live:8080/live/Carlos/Carlos/158032.ts
 #EXTINF:-1  tvg-id="cartoonnetwork.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CHD.png" group-title="DSTV",CARTOONNETWORK
 http://livetvbox.live:8080/live/Carlos/Carlos/23870.ts
@@ -523,7 +523,7 @@ http://livetvbox.live:8080/live/Carlos/Carlos/19832.ts
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=299986&extension=ts
 #EXTINF:-1  tvg-id="disneyjunior.za" tvg-logo="https://lo1.in/dstv/disj.png" group-title="DSTV",DISNEY JR
 http://livetvbox.live:8080/live/Carlos/Carlos/23851.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/ger/nic.png" group-title="DSTV",NICKTOONS
+#EXTINF:-1  tvg-id="nicktoons.za" tvg-logo="https://lo1.in/ger/nic.png" group-title="DSTV",NICKTOONS
 http://livetvbox.live:8080/live/Carlos/Carlos/993.ts
 #EXTINF:-1  tvg-id="nickelodeon.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NIK.png" group-title="DSTV",NICKELODEON
 http://livetvbox.live:8080/live/Carlos/Carlos/2261.ts
@@ -535,141 +535,137 @@ http://livetvbox.live:8080/live/Carlos/Carlos/23370.ts
 http://rayantv.org:80/play/live.php?mac=00:1A:79:2b:5f:9d&stream=1112190&extension=ts
 #EXTINF:-1  tvg-id="foodnetwork.za" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="DSTV",FOODNETWORK
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300033&extension=ts
-#EXTINF:-1  tvg-id="foodnetwork.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/F26.png?width=50" group-title="DSTV",FOODNETWORK
+#EXTINF:-1  tvg-id="foodnetwork.za" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="DSTV",FOODNETWORK
 http://livetvbox.live:8080/live/Carlos/Carlos/23364.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/af/lifetm.png" group-title="DSTV",LIFETIME
+#EXTINF:-1  tvg-id="lifetime.za" tvg-logo="https://lo1.in/af/lifetm.png" group-title="DSTV",LIFETIME
 http://pdjtsve.mexamo.xyz:80/9341430285/1741282802/186806
-#EXTINF:-1  tvg-id="tlcentertainment.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T32.png?width=50" group-title="DSTV",TLC
+#EXTINF:-1  tvg-id="tlcentertainment.za" tvg-logo="https://lo1.in/af/tlcintmnt.png" group-title="DSTV",TLC
 http://livetvbox.live:8080/live/Carlos/Carlos/158003.ts
 #EXTINF:-1  tvg-id="tlcentertainment.za" tvg-logo="https://lo1.in/af/tlcintmnt.png" group-title="DSTV",TLC
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300084&extension=ts
-#EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NA8.png?width=50" group-title="DSTV",National Geographic HD
+#EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
 http://livetvbox.live:8080/live/Carlos/Carlos/23365.ts
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:73:1f:16&stream=138651&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=138651&extension=ts
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300056&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="DSTV",National Geographic WILD HD
 http://livetvbox.live:8080/live/Carlos/Carlos/157996.ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:73:1f:16&stream=138652&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=138652&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300069&extension=ts
-#EXTINF:-1  tvg-id="hgtv.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/Z26.png?width=50" group-title="DSTV",HGTV
+#EXTINF:-1  tvg-id="hgtv.za" tvg-logo="https://lo1.in/pol/htv.png" group-title="DSTV",HGTV
 http://livetvbox.live:8080/live/Carlos/Carlos/137524.ts
 #EXTINF:-1  tvg-id="hgtv.za" tvg-logo="https://lo1.in/pol/htv.png" group-title="DSTV",HGTV
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:73:1f:16&stream=30342&extension=ts
-#EXTINF:-1  tvg-id="discoverychannel.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DHD.png" group-title="DSTV",DISCOVERY CHANNEL HD
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=30342&extension=ts
+#EXTINF:-1  tvg-id="discoverychannel.za" tvg-logo="https://lo1.in/fr/dischn.png" group-title="DSTV",DISCOVERY CHANNEL HD
 http://livetvbox.live:8080/live/Carlos/Carlos/995.ts
 #EXTINF:-1  tvg-id="discoverychannel.za" tvg-logo="https://lo1.in/fr/dischn.png" group-title="DSTV",DISCOVERY CHANNEL HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300073&extension=ts
 #EXTINF:-1  tvg-id="discoveryid.za" tvg-logo="https://lo1.in/fr/dicyd.png" group-title="DSTV",DISCOVERY ID HD
 http://livetvbox.live:8080/live/Carlos/Carlos/994.ts
-#EXTINF:-1  tvg-id="discoveryfamily.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/F32.png?width=50" group-title="DSTV",DISCOVERY FAMILY HD
+#EXTINF:-1  tvg-id="discoveryfamily.za" tvg-logo="https://lo1.in/fr/dcfam.png" group-title="DSTV",DISCOVERY FAMILY HD
 http://livetvbox.live:8080/live/Carlos/Carlos/23361.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/fr/dcfam.png" group-title="DSTV",DISCOVERY FAMILY HD
+#EXTINF:-1  tvg-id="discoveryfamily.za" tvg-logo="https://lo1.in/fr/dcfam.png" group-title="DSTV",DISCOVERY FAMILY HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300078&extension=ts
-#EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/POP.png?width=50" group-title="DSTV",WILD EARTH HD
+#EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/wldearth.png" group-title="DSTV",WILD EARTH HD
 http://livetvbox.live:8080/live/Carlos/Carlos/23366.ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/wldearth.png" group-title="DSTV",WILD EARTH HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300087&extension=ts
-#EXTINF:-1  tvg-id="travelchannel.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TRV.png?width=50" group-title="DSTV",TRAVEL CHANNEL HD
+#EXTINF:-1  tvg-id="travelchannel.za" tvg-logo="https://lo1.in/dstv/trach.png" group-title="DSTV",TRAVEL CHANNEL HD
 http://livetvbox.live:8080/live/Carlos/Carlos/23362.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/dstv/trach.png" group-title="DSTV",TRAVEL CHANNEL HD
+#EXTINF:-1  tvg-id="travelchannel.za" tvg-logo="https://lo1.in/dstv/trach.png" group-title="DSTV",TRAVEL CHANNEL HD
 http://rayantv.org:80/play/live.php?mac=00:1A:79:2b:5f:9d&stream=131109&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://lo1.in/dstv/trach.png" group-title="DSTV",TRAVEL CHANNEL HD
+#EXTINF:-1  tvg-id="travelchannel.za" tvg-logo="https://lo1.in/dstv/trach.png" group-title="DSTV",TRAVEL CHANNEL HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300077&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID (VD) NHK World Japan
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nhkworld.png" group-title="INDONESIA",ID (VD) NHK World Japan
 http://livetvbox.live:8080/live/Carlos/Carlos/151135.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID CNN INDONESIA (D)
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/qDoqaeW.png" group-title="INDONESIA",ID CNN INDONESIA (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151176.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Asian Food Network HD (D)
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/x7CmyAf.png" group-title="INDONESIA",ID Rock Entertainment
 http://livetvbox.live:8080/live/Carlos/Carlos/151191.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID NickJr HD (D)
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/38Ah9Dg.png" group-title="INDONESIA",ID NickJr HD (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151192.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Cinemax (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX-HD.png" group-title="INDONESIA",ID Cinemax (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151197.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Arirang Korea (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/arirangtv.png" group-title="INDONESIA",ID Arirang Korea (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151198.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Celestial Movies (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CELESTIAL-CLASSIC-MOVIES.png" group-title="INDONESIA",ID Celestial Movies (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151199.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Fox News (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/foxnews.png" group-title="INDONESIA",ID Fox News (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151201.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID CNN (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CNN.jpg" group-title="INDONESIA",ID CNN (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151202.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID History (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/history.png" group-title="INDONESIA",ID History (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151203.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Discovery Channel (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY--CHANNEL-HD.png" group-title="INDONESIA",ID Discovery Channel (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151204.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Nat Geo Wild (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/natgeowild.png" group-title="INDONESIA",ID Nat Geo Wild (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151205.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID HBO Signature (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/hbosignature.jpeg" group-title="INDONESIA",ID HBO Signature (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151206.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Sony ONE (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SONY-ONE.jpeg" group-title="INDONESIA",ID Sony ONE (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151207.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Animax (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/Animax.png" group-title="INDONESIA",ID Animax (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151208.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID AXN (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/axn.png" group-title="INDONESIA",ID AXN (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151209.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Lifetime (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/lifetime.png" group-title="INDONESIA",ID Lifetime (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151210.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID News Asia Channel (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-NEWS-ASIA.jpg" group-title="INDONESIA",ID News Asia Channel (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151211.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID HBO Hits (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/HBO-HITS.jpeg" group-title="INDONESIA",ID HBO Hits (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151212.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Crime Investigation (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CRIME&INVESTIGATION-HD.png" group-title="INDONESIA",ID Crime Investigation (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151214.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Warner TV (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="INDONESIA",ID Warner TV (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151215.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID CNBC (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cnbc.png" group-title="INDONESIA",ID CNBC (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151216.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Nat Geo (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/natgeo.png" group-title="INDONESIA",ID Nat Geo (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151217.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Nickelodeon (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="INDONESIA",ID Nickelodeon (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151218.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID TV5 Monde Asia (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/tv5monde.png" group-title="INDONESIA",ID TV5 Monde Asia (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151219.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Animal Planet (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanet.png" group-title="INDONESIA",ID Animal Planet (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151220.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Cartoon Network (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetworks.png" group-title="INDONESIA",ID Cartoon Network (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151221.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Baby TV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/BABY-TV.jpeg" group-title="INDONESIA",ID Baby TV
 http://livetvbox.live:8080/live/Carlos/Carlos/151222.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Disney XD
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-CHANNEL.jpeg" group-title="INDONESIA",ID Disney XD
 http://livetvbox.live:8080/live/Carlos/Carlos/151225.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID France24 (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="INDONESIA",ID France24 (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151235.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Al Jazeera English (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="INDONESIA",ID Al Jazeera English (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151236.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Hits (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/HITS.png" group-title="INDONESIA",ID Hits (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151237.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID HBO Family (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/hbofamily.jpg" group-title="INDONESIA",ID HBO Family (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151250.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID TVN Movies (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TVN.png" group-title="INDONESIA",ID TVN Movies (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151251.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID HITS Movies (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="INDONESIA",ID HITS Movies (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151254.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Cinema World (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-WORLD-HD.png" group-title="INDONESIA",ID Cinema World (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151279.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Boomerang (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png" group-title="INDONESIA",ID Boomerang (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151280.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID HGTV (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="INDONESIA",ID HGTV (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151282.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Euronews (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/EURONEWS.png" group-title="INDONESIA",ID Euronews (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151283.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Bloomberg (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png" group-title="INDONESIA",ID Bloomberg (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151284.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID NHK World Premium (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nhkworld.png" group-title="INDONESIA",ID NHK World Premium (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151286.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID Berita Satu (D)
-http://livetvbox.live:8080/live/Carlos/Carlos/151287.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID BBC World News
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BBC-ONE.png" group-title="INDONESIA",ID BBC World News
 http://livetvbox.live:8080/live/Carlos/Carlos/151288.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID CGTN Documentary (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnnews.png" group-title="INDONESIA",ID CGTN Documentary (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151289.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="INDONESIA",ID BBC Earth
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="INDONESIA",ID BBC Earth
 http://livetvbox.live:8080/live/Carlos/Carlos/151290.ts
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY WARNER TV
 http://livetvbox.live:8080/live/Carlos/Carlos/142960.ts
