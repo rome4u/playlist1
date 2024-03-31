@@ -123,15 +123,15 @@ http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/80.m3u8
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/82.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",TVE
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/83.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",FORMOSA
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/FORMOSA-TV.png" group-title="PH",FORMOSA
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/84.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TVN.png" group-title="PH",TVN
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/85.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",BABY TV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france/BABYTV-1.png" group-title="PH",BABY TV
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/86.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/GkqXZWH.png" group-title="PH",HGTV
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/87.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",RAI ITALIA
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/raiitalia.png" group-title="PH",RAI ITALIA
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/90.m3u8
 #EXTINF:-1  tvg-id="celestialmoviespinoy.ph" tvg-logo="https://i.imgur.com/9njJ485.png" group-title="PH",LOTUS MACAU
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/91.m3u8
