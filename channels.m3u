@@ -286,7 +286,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=98
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="BEIN",ANIMAL PLANET
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862835&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="BEIN",ANIMAL PLANET
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=77012&extension=ts&play_token=0Bj8GQMcQk
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=77012&extension=ts&play_token=0Bj8GQMcQk
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="BEIN",DISCOVERY SCIENCE
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:C1:59&stream=493900&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="BEIN",DISCOVERY SCIENCE
@@ -366,7 +366,7 @@ http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=1644&extension
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141567&extension=ts
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=14552&extension=ts&play_token=FDMorhZoGi
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=14552&extension=ts&play_token=FDMorhZoGi
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://server.sibfungold.info:8080/gazi2po2/@sq1zpg7B9Rpo2@/52786
 #EXTINF:-1  tvg-id="bbcearthenglish.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
@@ -492,7 +492,7 @@ http://livetvbox.live:8080/live/Carlos/Carlos/170654.ts
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
 http://livetvbox.live:8080/live/Carlos/Carlos/23363.ts
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=265783&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=265783&extension=ts
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300100&extension=ts
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
@@ -504,7 +504,7 @@ http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300085&extension=
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
 http://livetvbox.live:8080/live/Carlos/Carlos/23367.ts
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=265780&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=265780&extension=ts
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300062&extension=ts
 #EXTINF:-1  tvg-id="history.za" tvg-logo="https://lo1.in/it/his.png" group-title="DSTV",HISTORY
@@ -546,19 +546,19 @@ http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300084&extension=
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
 http://livetvbox.live:8080/live/Carlos/Carlos/23365.ts
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=138651&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=138651&extension=ts
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300056&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="DSTV",National Geographic WILD HD
 http://livetvbox.live:8080/live/Carlos/Carlos/157996.ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=138652&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=138652&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300069&extension=ts
 #EXTINF:-1  tvg-id="hgtv.za" tvg-logo="https://lo1.in/pol/htv.png" group-title="DSTV",HGTV
 http://livetvbox.live:8080/live/Carlos/Carlos/137524.ts
 #EXTINF:-1  tvg-id="hgtv.za" tvg-logo="https://lo1.in/pol/htv.png" group-title="DSTV",HGTV
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:43:d8:41&stream=30342&extension=ts
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=30342&extension=ts
 #EXTINF:-1  tvg-id="discoverychannel.za" tvg-logo="https://lo1.in/fr/dischn.png" group-title="DSTV",DISCOVERY CHANNEL HD
 http://livetvbox.live:8080/live/Carlos/Carlos/995.ts
 #EXTINF:-1  tvg-id="discoverychannel.za" tvg-logo="https://lo1.in/fr/dischn.png" group-title="DSTV",DISCOVERY CHANNEL HD
