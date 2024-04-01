@@ -111,14 +111,10 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614410&extension=
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614411&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="PH",JEEPNEY TV
 http://vstream.vip:80/live/DemoStream2024/DemoStream2024/4.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",VIDEOKE
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/77.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/yt8UxLj.png" group-title="PH",TECHSTORM
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/78.m3u8
 #EXTINF:-1  tvg-id="PinoyXtremeChannel.ph" tvg-logo="https://i.imgur.com/cR9H6cp.png" group-title="PH",PINOY EXTREME
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/79.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",DYWC TELERADYO
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/80.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="PH",NBA TV
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/82.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",TVE
@@ -187,8 +183,6 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/MJYn4Sy.png" group-title="LOCAL CABLE TV",FIGHT SPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="LOCAL CABLE TV",TBN INSPIRE
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=19
 #EXTINF:-1  tvg-id="WarnerTVPhilippines.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="LOCAL CABLE TV",WARNER BROS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/JLFjN7m.png" group-title="LOCAL CABLE TV",HITS MOVIES
@@ -227,11 +221,11 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=41
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=42
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/hiB3zuk.png" group-title="LOCAL CABLE TV",CNBC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43
-#EXTINF:-1  tvg-id="" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izJbM.zx_eGg/v0/-1x-1.png" group-title="LOCAL CABLE TV",BLOOMBERG
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BLOOMBERG.png" group-title="LOCAL CABLE TV",BLOOMBERG
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
-#EXTINF:-1  tvg-id="" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="LOCAL CABLE TV",DISCOVERY
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="LOCAL CABLE TV",DISCOVERY
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45
-#EXTINF:-1  tvg-id="" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="LOCAL CABLE TV",DISCOVERY
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="LOCAL CABLE TV",DISCOVERY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=845999&extension=ts&play_token=iSm6BQVtyX
 #EXTINF:-1  tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="LOCAL CABLE TV",DISCOVERY ASIA
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614321&extension=ts
@@ -441,7 +435,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724244&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925256&extension=ts
 #EXTINF:-1  tvg-id="sonybbcearthhd.in" tvg-logo="http://b1g.fun/logos2/sony_bbc_earthhd.jpg" group-title="INDIA",SONY BBC EARTH
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161913&extension=ts
-#EXTINF:-1  tvg-id="sonybbcearthhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="INDIA",SONY BBC EARTH
+#EXTINF:-1  tvg-id="sonybbcearthhd.in" tvg-logo="http://b1g.fun/logos2/sony_bbc_earthhd.jpg" group-title="INDIA",SONY BBC EARTH
 http://livetvbox.live:8080/live/Carlos/Carlos/174.ts
 #EXTINF:-1  tvg-id="discoveryhd.in" tvg-logo="http://b1g.fun/logos2/discoveryhd.jpg" group-title="INDIA",DISCOVERY
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161851&extension=ts
@@ -459,7 +453,7 @@ http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161891&extensio
 http://livetvbox.live:8080/live/Carlos/Carlos/7343.ts
 #EXTINF:-1  tvg-id="natgeowildhd.in" tvg-logo="http://b1g.fun/logos2/nat_geo_wildhd.jpg" group-title="INDIA",NAT GEO WILD
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161887&extension=ts
-#EXTINF:-1  tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIA",NAT GEO WILD
+#EXTINF:-1  tvg-id="natgeowildhd.in" tvg-logo="http://b1g.fun/logos2/nat_geo_wildhd.jpg" group-title="INDIA",NAT GEO WILD
 http://livetvbox.live:8080/live/Carlos/Carlos/7344.ts
 #EXTINF:-1  tvg-id="animalplanethd.in" tvg-logo="http://b1g.fun/logos2/history_tv18.jpg" group-title="INDIA",HISTORY
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=14157&extension=ts
@@ -467,7 +461,7 @@ http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=14157&extension
 http://livetvbox.live:8080/live/Carlos/Carlos/180.ts
 #EXTINF:-1  tvg-id="animalplanethd.in" tvg-logo="http://b1g.fun/logos2/animal_planethd.jpg" group-title="INDIA",ANIMAL PLANET
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=9063&extension=ts
-#EXTINF:-1  tvg-id="animalplanethd.in" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="INDIA",ANIMAL PLANET
+#EXTINF:-1  tvg-id="animalplanethd.in" tvg-logo="http://b1g.fun/logos2/animal_planethd.jpg" group-title="INDIA",ANIMAL PLANET
 http://livetvbox.live:8080/live/Carlos/Carlos/182.ts
 #EXTINF:-1  tvg-id="tlchd.in" tvg-logo="http://b1g.fun/logos2/tlc_hd.jpg" group-title="INDIA",TLC FHD
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161946&extension=ts
@@ -657,141 +651,141 @@ http://livetvbox.live:8080/live/Carlos/Carlos/151280.ts
 http://livetvbox.live:8080/live/Carlos/Carlos/151282.ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/EURONEWS.png" group-title="INDONESIA",ID Euronews (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151283.ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png" group-title="INDONESIA",ID Bloomberg (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BLOOMBERG.png" group-title="INDONESIA",ID Bloomberg (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151284.ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nhkworld.png" group-title="INDONESIA",ID NHK World Premium (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151286.ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BBC-ONE.png" group-title="INDONESIA",ID BBC World News
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BBC-WORLD-NEWS.png" group-title="INDONESIA",ID BBC World News
 http://livetvbox.live:8080/live/Carlos/Carlos/151288.ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cgtnnews.png" group-title="INDONESIA",ID CGTN Documentary (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/151289.ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="INDONESIA",ID BBC Earth
 http://livetvbox.live:8080/live/Carlos/Carlos/151290.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY WARNER TV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="MALAYSIA",MY WARNER TV
 http://livetvbox.live:8080/live/Carlos/Carlos/142960.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Nat Geo Wild
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/natgeowild.png" group-title="MALAYSIA",MY Nat Geo Wild
 http://livetvbox.live:8080/live/Carlos/Carlos/142961.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY TVN Movies
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TVN-MOVIES.png" group-title="MALAYSIA",MY TVN Movies
 http://livetvbox.live:8080/live/Carlos/Carlos/142963.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY NHK_World_Japan
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/UK/NHK-WORLD.png" group-title="MALAYSIA",MY NHK_World_Japan
 http://livetvbox.live:8080/live/Carlos/Carlos/142964.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Channel News Asia
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-NEWS-ASIA.jpg" group-title="MALAYSIA",MY Channel News Asia
 http://livetvbox.live:8080/live/Carlos/Carlos/142965.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY ABC Australia
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ABC-AUSTRALIA.png" group-title="MALAYSIA",MY ABC Australia
 http://livetvbox.live:8080/live/Carlos/Carlos/142966.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY France24
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="MALAYSIA",MY France24
 http://livetvbox.live:8080/live/Carlos/Carlos/142967.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Baby TV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/laz.babytv.png" group-title="MALAYSIA",MY Baby TV
 http://livetvbox.live:8080/live/Carlos/Carlos/142968.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Boomerang
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/laz.Bomerang.png" group-title="MALAYSIA",MY Boomerang
 http://livetvbox.live:8080/live/Carlos/Carlos/142972.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Cinema_World
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-WORLD-HD.png" group-title="MALAYSIA",MY Cinema_World
 http://livetvbox.live:8080/live/Carlos/Carlos/142973.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Nick JR
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/NICK-JR-HD.png" group-title="MALAYSIA",MY Nick JR
 http://livetvbox.live:8080/live/Carlos/Carlos/142974.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY MTV Asia
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/MTV.png" group-title="MALAYSIA",MY MTV Asia
 http://livetvbox.live:8080/live/Carlos/Carlos/142975.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Nat Geo Asia
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="MALAYSIA",MY Nat Geo Asia
 http://livetvbox.live:8080/live/Carlos/Carlos/142982.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Animax
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/Animax.png" group-title="MALAYSIA",MY Animax
 http://livetvbox.live:8080/live/Carlos/Carlos/142983.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY BBC_Earth
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/bbcearth.png" group-title="MALAYSIA",MY BBC_Earth
 http://livetvbox.live:8080/live/Carlos/Carlos/142986.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Euronews
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/euronews.png" group-title="MALAYSIA",MY Euronews
 http://livetvbox.live:8080/live/Carlos/Carlos/142988.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY BBC World News
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BBC-WORLD-NEWS.png" group-title="MALAYSIA",MY BBC World News
 http://livetvbox.live:8080/live/Carlos/Carlos/142989.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY DW
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dw.png" group-title="MALAYSIA",MY DW
 http://livetvbox.live:8080/live/Carlos/Carlos/142990.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Sky News
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skynewshd.png" group-title="MALAYSIA",MY Sky News
 http://livetvbox.live:8080/live/Carlos/Carlos/142991.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY HBO
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/HBO-1.png" group-title="MALAYSIA",MY HBO
 http://livetvbox.live:8080/live/Carlos/Carlos/142992.ts
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY HBO_RED
 http://livetvbox.live:8080/live/Carlos/Carlos/142993.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY ABC Australia
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ABC-AUSTRALIA.png" group-title="MALAYSIA",MY ABC Australia
 http://livetvbox.live:8080/live/Carlos/Carlos/143006.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Animal Planet
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="MALAYSIA",MY Animal Planet
 http://livetvbox.live:8080/live/Carlos/Carlos/143010.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Animax
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/Animax.png" group-title="MALAYSIA",MY Animax
 http://livetvbox.live:8080/live/Carlos/Carlos/143011.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY AXN
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/axn.png" group-title="MALAYSIA",MY AXN
 http://livetvbox.live:8080/live/Carlos/Carlos/143058.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Bloomberg TV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BLOOMBERG.png" group-title="MALAYSIA",MY Bloomberg TV
 http://livetvbox.live:8080/live/Carlos/Carlos/143067.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Boomerang
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png" group-title="MALAYSIA",MY Boomerang
 http://livetvbox.live:8080/live/Carlos/Carlos/143069.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Cartoon Network
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetworks.png" group-title="MALAYSIA",MY Cartoon Network
 http://livetvbox.live:8080/live/Carlos/Carlos/143070.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Celestial Classic Movies
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CELESTIAL-CLASSIC-MOVIES.png" group-title="MALAYSIA",MY Celestial Classic Movies
 http://livetvbox.live:8080/live/Carlos/Carlos/143071.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Celestial
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CELESTIAL-CLASSIC-MOVIES.png" group-title="MALAYSIA",MY Celestial
 http://livetvbox.live:8080/live/Carlos/Carlos/143073.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY CGTN
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cgtn.png" group-title="MALAYSIA",MY CGTN
 http://livetvbox.live:8080/live/Carlos/Carlos/143074.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY CNA
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-NEWS-ASIA.jpg" group-title="MALAYSIA",MY CNA
 http://livetvbox.live:8080/live/Carlos/Carlos/143077.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY CNBC
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cnbc.png" group-title="MALAYSIA",MY CNBC
 http://livetvbox.live:8080/live/Carlos/Carlos/143078.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY CNBC
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/cnbc.png" group-title="MALAYSIA",MY CNBC
 http://livetvbox.live:8080/live/Carlos/Carlos/143079.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY CNN
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CNN.jpg" group-title="MALAYSIA",MY CNN
 http://livetvbox.live:8080/live/Carlos/Carlos/143080.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Crime Investigation
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CRIME&INVESTIGATION-HD.png" group-title="MALAYSIA",MY Crime Investigation
 http://livetvbox.live:8080/live/Carlos/Carlos/143081.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Discovery Channel
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="MALAYSIA",MY Discovery Channel
 http://livetvbox.live:8080/live/Carlos/Carlos/143083.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY DISCOVERY ASIA (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-ASIA.png" group-title="MALAYSIA",MY DISCOVERY ASIA (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/143084.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Discovery Science
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY-SCIENCE.png" group-title="MALAYSIA",MY Discovery Science
 http://livetvbox.live:8080/live/Carlos/Carlos/143085.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Discovery Asia
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-ASIA.png" group-title="MALAYSIA",MY Discovery Asia
 http://livetvbox.live:8080/live/Carlos/Carlos/143086.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Disney Junior
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-JUNIOR-HD.png" group-title="MALAYSIA",MY Disney Junior
 http://livetvbox.live:8080/live/Carlos/Carlos/143087.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Dmax
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dmaxhd.png" group-title="MALAYSIA",MY Dmax
 http://livetvbox.live:8080/live/Carlos/Carlos/143088.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Egg (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/EGG-NETWORK.jpg" group-title="MALAYSIA",MY Egg (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/143089.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY eGG_Network
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/EGG-NETWORK.jpg" group-title="MALAYSIA",MY eGG_Network
 http://livetvbox.live:8080/live/Carlos/Carlos/143090.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY HBO
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/hbohd.png" group-title="MALAYSIA",MY HBO
 http://livetvbox.live:8080/live/Carlos/Carlos/143100.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY HBO Family
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/hbofamily.jpg" group-title="MALAYSIA",MY HBO Family
 http://livetvbox.live:8080/live/Carlos/Carlos/143101.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY HBO Hits
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/HBO-HITS.jpeg" group-title="MALAYSIA",MY HBO Hits
 http://livetvbox.live:8080/live/Carlos/Carlos/143102.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY HGTV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="MALAYSIA",MY HGTV
 http://livetvbox.live:8080/live/Carlos/Carlos/143103.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY History
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/history.png" group-title="MALAYSIA",MY History
 http://livetvbox.live:8080/live/Carlos/Carlos/143104.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Hits
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/HITS.png" group-title="MALAYSIA",MY Hits
 http://livetvbox.live:8080/live/Carlos/Carlos/143105.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Hits Movies
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="MALAYSIA",MY Hits Movies
 http://livetvbox.live:8080/live/Carlos/Carlos/143106.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY KBS World (D)
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/kbsworldhd.png" group-title="MALAYSIA",MY KBS World (D)
 http://livetvbox.live:8080/live/Carlos/Carlos/143111.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Kix
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/kix.png" group-title="MALAYSIA",MY Kix
 http://livetvbox.live:8080/live/Carlos/Carlos/143112.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Lifetime
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/lifetime.jpg" group-title="MALAYSIA",MY Lifetime
 http://livetvbox.live:8080/live/Carlos/Carlos/143113.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Nat Geo Wild
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/natgeowild.png" group-title="MALAYSIA",MY Nat Geo Wild
 http://livetvbox.live:8080/live/Carlos/Carlos/143121.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY National Geographic
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="MALAYSIA",MY National Geographic
 http://livetvbox.live:8080/live/Carlos/Carlos/143122.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Nick JR
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/NICK-JR-HD.png" group-title="MALAYSIA",MY Nick JR
 http://livetvbox.live:8080/live/Carlos/Carlos/143123.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Nickelodeon
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/NICKELODEON-HD.png" group-title="MALAYSIA",MY Nickelodeon
 http://livetvbox.live:8080/live/Carlos/Carlos/143124.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY One
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TV-ONE-HD.png" group-title="MALAYSIA",MY One
 http://livetvbox.live:8080/live/Carlos/Carlos/143127.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Paramount
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/PARAMOUNT.png" group-title="MALAYSIA",MY Paramount
 http://livetvbox.live:8080/live/Carlos/Carlos/143128.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY TLC
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/TLC.png" group-title="MALAYSIA",MY TLC
 http://livetvbox.live:8080/live/Carlos/Carlos/143140.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY tvN Movies
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TVN-MOVIES.png" group-title="MALAYSIA",MY tvN Movies
 http://livetvbox.live:8080/live/Carlos/Carlos/143154.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="MALAYSIA",MY Warner TV
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="MALAYSIA",MY Warner TV
 http://livetvbox.live:8080/live/Carlos/Carlos/143159.ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg" group-title="MALAYSIA",MY WWE Network
 http://livetvbox.live:8080/live/Carlos/Carlos/143160.ts
