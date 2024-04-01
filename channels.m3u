@@ -391,7 +391,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724268&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925277&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_2_uk.png" group-title="OSN",HISTORY 2
 http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=60919&extension=ts
-#EXTINF:-1  tvg-id="history.sa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6b57b06e70829b1d9aed1d7a04dcc28d.png" group-title="OSN",HISTORY
+#EXTINF:-1  tvg-id="history.sa" tvg-logo="http://b1g.fun/logos2/history_tv18.jpg" group-title="OSN",HISTORY
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925276&extension=ts
 #EXTINF:-1  tvg-id="OSNKidzone.ae" tvg-logo="https://i.imgur.com/daWpHrl.png" group-title="OSN",KID ZONE
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=933634&extension=ts
@@ -421,7 +421,7 @@ http://server.sibfungold.info:8080/gazi2po2/@sq1zpg7B9Rpo2@/50836
 http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97940&extension=ts
 #EXTINF:-1  tvg-id="NickJr.sa" tvg-logo="http://content.osn.com/logo/channel/cropped/NJR.png" group-title="OSN",NICK JR
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925264&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" group-title="OSN",NICK
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="OSN",NICK
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925263&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_toons_uk.png" group-title="OSN",NICKTOONS
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925262&extension=ts
@@ -787,7 +787,7 @@ http://livetvbox.live:8080/live/Carlos/Carlos/143140.ts
 http://livetvbox.live:8080/live/Carlos/Carlos/143154.ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="MALAYSIA",MY Warner TV
 http://livetvbox.live:8080/live/Carlos/Carlos/143159.ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg" group-title="MALAYSIA",MY WWE Network
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/WWE.png" group-title="MALAYSIA",MY WWE Network
 http://livetvbox.live:8080/live/Carlos/Carlos/143160.ts
 #EXTINF:-1  tvg-id="BBCEarth.ca" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="CANADA",BBC EARTH HD
 http://dieselhosting.xyz:83/27378097/97629514/761361
@@ -921,9 +921,9 @@ http://fortv.cc:8080/Test/Test/7323
 http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/73.ts
 #EXTINF:-1  tvg-id="FoodNetwork.us" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-NETWORK-HD.jpg" group-title="US",FOOD NETWORK
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469386&extension=ts&play_token=tg9HJp6AMh
-#EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/HGTV-HD.png" group-title="US",HGTV
+#EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="US",HGTV
 http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/92.ts
-#EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/HGTV-HD.png" group-title="US",HGTV
+#EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="US",HGTV
 http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/91.ts
 #EXTINF:-1  tvg-id="NatGeo.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="US",NAT GEO
 http://kstv.us:8080/live/A5fmpZqDfG/5468440902/22503.ts
