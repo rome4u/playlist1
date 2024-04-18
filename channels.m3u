@@ -4,7 +4,7 @@ http://rayantv.org/play/live.php?mac=00:1A:79:1D:11:64&stream=731824&extension=t
 #EXTINF:-1  tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/bN2R2se.png" group-title="PH",CCTN 47
 http://mag.abcdxyz.one:8080/play/live.php?mac=00:1A:79:A3:90:50&stream=176637&extension=ts
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
-http://vstream.vip:2889/live/ShanZaiTV-Trial/ShanZaiTV-Trial/8.ts
+https://catty.wtf/kapuso/stream/index.m3u8?code=free
 #EXTINF:-1  tvg-id="one.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a2/One_Logo_2020.png" group-title="PH",ONE PH
 https://catty.wtf/cignalplay/oneph/index.m3u8
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
