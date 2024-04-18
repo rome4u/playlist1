@@ -6,7 +6,7 @@ http://mag.abcdxyz.one:8080/play/live.php?mac=00:1A:79:A3:90:50&stream=176637&ex
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 http://vstream.vip:2889/live/ShanZaiTV-Trial/ShanZaiTV-Trial/8.ts
 #EXTINF:-1  tvg-id="one.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a2/One_Logo_2020.png" group-title="PH",ONE PH
-http://rayantv.org/play/live.php?mac=00:1A:79:17:19:4A&stream=731816&extension=ts
+https://catty.wtf/cignalplay/oneph/index.m3u8
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=500966&extension=ts&play_token=6cvxk2jayo
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
@@ -26,9 +26,9 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614392&extension=
 #EXTINF:-1  tvg-id="cinema1.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="PH",CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 #EXTINF:-1  tvg-id="hbo.us" tvg-logo="https://i.imgur.com/yOisynC.png" group-title="PH",HBO
-http://fpt.vthanhtivi.pw/hbo/tracks-v1a1/mono.m3u8
+https://catty.wtf/cignalplay/hbo/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/f5GhsQz.jpg" group-title="PH",CINEMAX
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/16.m3u8
+https://catty.wtf/cignalplay/cinemax/index.m3u8
 #EXTINF:-1  tvg-id="fightsportstv.us" tvg-logo="https://i.imgur.com/xZEkgQd.png" group-title="PH",FIGHT SPORTS
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/18.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",TBN INSPIRE
@@ -57,12 +57,10 @@ http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/32.m3u8
 http://rayantv.org/play/live.php?mac=00:1A:79:1D:11:64&stream=926201&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/TE9MEV1.png" group-title="PH",BBC EARTH
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=612405&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",FP INFORMATION
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/34.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/NNWRcgJ.png" group-title="PH",CRIME INVESTIGATION
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/35.m3u8
 #EXTINF:-1  tvg-id="premiersports.ph" tvg-logo="https://i.imgur.com/xZEkgQd.png" group-title="PH",PREMIERE SPORTS
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/36.m3u8
+https://catty.wtf/cignalplay/premiersports/index.m3u8
 #EXTINF:-1  tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="PH",ANC
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=743354&extension=ts&play_token=6cvxk2jayo
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/qDoqaeW.png" group-title="PH",CNN
@@ -126,17 +124,17 @@ http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/85.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france/BABYTV-1.png" group-title="PH",BABY TV
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/86.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/GkqXZWH.png" group-title="PH",HGTV
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/87.m3u8
+https://catty.wtf/cignalplay/hgtv/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/raiitalia.png" group-title="PH",RAI ITALIA
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/90.m3u8
 #EXTINF:-1  tvg-id="celestialmoviespinoy.ph" tvg-logo="https://i.imgur.com/9njJ485.png" group-title="PH",LOTUS MACAU
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/91.m3u8
+https://catty.wtf/cignalplay/lotusmacau/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/w6vs1k5.png" group-title="PH",NHK WORLD
 http://rayantv.org/play/live.php?mac=00:1A:79:17:19:4A&stream=926209&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/2i4ewDo.png" group-title="PH",INC TV
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/93.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="PH",FRANCE 24
-http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+https://catty.wtf/cignalplay/france24/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/fashiontv.png" group-title="PH",FASHION TV
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614336&extension=ts
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="LOCAL CABLE TV",A2Z
@@ -156,7 +154,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=6
 #EXTINF:-1  tvg-id="gmapinoytv.ph" tvg-logo="https://i.imgur.com/o3YtMvf.png" group-title="LOCAL CABLE TV",GTV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=7
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=8
+https://catty.wtf/cignalplay/tv5/index.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:B3:B6:84&stream=463668&extension=ts
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
@@ -172,29 +170,29 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=10
 #EXTINF:-1  tvg-id="kapamilyachannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="LOCAL CABLE TV",KAPAMILYA
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=11
 #EXTINF:-1  tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/EPZexd1.png" group-title="LOCAL CABLE TV",PBO
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=12
+https://catty.wtf/cignalplay/pbo/index.m3u8
 #EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/B2tSHap.png" group-title="LOCAL CABLE TV",VIVA CINEMA
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=13
+https://catty.wtf/cignalplay/vivacinema/index.m3u8
 #EXTINF:-1  tvg-id="Cinema1Philippines.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="LOCAL CABLE TV",CINEMA ONE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=14
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/yOisynC.png" group-title="LOCAL CABLE TV",HBO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="LOCAL CABLE TV",CINEMAX
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
+https://catty.wtf/cignalplay/cinemax/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/MJYn4Sy.png" group-title="LOCAL CABLE TV",FIGHT SPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
 #EXTINF:-1  tvg-id="WarnerTVPhilippines.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="LOCAL CABLE TV",WARNER BROS
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21
+https://catty.wtf/cignalplay/warnertv/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/JLFjN7m.png" group-title="LOCAL CABLE TV",HITS MOVIES
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614401&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/l59A9P0.png" group-title="LOCAL CABLE TV",DREAMWORKS
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=23
+https://catty.wtf/cignalplay/dreamworks/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/fqUH9EX.jpg" group-title="LOCAL CABLE TV",ANIMAX
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=24
+https://catty.wtf/cignalplay/animax/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/38Ah9Dg.png" group-title="LOCAL CABLE TV",NICK JR
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=27
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-3d-png-13.png" group-title="LOCAL CABLE TV",NICKELODEON
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=28
+https://catty.wtf/cignalplay/nickelodeon/index.m3u8
 #EXTINF:-1  tvg-id="CartoonNetworkPhilippines.ph" tvg-logo="https://i.imgur.com/2DGX8N7.png" group-title="LOCAL CABLE TV",CARTOON NETWORK
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" group-title="LOCAL CABLE TV",BOOMERANG
@@ -1009,13 +1007,19 @@ http://user.scalecdn.co:8080/live/43560245/01453157/2159.ts
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=577897&extension=ts&play_token=t3FWnILIqo
 #EXTINF:-1  tvg-id="travelxp.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/647.jpg" group-title="UK",TRAVEL XP.
 https://zeestb1.online/push4k.php?id=729
+#EXTINF:-1  tvg-id="us_animalplanet.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",ANIMAL PLANET_FHD
+http://zeestb1.online/dhoom.php?id=6392
+#EXTINF:-1  tvg-id="us_cnn.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",US CNN 4K
+http://zeestb1.online/dhoom.php?id=8686
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://kstv.us:8080/live/A5fmpZqDfG/5468440902/15920.ts
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/56.ts
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=692993&extension=ts&play_token=esjbxwH8kY
-#EXTINF:-1  tvg-id="us_discoverychannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",US_DISCOVERY CHNNEL_FHD
+#EXTINF:-1  tvg-id="us_discoverychannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",DISCOVERY CHNNEL_FHD
+http://zeestb1.online/dhoom.php?id=10909
+#EXTINF:-1  tvg-id="us_discoverychannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",DISCOVERY CHNNEL_FHD
 http://zeestb1.online/dhoom.php?id=10909
 #EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="US",DISCOVERY SCIENCE
 http://kstv.us:8080/live/A5fmpZqDfG/5468440902/15961.ts
@@ -1049,6 +1053,8 @@ http://fortv.cc:8080/Test/Test/7323
 http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/73.ts
 #EXTINF:-1  tvg-id="FoodNetwork.us" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-NETWORK-HD.jpg" group-title="US",FOOD NETWORK
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469386&extension=ts&play_token=tg9HJp6AMh
+#EXTINF:-1  tvg-id="us_foodnetwork.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",FOOD NETWORK _FHD
+http://zeestb1.online/dhoom.php?id=6385
 #EXTINF:-1  tvg-id="FoodNetwork.us" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-NETWORK-HD.jpg" group-title="US",FOOD NETWORK
 http://zeestb1.online/ditto.php?id=1881
 #EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="US",HGTV
@@ -1059,6 +1065,8 @@ http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/91.ts
 http://zeestb1.online/dhoom.php?id=6369
 #EXTINF:-1  tvg-id="us_hgtv.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",US_HGTV_FHD
 http://zeestb1.online/dhoom.php?id=6370
+#EXTINF:-1  tvg-id="us_lifetimenetwork.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",US_LIFETIME_4K
+http://zeestb1.online/dhoom.php?id=6376
 #EXTINF:-1  tvg-id="us_travel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",US_TRAVEL USA _FHD
 http://zeestb1.online/dhoom.php?id=6148
 #EXTINF:-1  tvg-id="us_animalplanet.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",US_ANIMAL PLANET_FHD
@@ -1087,3 +1095,5 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469409&
 http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/154.ts
 #EXTINF:-1  tvg-id="TravelChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="US",TRAVEL CHANNEL
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469438&extension=ts&play_token=aJFEG4Mg3g
+#EXTINF:-1  tvg-id="us_travel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",TRAVEL USA _FHD
+http://zeestb1.online/dhoom.php?id=6148
