@@ -278,7 +278,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=98
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="BEIN",ANIMAL PLANET
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862835&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="BEIN",ANIMAL PLANET
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=77012&extension=ts&play_token=0Bj8GQMcQk
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/1356726
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="BEIN",DISCOVERY SCIENCE
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:C1:59&stream=493900&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="BEIN",DISCOVERY SCIENCE
@@ -360,7 +360,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141567&exte
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=14552&extension=ts&play_token=FDMorhZoGi
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
-http://matrixtop.com:8080/SKYOTTNETWORK/ab1hPTCs/19778
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/1141567
 #EXTINF:-1  tvg-id="bbcearthenglish.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:c4:24:38&stream=862837&extension=ts&play_token=uuPS1jDhxh
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/osn_cinema1_arabic.png" group-title="OSN",CINEMA 1
@@ -374,7 +374,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724272&
 #EXTINF:-1  tvg-id="DiscoveryScience.sa" tvg-logo="http://content.osn.com/logo/channel/cropped/SCI.png" group-title="OSN",DISCOVERY SCIENCE
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925285&extension=ts
 #EXTINF:-1  tvg-id="DiscoveryScience.sa" tvg-logo="http://content.osn.com/logo/channel/cropped/SCI.png" group-title="OSN",DISCOVERY SCIENCE
-http://matrixtop.com:8080/SKYOTTNETWORK/ab1hPTCs/8821
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/925277
 #EXTINF:-1  tvg-id="DiscoveryScience.sa" tvg-logo="http://content.osn.com/logo/channel/cropped/SCI.png" group-title="OSN",DISCOVERY SCIENCE
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724271&extension=ts&play_token=yX7ETL546O
 #EXTINF:-1  tvg-id="discovery.sa" tvg-logo="http://starsat123.com:8080/images/1068c6e4c8051cfd4e9ea8072e3189e2.png" group-title="OSN",DISCOVERY
@@ -388,7 +388,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=724268&
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_2_uk.png" group-title="OSN",HISTORY 2
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925277&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_2_uk.png" group-title="OSN",HISTORY 2
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=60919&extension=ts
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/925277
 #EXTINF:-1  tvg-id="history.sa" tvg-logo="http://b1g.fun/logos2/history_tv18.jpg" group-title="OSN",HISTORY
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925276&extension=ts
 #EXTINF:-1  tvg-id="OSNKidzone.ae" tvg-logo="https://i.imgur.com/daWpHrl.png" group-title="OSN",KID ZONE
@@ -436,7 +436,7 @@ http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161913&extensio
 #EXTINF:-1  tvg-id="sonybbcearthhd.in" tvg-logo="http://b1g.fun/logos2/sony_bbc_earthhd.jpg" group-title="INDIA",SONY BBC EARTH
 http://livetvbox.live:8080/live/Carlos/Carlos/174.ts
 #EXTINF:-1  tvg-id="sonybbcearthhd.in" tvg-logo="http://b1g.fun/logos2/sony_bbc_earthhd.jpg" group-title="INDIA",SONY BBC EARTH
-http://zeestb1.online/dhoom.php?id=10601
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/1118064
 #EXTINF:-1  tvg-id="discoveryhd.in" tvg-logo="http://b1g.fun/logos2/discoveryhd.jpg" group-title="INDIA",DISCOVERY
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=161851&extension=ts
 #EXTINF:-1  tvg-id="discoveryhd.in" tvg-logo="http://b1g.fun/logos2/discoveryhd.jpg" group-title="INDIA",DISCOVERY
@@ -876,7 +876,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=626961&
 #EXTINF:-1  tvg-id="DiscoveryScience.ca" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="CANADA",DISCOVERY SCIENCE
 http://tghm.net/166497009276484/1593574628/37096
 #EXTINF:-1  tvg-id="DiscoveryScience.ca" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="CANADA",DISCOVERY SCIENCE
-http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=69592&extension=ts
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/20596
 #EXTINF:-1  tvg-id="FoodNetwork.ca" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="CANADA",FOOD NETWORK
 http://likea8bitboss.xyz:80/jwright22/1283946507/761439
 #EXTINF:-1  tvg-id="FoodNetwork.ca" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="CANADA",FOOD NETWORK
@@ -932,7 +932,7 @@ http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=11863&extension
 #EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303711&extension=ts
 #EXTINF:-1  tvg-id="discoverychannel.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/448.jpg" group-title="UK",DISCOVERY
-https://zeestb1.online/push4k.php?id=479
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/30549
 #EXTINF:-1  tvg-id="uka_discoverychannel.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY
 http://zeestb1.online/dhoom.php?id=5658
 #EXTINF:-1  tvg-id="DiscoveryHistory.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhistory.png" group-title="UK",DISCOVERY HISTORY
@@ -946,7 +946,7 @@ http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2924
 #EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
 http://user.scalecdn.co:8080/live/43560245/01453157/2300.ts
 #EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
-http://dieselhosting.xyz:83/27378097/97629514/761248
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/45281
 #EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=11862&extension=ts
 #EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
@@ -970,7 +970,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=577885&
 #EXTINF:-1  tvg-id="DiscoveryTurbo.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" group-title="UK",DISCOVERY TURBO
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303707&extension=ts
 #EXTINF:-1  tvg-id="discoveryturbo.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/450.jpg" group-title="UK",DISCOVERY TURBO
-https://zeestb1.online/push4k.php?id=481
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/45279
 #EXTINF:-1  tvg-id="uka_discoveryturbo.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY TURBO
 http://zeestb1.online/dhoom.php?id=5661
 #EXTINF:-1  tvg-id="crimeandinvestigationnetwork.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/453.jpg" group-title="UK",CRIME INVESTIGATION
@@ -984,7 +984,7 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=20175&extension=t
 #EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NAT GEO
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=58612&extension=ts
 #EXTINF:-1  tvg-id="natgeo.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/454.jpg" group-title="UK",NATIONAL GEOGRAPHIC
-https://zeestb1.online/push4k.php?id=485
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/30526
 #EXTINF:-1  tvg-id="uka_natgeo.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",NATIONAL GEOGRAPHIC
 http://zeestb1.online/dhoom.php?id=8064
 #EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
@@ -996,7 +996,7 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=11856&extension=t
 #EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=58611&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/455.jpg" group-title="UK",NAT GEO WILD
-https://zeestb1.online/push4k.php?id=486
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/30525
 #EXTINF:-1  tvg-id="uka_natgeowild.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",NAT GEO WILD
 http://zeestb1.online/dhoom.php?id=7630
 #EXTINF:-1  tvg-id="history2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/451.jpg" group-title="UK",HISTORY 1
@@ -1004,7 +1004,7 @@ http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2908
 #EXTINF:-1  tvg-id="skyhistory2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/452.jpg" group-title="UK",HISTORY 2
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/28809
 #EXTINF:-1  tvg-id="TravelChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.png" group-title="UK",TRAVEL CHANNEL
-http://user.scalecdn.co:8080/live/43560245/01453157/2159.ts
+http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/79718
 #EXTINF:-1  tvg-id="TravelChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.png" group-title="UK",TRAVEL CHANNEL
 http://user.scalecdn.co:8080/live/43560245/01453157/2159.ts
 #EXTINF:-1  tvg-id="TravelChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.png" group-title="UK",TRAVEL CHANNEL
