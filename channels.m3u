@@ -192,9 +192,9 @@ https://catty.wtf/cignalplay/animax/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/38Ah9Dg.png" group-title="LOCAL CABLE TV",NICK JR
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=27
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-3d-png-13.png" group-title="LOCAL CABLE TV",NICKELODEON
-https://catty.wtf/cignalplay/nickelodeon/index.m3u8
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=176649&extension=ts
 #EXTINF:-1  tvg-id="CartoonNetworkPhilippines.ph" tvg-logo="https://i.imgur.com/2DGX8N7.png" group-title="LOCAL CABLE TV",CARTOON NETWORK
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=176695&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" group-title="LOCAL CABLE TV",BOOMERANG
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 #EXTINF:-1  tvg-id="TAPSports.ph" tvg-logo="https://i.imgur.com/EEDMg6S.png" group-title="LOCAL CABLE TV",TAP SPORTS
@@ -220,9 +220,9 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=42
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/hiB3zuk.png" group-title="LOCAL CABLE TV",CNBC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/BLOOMBERG.png" group-title="LOCAL CABLE TV",BLOOMBERG
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=173850&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="LOCAL CABLE TV",DISCOVERY
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=176683&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="LOCAL CABLE TV",DISCOVERY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=845999&extension=ts&play_token=iSm6BQVtyX
 #EXTINF:-1  tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="LOCAL CABLE TV",DISCOVERY ASIA
@@ -916,7 +916,7 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=11901&extension=t
 #EXTINF:-1  tvg-id="FoodNetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="UK",FOOD NETWORK
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303713&extension=ts
 #EXTINF:-1  tvg-id="foodnetwork.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/644.jpg" group-title="UK",FOODNETWORK
-https://zeestb1.online/push4k.php?id=726
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97097&extension=ts
 #EXTINF:-1  tvg-id="foodnetwork.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/644.jpg" group-title="UK",FOODNETWORK
 http://zeestb1.online/dhoom.php?id=7449
 #EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
@@ -954,7 +954,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=577886&
 #EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303708&extension=ts
 #EXTINF:-1  tvg-id="discoveryscience.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/449.jpg" group-title="UK",DISCOVERY SCIENCE
-https://zeestb1.online/push4k.php?id=480
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97097&extension=ts
 #EXTINF:-1  tvg-id="uka_discoveryscience.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY SCIENCE
 http://zeestb1.online/dhoom.php?id=9679
 #EXTINF:-1  tvg-id="uka_discoveryscience.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY SCIENCE
@@ -972,21 +972,21 @@ http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303707&extensi
 #EXTINF:-1  tvg-id="discoveryturbo.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/450.jpg" group-title="UK",DISCOVERY TURBO
 http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/45279
 #EXTINF:-1  tvg-id="uka_discoveryturbo.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY TURBO
-http://zeestb1.online/dhoom.php?id=5661
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97094&extension=ts
 #EXTINF:-1  tvg-id="crimeandinvestigationnetwork.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/453.jpg" group-title="UK",CRIME INVESTIGATION
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2927
-#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NAT GEO
+#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2893
-#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NAT GEO
+#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=577909&extension=ts&play_token=QHSIhl1hYB
-#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NAT GEO
+#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=20175&extension=ts
-#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NAT GEO
+#EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=58612&extension=ts
 #EXTINF:-1  tvg-id="natgeo.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/454.jpg" group-title="UK",NATIONAL GEOGRAPHIC
 http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/30526
 #EXTINF:-1  tvg-id="uka_natgeo.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",NATIONAL GEOGRAPHIC
-http://zeestb1.online/dhoom.php?id=8064
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97089&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/28950
 #EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
@@ -998,7 +998,7 @@ http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=58611&extensio
 #EXTINF:-1  tvg-id="natgeowild.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/455.jpg" group-title="UK",NAT GEO WILD
 http://4ksuper.live/0b14WRvtZckx/oW40Zf4h4t/30525
 #EXTINF:-1  tvg-id="uka_natgeowild.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",NAT GEO WILD
-http://zeestb1.online/dhoom.php?id=7630
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97088&extension=ts
 #EXTINF:-1  tvg-id="history2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/451.jpg" group-title="UK",HISTORY 1
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2908
 #EXTINF:-1  tvg-id="skyhistory2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/452.jpg" group-title="UK",HISTORY 2
@@ -1014,13 +1014,13 @@ https://zeestb1.online/push4k.php?id=729
 #EXTINF:-1  tvg-id="us_animalplanet.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",ANIMAL PLANET
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3161
 #EXTINF:-1  tvg-id="us_animalplanet.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",ANIMAL PLANET
-http://zeestb1.online/dhoom.php?id=6392
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61426&extension=ts
 #EXTINF:-1  tvg-id="us_cnn.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",CNN
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3147
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3143
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
-http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/56.ts
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61415&extension=ts
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=692993&extension=ts&play_token=esjbxwH8kY
 #EXTINF:-1  tvg-id="us_discoverychannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",DISCOVERY
@@ -1036,7 +1036,7 @@ http://user.scalecdn.co:8080/live/1010/1010/3679.ts
 #EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="US",DISCOVERY SCIENCE
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469374&extension=ts&play_token=caAZyOjKRg
 #EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="US",DISCOVERY SCIENCE
-http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/136.ts
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61414&extension=ts
 #EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="US",DISCOVERY SCIENCE
 http://tghm.net/166497009276484/1593574628/64277
 #EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="US",DISCOVERY SCIENCE
@@ -1066,7 +1066,7 @@ http://zeestb1.online/ditto.php?id=1881
 #EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="US",HGTV
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3119
 #EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="US",HGTV
-http://ptvja.xyz:8080/live/Jokertv2022/MMGYJA4WSh/91.ts
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61394&extension=ts
 #EXTINF:-1  tvg-id="us_hgtv.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",HGTV
 http://zeestb1.online/dhoom.php?id=6370
 #EXTINF:-1  tvg-id="us_historychannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",HISTORY
@@ -1076,7 +1076,7 @@ http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3115
 #EXTINF:-1  tvg-id="us_investigationdiscovery.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",INVESTIGATION DISCOVERY
 http://zeestb1.online/dhoom.php?id=6398
 #EXTINF:-1  tvg-id="us_natgeo.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",NAT GEO
-http://zeestb1.online/dhoom.php?id=10906
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61388&extension=ts
 #EXTINF:-1  tvg-id="NatGeo.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="US",NAT GEO
 http://kstv.us:8080/live/A5fmpZqDfG/5468440902/22503.ts
 #EXTINF:-1  tvg-id="NatGeo.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="US",NAT GEO
@@ -1086,7 +1086,7 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469407&
 #EXTINF:-1  tvg-id="NatGeo.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="US",NAT GEO
 http://tghm.net/166497009276484/1593574628/64123
 #EXTINF:-1  tvg-id="us_natgeowild.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",NAT GEO WILD
-http://zeestb1.online/dhoom.php?id=10135
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61389&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographicwild.png" group-title="US",NAT GEO WILD
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/30060
 #EXTINF:-1  tvg-id="NatGeoWild.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographicwild.png" group-title="US",NAT GEO WILD
