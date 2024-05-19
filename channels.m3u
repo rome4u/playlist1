@@ -20,13 +20,13 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614392&extension=
 #EXTINF:-1  tvg-id="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/Ul01HsD.png" group-title="PH",KAPAMILYA
 http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=31053&extension=ts
 #EXTINF:-1  tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/EPZexd1.png" group-title="PH",PBO
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:17:19:4A&stream=731812&extension=ts
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16701
 #EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/B2tSHap.png" group-title="PH",VIVA CINEMA
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614392&extension=ts
 #EXTINF:-1  tvg-id="cinema1.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="PH",CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 #EXTINF:-1  tvg-id="hbo.us" tvg-logo="https://i.imgur.com/yOisynC.png" group-title="PH",HBO
-https://catty.wtf/cignalplay/hbo/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16788
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/f5GhsQz.jpg" group-title="PH",CINEMAX
 https://catty.wtf/cignalplay/cinemax/index.m3u8
 #EXTINF:-1  tvg-id="fightsportstv.us" tvg-logo="https://i.imgur.com/xZEkgQd.png" group-title="PH",FIGHT SPORTS
@@ -76,11 +76,11 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614413&extension=
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/hiB3zuk.png" group-title="PH",CNBC
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/43.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izJbM.zx_eGg/v0/-1x-1.png" group-title="PH",BLOOMBERG
-http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:A3:90:50&stream=173850&extension=ts
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16785
 #EXTINF:-1  tvg-id="discoverychannel.ph" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="PH",DISCOVERY
-http://livetvbox.live:8080/live/Carlos/Carlos/151048.ts
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16723
 #EXTINF:-1  tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="PH",DISCOVERY ASIA
-http://livetvbox.live:8080/live/Carlos/Carlos/150976.ts
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16773
 #EXTINF:-1  tvg-id="tlc.ph" tvg-logo="https://i.imgur.com/pctLJw5.jpg" group-title="PH",TLC
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:17:19:4A&stream=731795&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/gY1eLYC.png" group-title="PH",EUROSPORTS
@@ -94,7 +94,7 @@ http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/51.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/BkoC446.png" group-title="PH",HISTORY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=846002&extension=ts&play_token=6cvxk2jayo
 #EXTINF:-1  tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX" group-title="PH",LIFETIME
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/55.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16794
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/DLC503a.png" group-title="PH",METRO CHANNEL
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/58.m3u8
 #EXTINF:-1  tvg-id="axn.ph" tvg-logo="https://i.imgur.com/9CQdNP4.png" group-title="PH",AXN
@@ -120,11 +120,11 @@ http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/83.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/FORMOSA-TV.png" group-title="PH",FORMOSA
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/84.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TVN.png" group-title="PH",TVN
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/85.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16730
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france/BABYTV-1.png" group-title="PH",BABY TV
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/86.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/GkqXZWH.png" group-title="PH",HGTV
-https://catty.wtf/cignalplay/hgtv/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16795
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/raiitalia.png" group-title="PH",RAI ITALIA
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/90.m3u8
 #EXTINF:-1  tvg-id="celestialmoviespinoy.ph" tvg-logo="https://i.imgur.com/9njJ485.png" group-title="PH",LOTUS MACAU
@@ -137,12 +137,16 @@ http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/93.m3u8
 https://catty.wtf/cignalplay/france24/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/fashiontv.png" group-title="PH",FASHION TV
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614336&extension=ts
+#EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",RPTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="LOCAL CABLE TV",A2Z
 http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=143964&extension=ts
 #EXTINF:-1  tvg-id="ALLTV.ph" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="LOCAL CABLE TV",ALL TV
 http://nxtplay.xyz:8080/VOToKN0jZy/sAUlae8nRY/354638
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/H2IWDLJ.png" group-title="LOCAL CABLE TV",KBS
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=3
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16713
 #EXTINF:-1  tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/bN2R2se.png" group-title="LOCAL CABLE TV",CCTN 47
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=4
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="LOCAL CABLE TV",GMA 7
@@ -150,9 +154,9 @@ https://catty.wtf/kapuso/stream/index.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="LOCAL CABLE TV",GMA 7  (US VPN)
 http://ciao.ok2.se:80/live/rupinder/rupinder/82746.m3u8
 #EXTINF:-1  tvg-id="OnePH.ph" tvg-logo="https://i.imgur.com/BKPsyQV.png" group-title="LOCAL CABLE TV",ONE PH
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=6
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16705
 #EXTINF:-1  tvg-id="gmapinoytv.ph" tvg-logo="https://i.imgur.com/o3YtMvf.png" group-title="LOCAL CABLE TV",GTV
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=7
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
@@ -160,7 +164,7 @@ http://45.139.122.199:80/play/live.php?mac=00:1A:79:B3:B6:84&stream=463668&exten
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
 http://live.lordstreams.co:8080/832396166/1982148236/567748
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
-http://watchtv.best:80/play/live.php?mac=00:1a:79:f1:af:88&stream=926150&extension=ts&play_token=g5hx3g8dkx
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16686
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=743352&extension=ts&play_token=3NIQzl3GI1
 #EXTINF:-1  tvg-id="TagalizedMovieChannel.ph" tvg-logo="https://i.imgur.com/C20Yym6.png" group-title="LOCAL CABLE TV",TMC
@@ -172,13 +176,13 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=11
 #EXTINF:-1  tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/EPZexd1.png" group-title="LOCAL CABLE TV",PBO
 https://catty.wtf/cignalplay/pbo/index.m3u8
 #EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/B2tSHap.png" group-title="LOCAL CABLE TV",VIVA CINEMA
-https://catty.wtf/cignalplay/vivacinema/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16684
 #EXTINF:-1  tvg-id="Cinema1Philippines.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="LOCAL CABLE TV",CINEMA ONE
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16728
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/yOisynC.png" group-title="LOCAL CABLE TV",HBO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="LOCAL CABLE TV",CINEMAX
-https://catty.wtf/cignalplay/cinemax/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16704
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/MJYn4Sy.png" group-title="LOCAL CABLE TV",FIGHT SPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
 #EXTINF:-1  tvg-id="WarnerTVPhilippines.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="LOCAL CABLE TV",WARNER BROS
@@ -188,7 +192,7 @@ http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614401&extension=
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/l59A9P0.png" group-title="LOCAL CABLE TV",DREAMWORKS
 https://catty.wtf/cignalplay/dreamworks/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/fqUH9EX.jpg" group-title="LOCAL CABLE TV",ANIMAX
-https://catty.wtf/cignalplay/animax/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16734
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/38Ah9Dg.png" group-title="LOCAL CABLE TV",NICK JR
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=27
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-3d-png-13.png" group-title="LOCAL CABLE TV",NICKELODEON
@@ -196,15 +200,15 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=17664
 #EXTINF:-1  tvg-id="CartoonNetworkPhilippines.ph" tvg-logo="https://i.imgur.com/2DGX8N7.png" group-title="LOCAL CABLE TV",CARTOON NETWORK
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=176695&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" group-title="LOCAL CABLE TV",BOOMERANG
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16749
 #EXTINF:-1  tvg-id="TAPSports.ph" tvg-logo="https://i.imgur.com/EEDMg6S.png" group-title="LOCAL CABLE TV",TAP SPORTS
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16780
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/TE9MEV1.png" group-title="LOCAL CABLE TV",BBC EARTH
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/NNWRcgJ.png" group-title="LOCAL CABLE TV",CRIME INVESTIGATION
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=35
 #EXTINF:-1  tvg-id="PremierSports.ph" tvg-logo="https://i.imgur.com/mmbjFjS.png" group-title="LOCAL CABLE TV",PREMIERE SPORTS
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=36
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16771
 #EXTINF:-1  tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="LOCAL CABLE TV",ANC
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=37
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/qDoqaeW.png" group-title="LOCAL CABLE TV",CNN
@@ -228,31 +232,31 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=845999&
 #EXTINF:-1  tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="LOCAL CABLE TV",DISCOVERY ASIA
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614321&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/l4pFww5.png" group-title="LOCAL CABLE TV",TLC
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=47
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16689
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/gY1eLYC.png" group-title="LOCAL CABLE TV",EUROSPORTS
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/QF3FRDl.png" group-title="LOCAL CABLE TV",ANIMAL PLANET
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=49
 #EXTINF:-1  tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="LOCAL CABLE TV",ONE SPORTS
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=50
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16768
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/8X4jiMY.png" group-title="LOCAL CABLE TV",NATGEO WILD
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=51
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/BkoC446.png" group-title="LOCAL CABLE TV",HISTORY
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=53
 #EXTINF:-1  tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX" group-title="LOCAL CABLE TV",LIFETIME
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=55
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16794
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/PJZmoyW.png" group-title="LOCAL CABLE TV",ROCK EXTREME
-http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/463654
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16753
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/x7CmyAf.png" group-title="LOCAL CABLE TV",ROCK ENTERTAINMENT
-http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/463653
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16774
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/DLC503a.png" group-title="LOCAL CABLE TV",METRO CHANNEL
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=58
 #EXTINF:-1  tvg-id="AXNPhilippines.ph" tvg-logo="https://i.imgur.com/Dj6tVaG.png" group-title="LOCAL CABLE TV",AXN
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=62
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16732
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/800px-Asian_Food_Network.svg.png" group-title="LOCAL CABLE TV",ASIAN FOOD CHANNEL
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16735
 #EXTINF:-1  tvg-id="NationalGeographicPhilippines.ph" tvg-logo="https://i.imgur.com/a93uoxX.png" group-title="LOCAL CABLE TV",NATIONAL GEOGRAPHIC
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=64
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16765
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/U6E3KGF.png" group-title="LOCAL CABLE TV",MTV LIVE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
 #EXTINF:-1  tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/CN92Z63.png" group-title="LOCAL CABLE TV",MYX
@@ -266,9 +270,9 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=79
 #EXTINF:-1  tvg-id="NBATVPhilippines.ph" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="LOCAL CABLE TV",NBA TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/GkqXZWH.png" group-title="LOCAL CABLE TV",HGTV
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=87
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16795
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/w6vs1k5.png" group-title="LOCAL CABLE TV",NHK WORLD
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=92
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16766
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/2i4ewDo.png" group-title="LOCAL CABLE TV",INC TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=93
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="LOCAL CABLE TV",FRANCE 24
