@@ -3,12 +3,16 @@
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:1D:11:64&stream=731824&extension=ts
 #EXTINF:-1  tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/bN2R2se.png" group-title="PH",CCTN 47
 http://mag.abcdxyz.one:8080/play/live.php?mac=00:1A:79:A3:90:50&stream=176637&extension=ts
+#EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
+https://ucanfindme18.serv00.net/gma.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7 (US VPN)
 http://ciao.ok2.se/live/rupinder/rupinder/82746.ts
 #EXTINF:-1  tvg-id="one.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a2/One_Logo_2020.png" group-title="PH",ONE PH
 https://catty.wtf/cignalplay/oneph/index.m3u8
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=500966&extension=ts&play_token=6cvxk2jayo
+#EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_6.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463668&extension=m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
@@ -160,7 +164,7 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
-http://45.139.122.199:80/play/live.php?mac=00:1A:79:B3:B6:84&stream=463668&extension=ts
+https://ucanfindme18.serv00.net/tv5.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
 http://live.lordstreams.co:8080/832396166/1982148236/567748
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="LOCAL CABLE TV",TV5
