@@ -234,7 +234,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=17668
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="LOCAL CABLE TV",DISCOVERY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=845999&extension=ts&play_token=iSm6BQVtyX
 #EXTINF:-1  tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="LOCAL CABLE TV",DISCOVERY ASIA
-http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614321&extension=ts
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_1000000=3.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/l4pFww5.png" group-title="LOCAL CABLE TV",TLC
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16689
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/gY1eLYC.png" group-title="LOCAL CABLE TV",EUROSPORTS
@@ -860,7 +860,7 @@ http://livetvbox.live:8080/live/Carlos/Carlos/143160.ts
 #EXTINF:-1  tvg-id="BBCEarth.ca" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="CANADA",BBC EARTH HD
 http://likea8bitboss.xyz:80/jwright22/1283946507/761361
 #EXTINF:-1  tvg-id="BBCEarth.ca" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="CANADA",BBC EARTH HD
-http://6oclock.xyz/oVTsSvYjZu/cAXDNm9LY9/930647
+http://6oclock.xyz/9rpAZwWZT9/zaGl252Y2w/930647
 #EXTINF:-1  tvg-id="BBCEarth.ca" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="CANADA",BBC EARTH HD
 http://user.scalecdn.co:8080/live/43560245/01453157/88022.ts
 #EXTINF:-1  tvg-id="BBCEarth.ca" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="CANADA",BBC EARTH HD
