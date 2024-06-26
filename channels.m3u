@@ -6,7 +6,7 @@ http://mag.abcdxyz.one:8080/play/live.php?mac=00:1A:79:A3:90:50&stream=176637&ex
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
-http://vstream.vip:2889/live/658E7A4A614442F31C46A7C91745A0C4/23
+http://45.89.149.2/stream/kapamilya/gma/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/98.m3u8
 #EXTINF:-1  tvg-id="one.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a2/One_Logo_2020.png" group-title="PH",ONE NEWS PH
@@ -14,7 +14,7 @@ http://117tv.icu:8080/X5xRz0/944877/101774
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
-http://vstream.vip:2889/live/658E7A4A614442F31C46A7C91745A0C4/1
+http://45.89.149.2/stream/kapamilya/gtv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_15.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
@@ -23,12 +23,18 @@ http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66821
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16777
 #EXTINF:-1  tvg-id="tfc.ph" tvg-logo="https://i.imgur.com/clLvNmC.jpg" group-title="PH",TMC
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16751
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/ibc-ph.png" group-title="PH",IBC
+http://45.89.149.2/stream/kapamilya/ibc/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="tfc.ph" tvg-logo="https://i.imgur.com/clLvNmC.jpg" group-title="PH",TMC
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/102.m3u8
+#EXTINF:-1  tvg-id="tfc.ph" tvg-logo="https://i.imgur.com/clLvNmC.jpg" group-title="PH",TMC
+http://45.89.149.2/stream/kapamilya/tmc/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="cnn.ph" tvg-logo="https://i.imgur.com/Bkq6AdQ.png" group-title="PH",CNN PH
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614392&extension=ts
 #EXTINF:-1  tvg-id="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/Ul01HsD.png" group-title="PH",KAPAMILYA
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/101.m3u8
+#EXTINF:-1  tvg-id="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/Ul01HsD.png" group-title="PH",KAPAMILYA
+http://45.89.149.2/stream/kapamilya/kapamilyachannel/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/EPZexd1.png" group-title="PH",PBO
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/105.m3u8
 #EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/B2tSHap.png" group-title="PH",VIVA CINEMA
@@ -39,28 +45,46 @@ https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/f5GhsQz.jpg" group-title="PH",CINEMAX
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/110.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/f5GhsQz.jpg" group-title="PH",CINEMAX
+http://45.89.149.2/stream/kapamilya/cinemax/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="fightsportstv.us" tvg-logo="https://i.imgur.com/xZEkgQd.png" group-title="PH",FIGHT SPORTS
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/133.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",TBN INSPIRE
-http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=498612&extension=ts
 #EXTINF:-1  tvg-id="WarnerTVPhilippines.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="PH",WARNER BROS
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/173.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-ph.png" group-title="PH",HBO HD
+http://45.89.149.2/stream/kapamilya/hbohd/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-hits-ph.png" group-title="PH",HBO HITS
+http://45.89.149.2/stream/kapamilya/hbohits/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-family-ph.png" group-title="PH",HBO FAMILY
+http://45.89.149.2/stream/kapamilya/hbofamily/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-signature-ph.png" group-title="PH",HBO SIGNATURE
+http://45.89.149.2/stream/kapamilya/hbosignature/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",I HEART MOVIES
+http://45.89.149.2/stream/kapamilya/iheartmovie/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="hits.ph" tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="PH",HITS MOVIES
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:17:19:4A&stream=926174&extension=ts
 #EXTINF:-1  tvg-id="dreamworks.ph" tvg-logo="https://i.imgur.com/KjyQkZl.png" group-title="PH",DREAMWORKS
 http://hdtt3.online:3050/mbrodie4.mb@gmail.com/mhtvGxWwhi/558770
+#EXTINF:-1  tvg-id="dreamworks.ph" tvg-logo="https://i.imgur.com/KjyQkZl.png" group-title="PH",DREAMWORKS
+http://45.89.149.2/stream/kapamilya/dreamworkstagalog/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="animax.ph" tvg-logo="https://i.imgur.com/o8ScD1L.jpg" group-title="PH",ANIMAX
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:17:19:4A&stream=731865&extension=ts
+http://45.89.149.2/stream/kapamilya/animax/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="nick.ph" tvg-logo="https://i.imgur.com/FcuHt37.jpg" group-title="PH",NICK JR
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/149.m3u8
 #EXTINF:-1  tvg-id="nickelodeon.us" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-FD94620787-seeklogo.com.png" group-title="PH",NICKELODEON
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/150.m3u8
+#EXTINF:-1  tvg-id="nickelodeon.us" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-FD94620787-seeklogo.com.png" group-title="PH",NICKELODEON
+http://45.89.149.2/stream/kapamilya/nickelodeon/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="cartoonnetwork.ph" tvg-logo="https://i.imgur.com/2DGX8N7.png" group-title="PH",CARTOON NETWORK
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/145.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" group-title="PH",BOOMERANG
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614350&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/EEDMg6S.png" group-title="PH",TAP SPORTS
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16780
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",MPTV
+http://45.89.149.2/stream/kapamilya/mptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/buko-ph.png" group-title="PH",BUKO
+http://45.89.149.2/stream/kapamilya/buko/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="espn.us" tvg-logo="https://i.imgur.com/UmuSqVV.jpg" group-title="PH",ESPN
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/138.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/TE9MEV1.png" group-title="PH",BBC EARTH
@@ -75,6 +99,10 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/206.m3u8
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/qDoqaeW.png" group-title="PH",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/sari-sari-channel-ph.png" group-title="PH",SARI SARI
+http://45.89.149.2/stream/kapamilya/sarisari/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",UAAP
+http://45.89.149.2/stream/kapamilya/uaap/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/FNyEZis.png" group-title="PH",FOXNEWS
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/39.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/onQ2oxw.png" group-title="PH",BBC WORLDNEWS
@@ -123,14 +151,18 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/165.m3u8
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/164.m3u8
 #EXTINF:-1  tvg-id="PinoyXtremeChannel.ph" tvg-logo="https://i.imgur.com/cR9H6cp.png" group-title="PH",PINOY EXTREME
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/142.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/pba-rush-ph.png" group-title="PH",PBA RUSH
+http://45.89.149.2/stream/kapamilya/pbarush/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="PH",NBA TV
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/135.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",TVE
-http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/83.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="PH",NBA TV
+http://45.89.149.2/stream/kapamilya/nbaphilippines/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/FORMOSA-TV.png" group-title="PH",FORMOSA
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/84.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TVN.png" group-title="PH",TVN
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16730
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/TVN.png" group-title="PH",TVN
+http://45.89.149.2/stream/kapamilya/tvnmoviespinoy/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france/BABYTV-1.png" group-title="PH",BABY TV
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/86.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/GkqXZWH.png" group-title="PH",HGTV
@@ -149,12 +181,20 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/118.m3u8
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/194.m3u8
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
 http://hdtt3.online:3050/mbrodie4.mb@gmail.com/mhtvGxWwhi/558786
+#EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
+http://45.89.149.2/stream/kapamilya/a2z/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RPTV_%282024%29.svg/revision/latest?cb=20240228040232" group-title="PH",RPTV
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/127.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RPTV_%282024%29.svg/revision/latest?cb=20240228040232" group-title="PH",RPTV
+http://45.89.149.2/stream/kapamilya/rptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/PTV4.png" group-title="PH",PTV4
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/100.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/PTV4.png" group-title="PH",PTV4
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/PTV4.png" group-title="PH",PTV4
+http://45.89.149.2/stream/kapamilya/ptv4/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",WARNER TV
+http://45.89.149.2/stream/kapamilya/warnertv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="LOCAL CABLE TV",A2Z
 http://hdtt3.online:3050/mbrodie4.mb@gmail.com/mhtvGxWwhi/558786
 #EXTINF:-1  tvg-id="ALLTV.ph" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="LOCAL CABLE TV",ALL TV
