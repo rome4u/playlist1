@@ -62,7 +62,7 @@ http://45.89.149.2/stream/kapamilya/hbosignature/master.m3u8?u=testingnixigncode
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",I HEART MOVIES
 http://45.89.149.2/stream/kapamilya/iheartmovie/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="hits.ph" tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="PH",HITS MOVIES
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:17:19:4A&stream=926174&extension=ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:CF:0F:9A&stream=926174&extension=ts
 #EXTINF:-1  tvg-id="dreamworks.ph" tvg-logo="https://i.imgur.com/KjyQkZl.png" group-title="PH",DREAMWORKS
 http://hdtt3.online:3050/mbrodie4.mb@gmail.com/mhtvGxWwhi/558770
 #EXTINF:-1  tvg-id="dreamworks.ph" tvg-logo="https://i.imgur.com/KjyQkZl.png" group-title="PH",DREAMWORKS
@@ -88,7 +88,7 @@ http://45.89.149.2/stream/kapamilya/buko/master.m3u8?u=testingnixigncode&p=1e262
 #EXTINF:-1  tvg-id="espn.us" tvg-logo="https://i.imgur.com/UmuSqVV.jpg" group-title="PH",ESPN
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/138.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/TE9MEV1.png" group-title="PH",BBC EARTH
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:1D:11:64&stream=926201&extension=ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:CF:0F:9A&stream=926201&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/TE9MEV1.png" group-title="PH",BBC EARTH
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/158.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/NNWRcgJ.png" group-title="PH",CRIME INVESTIGATION
@@ -120,11 +120,11 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16723
 #EXTINF:-1  tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="PH",DISCOVERY ASIA
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16773
 #EXTINF:-1  tvg-id="tlc.ph" tvg-logo="https://i.imgur.com/pctLJw5.jpg" group-title="PH",TLC
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:17:19:4A&stream=731795&extension=ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:CF:0F:9A&stream=731795&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/gY1eLYC.png" group-title="PH",EUROSPORTS
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/48.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/QF3FRDl.png" group-title="PH",ANIMAL PLANET
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:17:19:4A&stream=926204&extension=ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:CF:0F:9A&stream=926204&extension=ts
 #EXTINF:-1  tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="PH",ONE SPORTS
 http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66827
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/8X4jiMY.png" group-title="PH",NATGEO WILD
@@ -138,7 +138,7 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/130.m3u8
 #EXTINF:-1  tvg-id="axn.ph" tvg-logo="https://i.imgur.com/9CQdNP4.png" group-title="PH",AXN
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614381&extension=ts
 #EXTINF:-1  tvg-id="afc.ph" tvg-logo="https://i.imgur.com/nQGLBnz.png" group-title="PH",ASIAN FOOD CHANNEL
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:1D:11:64&stream=731866&extension=ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:CF:0F:9A&stream=731866&extension=ts
 #EXTINF:-1  tvg-id="NationalGeographicPhilippines.ph" tvg-logo="https://i.imgur.com/a93uoxX.png" group-title="PH",NATIONAL GEOGRAPHIC
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16765
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/U6E3KGF.png" group-title="PH",MTV LIVE
@@ -348,11 +348,11 @@ http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97987&extensio
 #EXTINF:-1  tvg-id="beINMovies2.qa" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviesaction2hd.png" group-title="BEIN",MOVIES HD 2
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=862852&extension=ts
 #EXTINF:-1  tvg-id="beINMovies3Ar.qa" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-MOVIES-HD-3.png" group-title="BEIN",MOVIES HD 3
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1356719&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1356719&extension=ts
 #EXTINF:-1  tvg-id="beINMovies3Ar.qa" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-MOVIES-HD-3.png" group-title="BEIN",MOVIES HD 3
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=862851&extension=ts
 #EXTINF:-1  tvg-id="beINMovies4Ar.qa" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviesfamilyhd.png" group-title="BEIN",MOVIES HD 4
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1356718&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1356718&extension=ts
 #EXTINF:-1  tvg-id="beINMovies4Ar.qa" tvg-logo="http://logo.protv.cc/picons/logos/beinmoviesfamilyhd.png" group-title="BEIN",MOVIES HD 4
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=862850&extension=ts
 #EXTINF:-1  tvg-id="foxmovies.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="BEIN",FOX MOVIES
@@ -366,13 +366,13 @@ http://egysatv.com:2095/rafaatxgirgis/rs7728/148576
 #EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
 http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97991&extension=ts
 #EXTINF:-1  tvg-id="GourmetAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/beingurmehd.png" group-title="BEIN",GOURMET
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141575&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1141575&extension=ts
 #EXTINF:-1  tvg-id="gourmet.qa" tvg-logo="http://logo.protv.cc/picons/logos/beingurmehd.png" group-title="BEIN",GOURMET
 http://egysatv.com:2095/rafaatxgirgis/rs7728/148591
 #EXTINF:-1  tvg-id="BabyTVAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/babytv.png" group-title="BEIN",BABY
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141560&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1141560&extension=ts
 #EXTINF:-1  tvg-id="FoxLife.ar" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="BEIN",FOX LIFE
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141572&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1141572&extension=ts
 #EXTINF:-1  tvg-id="FoxLife.ar" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="BEIN",FOX LIFE
 http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=59460&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/foxcrimehd.png" group-title="BEIN",FOX CRIME
@@ -380,7 +380,7 @@ http://uniontvs.com:8080/SJfACdWhcH/M2UMV6uqqm/117166
 #EXTINF:-1  tvg-id="NatGeo.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="BEIN",NAT GEO
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=862834&extension=ts
 #EXTINF:-1  tvg-id="NatGeo.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="BEIN",NAT GEO
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141564&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1141564&extension=ts
 #EXTINF:-1  tvg-id="NatGeo.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="BEIN",NAT GEO
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=862834&extension=ts&play_token=E1Kx6ttUzn
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/natgeopeople.png" group-title="BEIN",NAT GEO PEOPLE
@@ -388,19 +388,19 @@ http://worldsportiptv.com:2082/live/new-dreamstar/srdetysdfghxcf/92997.ts
 #EXTINF:-1  tvg-id="NatGeoWild.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="BEIN",NAT GEO WILD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=862833&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="BEIN",NAT GEO WILD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141563&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1141563&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="BEIN",NAT GEO WILD
 http://egysatv.com:2095/rafaatxgirgis/rs7728/148570
 #EXTINF:-1  tvg-id="NatGeoWild.qa" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="BEIN",NAT GEO WILD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=862833&extension=ts&play_token=fznVLcvw2K
 #EXTINF:-1  tvg-id="StarWorld.sa" tvg-logo="http://logo.protv.cc/picons/logos/starworldhd.png" group-title="BEIN",STAR WORLD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141568&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1141568&extension=ts
 #EXTINF:-1  tvg-id="StarWorld.sa" tvg-logo="http://logo.protv.cc/picons/logos/starworldhd.png" group-title="BEIN",STAR WORLD
 http://egysatv.com:2095/rafaatxgirgis/rs7728/148575
 #EXTINF:-1  tvg-id="StarWorld.sa" tvg-logo="http://logo.protv.cc/picons/logos/starworldhd.png" group-title="BEIN",STAR WORLD
 http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=120308&extension=ts
 #EXTINF:-1  tvg-id="StarMovies.sa" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="BEIN",STAR MOVIES
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1356722&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1356722&extension=ts
 #EXTINF:-1  tvg-id="StarMovies.sa" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="BEIN",STAR MOVIES
 http://egysatv.com:2095/rafaatxgirgis/rs7728/148574
 #EXTINF:-1  tvg-id="StarMovies.sa" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="BEIN",STAR MOVIES
@@ -408,13 +408,13 @@ http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=623499&extensi
 #EXTINF:-1  tvg-id="OutdoorChannelAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/outdoorhd.png" group-title="BEIN",OUTDOOR
 http://matrixtop.com:8080/SKYOTTNETWORK/ab1hPTCs/4128
 #EXTINF:-1  tvg-id="FoodNetwork.qa" tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="BEIN",FOOD NETWORK
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1356724&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1356724&extension=ts
 #EXTINF:-1  tvg-id="FoodNetwork.qa" tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="BEIN",FOOD NETWORK
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:c4:24:38&stream=862846&extension=ts&play_token=JRRp8tr6cu
 #EXTINF:-1  tvg-id="FoodNetwork.qa" tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="BEIN",FOOD NETWORK
 http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=1644&extension=ts
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=1141567&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=1141567&extension=ts
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://goldip.xyz:19741/MARIA0806/LSUABT5917/140077
 #EXTINF:-1  tvg-id="BBCEarth.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
@@ -444,27 +444,27 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724269&
 #EXTINF:-1  tvg-id="DisneyJunior.sa" tvg-logo="http://content.osn.com/logo/channel/cropped/DJR.png" group-title="OSN",DISNEY JR
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724268&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_2_uk.png" group-title="OSN",HISTORY 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925277&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=925277&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_2_uk.png" group-title="OSN",HISTORY 2
 http://egysatv.com:2095/rafaatxgirgis/rs7728/80202
 #EXTINF:-1  tvg-id="history.sa" tvg-logo="http://b1g.fun/logos2/history_tv18.jpg" group-title="OSN",HISTORY
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925276&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=925276&extension=ts
 #EXTINF:-1  tvg-id="OSNKidzone.ae" tvg-logo="https://i.imgur.com/daWpHrl.png" group-title="OSN",KID ZONE
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=933634&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=933634&extension=ts
 #EXTINF:-1  tvg-id="OSNKids.ae" tvg-logo="https://i.imgur.com/DRwLAtC.png" group-title="OSN",MOVIES KIDS
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925274&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=925274&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/OSN.png" group-title="OSN",MOONBUG KIDS
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925271&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=925271&extension=ts
 #EXTINF:-1  tvg-id="OSNMoviesAction.ae" tvg-logo="https://i.imgur.com/uOzyKup.png" group-title="OSN",MOVIES ACTION
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724256&extension=ts
 #EXTINF:-1  tvg-id="OSNMoviesHollywood.ae" tvg-logo="https://i.imgur.com/ygywH3O.png" group-title="OSN",MOVIES HOLLYWOOD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=933606&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=933606&extension=ts
 #EXTINF:-1  tvg-id="OSNMoviesPremiere.ae" tvg-logo="https://i.imgur.com/2MomHqn.png" group-title="OSN",MOVIES PREMIER
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=933608&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=933608&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/OSN.png" group-title="OSN",MOVIES FIRST
 http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97919&extension=ts
 #EXTINF:-1  tvg-id="OSNFamily.ae" tvg-logo="https://i.imgur.com/UHKrdBL.png" group-title="OSN",FAMILY
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925280&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=925280&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.qa" tvg-logo="http://content.osn.com/logo/channel/cropped/NHD.png" group-title="OSN",NAT GEO WILD
 http://tghm.net/318673568912717/1593574628/42174
 #EXTINF:-1  tvg-id="NatGeoWild.qa" tvg-logo="http://content.osn.com/logo/channel/cropped/NHD.png" group-title="OSN",NAT GEO WILD
@@ -476,13 +476,13 @@ http://tghm.net/318673568912717/1593574628/42172
 #EXTINF:-1  tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="http://iptv-tn.com:8080/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="OSN",NAT GEO
 http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97940&extension=ts
 #EXTINF:-1  tvg-id="NickJr.sa" tvg-logo="http://content.osn.com/logo/channel/cropped/NJR.png" group-title="OSN",NICK JR
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925264&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=925264&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="OSN",NICK
 http://extraott.com/4183813400/7514985385/122114
 #EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_toons_uk.png" group-title="OSN",NICKTOONS
 http://extraott.com/4183813400/7514985385/122101
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/o43yDem.png" group-title="OSN",SHOWCASE
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:3a:2a:b6&stream=925260&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:CF:0F:9A&stream=925260&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://content.osn.com/logo/channel/cropped/STM.png" group-title="OSN",STAR MOVIES
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724245&extension=ts
 #EXTINF:-1  tvg-id="" tvg-logo="http://content.osn.com/logo/channel/cropped/STW.png" group-title="OSN",STAR WORLD
