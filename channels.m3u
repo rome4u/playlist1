@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/H2IWDLJ.png" group-title="PH",KBS
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1  tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/bN2R2se.png" group-title="PH",CCTN 47
-http://mag.abcdxyz.one:8080/play/live.php?mac=00:1A:79:A3:90:50&stream=176637&extension=ts
+#EXTINF:-1  tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="PH",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 http://45.89.149.2/stream/kapamilya/gma/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
-http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/98.m3u8
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1  tvg-id="one.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a2/One_Logo_2020.png" group-title="PH",ONE NEWS PH
 http://117tv.icu:8080/X5xRz0/944877/101774
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
@@ -23,7 +23,7 @@ http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66821
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16777
 #EXTINF:-1  tvg-id="tfc.ph" tvg-logo="https://i.imgur.com/clLvNmC.jpg" group-title="PH",TMC
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16751
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/ibc-ph.png" group-title="PH",IBC
+#EXTINF:-1  tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/1KaTUOo.png" group-title="PH",IBC
 http://45.89.149.2/stream/kapamilya/ibc/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="tfc.ph" tvg-logo="https://i.imgur.com/clLvNmC.jpg" group-title="PH",TMC
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/102.m3u8
@@ -37,7 +37,7 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/101.m3u8
 http://45.89.149.2/stream/kapamilya/kapamilyachannel/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/EPZexd1.png" group-title="PH",PBO
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/105.m3u8
-#EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/B2tSHap.png" group-title="PH",VIVA CINEMA
+#EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/Bwcj1Oc.png" group-title="PH",VIVA CINEMA
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/186.m3u8
 #EXTINF:-1  tvg-id="cinema1.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="PH",CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
@@ -49,7 +49,7 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/110.m3u8
 http://45.89.149.2/stream/kapamilya/cinemax/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="fightsportstv.us" tvg-logo="https://i.imgur.com/xZEkgQd.png" group-title="PH",FIGHT SPORTS
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/133.m3u8
-#EXTINF:-1  tvg-id="WarnerTVPhilippines.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="PH",WARNER BROS
+#EXTINF:-1  tvg-id="WarnerTV.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="PH",WARNER BROS
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/173.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-ph.png" group-title="PH",HBO HD
 http://45.89.149.2/stream/kapamilya/hbohd/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
@@ -59,7 +59,7 @@ http://45.89.149.2/stream/kapamilya/hbohits/master.m3u8?u=testingnixigncode&p=1e
 http://45.89.149.2/stream/kapamilya/hbofamily/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-signature-ph.png" group-title="PH",HBO SIGNATURE
 http://45.89.149.2/stream/kapamilya/hbosignature/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",I HEART MOVIES
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/CoM791e.png" group-title="PH",I HEART MOVIES
 http://45.89.149.2/stream/kapamilya/iheartmovie/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="hits.ph" tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="PH",HITS MOVIES
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:CF:0F:9A&stream=926174&extension=ts
@@ -79,11 +79,11 @@ http://45.89.149.2/stream/kapamilya/nickelodeon/master.m3u8?u=testingnixigncode&
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/145.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" group-title="PH",BOOMERANG
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=614350&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/EEDMg6S.png" group-title="PH",TAP SPORTS
+#EXTINF:-1  tvg-id="TAPSports.ph" tvg-logo="https://i.imgur.com/EEDMg6S.png" group-title="PH",TAP SPORTS
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16780
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",MPTV
 http://45.89.149.2/stream/kapamilya/mptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/buko-ph.png" group-title="PH",BUKO
+#EXTINF:-1  tvg-id="BuKo.ph" tvg-logo="https://i.imgur.com/RTKu1jF.jpg" group-title="PH",BUKO
 http://45.89.149.2/stream/kapamilya/buko/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="espn.us" tvg-logo="https://i.imgur.com/UmuSqVV.jpg" group-title="PH",ESPN
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/138.m3u8
@@ -99,9 +99,9 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/206.m3u8
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/qDoqaeW.png" group-title="PH",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/sari-sari-channel-ph.png" group-title="PH",SARI SARI
+#EXTINF:-1  tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/maRKxLS.png" group-title="PH",SARI SARI
 http://45.89.149.2/stream/kapamilya/sarisari/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",UAAP
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/5eMWH98.jpg" group-title="PH",UAAP
 http://45.89.149.2/stream/kapamilya/uaap/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/FNyEZis.png" group-title="PH",FOXNEWS
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/39.m3u8
@@ -129,7 +129,7 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:CF:0F:9A&stream=926204&extensio
 http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66827
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/8X4jiMY.png" group-title="PH",NATGEO WILD
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/160.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/BkoC446.png" group-title="PH",HISTORY
+#EXTINF:-1  tvg-id="History.ph" tvg-logo="https://i.imgur.com/BkoC446.png" group-title="PH",HISTORY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=846002&extension=ts&play_token=6cvxk2jayo
 #EXTINF:-1  tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX" group-title="PH",LIFETIME
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16794
@@ -151,11 +151,11 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/165.m3u8
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/164.m3u8
 #EXTINF:-1  tvg-id="PinoyXtremeChannel.ph" tvg-logo="https://i.imgur.com/cR9H6cp.png" group-title="PH",PINOY EXTREME
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/142.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/pba-rush-ph.png" group-title="PH",PBA RUSH
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/t0Xonrf.png" group-title="PH",PBA RUSH
 http://45.89.149.2/stream/kapamilya/pbarush/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="PH",NBA TV
+#EXTINF:-1  tvg-id="NBATVPhilippines.ph" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="PH",NBA TV
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/135.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="PH",NBA TV
+#EXTINF:-1  tvg-id="NBATVPhilippines.ph" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="PH",NBA TV
 http://45.89.149.2/stream/kapamilya/nbaphilippines/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/FORMOSA-TV.png" group-title="PH",FORMOSA
 http://103.105.213.251:8443/live/2JrnkdQbFqIcDsZWRNdh6g/1707043721/84.m3u8
@@ -183,17 +183,17 @@ http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/194.m3u8
 http://hdtt3.online:3050/mbrodie4.mb@gmail.com/mhtvGxWwhi/558786
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
 http://45.89.149.2/stream/kapamilya/a2z/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
-#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RPTV_%282024%29.svg/revision/latest?cb=20240228040232" group-title="PH",RPTV
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="PH",RPTV
 http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/127.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RPTV_%282024%29.svg/revision/latest?cb=20240228040232" group-title="PH",RPTV
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="PH",RPTV
 http://45.89.149.2/stream/kapamilya/rptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
-#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/PTV4.png" group-title="PH",PTV4
-http://103.152.216.26:8443/live/8DRN_Do08TN930ycUO0Yng/1719434304/100.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/PTV4.png" group-title="PH",PTV4
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="PH",PTV4
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/PTV4.png" group-title="PH",PTV4
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="PH",PTV4
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="PH",PTV4
 http://45.89.149.2/stream/kapamilya/ptv4/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="PH",WARNER TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="PH",WARNER TV
 http://45.89.149.2/stream/kapamilya/warnertv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="LOCAL CABLE TV",A2Z
 http://hdtt3.online:3050/mbrodie4.mb@gmail.com/mhtvGxWwhi/558786
@@ -229,7 +229,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=10
 http://vstream.vip:2889/live/658E7A4A614442F31C46A7C91745A0C4/23
 #EXTINF:-1  tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/EPZexd1.png" group-title="LOCAL CABLE TV",PBO
 https://catty.wtf/cignalplay/pbo/index.m3u8
-#EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/B2tSHap.png" group-title="LOCAL CABLE TV",VIVA CINEMA
+#EXTINF:-1  tvg-id="vivacinema.ph" tvg-logo="https://i.imgur.com/Bwcj1Oc.png" group-title="LOCAL CABLE TV",VIVA CINEMA
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16684
 #EXTINF:-1  tvg-id="Cinema1Philippines.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="LOCAL CABLE TV",CINEMA ONE
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16728
@@ -421,9 +421,9 @@ http://goldip.xyz:19741/MARIA0806/LSUABT5917/140077
 http://egysatv.com:2095/rafaatxgirgis/rs7728/148592
 #EXTINF:-1  tvg-id="bbcearthenglish.qa" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="BEIN",BBC EARTH HD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:c4:24:38&stream=862837&extension=ts&play_token=uuPS1jDhxh
-#EXTINF:-1  tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/osn_cinema1_arabic.png" group-title="OSN",CINEMA 1
+#EXTINF:-1  tvg-id="Cinema1.ae" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/osn_cinema1_arabic.png" group-title="OSN",CINEMA 1
 http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97903&extension=ts
-#EXTINF:-1  tvg-id="" tvg-logo="http://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN",CINEMA 2
+#EXTINF:-1  tvg-id="Cinema2.ae" tvg-logo="http://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN",CINEMA 2
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724281&extension=ts
 #EXTINF:-1  tvg-id="Bloomberg.ae" tvg-logo="http://logo.protv.cc/picons/logos/OSN.png" group-title="OSN",BLOOMBERG
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724274&extension=ts
@@ -947,13 +947,13 @@ http://likea8bitboss.xyz:80/jwright22/1283946507/761439
 http://user.scalecdn.co:8080/live/43560245/01453157/3080.ts
 #EXTINF:-1  tvg-id="FoodNetwork.ca" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="CANADA",FOOD NETWORK
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=626946&extension=ts&play_token=LwHjA7Gdvz
-#EXTINF:-1  tvg-id="hgtv.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CANADA",HGTV
+#EXTINF:-1  tvg-id="hgtv.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="CANADA",HGTV
 http://likea8bitboss.xyz:80/jwright22/1283946507/761456
-#EXTINF:-1  tvg-id="hgtv.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CANADA",HGTV
+#EXTINF:-1  tvg-id="hgtv.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="CANADA",HGTV
 http://117tv.icu:8080/X5xRz0/944877/57273
-#EXTINF:-1  tvg-id="hgtv.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CANADA",HGTV
+#EXTINF:-1  tvg-id="hgtv.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="CANADA",HGTV
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=765468&extension=ts
-#EXTINF:-1  tvg-id="natgeo.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CANADA",NAT GEO
+#EXTINF:-1  tvg-id="natgeo.ca" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographics.png" group-title="CANADA",NAT GEO
 http://likea8bitboss.xyz:80/jwright22/1283946507/761472
 #EXTINF:-1  tvg-id="NatGeo.ca" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographics.png" group-title="CANADA",NAT GEO
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3020
@@ -977,17 +977,17 @@ http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=69596&extensio
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=765491&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.ca" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographicwild.png" group-title="CANADA",NAT GEO WILD
 http://117tv.icu:8080/X5xRz0/944877/57280
-#EXTINF:-1  tvg-id="lifetime.ca" tvg-logo="http://tvstar.cc:8880/chimg/6087308156.png" group-title="CANADA",LIFETIME
+#EXTINF:-1  tvg-id="lifetime.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="CANADA",LIFETIME
 http://117tv.icu:8080/X5xRz0/944877/57271
-#EXTINF:-1  tvg-id="lifetime.ca" tvg-logo="http://tvstar.cc:8880/chimg/6087308156.png" group-title="CANADA",LIFETIME
+#EXTINF:-1  tvg-id="lifetime.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="CANADA",LIFETIME
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=765481&extension=ts
-#EXTINF:-1  tvg-id="tlc.ca" tvg-logo="http://tvstar.cc:8880/chimg/9889365617.png" group-title="CANADA",TLC
+#EXTINF:-1  tvg-id="tlc.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="CANADA",TLC
 http://117tv.icu:8080/X5xRz0/944877/57290
-#EXTINF:-1  tvg-id="tlc.ca" tvg-logo="http://tvstar.cc:8880/chimg/9889365617.png" group-title="CANADA",TLC
+#EXTINF:-1  tvg-id="tlc.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="CANADA",TLC
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=765558&extension=ts
-#EXTINF:-1  tvg-id="Animalplanet.uk" tvg-logo="http://138.199.27.237:8080/UK/ANIMALPLANETHD.png" group-title="UK",ANIMAL PLANET
+#EXTINF:-1  tvg-id="Animalplanet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="UK",ANIMAL PLANET
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=794834&extension=ts
-#EXTINF:-1  tvg-id="animalplanet.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/6674.png" group-title="UK",ANIMAL PLANET..
+#EXTINF:-1  tvg-id="animalplanet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="UK",ANIMAL PLANET..
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2952
 #EXTINF:-1  tvg-id="FoodNetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="UK",FOOD NETWORK
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=794941&extension=ts
@@ -997,25 +997,25 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=577876&
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=11901&extension=ts
 #EXTINF:-1  tvg-id="FoodNetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="UK",FOOD NETWORK
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303713&extension=ts
-#EXTINF:-1  tvg-id="foodnetwork.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/644.jpg" group-title="UK",FOODNETWORK
+#EXTINF:-1  tvg-id="foodnetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="UK",FOODNETWORK
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97097&extension=ts
-#EXTINF:-1  tvg-id="foodnetwork.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/644.jpg" group-title="UK",FOODNETWORK
+#EXTINF:-1  tvg-id="foodnetwork.uk" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="UK",FOODNETWORK
 http://1tv41.icu:8080/8DT0rb/354714/57247
-#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2925
-#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=11863&extension=ts
-#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://user.scalecdn.co:8080/live/43560245/01453157/2302.ts
-#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=577889&extension=ts&play_token=FAlp2Unx5j
-#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:cc:68:eb&stream=11863&extension=ts
-#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://1tv41.icu:8080/8DT0rb/354714/53684
-#EXTINF:-1  tvg-id="discoverychannel.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/448.jpg" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="discoverychannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=794814&extension=ts
-#EXTINF:-1  tvg-id="discoverychannel.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY
+#EXTINF:-1  tvg-id="discoverychannel.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="UK",DISCOVERY
 http://117tv.icu:8080/X5xRz0/944877/53684
 #EXTINF:-1  tvg-id="DiscoveryHistory.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhistory.png" group-title="UK",DISCOVERY HISTORY
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2908
@@ -1023,23 +1023,23 @@ http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2908
 http://user.scalecdn.co:8080/live/43560245/01453157/2301.ts
 #EXTINF:-1  tvg-id="DiscoveryHistory.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhistory.png" group-title="UK",DISCOVERY HISTORY
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303714&extension=ts
-#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2924
-#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://user.scalecdn.co:8080/live/43560245/01453157/2300.ts
-#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=11225&extension=ts
-#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://1tv41.icu:8080/8DT0rb/354714/53695
-#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=577886&extension=ts
-#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="DiscoveryScience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303708&extension=ts
-#EXTINF:-1  tvg-id="discoveryscience.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/449.jpg" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="discoveryscience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97097&extension=ts
-#EXTINF:-1  tvg-id="discoveryscience.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="discoveryscience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://117tv.icu:8080/X5xRz0/944877/53695
-#EXTINF:-1  tvg-id="discoveryscience.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="discoveryscience.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="UK",DISCOVERY SCIENCE
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:58:17:53&stream=16021&extension=ts
 #EXTINF:-1  tvg-id="DiscoveryTurbo.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" group-title="UK",DISCOVERY TURBO
 http://user.scalecdn.co:8080/live/43560245/01453157/2298.ts
@@ -1051,11 +1051,11 @@ http://abcnew.site:8880/DAANM2719/AjBmejPpnF/28883
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=577885&extension=ts&play_token=POzEA4ujOp
 #EXTINF:-1  tvg-id="DiscoveryTurbo.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" group-title="UK",DISCOVERY TURBO
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=303707&extension=ts
-#EXTINF:-1  tvg-id="discoveryturbo.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/450.jpg" group-title="UK",DISCOVERY TURBO
+#EXTINF:-1  tvg-id="discoveryturbo.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" group-title="UK",DISCOVERY TURBO
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=11227&extension=ts
-#EXTINF:-1  tvg-id="discoveryturbo.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",DISCOVERY TURBO
+#EXTINF:-1  tvg-id="discoveryturbo.uk" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" group-title="UK",DISCOVERY TURBO
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97094&extension=ts
-#EXTINF:-1  tvg-id="crimeandinvestigationnetwork.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/453.jpg" group-title="UK",CRIME INVESTIGATION
+#EXTINF:-1  tvg-id="crimeandinvestigationnetwork.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png" group-title="UK",CRIME INVESTIGATION
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2927
 #EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2893
@@ -1065,25 +1065,25 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=577909&
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=20175&extension=ts
 #EXTINF:-1  tvg-id="NatGeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=58612&extension=ts
-#EXTINF:-1  tvg-id="natgeo.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/454.jpg" group-title="UK",NATIONAL GEOGRAPHIC
+#EXTINF:-1  tvg-id="natgeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=794830&extension=ts
-#EXTINF:-1  tvg-id="natgeo.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",NATIONAL GEOGRAPHIC
+#EXTINF:-1  tvg-id="natgeo.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="UK",NATIONAL GEOGRAPHIC
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97089&extension=ts
-#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
+#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="UK",NAT GEO WILD
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/28950
-#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
+#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="UK",NAT GEO WILD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=577910&extension=ts&play_token=9lrHOSSjHH
-#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
+#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="UK",NAT GEO WILD
 http://mynxg.top:80/play/live.php?mac=00:1a:79:a4:fe:03&stream=11856&extension=ts
-#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="UK",NAT GEO WILD
+#EXTINF:-1  tvg-id="NatGeoWild.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="UK",NAT GEO WILD
 http://1tv41.icu:8080/8DT0rb/354714/53693
-#EXTINF:-1  tvg-id="natgeowild.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/455.jpg" group-title="UK",NAT GEO WILD
+#EXTINF:-1  tvg-id="natgeowild.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="UK",NAT GEO WILD
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=794827&extension=ts
-#EXTINF:-1  tvg-id="natgeowild.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="UK",NAT GEO WILD
+#EXTINF:-1  tvg-id="natgeowild.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="UK",NAT GEO WILD
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=97088&extension=ts
-#EXTINF:-1  tvg-id="history2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/451.jpg" group-title="UK",HISTORY 1
+#EXTINF:-1  tvg-id="history2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="UK",HISTORY 1
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/2908
-#EXTINF:-1  tvg-id="skyhistory2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/452.jpg" group-title="UK",HISTORY 2
+#EXTINF:-1  tvg-id="skyhistory2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="UK",HISTORY 2
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/28809
 #EXTINF:-1  tvg-id="TravelChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.png" group-title="UK",TRAVEL CHANNEL
 http://digital.nicesecrethotdigital.xyz/fe128171/bjGwkDsRMk/756145
@@ -1091,13 +1091,13 @@ http://digital.nicesecrethotdigital.xyz/fe128171/bjGwkDsRMk/756145
 http://user.scalecdn.co:8080/live/43560245/01453157/2159.ts
 #EXTINF:-1  tvg-id="TravelChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/travelchannel.png" group-title="UK",TRAVEL CHANNEL
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=577897&extension=ts&play_token=t3FWnILIqo
-#EXTINF:-1  tvg-id="travelxp.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/647.jpg" group-title="UK",TRAVEL XP
+#EXTINF:-1  tvg-id="travelxp.uk" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="UK",TRAVEL XP
 http://digital.nicesecrethotdigital.xyz/fe128171/bjGwkDsRMk/820420
-#EXTINF:-1  tvg-id="animalplanet.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",ANIMAL PLANET
+#EXTINF:-1  tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="US",ANIMAL PLANET
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3161
-#EXTINF:-1  tvg-id="animalplanet.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",ANIMAL PLANET
+#EXTINF:-1  tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="US",ANIMAL PLANET
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61426&extension=ts
-#EXTINF:-1  tvg-id="cnn.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",CNN
+#EXTINF:-1  tvg-id="cnn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="US",CNN
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3147
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3143
@@ -1105,9 +1105,9 @@ http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3143
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61415&extension=ts
 #EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=692993&extension=ts&play_token=esjbxwH8kY
-#EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://80.82.76.56:25461/4444657/3777456/265375
-#EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",DISCOVERY
+#EXTINF:-1  tvg-id="DiscoveryChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="US",DISCOVERY
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=219002&extension=ts
 #EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="US",DISCOVERY SCIENCE
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3100
@@ -1123,7 +1123,7 @@ http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61414&extension
 http://1tv41.icu:8080/8DT0rb/354714/20866
 #EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="US",DISCOVERY SCIENCE
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=13090&extension=ts
-#EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-id="discoveryscience.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="US",DISCOVERY SCIENCE
 http://80.82.76.56:25461/4444657/3777456/265464
 #EXTINF:-1  tvg-id="DiscoveryLife.us" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-LIFE-HD.png" group-title="US",DISCOVERY LIFE
 http://user.scalecdn.co:8080/live/43560245/01453157/2597.ts
@@ -1141,7 +1141,7 @@ http://fortv.cc:8080/Test/Test/7323
 http://80.82.76.56:25461/4444657/3777456/262651
 #EXTINF:-1  tvg-id="FoodNetwork.us" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-NETWORK-HD.jpg" group-title="US",FOOD NETWORK
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=469386&extension=ts&play_token=tg9HJp6AMh
-#EXTINF:-1  tvg-id="FoodNetwork.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",FOOD NETWORK
+#EXTINF:-1  tvg-id="FoodNetwork.us" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-NETWORK-HD.jpg" group-title="US",FOOD NETWORK
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=219009&extension=ts
 #EXTINF:-1  tvg-id="FoodNetwork.us" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-NETWORK-HD.jpg" group-title="US",FOOD NETWORK
 http://80.82.76.56:25461/4444657/3777456/265391
@@ -1149,17 +1149,17 @@ http://80.82.76.56:25461/4444657/3777456/265391
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3119
 #EXTINF:-1  tvg-id="HGTV.us" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="US",HGTV
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61394&extension=ts
-#EXTINF:-1  tvg-id="hgtv.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",HGTV
+#EXTINF:-1  tvg-id="hgtv.us" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="US",HGTV
 http://80.82.76.56:25461/4444657/3777456/265415
-#EXTINF:-1  tvg-id="historychannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",HISTORY
+#EXTINF:-1  tvg-id="historychannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="US",HISTORY
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3118
-#EXTINF:-1  tvg-id="historychannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",HISTORY
+#EXTINF:-1  tvg-id="historychannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="US",HISTORY
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=219013&extension=ts
-#EXTINF:-1  tvg-id="lifetimenetwork.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",LIFETIME
+#EXTINF:-1  tvg-id="lifetimenetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="US",LIFETIME
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3115
-#EXTINF:-1  tvg-id="investigationdiscovery.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",INVESTIGATION DISCOVERY
+#EXTINF:-1  tvg-id="investigationdiscovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="US",INVESTIGATION DISCOVERY
 http://80.82.76.56:25461/4444657/3777456/265420
-#EXTINF:-1  tvg-id="natgeo.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",NAT GEO
+#EXTINF:-1  tvg-id="natgeo.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="US",NAT GEO
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61388&extension=ts
 #EXTINF:-1  tvg-id="NatGeo.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="US",NAT GEO
 http://80.82.76.56:25461/4444657/3777456/265441
@@ -1169,7 +1169,7 @@ http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=11172&extensio
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=469407&extension=ts&play_token=CqcsopAxtp
 #EXTINF:-1  tvg-id="NatGeo.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="US",NAT GEO
 http://1tv41.icu:8080/8DT0rb/354714/46722
-#EXTINF:-1  tvg-id="natgeowild.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",NAT GEO WILD
+#EXTINF:-1  tvg-id="natgeowild.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographicwild.png" group-title="US",NAT GEO WILD
 http://fx-lv.com:8080/play/live.php?mac=00:1A:79:81:45:0a&stream=61389&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographicwild.png" group-title="US",NAT GEO WILD
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/30060
@@ -1177,11 +1177,11 @@ http://abcnew.site:8880/DAANM2719/AjBmejPpnF/30060
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=219019&extension=ts
 #EXTINF:-1  tvg-id="NatGeoWild.us" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographicwild.png" group-title="US",NAT GEO WILD
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=469409&extension=ts&play_token=p5ULkUDCqZ
-#EXTINF:-1  tvg-id="TravelChannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",TRAVEL CHANNEL
+#EXTINF:-1  tvg-id="TravelChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="US",TRAVEL CHANNEL
 http://abcnew.site:8880/DAANM2719/AjBmejPpnF/3091
 #EXTINF:-1  tvg-id="TravelChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="US",TRAVEL CHANNEL
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:58:17:53&stream=631278&extension=ts
 #EXTINF:-1  tvg-id="TravelChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="US",TRAVEL CHANNEL
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=469438&extension=ts&play_token=aJFEG4Mg3g
-#EXTINF:-1  tvg-id="TravelChannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="US",TRAVEL CHANNEL
+#EXTINF:-1  tvg-id="TravelChannel.us" tvg-logo="http://logo.protv.cc/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="US",TRAVEL CHANNEL
 http://80.82.76.56:25461/4444657/3777456/265496
