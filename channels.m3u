@@ -54,13 +54,13 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16728
 #EXTINF:-1  tvg-id="cinema1.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="PH",CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1  tvg-id="cinema1.ph" tvg-logo="https://i.imgur.com/bY6A0bc.png" group-title="PH",CINEMA ONE
-https://ex3mpli.serv00.net/playlist.php?dmuMTfwsGF=152
+https://ex3mpli.serv00.net/channel.php?ID=152
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/f5GhsQz.jpg" group-title="PH",CINEMAX
 http://103.152.216.26:8443/live/B6YUDGLa6h1jWEw-el2RQw/1720006872/110.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/f5GhsQz.jpg" group-title="PH",CINEMAX
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/cinemax/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="CineMo.ph" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="PH",CINEMO
-https://ex3mpli.serv00.net/playlist.php?dmuMTfwsGF=104
+https://ex3mpli.serv00.net/channel.php?ID=104
 #EXTINF:-1  tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="PH",CNA
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/cna/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/hiB3zuk.png" group-title="PH",CNBC
@@ -114,7 +114,7 @@ http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/gtv/master.m3u8?u=xignc
 #EXTINF:-1  tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="PH",HBO FAMILY
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbofamily/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="PH",HBO FAMILY
-https://ex3mpli.serv00.net/playlist.php?dmuMTfwsGF=195
+https://ex3mpli.serv00.net/channel.php?ID=195
 #EXTINF:-1  tvg-id="hbo.us" tvg-logo="https://i.imgur.com/yOisynC.png" group-title="PH",HBO HD
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-ph.png" group-title="PH",HBO HD
@@ -224,7 +224,7 @@ http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/rptv/master.m3u8?u=xign
 #EXTINF:-1  tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/maRKxLS.png" group-title="PH",SARI SARI
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/sarisari/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="SolarFlix.ph" tvg-logo="https://i.imgur.com/kdf2Rrw.png" group-title="PH",SOLARFLIX
-https://ex3mpli.serv00.net/playlist.php?dmuMTfwsGF=115
+https://ex3mpli.serv00.net/channel.php?ID=115
 #EXTINF:-1  tvg-id="SPOTV.id" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="PH",SPOTV
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/spotv/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="TAPEdge.ph" tvg-logo="https://i.imgur.com/ljey69u.png" group-title="PH",TAP EDGE
@@ -250,7 +250,7 @@ http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66821
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16777
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
-https://ex3mpli.serv00.net/playlist.php?dmuMTfwsGF=114
+https://ex3mpli.serv00.net/channel.php?ID=114
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="PH",TV5 MONDE
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/tv5monde/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="PH",TVN
