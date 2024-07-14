@@ -42,7 +42,7 @@ http://115.146.176.131/live/TimRizal/TimRizal/45.ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YVEbC3v.jpg" group-title="PH",BOOMERANG
 http://ufospeeds.com:2095/13907819375/1044410333/16749
 #EXTINF:-1  tvg-id="BuKo.ph" tvg-logo="https://i.imgur.com/RTKu1jF.jpg" group-title="PH",BUKO
-http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/buko/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:0B:B3:6E&stream=926198&extension=ts
 #EXTINF:-1  tvg-id="cartoonnetwork.ph" tvg-logo="https://i.imgur.com/2DGX8N7.png" group-title="PH",CARTOON NETWORK
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:a6:9f:1a&stream=176695&extension=ts
 #EXTINF:-1  tvg-id="cartoonnetwork.ph" tvg-logo="https://i.imgur.com/2DGX8N7.png" group-title="PH",CARTOON NETWORK
@@ -198,7 +198,7 @@ http://defaultgen.com:3050/live/mbrodie4.mb@gmail.com/mhtvGxWwhi/558758.ts
 #EXTINF:-1  tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="PH",ONE SPORTS
 http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66827
 #EXTINF:-1  tvg-id="OnePH.ph" tvg-logo="https://i.imgur.com/syEhuvH.png" group-title="PH",ONEPH
-http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/oneph/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:0B:B3:6E&stream=731816&extension=ts
 #EXTINF:-1  tvg-id="OnePH.ph" tvg-logo="https://i.imgur.com/syEhuvH.png" group-title="PH",ONEPH
 http://103.152.216.26:8443/live/a9ehJWDbZC4kzwwt7YPf6Q/1720974353/162.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/t0Xonrf.png" group-title="PH",PBA RUSH
@@ -284,7 +284,7 @@ http://extraott.com/4183813400/7514985385/186868
 #EXTINF:-1  tvg-id="bbcbrit.za" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="DSTV",BBC BRIT
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300085&extension=ts
 #EXTINF:-1  tvg-id="bbcbrit.za" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="DSTV",BBC BRIT
-http://mag.diamondma.club:80/play/live.php?mac=00:1A:79:03:01:60&stream=265484&extension=ts
+http://mag.diamondma.club:80/play/live.php?mac=00:1A:79:BF:94:AB&stream=265484&extension=ts
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
 http://extraott.com/4183813400/7514985385/39763
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
