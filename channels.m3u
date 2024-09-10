@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
-http://hdtt3.online:3050/mbrodie4.mb@gmail.com/mhtvGxWwhi/558786
+http://103.140.3.18:14567/a2z/touch/manifest.m3u8
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
 http://115.146.176.131/live/TimRizal/TimRizal/16.ts
 #EXTINF:-1  tvg-id="ABCAustralia.au" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="PH",ABC AUSTRALIA
@@ -106,7 +106,7 @@ http://103.152.216.26:8443/live/OSLCzGQMbjLhDQCxZSCMiA/1722113465/118.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 http://54.251.164.195:1234/stream/iptv/gma/master.m3u8?u=lol&p=293d430abd9700de6724702c8e6e860b88d5575379193907ddd0376ce4b41607
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
-https://xigncode.notflix.in/hls/gmanixigncode/index.m3u8
+http://103.140.3.18:14567/gma/touch/manifest.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 http://115.146.176.131/live/TimRizal/TimRizal/14.ts
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
@@ -114,7 +114,7 @@ https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
 http://ufospeeds.com:2095/13907819375/1044410333/16719
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
-http://54.251.164.195:1234/stream/iptv/gtv/master.m3u8?u=lol&p=293d430abd9700de6724702c8e6e860b88d5575379193907ddd0376ce4b41607
+http://103.140.3.18:14567/gtv/touch/manifest.m3u8
 #EXTINF:-1  tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="PH",HBO FAMILY
 http://115.146.176.131/live/TimRizal/TimRizal/85.ts
 #EXTINF:-1  tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="PH",HBO FAMILY
@@ -122,7 +122,7 @@ https://bit.ly/mikeph-hbofamily1?.m3u8
 #EXTINF:-1  tvg-id="hbo.us" tvg-logo="https://i.imgur.com/yOisynC.png" group-title="PH",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-ph.png" group-title="PH",HBO HD
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/hbohd_qp_6.m3u8
+http://103.140.3.18:14567/hbohd/touch/manifest.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-hits-ph.png" group-title="PH",HBO HITS
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbohits/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-signature-ph.png" group-title="PH",HBO SIGNATURE
@@ -196,7 +196,7 @@ http://defaultgen.com:3050/live/mbrodie4.mb@gmail.com/mhtvGxWwhi/558757.ts
 #EXTINF:-1  tvg-id="one.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a2/One_Logo_2020.png" group-title="PH",ONE NEWS PH
 http://117tv.icu:8080/X5xRz0/944877/101774
 #EXTINF:-1  tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="PH",ONE SPORTS
-http://defaultgen.com:3050/live/mbrodie4.mb@gmail.com/mhtvGxWwhi/558758.ts
+http://103.140.3.18:14567/onesport/touch/manifest.m3u8
 #EXTINF:-1  tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="PH",ONE SPORTS
 http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66827
 #EXTINF:-1  tvg-id="OnePH.ph" tvg-logo="https://i.imgur.com/syEhuvH.png" group-title="PH",ONEPH
@@ -248,7 +248,7 @@ http://103.152.216.26:8443/live/OSLCzGQMbjLhDQCxZSCMiA/1722113465/102.m3u8
 #EXTINF:-1  tvg-id="tfc.ph" tvg-logo="https://i.imgur.com/clLvNmC.jpg" group-title="PH",TMC
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/tmc/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_15.m3u8
+http://103.140.3.18:14567/tv5/touch/manifest.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
 http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66821
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
