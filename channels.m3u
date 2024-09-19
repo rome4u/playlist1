@@ -248,7 +248,7 @@ http://103.152.216.26:8443/live/OSLCzGQMbjLhDQCxZSCMiA/1722113465/102.m3u8
 #EXTINF:-1  tvg-id="tfc.ph" tvg-logo="https://i.imgur.com/clLvNmC.jpg" group-title="PH",TMC
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/tmc/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
-http://103.140.3.18:14567/tv5/touch/manifest.m3u8
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
 http://mohdtv.com:8880/ALLChannels6c011b0b297c/46419539/66821
 #EXTINF:-1  tvg-id="tv5.ph" tvg-logo="https://i.imgur.com/tJVw6hq.png" group-title="PH",TV5
@@ -353,6 +353,10 @@ http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=265794&extensi
 http://extraott.com/4183813400/7514985385/39761
 #EXTINF:-1  tvg-id="dreamworks.za" tvg-logo="https://lo1.in/sp/drmwrk.png" group-title="DSTV",DREAMWORKS
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=265781&extension=ts
+#EXTINF:-1  tvg-id="foodnetwork.za" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="DSTV",FOODNETWORK
+http://tv.b1g.ooo/05656/05656/300033
+#EXTINF:-1  tvg-id="foodnetwork.za" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="DSTV",FOODNETWORK
+http://ktv.im:8080/live/0535919194/535919194/346.ts
 #EXTINF:-1  tvg-id="foodnetwork.za" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="DSTV",FOODNETWORK
 http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:0E:1A:DF&stream=1112190&extension=ts
 #EXTINF:-1  tvg-id="foodnetwork.za" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="DSTV",FOODNETWORK
