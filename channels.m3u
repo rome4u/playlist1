@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
-http://103.140.3.18:14567/a2z/touch/manifest.m3u8
+https://wag.ika.lat/stream/944313137
 #EXTINF:-1  tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="PH",A2Z
 http://115.146.176.131/live/TimRizal/TimRizal/16.ts
 #EXTINF:-1  tvg-id="ABCAustralia.au" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="PH",ABC AUSTRALIA
@@ -104,7 +104,7 @@ http://103.105.213.251:8443/live/OSLCzGQMbjLhDQCxZSCMiA/1722113465/39.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="PH",FRANCE 24
 http://103.152.216.26:8443/live/OSLCzGQMbjLhDQCxZSCMiA/1722113465/118.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
-http://54.251.164.195:1234/stream/iptv/gma/master.m3u8?u=lol&p=293d430abd9700de6724702c8e6e860b88d5575379193907ddd0376ce4b41607
+https://wag.ika.lat/stream/812083425
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
 http://103.140.3.18:14567/gma/touch/manifest.m3u8
 #EXTINF:-1  tvg-id="gma7.ph" tvg-logo="https://i.imgur.com/BMaU4cN.png" group-title="PH",GMA 7
@@ -114,7 +114,7 @@ https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
 http://ufospeeds.com:2095/13907819375/1044410333/16719
 #EXTINF:-1  tvg-id="gmalifetv.ph" tvg-logo="https://i.imgur.com/CthAyzk.png" group-title="PH",GTV
-http://103.140.3.18:14567/gtv/touch/manifest.m3u8
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
 #EXTINF:-1  tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="PH",HBO FAMILY
 http://115.146.176.131/live/TimRizal/TimRizal/85.ts
 #EXTINF:-1  tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="PH",HBO FAMILY
@@ -296,7 +296,7 @@ http://djdistro.xyz:80/play/live.php?mac=00:1A:79:b2:fe:58&stream=577299&extensi
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300062&extension=ts
 #EXTINF:-1  tvg-id="bbcearth.za" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="DSTV",BBC EARTH
-http://abcnew.site:8880/DYJ14M2320/4634574524/26582
+http://abcnew.site:8880/D12m3713/63343961/26582
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
 http://extraott.com/4183813400/7514985385/186867
 #EXTINF:-1  tvg-id="bbclifestyle.za" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="DSTV",BBC LIFESTYLE HD
@@ -332,7 +332,7 @@ http://extraott.com/4183813400/7514985385/186859
 #EXTINF:-1  tvg-id="discoveryfamily.za" tvg-logo="https://i.imgur.com/pdNGDJ8.png" group-title="DSTV",DISCOVERY FAMILY HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300078&extension=ts
 #EXTINF:-1  tvg-id="discoveryfamily.za" tvg-logo="https://i.imgur.com/pdNGDJ8.png" group-title="DSTV",DISCOVERY FAMILY HD
-http://abcnew.site:8880/DYJ14M2320/4634574524/50152
+http://abcnew.site:8880/D12m3713/63343961/50152
 #EXTINF:-1  tvg-id="discoveryfamily.za" tvg-logo="https://i.imgur.com/pdNGDJ8.png" group-title="DSTV",DISCOVERY FAMILY HD
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=138695&extension=ts
 #EXTINF:-1  tvg-id="discoveryid.za" tvg-logo="https://i.imgur.com/5GiKljD.png" group-title="DSTV",DISCOVERY ID HD
@@ -386,7 +386,7 @@ http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=138651&extensi
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300056&extension=ts
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
-http://abcnew.site:8880/DYJ14M2320/4634574524/60749
+http://abcnew.site:8880/D12m3713/63343961/60749
 #EXTINF:-1  tvg-id="natgeo.za" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="DSTV",National Geographic HD
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=138651&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
@@ -396,7 +396,7 @@ http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=138652&extensi
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300069&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
-http://abcnew.site:8880/DYJ14M2320/4634574524/60750
+http://abcnew.site:8880/D12m3713/63343961/60750
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="DSTV",National Geographic WILD HD
 http://dream4k.co:8080/play/live.php?mac=00:1a:79:c2:7c:80&stream=138652&extension=ts
 #EXTINF:-1  tvg-id="nickjr.za" tvg-logo="https://lo1.in/uk/nicjr.png" group-title="DSTV",NICK JR
@@ -424,7 +424,7 @@ http://djdistro.xyz:80/play/live.php?mac=00:1A:79:b2:fe:58&stream=577298&extensi
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/wldearth.png" group-title="DSTV",WILD EARTH HD
 http://mynxg.top:80/play/live.php?mac=00:1A:79:cc:68:eb&stream=300087&extension=ts
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/wldearth.png" group-title="DSTV",WILD EARTH HD
-http://abcnew.site:8880/DYJ14M2320/4634574524/59258
+http://abcnew.site:8880/D12m3713/63343961/59258
 #EXTINF:-1  tvg-id="natgeowild.za" tvg-logo="https://lo1.in/dstv/wldearth.png" group-title="DSTV",WILD EARTH HD
 http://wildversion.com:80/play/live.php?mac=00:1A:79:F1:B8:05&stream=789544&extension=ts
 #EXTINF:-1  tvg-id="BBCEarth.ca" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="CANADA",BBC EARTH HD
