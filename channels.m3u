@@ -931,3 +931,95 @@ http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724245&
 http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:AE:BA:89&stream=724244&extension=ts
 #EXTINF:-1  tvg-id="tlc.ae" tvg-logo="http://logo.protv.cc/picons/logos/OSN.png" group-title="OSN",TLC
 http://extraott.com/4183813400/7514985385/171510
+#EXTINF:-1 group-title="CIGNAL CHANNEL",A2Z
+http://data.enics.cloud:9999/stream/iptv/a2z/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",animax
+http://data.enics.cloud:9999/stream/iptv/animax/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",axn
+http://data.enics.cloud:9999/stream/iptv/axn/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",buko
+http://data.enics.cloud:9999/stream/iptv/buko/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",CartoonNetwork
+http://data.enics.cloud:9999/stream/iptv/cartoonnetwork/stream.m3u8?uid=1027898589&u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",Dreamwork
+http://data.enics.cloud:9999/stream/iptv/dreamworkshd/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",DreamworkTagalog
+http://data.enics.cloud:9999/stream/iptv/dreamworkstagalog/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",GMA
+http://data.enics.cloud:9999/stream/iptv/gma/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",GTV
+http://data.enics.cloud:9999/stream/iptv/gtv/stream.m3u8?uid=3554790667&u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",HBO
+http://data.enics.cloud:9999/stream/iptv/hbo/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",HBO FAMILY
+http://data.enics.cloud:9999/stream/iptv/hbofamily/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",HBO HITS
+http://data.enics.cloud:9999/stream/iptv/hbohits/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",HBO SIGNATURE
+http://data.enics.cloud:9999/stream/iptv/hbosignature/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",HISTORY
+http://data.enics.cloud:9999/stream/iptv/history/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",Ihm
+http://data.enics.cloud:9999/stream/iptv/ihm/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",Kapamilya
+http://data.enics.cloud:9999/stream/iptv/kapamilya/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",moonbug
+http://data.enics.cloud:9999/stream/iptv/moonbug/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",MPTV
+http://data.enics.cloud:9999/stream/iptv/mptv/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",NBAph
+http://data.enics.cloud:9999/stream/iptv/nbaph/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",nickelodeon
+http://data.enics.cloud:9999/stream/iptv/nickelodeon/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",nick jr
+http://data.enics.cloud:9999/stream/iptv/nickjr/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",Pba rush
+http://data.enics.cloud:9999/stream/iptv/pbarush/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",pbo
+http://data.enics.cloud:9999/stream/iptv/pbo/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",ptv 4
+http://data.enics.cloud:9999/stream/iptv/ptv4/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",rock action
+http://data.enics.cloud:9999/stream/iptv/rockaction/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",RPTV
+http://data.enics.cloud:9999/stream/iptv/rptv/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",SariSari
+http://data.enics.cloud:9999/stream/iptv/sari/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",THRILL
+http://data.enics.cloud:9999/stream/iptv/thrill/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",Tmc
+http://data.enics.cloud:9999/stream/iptv/tmc/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL",TV5
+http://data.enics.cloud:9999/stream/iptv/tv5/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+#EXTINF:-1 group-title="CIGNAL CHANNEL" ,tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/gFcpYSJ.png",UNTV
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL" ,tvg-id="AngDatingDaan.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png",Ang Dating Daan
+https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL" ,tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png",NET 25
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL" ,tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/fTYOu5k.png",TeleRadyo
+https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL" ,tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL" ,tvg-id="" tvg-logo="" group-title="Canada",Iron Chef
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f8dadfed030008e5a93d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06f4488f-c700-49ec-8b6e-d27460d8c3ed
+#EXTINF:-1 group-title="CIGNAL CHANNEL" ,tvg-id="ONE NEWS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054",One News
+http://bit.ly/3V39Bce
+#EXTINF:-1 group-title="CIGNAL CHANNEL",CINEMA ONE
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",ANC GLOBAL
+http://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",MYX TV
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",TAP ACTION FLIX
+http://23.227.140.75:3050/live/angela79416@gmail.com/NJzbg77qZ9/558748.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",PREMIER SPORTS
+http://23.227.140.75:3050/live/angela79416@gmail.com/NJzbg77qZ9/558755.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",A2Z
+http://23.227.140.75:3050/live/angela79416@gmail.com/NJzbg77qZ9/558786.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",BUKO CHANNEL
+http://23.227.140.75:3050/live/angela79416@gmail.com/NJzbg77qZ9/558780.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",TAP EDGE CHANNEL
+http://23.227.140.75:3050/live/angela79416@gmail.com/NJzbg77qZ9/558747.m3u8
+#EXTINF:-1 group-title="CIGNAL CHANNEL",CINEMO!
+http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
