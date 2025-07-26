@@ -2177,6 +2177,15 @@
 	  "epg_id": "Nat.Geo.Wild.uk",
       "icon": "http://138.199.27.237:8080/0tv_logo/5019.png",
       "url": "http://tvhouse.live:80/play/live.php?mac=00:1A:79:55:92:33&stream=58611&extension=ts"
+    },
+    {
+      "category": "movies-series",
+      "name": "FilmBox Premium",
+      "epg_id": "",
+      "drm_type": "clearkey",
+      "drm_key": "https://drm.antik.sk/widevine/key",
+      "icon": "https://https://images.app.goo.gl/up3BkPpdFwCvB1bN8",
+      "url": "https://dash3.antik.sk/stream/hisi_fb_premium/playlist_cbcs.mpd"
     }
   ]
 }
