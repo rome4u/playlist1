@@ -1,9 +1,15 @@
 {
   "provider": {
     "user_message": "Bong's Playlist",
-    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-    },
-    "categories": {
+    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+  },
+  "categories": {
     "local-tv": {
       "name": "Local TV",
       "icon": "https://i.imgur.com/qcXb1uu.png"
@@ -754,15 +760,6 @@
       "icon": "https://i.imgur.com/LIIgIjO.png",
       "url": "http://143.44.136.110:6610/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com"
     },
-	{
-      "category": "news-culture",
-      "name": "Bilyonaryo",
-      "epg_id": "",
-      "drm_type": "clearkey",
-      "drm_key": "﻿﻿﻿﻿227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2",
-      "icon": "﻿﻿﻿﻿https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10",
-      "url": "hhttps://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd"
-    },
     {
       "category": "news-culture",
       "name": "One News",
@@ -1380,24 +1377,6 @@
       "icon": "https://i.imgur.com/DuHBbsG.png",
       "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd"
     },
-	{
-      "category": "movies-series",
-      "name": "Starz 1",
-	  "epg_id": "Starz1.ca",
-      "drm_type": "clearkey",
-      "drm_key": "﻿﻿﻿5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee",
-      "icon": "https://i.imgur.com/Crc1DgP.png",
-      "url": "https://stream.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li",
-    },
-	{
-      "category": "movies-series",
-      "name": "Starz 2",
-	  "epg_id": "Starz2.ca",
-      "drm_type": "clearkey",
-      "drm_key": "﻿﻿﻿5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0",
-      "icon": "https://i.imgur.com/dtbQzs4.png",
-      "url": "https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li",
-    },
     {
       "category": "movies-series",
       "name": "USA Network",
@@ -1415,16 +1394,6 @@
         "drm_key": "3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd",
         "headers": {"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
-    },
-	{
-        "name": "Fox News",
-        "category": "news-culture",
-		"epg_id": "FoxNewsChannel.us",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
-        "drm_type": "clearkey",
-        "drm_key": "﻿﻿﻿a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089",
-        "url": "https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd",
-        "headers": {"user-agent":"﻿ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"}
     },
     {
         "name": "A&E HD",
@@ -1489,13 +1458,6 @@
         "drm_type": "clearkey",
         "drm_key": "3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5",
         "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd"
-    },
-	{
-      "category": "science-documentaries",
-      "name": "National Geographic Wild",
-	  "epg_id": "Nat.Geo.Wild.uk",
-      "icon": "http://138.199.27.237:8080/0tv_logo/5019.png",
-      "url": "http://tvhouse.live:80/play/live.php?mac=00:1A:79:55:92:33&stream=58611&extension=ts"
     },
     {
         "name": "HBO HD",
@@ -1922,14 +1884,6 @@
         "name": "MyTime Movie Network",
         "icon": "https://i.imgur.com/xbsmJjd.png",
         "url": "https://livetv-fa.tubi.video/my-time/playlist.m3u8"
-    },
-	{
-                    "category": "movies-series",
-        "name": "FilmBox",,
-        "icon": "https://i.imgur.com/VyaslIY.png",
-        "drm_type": "widevine",
-        "drm_url": "https://drm.antik.sk/widevine/key",
-        "url": "https://dash3.antik.sk/stream/hisi_fb_premium/playlist_cbcs.mpd"
     },
     {
                     "category": "movies-series",
