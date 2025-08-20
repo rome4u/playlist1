@@ -2203,6 +2203,15 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "epg_id": "Nat.Geo.Wild.uk",
       "icon": "https://i.imgur.com/HoeaQJC.png",
       "url": "http://tvhouse.live:80/play/live.php?mac=00:1A:79:55:92:33&stream=58611&extension=ts"
+    },
+	{
+      "category": "movies-series",
+      "name": "Asian Hits",
+      "epg_id": "AsianHits.th",
+      "drm_type": "clearkey",
+      "drm_key": "﻿﻿﻿dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48",
+      "icon": "https://i.imgur.com/EAkYssp.png",
+      "url": "https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd"
     }
   ]
 }
