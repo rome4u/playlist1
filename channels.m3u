@@ -6,7 +6,9 @@ https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, 
 https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
 https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,
+https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz 
+https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
   },
   "categories": {
@@ -2180,7 +2182,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 	{
       "category": "movies-series",
       "name": "Starz 1",
-      "epg_id": "Starz1.ca",
+      "epg_id": "STARZ1.-.East.ca",
       "drm_type": "clearkey",
       "drm_key": "﻿﻿﻿5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee",
       "icon": "https://i.imgur.com/Crc1DgP.png",
@@ -2189,7 +2191,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 	{
       "category": "movies-series",
       "name": "Starz 2",
-      "epg_id": "Starz2.ca",
+      "epg_id": "STARZ2.-.East.ca",
       "drm_type": "clearkey",
       "drm_key": "﻿﻿﻿﻿﻿﻿5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0",
       "icon": "https://i.imgur.com/dtbQzs4.png",
