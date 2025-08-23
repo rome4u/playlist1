@@ -2221,7 +2221,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_url": "https://drm.antik.sk/widevine/key",
       "icon": "https://i.imgur.com/VyaslIY.png",
       "url": "https://dash3.antik.sk/stream/hisi_fb_premium/playlist_cbcs.mpd",
-      "headers": {"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"}
+      "headers": {"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
     },
     {
       "category": "movies-series",
