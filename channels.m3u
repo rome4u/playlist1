@@ -2217,7 +2217,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "category": "movies-series",
       "name": "Filmbox",
       "epg_id": "",
-      "drm_type": "widevine",
+      "drm_type": "com.widevine.alpha",
       "drm_url": "https://drm.antik.sk/widevine/key",
       "icon": "https://i.imgur.com/VyaslIY.png",
       "url": "https://dash3.antik.sk/stream/hisi_fb_premium/playlist_cbcs.mpd",
