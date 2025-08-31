@@ -1,15 +1,7 @@
 {
   "provider": {
     "user_message": "Bong's Playlist",
-    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,
-https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz 
-https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
   },
   "categories": {
     "local-tv": {
@@ -78,7 +70,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231383437383231323033353237:583130656f6d3267777a6d7235487858",
       "icon": "https://i.imgur.com/43nZ2rv.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -87,7 +79,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323238353336303333363036:367662564c69425947353948374f4553",
       "icon": "https://i.imgur.com/qXXrmN8.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -96,7 +88,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232303137373937323535313836:3551344768323677674c32704a713249",
       "icon": "https://i.imgur.com/ZZ9jEoa.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001109/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -120,7 +112,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735303934383833333131363533:4b44557035556777346e4b3745613651",
       "icon": "https://i.imgur.com/v4rU3bd.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001314/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -138,7 +130,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231383438333031323033393138:38694e34324d543478316b7455753437",
       "icon": "https://i.imgur.com/Cu1tAY8.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -147,7 +139,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232353335323435353337353331:35416a68643065697575493337566135",
       "icon": "https://i.imgur.com/geuq18u.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -177,7 +169,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231383439333634323034333738:364a3849664b37386955623437364579",
       "icon": "https://i.imgur.com/LaqSPsM.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -186,7 +178,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331363735363832333531363036:723548436f6e34333961586150756649",
       "icon": "https://i.imgur.com/3yzbJE5.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -201,7 +193,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331363737343637333533323837:71347339457958556439543650426e74",
       "icon": "https://i.imgur.com/POt9KB8.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -210,7 +202,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735313534353138343339333732:3970705738596631374f54324c384f57",
       "icon": "https://i.imgur.com/9ROZkXn.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001340/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -219,7 +211,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231393131363337323232353030:56783536726130576e5a4171564c3741",
       "icon": "https://i.imgur.com/KLq0fdA.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -237,7 +229,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232303230383430323537313039:4758346d3275333571364e7259356554",
       "icon": "https://i.imgur.com/NOBlLVC.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001098/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -246,7 +238,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231383437343631323030313134:614762653768324e676a6b3577434733",
       "icon": "https://i.imgur.com/Ktl7qZt.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001086/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-tv",
@@ -309,7 +301,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230383933303132303032303231:6b5058557254355845335a6e63737030",
       "icon": "https://i.imgur.com/EUlYIWv.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001077/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-movies",
@@ -318,7 +310,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331363736373234333532363730:684b6853695333444a6b345579376a61",
       "icon": "https://i.imgur.com/hJ6MBiA.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-movies",
@@ -327,7 +319,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331363735393833333531383134:4a4f75336e6e30764575624855326937",
       "icon": "https://i.imgur.com/4xDiXMP.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-movies",
@@ -336,7 +328,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230393830323336303039323834:7676746b584436514331503256784654",
       "icon": "https://i.imgur.com/oOMAyoX.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001078/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001078/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-movies",
@@ -351,7 +343,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331313738363633373739363234:5436395534576f7638744a43356d336e",
       "icon": "https://i.imgur.com/LrU01cL.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-movies",
@@ -360,7 +352,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230393830373532303039383138:363354494336436b494a776f4a796634",
       "icon": "https://i.imgur.com/2k0yRUd.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001080/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "local-movies",
@@ -369,7 +361,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230393830353534303039353831:506e354374394938446439344b6f3741",
       "icon": "https://i.imgur.com/5jn4U88.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001079/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001079/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -378,7 +370,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233303438363730383939353239:356c3450446f61674435646b36563675",
       "icon": "https://i.imgur.com/R2VjEQv.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -387,7 +379,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232303137333630323534393638:63547a3159507a7036314e3357436c7a",
       "icon": "https://i.imgur.com/YomkvVa.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -468,7 +460,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363539343235333939333035383832:5446354a4a514956636567484b47317a",
       "icon": "https://i.imgur.com/PwM0arW.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001305/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -477,7 +469,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232353337323935353433383639:696d305237483130677335756d643933",
       "icon": "https://i.imgur.com/yCuw3R2.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001150/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -486,7 +478,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363539343235323739323938313334:6134384c356c5050327331636b544734",
       "icon": "https://i.imgur.com/3RVA5mV.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001304/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001304/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -495,7 +487,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232353337313135353433363839:7573536e79344f796e746c324b695133",
       "icon": "https://i.imgur.com/xFc6plV.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001149/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001149/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -504,7 +496,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331313938333434383133383337:32776734365267686977387049356d48",
       "icon": "https://i.imgur.com/K134qCk.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001253/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "movies-series",
@@ -513,7 +505,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231393338393034323331373536:6b75304a3061326f78593545384f3165",
       "icon": "https://i.imgur.com/L6Ta5te.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001096/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -522,7 +514,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735313536373634343534323132:71504433773565593837796d68613333",
       "icon": "https://i.imgur.com/hILFnsW.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001342/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001342/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -531,7 +523,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323239393136303432373230:3132373248597249506d6e31326c3246",
       "icon": "https://i.imgur.com/OO6mWTx.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001182/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -549,7 +541,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232353335353435353432363238:684b3276585a37386130763047346a54",
       "icon": "https://i.imgur.com/KeM5KlR.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001144/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001144/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -582,7 +574,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230383830323639303031313938:715a36614f62445635304852794b3676",
       "icon": "https://i.imgur.com/iIp0xDS.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001075/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001075/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -591,7 +583,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363334313133373731323334343436:673478506852336979544a4f38475479",
       "icon": "https://i.imgur.com/A0CVz9w.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001267/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -600,7 +592,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735313536353539343439373937:535a566358303032677658776a413138",
       "icon": "https://i.imgur.com/U8IxzwO.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001326/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001326/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -609,7 +601,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363234383632393339373032363235:6d48695652315a7766774b4844783439",
       "icon": "https://i.imgur.com/kKCXorQ.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001208/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001208/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -618,7 +610,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323239363937303432353735:39574d333277376f336d374244323159",
       "icon": "https://i.imgur.com/hZ45gkC.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001181/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -636,7 +628,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735313439343038343136333130:386c6b6a64704d4d3039354d4e6a6933",
       "icon": "https://i.imgur.com/zRbq9e5.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001335/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "science-documentaries",
@@ -664,7 +656,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323330343539303433333135:4e4273686b35786b47334b3330435778",
       "icon": "https://i.imgur.com/Jm21NsS.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001195/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "science-documentaries",
@@ -673,7 +665,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735313438303733343030323238:6e34314e394e4165743931496a394b74",
       "icon": "https://i.imgur.com/l87dZmI.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001334/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "science-documentaries",
@@ -682,7 +674,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323330323736303433313938:6774487273654e4b313631333258706f",
       "icon": "https://i.imgur.com/t6iJj37.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001194/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "science-documentaries",
@@ -691,7 +683,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230383830323637303030383735:304d384b45573249714d6b7569675837",
       "icon": "https://i.imgur.com/ZX4Ck4w.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001074/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "science-documentaries",
@@ -706,7 +698,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232303231333139323537333830:3139614a6335316d644f566d37444c75",
       "icon": "https://i.imgur.com/rLCHYCs.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001111/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001111/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -715,7 +707,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735313439373730343234313334:6f486349336753304d6b696733463235",
       "icon": "https://i.imgur.com/mUSEHd0.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001343/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001343/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -724,7 +716,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331363736353031333532343234:306763383633356a366c48595347707a",
       "icon": "https://i.imgur.com/XsbhoIL.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001274/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "science-documentaries",
@@ -733,7 +725,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232303230363630323536393533:4231724f6a50387230485673326c3233",
       "icon": "https://i.imgur.com/wBrFU3X.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001110/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001110/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -751,7 +743,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230383933303132303032313231:6b5058557254355845335a6e63737030",
       "icon": "https://i.imgur.com/WyzkAHR.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001073/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001073/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -760,7 +752,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363235373230343031373839383832:6f3367454f743663393778454d327338",
       "icon": "https://i.imgur.com/LIIgIjO.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001234/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -769,7 +761,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231353030353639313131333935:7a383278304b39324a7331304f323735",
       "icon": "https://i.imgur.com/flKo7E5.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001084/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001084/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -778,7 +770,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233333131353231313137353232:617a6b7a5234526845334c354b6d3959",
       "icon": "https://i.imgur.com/cGbI83H.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001198/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "korean-entertainment",
@@ -787,7 +779,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232303137313138323534373134:6f52306f47445a634838615a31643449",
       "icon": "https://i.imgur.com/XCknlAq.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001107/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001107/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "korean-entertainment",
@@ -806,7 +798,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735313533363732343239353434:5339317237756b6b3845333663626645",
       "icon": "https://i.imgur.com/AAXaB5R.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001344/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001344/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "korean-entertainment",
@@ -825,7 +817,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331313938353234383134303633:3669754977303668394e493367344773",
       "icon": "https://i.imgur.com/yHFRiFl.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001263/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001263/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "korean-entertainment",
@@ -858,7 +850,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363331363736333231333532323639:396c467233356c357355497565533536",
       "icon": "https://i.imgur.com/CIPTNnT.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "music",
@@ -867,7 +859,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323237323935303332363334:38346b5732353165303954347677476e",
       "icon": "https://i.imgur.com/qmFawmE.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "music",
@@ -876,7 +868,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323237383336303333303033:386f3337674c36666e3861713930726f",
       "icon": "https://i.imgur.com/RqmKQo4.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001177/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "sports",
@@ -902,7 +894,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363230383932393934303031373831:36393034643046463738544b77676768",
       "icon": "https://i.imgur.com/g5Q35IH.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "sports",
@@ -911,7 +903,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231353030333331313038333030:6c3543424b356d575851357961596873",
       "icon": "https://i.imgur.com/RrBWZ16.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001083/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "sports",
@@ -947,7 +939,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232313130313238323933363838:3243794139594e6435434b517a497070",
       "icon": "https://i.imgur.com/InFSGvx.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "sports",
@@ -956,7 +948,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232313130333638323933383631:7031306148395845396e32374369485a",
       "icon": "https://i.imgur.com/i1njy1x.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001135/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001135/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "sports",
@@ -965,7 +957,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233383335303430363337303331:4444313067453278686a4b6b7030494b",
       "icon": "https://i.imgur.com/oJTNFvR.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001204/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "sports",
@@ -974,7 +966,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231323336323430303533343333:6a53385957735a304f6a307056793475",
       "icon": "https://i.imgur.com/lIFGBOt.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001081/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "lifestyle-entertainment",
@@ -983,7 +975,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323330363939303433353236:49644937557a3231706c733955343152",
       "icon": "https://i.imgur.com/MuzB1im.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001203/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "sports",
@@ -1019,7 +1011,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232313038303239323838303638:7768354e65797950397a6c566d356256",
       "icon": "https://i.imgur.com/r67w4TN.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "kids",
@@ -1056,7 +1048,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363639393633373136353837383139:767561696f37546667306c7366623536",
       "icon": "https://i.imgur.com/kbIi1V6.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001313/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001313/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "kids",
@@ -1065,7 +1057,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233343133343534323335373438:75467735704170524847774a63594361",
       "icon": "https://i.imgur.com/HbSHzXU.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "religion",
@@ -1074,7 +1066,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231393133313335323234373039:4372743534626238333533784d336159",
       "icon": "https://i.imgur.com/5CGhZnd.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001104/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "religion",
@@ -1083,7 +1075,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231393132323937323234333139:74516e7a4f3472713651316233425841",
       "icon": "https://i.imgur.com/s8rpeKu.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001092/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001092/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "religion",
@@ -1092,7 +1084,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231393132373735323234353438:33564d7a447073443333773974633739",
       "icon": "https://i.imgur.com/poJPjKQ.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001103/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001103/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "religion",
@@ -1101,7 +1093,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323237303338303332343538:373648504f5155373054657665783851",
       "icon": "https://i.imgur.com/7tkqK1j.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001175/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "religion",
@@ -1110,7 +1102,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363232373835303932373135373431:3250464a49584c376b53337579504f56",
       "icon": "https://i.imgur.com/kTLLxuV.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001155/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "religion",
@@ -1119,7 +1111,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323238303538303333323032:486c53576e387559676c774b53375037",
       "icon": "https://i.imgur.com/l2adeE6.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001160/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001160/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "religion",
@@ -1128,7 +1120,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363231393131383734323234313831:7a333137597652656743393372427153",
       "icon": "https://i.imgur.com/6xOjF7u.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -1144,7 +1136,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363735373535323639323831353936:4e31335931336d35324d4c3249383036",
       "icon": "https://i.imgur.com/Vnd3fTh.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001327/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001327/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -1153,7 +1145,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363633323930363434303934393434:656c4a3567356849625444336933424c",
       "icon": "https://i.imgur.com/tNC7FX9.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001306/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001306/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -1162,7 +1154,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "drm_type": "clearkey",
       "drm_key": "31363233323236373936303238393632:74576436426946764a6b4e5734456e37",
       "icon": "https://i.imgur.com/fSYs17Y.png",
-      "url": "http://143.44.136.110:6610/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      "url": "http://161.49.17.2:6610/001/2/ch00000090990000001174/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com"
     },
     {
       "category": "news-culture",
@@ -1935,7 +1927,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
         "icon": "https://i.imgur.com/tQfpZzm.png",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c"
     },
-    {
+        {
       "category": "sports",
       "name": "Smart Live 7",
       "epg_id": "",
@@ -1971,7 +1963,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "icon": "https://i.imgur.com/PEh9ZeZ.png",
       "url": "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/ppvsd197.mpd"
     },
-    {
+        {
       "category": "sports",
       "name": "Pilipinas Live 1",
       "epg_id": "",
@@ -2007,7 +1999,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "icon": "https://i.imgur.com/gm0Uv5X.png",
       "url": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd"
     },
-    {
+        {
       "category": "sports",
       "name": "Pilipinas Live 5",
       "epg_id": "",
@@ -2043,7 +2035,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
       "icon": "https://i.imgur.com/gm0Uv5X.png",
       "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd"
     },
-    {
+        {
       "category": "sports",
       "name": "Pilipinas Live 9",
       "epg_id": "",
