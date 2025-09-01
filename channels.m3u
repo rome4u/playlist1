@@ -1,7 +1,7 @@
 {
   "provider": {
     "user_message": "Bong's Playlist",
-    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
   },
   "categories": {
     "local-tv": {
@@ -2191,8 +2191,8 @@
     },
     {
       "category": "science-documentaries",
-      "name": "National Geographic Wild",
-      "epg_id": "Nat.Geo.Wild.uk",
+      "name": "National Geographic Wild (UK)",
+      "epg_id": "NatGeoWild.HD.uk",
       "icon": "https://i.imgur.com/HoeaQJC.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1458748&extension=ts"
     },
@@ -2232,6 +2232,62 @@
       "drm_key": "bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png",
       "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "Discovery Family",
+      "epg_id": "Discovery.Family.Channel.us",
+      "icon": "http://103.176.90.118/picons/logos/USA/DISCOVERY-FAMILY.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45443&extension=ts"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "Discovery Science (US)",
+      "epg_id": "Science.us",
+      "icon": "http://picons.cmshulk.com/picons/45441.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45441&extension=ts"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "Discovery Life (US)",
+      "epg_id": "Discovery.Life.Channel.us",
+      "icon": "http://picons.cmshulk.com/picons/91820.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=91820&extension=ts"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "National Geographic (US)",
+      "epg_id": "National.Geographic.US.-.Eastern.us",
+      "icon": "http://picons.cmshulk.com/picons/45453.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45453&extension=ts"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "National Geographic Wild (US)",
+      "epg_id": "National.Geographic.Wild.us",
+      "icon": "http://picons.cmshulk.com/picons/45452.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45452&extension=ts"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "Discovery Channel (UK)",
+      "epg_id": "Discovery.HD.uk",
+      "icon": "http://picons.cmshulk.com/picons/45441.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1458756&extension=ts"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "Discovery Science (UK)",
+      "epg_id": "Disc.Science.uk",
+      "icon": "http://picons.cmshulk.com/picons/45281.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45281&extension=ts"
+    },
+    {
+      "category": "science-documentaries",
+      "name": "National Geographic (UK)",
+      "epg_id": "Nat.Geo.HD.uk",
+      "icon": "http://picons.cmshulk.com/picons/1458749.png",
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1458749&extension=ts"
     }
   ]
 }
