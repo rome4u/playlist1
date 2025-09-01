@@ -2193,7 +2193,7 @@
       "category": "science-documentaries",
       "name": "National Geographic Wild (UK)",
       "epg_id": "NatGeoWild.HD.uk",
-      "icon": "https://live.fanmingming.cn/tv/National Geographic Wild.png",
+      "icon": "https://i.imgur.com/MFeyj6q.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1458748&extension=ts"
     },
     {
@@ -2244,7 +2244,7 @@
       "category": "science-documentaries",
       "name": "Discovery Science (US)",
       "epg_id": "Science.us",
-      "icon": "http://picons.cmshulk.com/picons/45441.png",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_-_Logo_2017.svg/512px-Discovery_Science_-_Logo_2017.svg.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45441&extension=ts"
     },
     {
@@ -2272,21 +2272,21 @@
       "category": "science-documentaries",
       "name": "Discovery Channel (UK)",
       "epg_id": "Discovery.HD.uk",
-      "icon": "https://live.fanmingming.cn/tv/Discovery Channel.png",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1458756&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Science (UK)",
       "epg_id": "Disc.Science.uk",
-      "icon": "https://live.fanmingming.cn/tv/Discovery Science.png",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_-_Logo_2017.svg/512px-Discovery_Science_-_Logo_2017.svg.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45281&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "National Geographic (UK)",
       "epg_id": "Nat.Geo.HD.uk",
-      "icon": "http://picons.cmshulk.com/picons/1458749.png",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1458749&extension=ts"
     }
   ]
