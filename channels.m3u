@@ -2272,19 +2272,19 @@
       "category": "science-documentaries",
       "name": "Discovery Channel (UK)",
       "epg_id": "Discovery.HD.uk",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",
+      "icon": "https://i.imgur.com/t6iJj37.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1458756&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Science (UK)",
       "epg_id": "Disc.Science.uk",
-      "icon": "https://i.imgur.com/t6iJj37.png",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_-_Logo_2017.svg/512px-Discovery_Science_-_Logo_2017.svg.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=45281&extension=ts"
     },
     {
       "category": "science-documentaries",
-      "name": "Discovery Channel (US",
+      "name": "Discovery Channel (US)",
       "epg_id": "Discovery.Channel.(US).-.Eastern.Feed.us",
       "icon": "https://i.imgur.com/t6iJj37.png",
       "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
