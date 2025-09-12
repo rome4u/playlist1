@@ -1,7 +1,7 @@
 {
   "provider": {
     "user_message": "Bong's Playlist",
-    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
   },
   "categories": {
     "local-tv": {
@@ -642,7 +642,7 @@
     {
       "category": "science-documentaries",
       "name": "Sony BBC Earth HD",
-      "epg_id": "",
+      "epg_id": "SONY.BBC.Earth.in",
       "icon": "https://i.imgur.com/Z4lfNYI.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=1741563&extension=ts"
     },
@@ -2271,7 +2271,7 @@
     {
       "category": "science-documentaries",
       "name": "National Geographic (CA)",
-      "epg_id": "",
+      "epg_id": "National.Geographic.Canada.ca",
       "icon": "http://picons.cmshulk.com/picons/45453.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=176897&extension=ts"
     },
@@ -2285,7 +2285,7 @@
     {
       "category": "science-documentaries",
       "name": "National Geographic Wild (CA)",
-      "epg_id": "",
+      "epg_id": "National.Geographic.Wild.Canada.ca",
       "icon": "http://picons.cmshulk.com/picons/45452.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=176898&extension=ts"
     },
@@ -2306,7 +2306,7 @@
     {
       "category": "science-documentaries",
       "name": "Discovery (CA)",
-      "epg_id": "",
+      "epg_id": "Discovery.Channel.CA.ca",
       "icon": "https://i.imgur.com/t6iJj37.png",
       "url": "http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7B:F8:EC&stream=176876&extension=ts"
     },
