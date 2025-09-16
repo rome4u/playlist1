@@ -388,7 +388,7 @@
       "drm_type": "clearkey",
       "drm_key": "d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b",
       "icon": "https://i.imgur.com/EnA2RcD.png",
-      "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd"
     },
     {
       "category": "movies-series",
@@ -397,7 +397,7 @@
       "drm_type": "clearkey",
       "drm_key": "872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be",
       "icon": "https://i.imgur.com/sDFfNjo.png",
-      "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd"
     },
     {
       "category": "movies-series",
@@ -415,7 +415,7 @@
       "drm_type": "clearkey",
       "drm_key": "a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f",
       "icon": "https://i.imgur.com/t4HF5va.png",
-      "url": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd"
     },
     {
       "category": "movies-series",
@@ -433,7 +433,7 @@
       "drm_type": "clearkey",
       "drm_key": "f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f",
       "icon": "https://i.imgur.com/JWncIMU.png",
-      "url": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/index.mpd"
     },
     {
       "category": "movies-series",
@@ -556,7 +556,7 @@
       "drm_type": "clearkey",
       "drm_key": "b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14",
       "icon": "https://i.imgur.com/KEVMcXi.png",
-      "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd"
     },
     {
       "category": "lifestyle-entertainment",
