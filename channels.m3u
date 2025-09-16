@@ -637,7 +637,7 @@
       "drm_type": "clearkey",
       "drm_key": "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e",
       "icon": "https://i.imgur.com/Z4lfNYI.png",
-      "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd"
     },
     {
       "category": "science-documentaries",
