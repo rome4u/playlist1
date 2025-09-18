@@ -97,7 +97,7 @@
       "drm_type": "clearkey",
       "drm_key": "d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615",
       "icon": "https://i.imgur.com/rqjaa88.png",
-      "url": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd"
     },
     {
       "category": "local-tv",
@@ -121,7 +121,7 @@
       "drm_type": "clearkey",
       "drm_key": "0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df",
       "icon": "https://i.imgur.com/G4LwYlk.png",
-      "url": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd"
     },
     {
       "category": "local-tv",
@@ -247,7 +247,7 @@
       "drm_type": "clearkey",
       "drm_key": "1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595",
       "icon": "https://i.imgur.com/gbY3AT6.png",
-      "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd"
     },
     {
       "category": "local-tv",
@@ -256,7 +256,7 @@
       "drm_type": "clearkey",
       "drm_key": "0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d",
       "icon": "https://i.imgur.com/l2A1mt5.jpg",
-      "url": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd"
     },
     {
       "category": "local-tv",
@@ -292,7 +292,7 @@
       "drm_type": "clearkey",
       "drm_key": "2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d",
       "icon": "https://i.imgur.com/jsCBRq0.png",
-      "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd"
     },
     {
       "category": "local-movies",
@@ -406,7 +406,7 @@
       "drm_type": "clearkey",
       "drm_key": "b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1",
       "icon": "https://i.imgur.com/K52zUFR.png",
-      "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd"
     },
     {
       "category": "movies-series",
@@ -424,7 +424,7 @@
       "drm_type": "clearkey",
       "drm_key": "dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5",
       "icon": "https://i.imgur.com/YeqyD9W.png",
-      "url": "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd"
     },
     {
       "category": "movies-series",
@@ -442,7 +442,7 @@
       "drm_type": "clearkey",
       "drm_key": "14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1",
       "icon": "https://i.imgur.com/iPBxvP2.png",
-      "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd"
     },
     {
       "category": "movies-series",
@@ -451,7 +451,7 @@
       "drm_type": "clearkey",
       "drm_key": "0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178",
       "icon": "https://i.imgur.com/bnrQIgB.png",
-      "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd"
     },
     {
       "category": "movies-series",
@@ -532,7 +532,7 @@
       "drm_type": "clearkey",
       "drm_key": "34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0",
       "icon": "https://i.imgur.com/uoLLkjm.png",
-      "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbclifestyle/default/index.mpd"
     },
     {
       "category": "lifestyle-entertainment",
@@ -565,7 +565,7 @@
       "drm_type": "clearkey",
       "drm_key": "f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a",
       "icon": "https://i.imgur.com/E7uzV5q.png",
-      "url": "https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd"
     },
     {
       "category": "lifestyle-entertainment",
@@ -619,7 +619,7 @@
       "drm_type": "clearkey",
       "drm_key": "0f85330a412b11edb8780242ac120002:00d6a695c5862d2154179b1f519b7f09",
       "icon": "https://i.imgur.com/ZCYeUV2.png",
-      "url": "https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd"
     },
     {
       "category": "science-documentaries",
@@ -741,7 +741,7 @@
       "drm_type": "clearkey",
       "drm_key": "ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4",
       "icon": "https://i.imgur.com/2r7utRt.png",
-      "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd"
     },
     {
       "category": "news-culture",
@@ -839,7 +839,7 @@
       "drm_type": "clearkey",
       "drm_key": "e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10",
       "icon": "https://i.imgur.com/Z0u5pse.png",
-      "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd"
     },
     {
       "category": "music",
@@ -884,7 +884,7 @@
       "drm_type": "clearkey",
       "drm_key": "6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807",
       "icon": "https://i.imgur.com/TM1LvZZ.png",
-      "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd"
+      "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd"
     },
     {
       "category": "sports",
@@ -919,7 +919,7 @@
       "drm_type": "clearkey",
       "drm_key": "322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda",
       "icon": "https://i.imgur.com/nFLt8cN.png",
-      "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd"
     },
     {
       "category": "sports",
@@ -928,7 +928,7 @@
       "drm_type": "clearkey",
       "drm_key": "76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82",
       "icon": "https://i.imgur.com/tvxCVRr.png",
-      "url": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd"
     },
     {
       "category": "sports",
@@ -991,7 +991,7 @@
       "drm_type": "clearkey",
       "drm_key": "95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e",
       "icon": "https://i.imgur.com/V0sxXci.png",
-      "url": "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd"
     },
     {
       "category": "kids",
@@ -1037,7 +1037,7 @@
       "drm_type": "clearkey",
       "drm_key": "4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079",
       "icon": "https://i.imgur.com/cgfKSDP.png",
-      "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd"
     },
     {
       "category": "kids",
@@ -1046,7 +1046,7 @@
       "drm_type": "clearkey",
       "drm_key": "564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab",
       "icon": "https://i.imgur.com/cgfKSDP.png",
-      "url": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd"
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd"
     },
     {
       "category": "kids",
