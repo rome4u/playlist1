@@ -644,7 +644,7 @@
       "name": "Sony BBC Earth HD",
       "epg_id": "SONY.BBC.Earth.in",
       "icon": "https://i.imgur.com/Z4lfNYI.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=1741563&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=1741563&extension=ts"
     },
     {
       "category": "science-documentaries",
@@ -2201,7 +2201,7 @@
       "name": "National Geographic Wild (UK)",
       "epg_id": "NatGeoWild.HD.uk",
       "icon": "https://i.imgur.com/MFeyj6q.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=1458748&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=1458748&extension=ts"
     },
     {
       "category": "movies-series",
@@ -2245,91 +2245,91 @@
       "name": "Discovery Family",
       "epg_id": "Discovery.Family.Channel.us",
       "icon": "http://103.176.90.118/picons/logos/USA/DISCOVERY-FAMILY.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=45443&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=45443&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Science (US)",
       "epg_id": "Science.us",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_-_Logo_2017.svg/512px-Discovery_Science_-_Logo_2017.svg.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=45441&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=45441&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Life (US)",
       "epg_id": "Discovery.Life.Channel.us",
       "icon": "http://picons.cmshulk.com/picons/91820.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=91820&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=91820&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "National Geographic (US)",
       "epg_id": "National.Geographic.US.-.Eastern.us",
       "icon": "http://picons.cmshulk.com/picons/45453.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=45453&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=45453&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "National Geographic (CA)",
       "epg_id": "National.Geographic.Canada.ca",
       "icon": "http://picons.cmshulk.com/picons/45453.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=176897&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=176897&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "National Geographic Wild (US)",
       "epg_id": "National.Geographic.Wild.us",
       "icon": "http://picons.cmshulk.com/picons/45452.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=45452&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=45452&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "National Geographic Wild (CA)",
       "epg_id": "National.Geographic.Wild.Canada.ca",
       "icon": "http://picons.cmshulk.com/picons/45452.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=176898&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=176898&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Channel (UK)",
       "epg_id": "Discovery.HD.uk",
       "icon": "https://i.imgur.com/t6iJj37.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=1458756&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=1458756&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Science (UK)",
       "epg_id": "Disc.Science.uk",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_-_Logo_2017.svg/512px-Discovery_Science_-_Logo_2017.svg.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=45281&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=45281&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery (CA)",
       "epg_id": "Discovery.Channel.CA.ca",
       "icon": "https://i.imgur.com/t6iJj37.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=176876&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=176876&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Science (CA)",
       "epg_id": "",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_-_Logo_2017.svg/512px-Discovery_Science_-_Logo_2017.svg.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=176877&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=176877&extension=ts"
     },
     {
       "category": "science-documentaries",
       "name": "Discovery Channel (US)",
       "epg_id": "Discovery.Channel.(US).-.Eastern.Feed.us",
       "icon": "https://i.imgur.com/t6iJj37.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=45442&extension=ts&play_token=MEDCU9t7tH"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=45442&extension=ts&play_token=MEDCU9t7tH"
     },
     {
       "category": "science-documentaries",
       "name": "National Geographic (UK)",
       "epg_id": "Nat.Geo.HD.uk",
       "icon": "http://picons.cmshulk.com/picons/45453.png",
-      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:E8:73:A8&stream=1458749&extension=ts"
+      "url": "http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:01:61:DD&stream=1458749&extension=ts"
     }
   ]
 }
