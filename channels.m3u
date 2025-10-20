@@ -1429,6 +1429,14 @@
         "url": "https://live-atv-cdn.izzigo.tv/4/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd"
     },
     {
+        "name": "Discovery Science",
+        "category": "science-documentaries",
+        "icon": "https://i.imgur.com/iHE1PSL.png",
+        "drm_type": "clearkey",
+        "drm_key": "5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd"
+    },
+    {
         "name": "Discovery Turbo HD",
         "category": "science-documentaries",
         "icon": "https://i.imgur.com/9qacl00.png",
